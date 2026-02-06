@@ -1,6 +1,6 @@
 [
     {
-        "id": "6586340539601754019",
+        "id": "-489026850545120837",
         "matchStartTime": "13:30",
         "eventName": "Adrian Mannarino - Arthur Gea",
         "p1": "Adrian Mannarino",
@@ -256,10 +256,548 @@
         "W_cnt": 1
     },
     {
-        "id": "1592961464893885907",
+        "id": "-5055990632026626687",
+        "matchStartTime": "18:00",
+        "eventName": "Diane Parry - Tamara Korpatsch",
+        "p1": "Diane Parry",
+        "p2": "Tamara Korpatsch",
+        "atp": false,
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "06:30",
+        "stats1": {
+            "ace": "1#10#6#0#3#1",
+            "ace2": "0#1#1#0#1#7",
+            "df": "2#1#4#0#2#1",
+            "df2": "4#5#2#0#2#2",
+            "b": "5#3#3#0#4#0",
+            "b2": "0#0#6#6#10#4",
+            "aceAvgPerSet": "1.35",
+            "dfAvgPerSet": "1.23",
+            "bAvgPerSet": "0.88"
+        },
+        "stats2": {
+            "ace": "3#0#0#1#5#3",
+            "ace2": "0#2#1#0#3#0",
+            "df": "2#2#6#5#1#4",
+            "df2": "0#3#3#3#2#2",
+            "b": "4#5#3#6#5#4",
+            "b2": "2#3#5#3#6#5",
+            "aceAvgPerSet": "1.65",
+            "dfAvgPerSet": "1.84",
+            "bAvgPerSet": "2.07"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+ 6.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+ 2.5 @1.8"
+            }
+        ],
+        "A_cnt": 3,
+        "A_book_cnt": 1,
+        "DF": [
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.95",
+                "lineType": "meczowa",
+                "over": "+ 4.5 @1.55"
+            },
+            {
+                "book": "betclic",
+                "under": "- 1.5 @2.05",
+                "lineType": "player1",
+                "over": "+ 1.5 @1.5"
+            },
+            {
+                "book": "betclic",
+                "under": "- 2.5 @1.95",
+                "lineType": "player2",
+                "over": "+ 2.5 @1.55"
+            }
+        ],
+        "DF_cnt": 3,
+        "DF_book_cnt": 1,
+        "B": [
+            {
+                "book": "betcris",
+                "under": "- 7.5 @1.9",
+                "lineType": "meczowa",
+                "over": "+ 7.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "under": "- 7.5 @1.7",
+                "lineType": "meczowa",
+                "over": "+ 7.5 @1.7"
+            },
+            {
+                "book": "betcris",
+                "under": "- 4.5 @1.9",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.8",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.65"
+            },
+            {
+                "book": "betcris",
+                "under": "- 3.5 @1.9",
+                "lineType": "player2",
+                "over": "+ 3.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "under": "- 3.5 @1.7",
+                "lineType": "player2",
+                "over": "+ 3.5 @1.7"
+            }
+        ],
+        "B_cnt": 6,
+        "B_book_cnt": 2,
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @1.5",
+                "w2": " @2.36"
+            }
+        ],
+        "W_cnt": 1
+    },
+    {
+        "id": "-1111931948050561672",
+        "matchStartTime": "16:00",
+        "eventName": "Emma Raducanu - Oleksandra Oliynykova",
+        "p1": "Emma Raducanu",
+        "p2": "Oleksandra Oliynykova",
+        "atp": false,
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "06:30",
+        "stats1": {
+            "ace": "2#3#1#2#1#1",
+            "ace2": "1#4#3#1#2#1",
+            "df": "2#0#2#1#4#3",
+            "df2": "3#3#3#4#1#7",
+            "b": "7#4#4#4#3#6",
+            "b2": "4#0#6#1#6#4",
+            "aceAvgPerSet": "1.53",
+            "dfAvgPerSet": "1.27",
+            "bAvgPerSet": "1.80"
+        },
+        "stats2": {
+            "ace": "1#0#1#1#3#0",
+            "ace2": "3#0#2#3#1#0",
+            "df": "1#1#1#4#3#1",
+            "df2": "0#3#8#5#1#4",
+            "b": "3#5#3#4#4#3",
+            "b2": "1#3#6#6#3#2",
+            "aceAvgPerSet": "1.49",
+            "dfAvgPerSet": "1.91",
+            "bAvgPerSet": "2.36"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+ 4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+ 3.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+ 1.5 @2"
+            }
+        ],
+        "A_cnt": 3,
+        "A_book_cnt": 1,
+        "DF": [
+            {
+                "book": "betclic",
+                "under": "- 2.5 @2.2",
+                "lineType": "meczowa",
+                "over": "+ 2.5 @1.5"
+            },
+            {
+                "book": "betclic",
+                "under": "- 1.5 @2",
+                "lineType": "player1",
+                "over": "+ 1.5 @1.6"
+            },
+            {
+                "book": "betclic",
+                "under": "- 0.5 @2.4",
+                "lineType": "player2",
+                "over": "+ 0.5 @1.4"
+            }
+        ],
+        "DF_cnt": 3,
+        "DF_book_cnt": 1,
+        "B": [
+            {
+                "book": "betclic",
+                "under": "- 6.5 @1.85",
+                "lineType": "meczowa",
+                "over": "+ 6.5 @1.65"
+            },
+            {
+                "book": "betcris",
+                "under": "- 6.5 @2.1",
+                "lineType": "meczowa",
+                "over": "+ 6.5 @1.65"
+            },
+            {
+                "book": "betcris",
+                "under": "- 4.5 @2.25",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.57"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @2.1",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.5"
+            },
+            {
+                "book": "betcris",
+                "under": "- 2.5 @1.65",
+                "lineType": "player2",
+                "over": "+ 2.5 @2.1"
+            },
+            {
+                "book": "betclic",
+                "under": "- 2.5 @1.55",
+                "lineType": "player2",
+                "over": "+ 2.5 @2"
+            }
+        ],
+        "B_cnt": 6,
+        "B_book_cnt": 2,
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @1.15",
+                "w2": " @4.5"
+            }
+        ],
+        "W_cnt": 1
+    },
+    {
+        "id": "5841422311443516349",
+        "matchStartTime": "18:30",
+        "eventName": "Felix Auger Aliassime - Arthur Fils",
+        "p1": "Felix Auger Aliassime",
+        "p2": "Arthur Fils",
+        "atp": true,
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "06:30",
+        "stats1": {
+            "ace": "8#6#5#11#9#9",
+            "ace2": "4#2#5#9#7#3",
+            "df": "5#0#1#0#1#2",
+            "df2": "0#2#1#2#3#1",
+            "b": "0#2#0#1#2#0",
+            "b2": "3#0#3#0#2#3",
+            "aceAvgPerSet": "4.29",
+            "dfAvgPerSet": "1.20",
+            "bAvgPerSet": "0.87"
+        },
+        "stats2": {
+            "ace": "14#3#3#2#8#1",
+            "ace2": "14#12#0#9#4#3",
+            "df": "5#1#1#7#2#5",
+            "df2": "2#5#3#13#8#2",
+            "b": "3#1#1#5#3#2",
+            "b2": "1#2#1#9#0#2",
+            "aceAvgPerSet": "3.00",
+            "dfAvgPerSet": "1.25",
+            "bAvgPerSet": "1.11"
+        },
+        "A": null,
+        "A_cnt": 0,
+        "A_book_cnt": 0,
+        "DF": null,
+        "DF_cnt": 0,
+        "DF_book_cnt": 0,
+        "B": null,
+        "B_cnt": 0,
+        "B_book_cnt": 0,
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @1.47",
+                "w2": " @2.45"
+            }
+        ],
+        "W_cnt": 1
+    },
+    {
+        "id": "-1801231788964250840",
+        "matchStartTime": "15:00",
+        "eventName": "Hailey Baptiste - Ekaterina Alexandrova",
+        "p1": "Hailey Baptiste",
+        "p2": "Ekaterina Alexandrova",
+        "atp": false,
+        "tags1": null,
+        "tags2": "DF",
+        "updateTime": "06:30",
+        "stats1": {
+            "ace": "7#3#2#2#9#1",
+            "ace2": "3#4#0#0#5#1",
+            "df": "4#2#2#2#4#4",
+            "df2": "4#5#6#3#1#1",
+            "b": "2#5#2#5#3#3",
+            "b2": "4#4#5#1#1#7",
+            "aceAvgPerSet": "1.39",
+            "dfAvgPerSet": "1.65",
+            "bAvgPerSet": "1.18"
+        },
+        "stats2": {
+            "ace": "3#10#2#2#9#6",
+            "ace2": "0#4#1#9#3#6",
+            "df": "4#7#7#1#1#3",
+            "df2": "1#5#3#1#7#0",
+            "b": "6#7#3#3#3#1",
+            "b2": "1#8#5#5#1#3",
+            "aceAvgPerSet": "2.16",
+            "dfAvgPerSet": "2.08",
+            "bAvgPerSet": "1.70"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+11.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+ 5.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+ 6.5 @1.8"
+            }
+        ],
+        "A_cnt": 3,
+        "A_book_cnt": 1,
+        "DF": [
+            {
+                "book": "betclic",
+                "under": "- 8.5 @1.8",
+                "lineType": "meczowa",
+                "over": "+ 8.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.65",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.95"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.8",
+                "lineType": "player2",
+                "over": "+ 4.5 @1.8"
+            }
+        ],
+        "DF_cnt": 3,
+        "DF_book_cnt": 1,
+        "B": [
+            {
+                "book": "betcris",
+                "under": "- 6.5 @1.65",
+                "lineType": "meczowa",
+                "over": "+ 6.5 @2.1"
+            },
+            {
+                "book": "betclic",
+                "under": "- 6.5 @1.55",
+                "lineType": "meczowa",
+                "over": "+ 6.5 @2"
+            },
+            {
+                "book": "betcris",
+                "under": "- 2.5 @1.65",
+                "lineType": "player1",
+                "over": "+ 2.5 @2.1"
+            },
+            {
+                "book": "betclic",
+                "under": "- 2.5 @1.65",
+                "lineType": "player1",
+                "over": "+ 2.5 @1.85"
+            },
+            {
+                "book": "betclic",
+                "under": "- 3.5 @2.2",
+                "lineType": "player2",
+                "over": "+ 3.5 @1.45"
+            },
+            {
+                "book": "betcris",
+                "under": "- 4.5 @1.52",
+                "lineType": "player2",
+                "over": "+ 4.5 @2.37"
+            }
+        ],
+        "B_cnt": 6,
+        "B_book_cnt": 2,
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @3.5",
+                "w2": " @1.24"
+            }
+        ],
+        "W_cnt": 1
+    },
+    {
+        "id": "7111004115543893264",
+        "matchStartTime": "16:00",
+        "eventName": "Katie Volynets - Katie Boulter",
+        "p1": "Katie Volynets",
+        "p2": "Katie Boulter",
+        "atp": false,
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "06:30",
+        "stats1": {
+            "ace": "2#1#2#0#3#0",
+            "ace2": "3#3#2#3#4#2",
+            "df": "0#0#0#2#2#2",
+            "df2": "3#2#0#3#6#3",
+            "b": "5#5#1#6#7#4",
+            "b2": "1#1#4#8#5#1",
+            "aceAvgPerSet": "0.43",
+            "dfAvgPerSet": "0.32",
+            "bAvgPerSet": "2.00"
+        },
+        "stats2": {
+            "ace": "0#4#3#2#1#0",
+            "ace2": "1#6#1#4#2#1",
+            "df": "4#2#5#4#6#4",
+            "df2": "4#4#2#4#2#3",
+            "b": "6#4#1#4#5#1",
+            "b2": "2#2#5#6#2#5",
+            "aceAvgPerSet": "1.34",
+            "dfAvgPerSet": "2.31",
+            "bAvgPerSet": "1.86"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+ 4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+ 1.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+ 3.5 @1.8"
+            }
+        ],
+        "A_cnt": 3,
+        "A_book_cnt": 1,
+        "DF": [
+            {
+                "book": "betclic",
+                "under": "- 5.5 @1.7",
+                "lineType": "meczowa",
+                "over": "+ 5.5 @1.7"
+            },
+            {
+                "book": "betclic",
+                "under": "- 0.5 @2.05",
+                "lineType": "player1",
+                "over": "+ 0.5 @1.5"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.6",
+                "lineType": "player2",
+                "over": "+ 4.5 @1.88"
+            }
+        ],
+        "DF_cnt": 3,
+        "DF_book_cnt": 1,
+        "B": [
+            {
+                "book": "betclic",
+                "under": "- 7.5 @1.8",
+                "lineType": "meczowa",
+                "over": "+ 7.5 @1.65"
+            },
+            {
+                "book": "betcris",
+                "under": "- 7.5 @2.1",
+                "lineType": "meczowa",
+                "over": "+ 7.5 @1.65"
+            },
+            {
+                "book": "betcris",
+                "under": "- 3.5 @1.85",
+                "lineType": "player1",
+                "over": "+ 3.5 @1.85"
+            },
+            {
+                "book": "betclic",
+                "under": "- 3.5 @1.95",
+                "lineType": "player1",
+                "over": "+ 3.5 @1.55"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.65",
+                "lineType": "player2",
+                "over": "+ 4.5 @1.8"
+            },
+            {
+                "book": "betcris",
+                "under": "- 4.5 @2.25",
+                "lineType": "player2",
+                "over": "+ 4.5 @1.57"
+            }
+        ],
+        "B_cnt": 6,
+        "B_book_cnt": 2,
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @2.55",
+                "w2": " @1.43"
+            }
+        ],
+        "W_cnt": 1
+    },
+    {
+        "id": "7297464089864264766",
         "matchStartTime": "14:40",
-        "eventName": "Martin Damm Jr - Luca Nardi",
-        "p1": "Martin Damm Jr",
+        "eventName": "Martin Damm - Luca Nardi",
+        "p1": "Martin Damm",
         "p2": "Luca Nardi",
         "atp": true,
         "tags1": null,
@@ -287,17 +825,45 @@
             "dfAvgPerSet": "1.53",
             "bAvgPerSet": "1.08"
         },
-        "A": null,
-        "A_cnt": 0,
-        "A_book_cnt": 0,
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+21.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+15.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+ 6.5 @1.8"
+            }
+        ],
+        "A_cnt": 3,
+        "A_book_cnt": 1,
         "DF": null,
         "DF_cnt": 0,
         "DF_book_cnt": 0,
         "B": [
             {
+                "book": "betcris",
+                "under": "- 3.5 @1.72",
+                "lineType": "meczowa",
+                "over": "+ 3.5 @2"
+            },
+            {
                 "book": "superbet",
                 "lineType": "meczowa",
                 "over": "+ 3.5 @1.9"
+            },
+            {
+                "book": "betcris",
+                "under": "- 1.5 @2.2",
+                "lineType": "player1",
+                "over": "+ 1.5 @1.6"
             },
             {
                 "book": "superbet",
@@ -305,14 +871,355 @@
                 "over": "+ 1.5 @1.57"
             },
             {
+                "book": "betcris",
+                "under": "- 1.5 @1.85",
+                "lineType": "player2",
+                "over": "+ 1.5 @1.85"
+            },
+            {
                 "book": "superbet",
                 "lineType": "player2",
                 "over": "+ 1.5 @1.8"
             }
         ],
+        "B_cnt": 6,
+        "B_book_cnt": 2,
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @1.68",
+                "w2": " @2.02"
+            }
+        ],
+        "W_cnt": 1
+    },
+    {
+        "id": "-7869756232470778858",
+        "matchStartTime": "17:00",
+        "eventName": "Sara Bejlek - Clara Tauson",
+        "p1": "Sara Bejlek",
+        "p2": "Clara Tauson",
+        "atp": false,
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "06:30",
+        "stats1": {
+            "ace": "1#0#0#4#0#1",
+            "ace2": "1#1#1#0#1#2",
+            "df": "1#3#0#5#3#3",
+            "df2": "2#1#8#3#3#2",
+            "b": "4#4#6#6#2#5",
+            "b2": "2#0#2#1#5#6",
+            "aceAvgPerSet": "0.25",
+            "dfAvgPerSet": "0.94",
+            "bAvgPerSet": "2.38"
+        },
+        "stats2": {
+            "ace": "3#5#12#5#3#11",
+            "ace2": "1#6#4#6#2#3",
+            "df": "0#4#2#0#4#4",
+            "df2": "1#9#10#2#2#4",
+            "b": "6#5#7#3#0#5",
+            "b2": "2#5#6#0#4#5",
+            "aceAvgPerSet": "2.82",
+            "dfAvgPerSet": "2.37",
+            "bAvgPerSet": "1.97"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+ 6.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+ 1.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+ 5.5 @1.8"
+            }
+        ],
+        "A_cnt": 3,
+        "A_book_cnt": 1,
+        "DF": [
+            {
+                "book": "betclic",
+                "under": "- 7.5 @1.6",
+                "lineType": "meczowa",
+                "over": "+ 7.5 @2"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.6",
+                "lineType": "player1",
+                "over": "+ 4.5 @2"
+            },
+            {
+                "book": "betclic",
+                "under": "- 3.5 @1.8",
+                "lineType": "player2",
+                "over": "+ 3.5 @1.8"
+            }
+        ],
+        "DF_cnt": 3,
+        "DF_book_cnt": 1,
+        "B": [
+            {
+                "book": "betcris",
+                "under": "- 6.5 @1.9",
+                "lineType": "meczowa",
+                "over": "+ 6.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "under": "- 6.5 @1.85",
+                "lineType": "meczowa",
+                "over": "+ 6.5 @1.65"
+            },
+            {
+                "book": "betcris",
+                "under": "- 2.5 @2.1",
+                "lineType": "player1",
+                "over": "+ 2.5 @1.65"
+            },
+            {
+                "book": "betclic",
+                "under": "- 2.5 @1.95",
+                "lineType": "player1",
+                "over": "+ 2.5 @1.55"
+            },
+            {
+                "book": "betcris",
+                "under": "- 4.5 @1.6",
+                "lineType": "player2",
+                "over": "+ 4.5 @2.2"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.55",
+                "lineType": "player2",
+                "over": "+ 4.5 @1.95"
+            }
+        ],
+        "B_cnt": 6,
+        "B_book_cnt": 2,
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @2.65",
+                "w2": " @1.41"
+            }
+        ],
+        "W_cnt": 1
+    },
+    {
+        "id": "-2230424831890036029",
+        "matchStartTime": "17:10",
+        "eventName": "Sorana Cirstea - Daria Snigur",
+        "p1": "Sorana Cirstea",
+        "p2": "Daria Snigur",
+        "atp": false,
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "06:30",
+        "stats1": {
+            "ace": "1#14#1#9#4#0",
+            "ace2": "0#1#3#0#1#3",
+            "df": "1#1#0#3#1#2",
+            "df2": "0#5#0#2#6#8",
+            "b": "5#5#3#5#4#7",
+            "b2": "0#3#5#4#3#4",
+            "aceAvgPerSet": "2.10",
+            "dfAvgPerSet": "1.01",
+            "bAvgPerSet": "1.75"
+        },
+        "stats2": {
+            "ace": "1#1#2#2#0#1",
+            "ace2": "1#0#2#2#3#3",
+            "df": "1#0#1#2#3#5",
+            "df2": "6#4#4#1#3#5",
+            "b": "7#4#5#4#5#6",
+            "b2": "1#1#2#0#6#3",
+            "aceAvgPerSet": "1.25",
+            "dfAvgPerSet": "1.40",
+            "bAvgPerSet": "2.35"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+ 5.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+ 1.5 @2.2"
+            }
+        ],
+        "A_cnt": 3,
+        "A_book_cnt": 1,
+        "DF": [
+            {
+                "book": "betclic",
+                "under": "- 3.5 @1.6",
+                "lineType": "meczowa",
+                "over": "+ 3.5 @1.88"
+            },
+            {
+                "book": "betclic",
+                "under": "- 1.5 @1.6",
+                "lineType": "player1",
+                "over": "+ 1.5 @1.88"
+            },
+            {
+                "book": "betclic",
+                "under": "- 1.5 @1.7",
+                "lineType": "player2",
+                "over": "+ 1.5 @1.7"
+            }
+        ],
+        "DF_cnt": 3,
+        "DF_book_cnt": 1,
+        "B": [
+            {
+                "book": "betcris",
+                "under": "- 7.5 @1.85",
+                "lineType": "meczowa",
+                "over": "+ 7.5 @1.85"
+            },
+            {
+                "book": "betclic",
+                "under": "- 7.5 @1.7",
+                "lineType": "meczowa",
+                "over": "+ 7.5 @1.7"
+            },
+            {
+                "book": "betcris",
+                "under": "- 4.5 @2",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.72"
+            },
+            {
+                "book": "betclic",
+                "under": "- 4.5 @1.95",
+                "lineType": "player1",
+                "over": "+ 4.5 @1.55"
+            },
+            {
+                "book": "betclic",
+                "under": "- 3.5 @1.55",
+                "lineType": "player2",
+                "over": "+ 3.5 @1.95"
+            },
+            {
+                "book": "betcris",
+                "under": "- 3.5 @1.8",
+                "lineType": "player2",
+                "over": "+ 3.5 @1.9"
+            }
+        ],
+        "B_cnt": 6,
+        "B_book_cnt": 2,
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @1.33",
+                "w2": " @2.95"
+            }
+        ],
+        "W_cnt": 1
+    },
+    {
+        "id": "-2150470924024887904",
+        "matchStartTime": "19:40",
+        "eventName": "Tallon Griekspoor - Titouan Droguet",
+        "p1": "Tallon Griekspoor",
+        "p2": "Titouan Droguet",
+        "atp": true,
+        "tags1": null,
+        "tags2": null,
+        "updateTime": "06:30",
+        "stats1": {
+            "ace": "6#2#4#3#4#11",
+            "ace2": "5#3#21#15#11#12",
+            "df": "8#4#0#3#3#2",
+            "df2": "2#2#0#0#0#0",
+            "b": "2#1#0#0#0#0",
+            "b2": "7#4#1#4#2#0",
+            "aceAvgPerSet": "2.92",
+            "dfAvgPerSet": "1.65",
+            "bAvgPerSet": "0.42"
+        },
+        "stats2": {
+            "ace": "14#14#5#8#20#1",
+            "ace2": "4#9#1#6#9#3",
+            "df": "2#2#2#0#8#0",
+            "df2": "3#5#8#5#4#0",
+            "b": "2#3#4#1#2#0",
+            "b2": "0#2#0#3#5#3",
+            "aceAvgPerSet": "3.86",
+            "dfAvgPerSet": "1.19",
+            "bAvgPerSet": "1.04"
+        },
+        "A": [
+            {
+                "book": "betclic",
+                "lineType": "meczowa",
+                "over": "+24.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player1",
+                "over": "+11.5 @1.8"
+            },
+            {
+                "book": "betclic",
+                "lineType": "player2",
+                "over": "+13.5 @1.8"
+            }
+        ],
+        "A_cnt": 3,
+        "A_book_cnt": 1,
+        "DF": null,
+        "DF_cnt": 0,
+        "DF_book_cnt": 0,
+        "B": [
+            {
+                "book": "betcris",
+                "under": "- 3.5 @1.6",
+                "lineType": "meczowa",
+                "over": "+ 3.5 @2.2"
+            },
+            {
+                "book": "betcris",
+                "under": "- 1.5 @2.37",
+                "lineType": "player1",
+                "over": "+ 1.5 @1.52"
+            },
+            {
+                "book": "betcris",
+                "under": "- 1.5 @1.6",
+                "lineType": "player2",
+                "over": "+ 1.5 @2.2"
+            }
+        ],
         "B_cnt": 3,
         "B_book_cnt": 1,
-        "W": null,
-        "W_cnt": 0
+        "W": [
+            {
+                "book": "betclic",
+                "w1": " @1.51",
+                "w2": " @2.34"
+            }
+        ],
+        "W_cnt": 1
     }
 ]
