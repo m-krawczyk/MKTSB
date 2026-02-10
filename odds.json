@@ -1600,13 +1600,19 @@
                 "over": "+ 2.5 @1.69"
             },
             {
+                "book": "fortuna",
+                "under": "- 2.5 @2.01",
+                "lineType": "player2",
+                "over": "+ 2.5 @1.67"
+            },
+            {
                 "book": "betclic",
                 "lineType": "player2",
                 "over": "+ 3.5 @2"
             }
         ],
-        "A_cnt": 5,
-        "A_book_cnt": 2,
+        "A_cnt": 6,
+        "A_book_cnt": 3,
         "DF": [
             {
                 "book": "superbet",
@@ -1642,12 +1648,17 @@
         "B_book_cnt": 1,
         "W": [
             {
+                "book": "fortuna",
+                "w1": " @2.56",
+                "w2": " @1.48"
+            },
+            {
                 "book": "betclic",
                 "w1": " @2.48",
                 "w2": " @1.46"
             }
         ],
-        "W_cnt": 1
+        "W_cnt": 2
     },
     {
         "id": "-6654596943848687209",
@@ -1688,6 +1699,12 @@
         },
         "A": [
             {
+                "book": "forbet",
+                "under": "- 2.5 @2.07",
+                "lineType": "meczowa",
+                "over": "+ 2.5 @1.65"
+            },
+            {
                 "book": "betclic",
                 "lineType": "meczowa",
                 "over": "+ 3.5 @1.6"
@@ -1713,9 +1730,15 @@
                 "over": "+ 2.5 @1.8"
             }
         ],
-        "A_cnt": 5,
-        "A_book_cnt": 2,
+        "A_cnt": 6,
+        "A_book_cnt": 3,
         "DF": [
+            {
+                "book": "forbet",
+                "under": "- 7.5 @2.04",
+                "lineType": "meczowa",
+                "over": "+ 7.5 @1.67"
+            },
             {
                 "book": "superbet",
                 "lineType": "player1",
@@ -1727,8 +1750,8 @@
                 "over": "+ 4.5 @1.69"
             }
         ],
-        "DF_cnt": 2,
-        "DF_book_cnt": 1,
+        "DF_cnt": 3,
+        "DF_book_cnt": 2,
         "B": [
             {
                 "book": "superbet",
@@ -1750,12 +1773,17 @@
         "B_book_cnt": 1,
         "W": [
             {
+                "book": "forbet",
+                "w1": " @7.4",
+                "w2": " @1.07"
+            },
+            {
                 "book": "betclic",
                 "w1": " @6.4",
                 "w2": " @1.07"
             }
         ],
-        "W_cnt": 1
+        "W_cnt": 2
     },
     {
         "id": "4065889694908285804",
@@ -2711,8 +2739,8 @@
             },
             {
                 "book": "forbet",
-                "w1": " @5.4",
-                "w2": " @1.13"
+                "w1": " @5.2",
+                "w2": " @1.14"
             }
         ],
         "W_cnt": 2
