@@ -9,7 +9,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "8#9#10",
       "sb_a2": "20#10#22",
@@ -106,9 +106,19 @@
         "over": "+30.5 @2.75"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+30.5 @1.8"
+      },
+      {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+31.5 @3.05"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+31.5 @2"
       },
       {
         "book": "superbet",
@@ -136,9 +146,19 @@
         "over": "+12.5 @2.3"
       },
       {
+        "book": "betfan",
+        "lineType": "player1",
+        "over": "+12.5 @1.7"
+      },
+      {
         "book": "superbet",
         "lineType": "player1",
         "over": "+13.5 @2.75"
+      },
+      {
+        "book": "betfan",
+        "lineType": "player1",
+        "over": "+13.5 @2"
       },
       {
         "book": "superbet",
@@ -176,13 +196,23 @@
         "over": "+17.5 @2.65"
       },
       {
+        "book": "betfan",
+        "lineType": "player2",
+        "over": "+17.5 @1.6"
+      },
+      {
         "book": "superbet",
         "lineType": "player2",
         "over": "+18.5 @3.15"
+      },
+      {
+        "book": "betfan",
+        "lineType": "player2",
+        "over": "+18.5 @1.8"
       }
     ],
-    "A_cnt": 23,
-    "A_book_cnt": 2,
+    "A_cnt": 29,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
@@ -266,7 +296,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "5#5#4#4",
       "sb_a2": "10#5#7#4",
@@ -357,7 +387,7 @@
     "atp": true,
     "tags1": "D",
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "9#7#10#14#9",
       "sb_a2": "8#4#15#9#6",
@@ -439,85 +469,85 @@
     "B_book_cnt": 0
   },
   {
-    "id": "3901149654445863281",
+    "id": "-1012741148973812323",
     "matchStartTime": "16:00",
     "tournament": "Miami ATP • 1/64 finału",
-    "eventName": "Matteo Arnaldi - Alexander Shevchenko",
-    "p1": "Matteo Arnaldi",
-    "p2": "Alexander Shevchenko",
+    "eventName": "Christopher O'Connell - Marton Fucsovics",
+    "p1": "Christopher O'Connell",
+    "p2": "Marton Fucsovics",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
-      "sb_a1": "6",
+      "sb_a1": "7",
       "sb_a2": "4",
-      "sb_am": "9",
-      "sb_df1": "4",
+      "sb_am": "12",
+      "sb_df1": "1",
       "sb_df2": "2",
-      "sb_dfm": "4",
+      "sb_dfm": "3",
       "sb_b1": null,
       "sb_b2": null,
       "sb_bm": null,
-      "ace": "2 #4^#10^#4 #6 #12 ",
-      "ace2": "2 #8^#4^#0 #6 #5 ",
-      "df": "5 #4^#5^#7 #4 #4 ",
-      "df2": "0 #2^#1^#3 #1 #1 ",
-      "b": "0 #0^#5^#1 #0 #2 ",
-      "b2": "5 #5^#4^#4 #2 #0 ",
-      "aceAvgPerSet": "2.31",
-      "dfAvgPerSet": "1.46",
-      "secSrvToDf": "8.75",
-      "srvGameToDf": "3.06",
-      "bAvgPerSet": "0.79",
-      "last_aceAvgPerSet": "3.67",
-      "last_dfAvgPerSet": "2.50",
-      "last_secSrvToDf": "8.38",
-      "last_srvGameToDf": "2.85",
-      "last_bAvgPerSet": "0.50"
+      "ace": "6^#8 #5 #7 #12 #8 ",
+      "ace2": "11^#2 #5 #9 #2 #10 ",
+      "df": "0^#4 #1 #0 #0 #0 ",
+      "df2": "2^#0 #0 #5 #0 #3 ",
+      "b": "2^#1 #1 #2 #2 #1 ",
+      "b2": "1^#2 #3 #0 #0 #3 ",
+      "aceAvgPerSet": "3.37",
+      "dfAvgPerSet": "0.57",
+      "secSrvToDf": "9.13",
+      "srvGameToDf": "3.51",
+      "bAvgPerSet": "0.92",
+      "last_aceAvgPerSet": "2.67",
+      "last_dfAvgPerSet": "0.83",
+      "last_secSrvToDf": "11.28",
+      "last_srvGameToDf": "4.50",
+      "last_bAvgPerSet": "1.00"
     },
     "stats2": {
-      "sb_a1": "7#6#6",
-      "sb_a2": "7#6#6",
-      "sb_am": "14#13#14",
-      "sb_df1": "3#2#2",
-      "sb_df2": "2#2#2",
-      "sb_dfm": "5#6#4",
-      "sb_b1": "2#1",
-      "sb_b2": "3#3",
-      "sb_bm": "4#4",
-      "ace": "9 #8^#12^#8 #11 #1 ",
-      "ace2": "5 #6^#4^#15 #14 #5 ",
-      "df": "2 #0^#3^#1 #2 #1 ",
-      "df2": "0 #10^#3^#5 #3 #5 ",
-      "b": "0 #2^#0^#0 #1 #1 ",
-      "b2": "1 #1^#3^#1 #0 #5 ",
-      "aceAvgPerSet": "3.21",
-      "dfAvgPerSet": "1.08",
-      "secSrvToDf": "8.91",
-      "srvGameToDf": "4.02",
-      "bAvgPerSet": "0.93",
-      "last_aceAvgPerSet": "3.50",
+      "sb_a1": "5#4#4#4#5",
+      "sb_a2": "4#4#7#6#3",
+      "sb_am": "9#8#12#10#8",
+      "sb_df1": "3#3#2#3#3",
+      "sb_df2": "2#2#1#2#3",
+      "sb_dfm": "5#6#3#5#6",
+      "sb_b1": "2#3#2#4#4",
+      "sb_b2": "3#4#4#2#2",
+      "sb_bm": "5#6#5#5#6",
+      "ace": "10 #4 #5 #6^#1 #2 ",
+      "ace2": "4 #1 #5 #7^#1 #2 ",
+      "df": "4 #2 #0 #2^#2 #4 ",
+      "df2": "0 #2 #1 #1^#6 #3 ",
+      "b": "0 #2 #3 #1^#4 #1 ",
+      "b2": "2 #1 #1 #2^#1 #3 ",
+      "aceAvgPerSet": "3.38",
+      "dfAvgPerSet": "1.90",
+      "secSrvToDf": "8.96",
+      "srvGameToDf": "3.81",
+      "bAvgPerSet": "1.17",
+      "last_aceAvgPerSet": "3.17",
       "last_dfAvgPerSet": "1.00",
-      "last_secSrvToDf": "10.00",
-      "last_srvGameToDf": "3.75",
-      "last_bAvgPerSet": "0.00"
+      "last_secSrvToDf": "8.61",
+      "last_srvGameToDf": "4.50",
+      "last_bAvgPerSet": "1.17"
     },
     "A": [
       {
         "book": "betclic",
         "lineType": "meczowa",
-        "over": "+16.5 @1.8"
+        "over": "+14.5 @1.8"
       },
       {
         "book": "betclic",
         "lineType": "player1",
-        "over": "+ 8.5 @1.8"
+        "over": "+ 7.5 @1.8"
       },
       {
         "book": "betclic",
         "lineType": "player2",
-        "over": "+ 7.5 @1.8"
+        "over": "+ 6.5 @1.8"
       }
     ],
     "A_cnt": 3,
@@ -539,7 +569,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "7#5#6#6",
       "sb_a2": "7#18#9#6",
@@ -782,238 +812,92 @@
     "B_book_cnt": 0
   },
   {
-    "id": "3810898626339712107",
-    "matchStartTime": "01:30",
+    "id": "-8428340953040789488",
+    "matchStartTime": "16:00",
     "tournament": "Miami ATP • 1/64 finału",
-    "eventName": "Alexandre Muller - Matteo Berrettini",
-    "p1": "Alexandre Muller",
-    "p2": "Matteo Berrettini",
+    "eventName": "Alex Michelsen - Mattia Bellucci",
+    "p1": "Alex Michelsen",
+    "p2": "Mattia Bellucci",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
-      "sb_a1": null,
-      "sb_a2": null,
-      "sb_am": null,
-      "sb_df1": null,
-      "sb_df2": null,
-      "sb_dfm": null,
-      "sb_b1": null,
-      "sb_b2": null,
-      "sb_bm": null,
-      "ace": "4 #5 #3 #3 #9 #2 ",
-      "ace2": "18 #40 #1 #3 #7 #9 ",
-      "df": "2 #4 #3 #2 #2 #1 ",
-      "df2": "1 #0 #0 #1 #0 #0 ",
-      "b": "3 #3 #0 #3 #4 #1 ",
-      "b2": "6 #5 #4 #4 #2 #4 ",
-      "aceAvgPerSet": "1.77",
-      "dfAvgPerSet": "1.25",
-      "secSrvToDf": "8.57",
-      "srvGameToDf": "3.97",
-      "bAvgPerSet": "0.67",
-      "last_aceAvgPerSet": "1.00",
-      "last_dfAvgPerSet": "0.50",
-      "last_secSrvToDf": "10.00",
-      "last_srvGameToDf": "4.67",
-      "last_bAvgPerSet": "0.67"
+      "sb_a1": "4#5#5#5#5#7",
+      "sb_a2": "7#13#6#4#10#10",
+      "sb_am": "10#18#12#9#15#18",
+      "sb_df1": "2#2#3#2#3#2",
+      "sb_df2": "3#2#2#2#2#2",
+      "sb_dfm": "5#4#5#4#4#4",
+      "sb_b1": "2#2#2#2",
+      "sb_b2": "4#3#2#2",
+      "sb_bm": "5#4#4#3",
+      "ace": "1 #9 #6^#6 #7 #5 ",
+      "ace2": "9 #12 #12^#4 #10 #10 ",
+      "df": "1 #1 #3^#1 #2 #2 ",
+      "df2": "2 #0 #4^#3 #2 #3 ",
+      "b": "1 #0 #2^#3 #2 #1 ",
+      "b2": "3 #1 #1^#1 #4 #0 ",
+      "aceAvgPerSet": "2.41",
+      "dfAvgPerSet": "0.89",
+      "secSrvToDf": "8.35",
+      "srvGameToDf": "4.29",
+      "bAvgPerSet": "0.86",
+      "last_aceAvgPerSet": "2.83",
+      "last_dfAvgPerSet": "0.67",
+      "last_secSrvToDf": "8.92",
+      "last_srvGameToDf": "5.00",
+      "last_bAvgPerSet": "1.00"
     },
     "stats2": {
-      "sb_a1": "9#11#6#6#6#6",
-      "sb_a2": "8#4#6#3#3#2",
-      "sb_am": "18#14#14#9#9#8",
-      "sb_df1": "2#1#2#2#2#2",
-      "sb_df2": "2#1#4#2#2#2",
-      "sb_dfm": "3#3#5#4#4#3",
-      "sb_b1": "2#3#4#4",
-      "sb_b2": "3#2#2#2",
-      "sb_bm": "4#5#5#5",
-      "ace": "5 #14^#3 #9^#7^#6 ",
-      "ace2": "4 #6^#4 #3^#6^#3 ",
-      "df": "2 #3^#2 #2^#3^#2 ",
-      "df2": "1 #2^#4 #1^#0^#0 ",
-      "b": "0 #3^#0 #2^#4^#1 ",
-      "b2": "1 #2^#1 #3^#2^#0 ",
-      "aceAvgPerSet": "3.87",
-      "dfAvgPerSet": "1.00",
-      "secSrvToDf": "9.25",
-      "srvGameToDf": "4.14",
-      "bAvgPerSet": "1.12",
-      "last_aceAvgPerSet": "3.33",
-      "last_dfAvgPerSet": "1.17",
-      "last_secSrvToDf": "6.67",
-      "last_srvGameToDf": "3.92",
-      "last_bAvgPerSet": "0.67"
+      "sb_a1": "8#9#8#4",
+      "sb_a2": "11#7#4#4",
+      "sb_am": "19#16#12#7",
+      "sb_df1": "3#3#3#3",
+      "sb_df2": "4#2#2#2",
+      "sb_dfm": "6#4#5#4",
+      "sb_b1": "2#3",
+      "sb_b2": "3#3",
+      "sb_bm": "5#5",
+      "ace": "4^#4 #8 #6 #10 #6 ",
+      "ace2": "6^#8 #10 #5 #2 #1 ",
+      "df": "7^#0 #2 #3 #0 #2 ",
+      "df2": "4^#1 #1 #3 #1 #5 ",
+      "b": "4^#4 #0 #2 #3 #6 ",
+      "b2": "3^#0 #0 #5 #0 #4 ",
+      "aceAvgPerSet": "2.79",
+      "dfAvgPerSet": "1.80",
+      "secSrvToDf": "8.41",
+      "srvGameToDf": "4.16",
+      "bAvgPerSet": "1.07",
+      "last_aceAvgPerSet": "3.67",
+      "last_dfAvgPerSet": "0.83",
+      "last_secSrvToDf": "9.33",
+      "last_srvGameToDf": "4.42",
+      "last_bAvgPerSet": "1.83"
     },
     "A": [
       {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+13.5 @1.6"
-      },
-      {
-        "book": "superbet",
+        "book": "betclic",
         "lineType": "meczowa",
         "over": "+14.5 @1.8"
       },
       {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+15.5 @2.05"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+16.5 @2.35"
-      },
-      {
-        "book": "betclic",
-        "lineType": "meczowa",
-        "over": "+16.5 @1.8"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+17.5 @2.75"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+18.5 @3.25"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+19.5 @3.85"
-      },
-      {
         "book": "betclic",
         "lineType": "player1",
-        "over": "+ 4.5 @1.8"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 4.5 @1.75"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 5.5 @2.4"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 6.5 @3.35"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 7.5 @4.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 8.5 @6"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 8.5 @1.45"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 9.5 @1.7"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+10.5 @2.05"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+11.5 @2.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+12.5 @3"
+        "over": "+ 6.5 @1.8"
       },
       {
         "book": "betclic",
         "lineType": "player2",
-        "over": "+12.5 @1.8"
+        "over": "+ 7.5 @1.8"
       }
     ],
-    "A_cnt": 20,
-    "A_book_cnt": 2,
-    "DF": [
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 3.5 @1.75"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 4.5 @2.35"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 5.5 @3.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 6.5 @5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 7.5 @7"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 1.5 @1.45"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 2.5 @2.1"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 3.5 @3.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 4.5 @6"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 1.5 @2"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 2.5 @3.25"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 3.5 @5.75"
-      }
-    ],
-    "DF_cnt": 12,
-    "DF_book_cnt": 1,
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
     "B": null,
     "B_cnt": 0,
     "B_book_cnt": 0
@@ -1028,7 +912,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": "DF",
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "6#8#8#10#10#12",
       "sb_a2": "4#5#6#3#9#3",
@@ -1095,6 +979,11 @@
         "over": "+14.5 @1.7"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "meczowa",
+        "over": "+15.5 @1.95"
+      },
+      {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+15.5 @1.95"
@@ -1115,9 +1004,19 @@
         "over": "+17.5 @2.55"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+17.5 @1.8"
+      },
+      {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+18.5 @3"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+18.5 @2"
       },
       {
         "book": "superbet",
@@ -1133,6 +1032,11 @@
         "book": "superbet",
         "lineType": "player1",
         "over": "+ 8.5 @1.55"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player1",
+        "over": "+ 9.5 @1.85"
       },
       {
         "book": "superbet",
@@ -1170,6 +1074,11 @@
         "over": "+ 4.5 @1.5"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "player2",
+        "over": "+ 5.5 @2"
+      },
+      {
         "book": "superbet",
         "lineType": "player2",
         "over": "+ 5.5 @2"
@@ -1200,13 +1109,18 @@
         "over": "+ 9.5 @6.5"
       }
     ],
-    "A_cnt": 23,
-    "A_book_cnt": 2,
+    "A_cnt": 28,
+    "A_book_cnt": 4,
     "DF": [
       {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.55"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.9"
       },
       {
         "book": "superbet",
@@ -1239,6 +1153,11 @@
         "over": "+ 4.5 @1.65"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "player1",
+        "over": "+ 5.5 @2.1"
+      },
+      {
         "book": "superbet",
         "lineType": "player1",
         "over": "+ 5.5 @2.1"
@@ -1257,6 +1176,11 @@
         "book": "superbet",
         "lineType": "player2",
         "over": "+ 3.5 @1.5"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player2",
+        "over": "+ 4.5 @2.1"
       },
       {
         "book": "superbet",
@@ -1284,513 +1208,357 @@
         "over": "+ 8.5 @9.5"
       }
     ],
-    "DF_cnt": 16,
-    "DF_book_cnt": 1,
+    "DF_cnt": 19,
+    "DF_book_cnt": 2,
     "B": null,
     "B_cnt": 0,
     "B_book_cnt": 0
   },
   {
-    "id": "-581147693485409523",
-    "matchStartTime": "23:00",
+    "id": "2432896355103965504",
+    "matchStartTime": "16:00",
     "tournament": "Miami ATP • 1/64 finału",
-    "eventName": "Darwin Blanch - Jan-Lennard Struff",
-    "p1": "Darwin Blanch",
-    "p2": "Jan-Lennard Struff",
+    "eventName": "Adam Walton - Sebastian Baez",
+    "p1": "Adam Walton",
+    "p2": "Sebastian Baez",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
-      "sb_a1": null,
-      "sb_a2": null,
-      "sb_am": null,
-      "sb_df1": null,
-      "sb_df2": null,
-      "sb_dfm": null,
+      "sb_a1": "7#6#6#4",
+      "sb_a2": "7#12#9#8",
+      "sb_am": "14#19#16#12",
+      "sb_df1": "3#2#2#2",
+      "sb_df2": "3#3#3#2",
+      "sb_dfm": "6#6#6#3",
+      "sb_b1": "2#2#1",
+      "sb_b2": "4#3#3",
+      "sb_bm": "5#5#4",
+      "ace": "5^#11 #11 #12 #6 #7 ",
+      "ace2": "3^#14 #9 #7 #15 #10 ",
+      "df": "1^#1 #0 #1 #1 #0 ",
+      "df2": "6^#4 #4 #1 #3 #2 ",
+      "b": "2^#3 #1 #2 #0 #1 ",
+      "b2": "0^#0 #0 #0 #1 #1 ",
+      "aceAvgPerSet": "3.04",
+      "dfAvgPerSet": "1.01",
+      "secSrvToDf": "9.91",
+      "srvGameToDf": "4.21",
+      "bAvgPerSet": "0.77",
+      "last_aceAvgPerSet": "4.83",
+      "last_dfAvgPerSet": "0.33",
+      "last_secSrvToDf": "12.67",
+      "last_srvGameToDf": "5.50",
+      "last_bAvgPerSet": "0.83"
+    },
+    "stats2": {
+      "sb_a1": "1#3#3#2#2",
+      "sb_a2": "7#6#4#5#3",
+      "sb_am": "8#9#6#6#6",
+      "sb_df1": "3#2#2#3#1",
+      "sb_df2": "4#2#3#3#3",
+      "sb_dfm": "6#4#4#6#4",
+      "sb_b1": "2#3#4#3#4",
+      "sb_b2": "5#4#4#3#3",
+      "sb_bm": "7#6#7#6#6",
+      "ace": "0 #0 #0 #0 #1 #2^",
+      "ace2": "3 #2 #0 #2 #6 #6^",
+      "df": "0 #2 #1 #4 #3 #4^",
+      "df2": "1 #0 #5 #5 #0 #2^",
+      "b": "0 #5 #4 #1 #2 #1^",
+      "b2": "4 #1 #0 #3 #0 #2^",
+      "aceAvgPerSet": "2.96",
+      "dfAvgPerSet": "1.23",
+      "secSrvToDf": "8.35",
+      "srvGameToDf": "3.96",
+      "bAvgPerSet": "1.28",
+      "last_aceAvgPerSet": "0.33",
+      "last_dfAvgPerSet": "1.50",
+      "last_secSrvToDf": "7.33",
+      "last_srvGameToDf": "3.33",
+      "last_bAvgPerSet": "1.17"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+11.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 8.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "8495482893614001508",
+    "matchStartTime": "21:00",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Marcos Giron - Martin Landaluce",
+    "p1": "Marcos Giron",
+    "p2": "Martin Landaluce",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "5#5#5#6",
+      "sb_a2": "13#4#7#11",
+      "sb_am": "18#9#11#18",
+      "sb_df1": "2#2#2#2",
+      "sb_df2": "3#3#2#2",
+      "sb_dfm": "5#4#4#3",
+      "sb_b1": "2#2#1",
+      "sb_b2": "3#3#2",
+      "sb_bm": "5#5#3",
+      "ace": "2 #5^#9^#2 #9^#14 ",
+      "ace2": "12 #4^#20^#10 #21^#21 ",
+      "df": "2 #2^#2^#2 #2^#3 ",
+      "df2": "3 #5^#0^#2 #1^#10 ",
+      "b": "0 #4^#1^#2 #2^#6 ",
+      "b2": "1 #3^#1^#0 #2^#6 ",
+      "aceAvgPerSet": "2.10",
+      "dfAvgPerSet": "0.66",
+      "secSrvToDf": "8.56",
+      "srvGameToDf": "3.85",
+      "bAvgPerSet": "1.02",
+      "last_aceAvgPerSet": "2.67",
+      "last_dfAvgPerSet": "0.83",
+      "last_secSrvToDf": "10.42",
+      "last_srvGameToDf": "4.42",
+      "last_bAvgPerSet": "1.17"
+    },
+    "stats2": {
+      "sb_a1": "2",
+      "sb_a2": "4",
+      "sb_am": "8",
+      "sb_df1": "3",
+      "sb_df2": "3",
+      "sb_dfm": "6",
       "sb_b1": null,
       "sb_b2": null,
       "sb_bm": null,
-      "ace": null,
-      "ace2": null,
-      "df": null,
-      "df2": null,
-      "b": null,
-      "b2": null,
-      "aceAvgPerSet": null,
-      "dfAvgPerSet": null,
-      "secSrvToDf": null,
-      "srvGameToDf": null,
-      "bAvgPerSet": null,
-      "last_aceAvgPerSet": null,
-      "last_dfAvgPerSet": null,
-      "last_secSrvToDf": null,
-      "last_srvGameToDf": null,
-      "last_bAvgPerSet": null
-    },
-    "stats2": {
-      "sb_a1": "8#8#9#9",
-      "sb_a2": "7#13#13#8",
-      "sb_am": "16#21#21#17",
-      "sb_df1": "3#2#3#3",
-      "sb_df2": "4#4#4#4",
-      "sb_dfm": "8#4#7#7",
-      "sb_b1": "1#2#3",
-      "sb_b2": "2#3#2",
-      "sb_bm": "3#4#4",
-      "ace": "5 #9 #13^#6 #9^#3 ",
-      "ace2": "5 #12 #20^#0 #13^#1 ",
-      "df": "4 #2 #4^#0 #2^#1 ",
-      "df2": "2 #2 #4^#3 #7^#3 ",
-      "b": "0 #0 #0^#6 #2^#5 ",
-      "b2": "1 #3 #1^#0 #1^#1 ",
-      "aceAvgPerSet": "3.68",
-      "dfAvgPerSet": "1.45",
-      "secSrvToDf": "8.00",
-      "srvGameToDf": "3.59",
-      "bAvgPerSet": "3.00",
-      "last_aceAvgPerSet": "2.83",
-      "last_dfAvgPerSet": "1.17",
+      "ace": "2^#8 #4^#1 #8^#4^",
+      "ace2": "8^#1 #6^#1 #5^#9^",
+      "df": "2^#2 #6^#1 #5^#1^",
+      "df2": "4^#1 #6^#2 #6^#0^",
+      "b": "1^#2 #1^#5 #6^#1^",
+      "b2": "2^#0 #3^#0 #6^#2^",
+      "aceAvgPerSet": "2.88",
+      "dfAvgPerSet": "2.53",
+      "secSrvToDf": "8.86",
+      "srvGameToDf": "3.96",
+      "bAvgPerSet": "1.33",
+      "last_aceAvgPerSet": "2.00",
+      "last_dfAvgPerSet": "1.00",
       "last_secSrvToDf": "7.25",
-      "last_srvGameToDf": "3.33",
-      "last_bAvgPerSet": "0.83"
+      "last_srvGameToDf": "3.08",
+      "last_bAvgPerSet": "1.17"
     },
     "A": [
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+17.5 @1.57"
+        "over": "+ 9.5 @1.6"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+18.5 @1.75"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+19.5 @2"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+20.5 @2.2"
+        "over": "+10.5 @2"
       },
       {
         "book": "betclic",
         "lineType": "meczowa",
-        "over": "+20.5 @1.8"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+21.5 @2.4"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+22.5 @2.7"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+23.5 @3"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 8.5 @1.6"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 9.5 @1.85"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+10.5 @2.2"
-      },
-      {
-        "book": "betclic",
-        "lineType": "player1",
         "over": "+10.5 @1.8"
       },
       {
         "book": "superbet",
-        "lineType": "player1",
-        "over": "+11.5 @2.6"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 7.5 @1.55"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 8.5 @1.8"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 9.5 @2.15"
-      },
-      {
-        "book": "betclic",
-        "lineType": "player2",
-        "over": "+ 9.5 @1.8"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+10.5 @2.7"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+11.5 @3.4"
-      }
-    ],
-    "A_cnt": 19,
-    "A_book_cnt": 2,
-    "DF": [
-      {
-        "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 5.5 @1.45"
+        "over": "+11.5 @2.5"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 6.5 @2.1"
+        "over": "+12.5 @3.2"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 7.5 @3"
+        "over": "+13.5 @3.8"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 8.5 @4"
+        "over": "+14.5 @4.5"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 9.5 @5.5"
+        "over": "+15.5 @5"
       },
       {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 3.5 @1.8"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 4.5 @2.6"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 5.5 @4"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 6.5 @6"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 7.5 @9"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 2.5 @1.95"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 3.5 @3.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 4.5 @5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 5.5 @8"
-      }
-    ],
-    "DF_cnt": 14,
-    "DF_book_cnt": 1,
-    "B": null,
-    "B_cnt": 0,
-    "B_book_cnt": 0
-  },
-  {
-    "id": "-2797269215044599303",
-    "matchStartTime": "18:10",
-    "tournament": "Miami ATP • 1/64 finału",
-    "eventName": "Raphael Collignon - Grigor Dimitrov",
-    "p1": "Raphael Collignon",
-    "p2": "Grigor Dimitrov",
-    "atp": true,
-    "tags1": "DF",
-    "tags2": null,
-    "updateTime": "07:59",
-    "stats1": {
-      "sb_a1": "7",
-      "sb_a2": "5",
-      "sb_am": "13",
-      "sb_df1": "2",
-      "sb_df2": "1",
-      "sb_dfm": "3",
-      "sb_b1": null,
-      "sb_b2": null,
-      "sb_bm": null,
-      "ace": "5 #4 #3 #10 #2 #8 ",
-      "ace2": "3 #5 #7 #11 #3 #10 ",
-      "df": "4 #1 #1 #2 #0 #4 ",
-      "df2": "0 #1 #0 #2 #3 #2 ",
-      "b": "1 #0 #0 #1 #3 #3 ",
-      "b2": "2 #1 #3 #0 #0 #0 ",
-      "aceAvgPerSet": "3.09",
-      "dfAvgPerSet": "2.42",
-      "secSrvToDf": "4.58",
-      "srvGameToDf": "2.59",
-      "bAvgPerSet": "0.91",
-      "last_aceAvgPerSet": "2.50",
-      "last_dfAvgPerSet": "1.00",
-      "last_secSrvToDf": "7.89",
-      "last_srvGameToDf": "4.17",
-      "last_bAvgPerSet": "0.50"
-    },
-    "stats2": {
-      "sb_a1": "4#6#6#9",
-      "sb_a2": "6#9#8#8",
-      "sb_am": "9#16#13#17",
-      "sb_df1": "5#4#4#3",
-      "sb_df2": "2#3#3#3",
-      "sb_dfm": "7#8#6#5",
-      "sb_b1": "1#3#3",
-      "sb_b2": "4#2#3",
-      "sb_bm": "5#4#5",
-      "ace": "1 #3^#4 #14^#11^#11 ",
-      "ace2": "6 #10^#5 #16^#21^#10 ",
-      "df": "5 #2^#4 #5^#4^#2 ",
-      "df2": "2 #8^#0 #4^#1^#2 ",
-      "b": "0 #4^#0 #1^#0^#0 ",
-      "b2": "3 #4^#3 #2^#4^#1 ",
-      "aceAvgPerSet": "3.03",
-      "dfAvgPerSet": "1.51",
-      "secSrvToDf": "8.68",
-      "srvGameToDf": "4.13",
-      "bAvgPerSet": "0.97",
-      "last_aceAvgPerSet": "2.33",
-      "last_dfAvgPerSet": "2.00",
-      "last_secSrvToDf": "5.75",
-      "last_srvGameToDf": "2.86",
-      "last_bAvgPerSet": "0.00"
-    },
-    "A": [
-      {
-        "book": "betclic",
+        "book": "betfan",
         "lineType": "meczowa",
-        "over": "+15.5 @1.8"
+        "over": "+15.5 @1.7"
       },
       {
-        "book": "superbet",
+        "book": "betfan",
         "lineType": "meczowa",
-        "over": "+16.5 @1.65"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+17.5 @1.85"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+18.5 @2.1"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+19.5 @2.35"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+20.5 @2.75"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+21.5 @3.2"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+22.5 @3.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+23.5 @4"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 7.5 @1.65"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 8.5 @1.9"
+        "over": "+16.5 @2"
       },
       {
         "book": "betclic",
         "lineType": "player1",
-        "over": "+ 8.5 @1.8"
+        "over": "+ 4.5 @1.8"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+ 9.5 @2.3"
+        "over": "+ 4.5 @1.6"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+10.5 @2.85"
+        "over": "+ 5.5 @2.05"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+11.5 @3.5"
+        "over": "+ 6.5 @2.8"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+12.5 @4.25"
+        "over": "+ 7.5 @3.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 8.5 @5.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 5.5 @2.15"
       },
       {
         "book": "betclic",
         "lineType": "player2",
-        "over": "+ 7.5 @1.8"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 7.5 @1.6"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 8.5 @1.85"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 9.5 @2.25"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+10.5 @2.85"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+11.5 @3.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+12.5 @4.5"
-      }
-    ],
-    "A_cnt": 23,
-    "A_book_cnt": 2,
-    "DF": [
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 8.5 @1.65"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 9.5 @1.95"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+10.5 @2.35"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+11.5 @2.95"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+12.5 @3.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+13.5 @4.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 4.5 @1.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
         "over": "+ 5.5 @1.8"
       },
       {
         "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 6.5 @2.3"
+        "lineType": "player2",
+        "over": "+ 6.5 @3"
       },
       {
         "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 7.5 @3"
+        "lineType": "player2",
+        "over": "+ 7.5 @4"
       },
       {
         "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 8.5 @4.2"
+        "lineType": "player2",
+        "over": "+ 8.5 @5.7"
+      }
+    ],
+    "A_cnt": 22,
+    "A_book_cnt": 3,
+    "DF": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.75"
       },
       {
         "book": "superbet",
-        "lineType": "player1",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @2.35"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @3.3"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @4.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
         "over": "+ 9.5 @6"
       },
       {
         "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 3.5 @1.8"
+        "lineType": "meczowa",
+        "over": "+10.5 @8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 2.5 @3.4"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 3.5 @6.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 4.5 @8"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 4.5 @2.5"
+        "over": "+ 3.5 @1.6"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 5.5 @3.75"
+        "over": "+ 4.5 @2.2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 5.5 @3.2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 6.5 @5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 7.5 @7.3"
       }
     ],
     "DF_cnt": 15,
@@ -1809,7 +1577,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "10#9#12#11#10#10",
       "sb_a2": "8#9#14#9#9#8",
@@ -2061,7 +1829,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "6#4#5#4",
       "sb_a2": "4#10#8#6",
@@ -2299,161 +2067,70 @@
     "B_book_cnt": 0
   },
   {
-    "id": "401363580085631576",
+    "id": "3901149654445863281",
     "matchStartTime": "16:00",
     "tournament": "Miami ATP • 1/64 finału",
-    "eventName": "Emilio Nava - Tomas Machac",
-    "p1": "Emilio Nava",
-    "p2": "Tomas Machac",
+    "eventName": "Matteo Arnaldi - Alexander Shevchenko",
+    "p1": "Matteo Arnaldi",
+    "p2": "Alexander Shevchenko",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
-      "sb_a1": "9#4#6#5#6",
-      "sb_a2": "6#2#6#3#3",
-      "sb_am": "16#8#14#8#8",
-      "sb_df1": "4#3#4#2#3",
-      "sb_df2": "2#2#2#2#3",
-      "sb_dfm": "6#6#5#5#6",
-      "sb_b1": "2#3",
-      "sb_b2": "4#3",
-      "sb_bm": "5#6",
-      "ace": "12 #2 #12 #4 #6 #1 ",
-      "ace2": "3 #1 #3 #3 #3 #1 ",
-      "df": "3 #2 #3 #4 #3 #2 ",
-      "df2": "2 #1 #2 #2 #0 #1 ",
-      "b": "0 #0 #3 #1 #0 #0 ",
-      "b2": "1 #4 #1 #0 #2 #5 ",
-      "aceAvgPerSet": "3.69",
-      "dfAvgPerSet": "1.26",
-      "secSrvToDf": "8.28",
-      "srvGameToDf": "3.83",
-      "bAvgPerSet": "0.94",
-      "last_aceAvgPerSet": "4.67",
-      "last_dfAvgPerSet": "1.67",
-      "last_secSrvToDf": "7.92",
-      "last_srvGameToDf": "3.67",
-      "last_bAvgPerSet": "0.83"
-    },
-    "stats2": {
-      "sb_a1": "4#9",
-      "sb_a2": "6#9",
-      "sb_am": "11#17",
-      "sb_df1": "2#4",
-      "sb_df2": "2#3",
-      "sb_dfm": "3#7",
-      "sb_b1": "1#4",
-      "sb_b2": "4#5",
-      "sb_bm": "5#8",
-      "ace": "1 #3 #6 #21^#5^#8^",
-      "ace2": "7 #10 #24 #11^#8^#3^",
-      "df": "4 #3 #6 #1^#1^#2^",
-      "df2": "0 #5 #8 #4^#3^#0^",
-      "b": "0 #5 #3 #4^#4^#3^",
-      "b2": "3 #8 #3 #0^#1^#2^",
-      "aceAvgPerSet": "2.96",
-      "dfAvgPerSet": "1.24",
-      "secSrvToDf": "8.96",
-      "srvGameToDf": "3.91",
-      "bAvgPerSet": "1.06",
-      "last_aceAvgPerSet": "2.17",
-      "last_dfAvgPerSet": "1.33",
-      "last_secSrvToDf": "7.14",
-      "last_srvGameToDf": "3.42",
-      "last_bAvgPerSet": "0.67"
-    },
-    "A": [
-      {
-        "book": "betclic",
-        "lineType": "meczowa",
-        "over": "+16.5 @1.8"
-      },
-      {
-        "book": "betclic",
-        "lineType": "player1",
-        "over": "+10.5 @1.8"
-      },
-      {
-        "book": "betclic",
-        "lineType": "player2",
-        "over": "+ 6.5 @1.8"
-      }
-    ],
-    "A_cnt": 3,
-    "A_book_cnt": 1,
-    "DF": null,
-    "DF_cnt": 0,
-    "DF_book_cnt": 0,
-    "B": null,
-    "B_cnt": 0,
-    "B_book_cnt": 0
-  },
-  {
-    "id": "4924448670713537965",
-    "matchStartTime": "16:00",
-    "tournament": "Miami ATP • 1/64 finału",
-    "eventName": "Terence Atmane - Daniel Altmaier",
-    "p1": "Terence Atmane",
-    "p2": "Daniel Altmaier",
-    "atp": true,
-    "tags1": null,
-    "tags2": null,
-    "updateTime": "07:59",
-    "stats1": {
-      "sb_a1": "9#10#9#8#9#10",
-      "sb_a2": "6#7#5#6#5#7",
-      "sb_am": "16#17#13#13#14#18",
-      "sb_df1": "3#3#4#3#3#2",
-      "sb_df2": "4#2#2#4#3#2",
-      "sb_dfm": "8#5#6#6#6#4",
-      "sb_b1": "2#2#2#2",
-      "sb_b2": "3#3#3#3",
-      "sb_bm": "5#5#4#5",
-      "ace": "10^#6 #6^#5 #9 #11^",
-      "ace2": "3^#5 #3^#4 #9 #5^",
-      "df": "8^#2 #1^#0 #4 #2^",
-      "df2": "2^#0 #0^#4 #2 #2^",
-      "b": "4^#1 #4^#3 #1 #2^",
-      "b2": "4^#4 #1^#0 #2 #1^",
-      "aceAvgPerSet": "3.32",
-      "dfAvgPerSet": "1.55",
-      "secSrvToDf": "6.01",
-      "srvGameToDf": "2.35",
-      "bAvgPerSet": "0.87",
-      "last_aceAvgPerSet": "2.67",
-      "last_dfAvgPerSet": "0.50",
-      "last_secSrvToDf": "7.92",
-      "last_srvGameToDf": "4.08",
-      "last_bAvgPerSet": "1.17"
-    },
-    "stats2": {
-      "sb_a1": "6#6",
-      "sb_a2": "4#5",
-      "sb_am": "11#11",
-      "sb_df1": "3#5",
-      "sb_df2": "2#3",
-      "sb_dfm": "5#7",
-      "sb_b1": "2",
-      "sb_b2": "4",
-      "sb_bm": "5",
-      "ace": "8 #8 #2 #8^#3 #7 ",
-      "ace2": "1 #2 #0 #20^#3 #7 ",
-      "df": "1 #2 #4 #4^#2 #5 ",
-      "df2": "0 #1 #0 #3^#2 #1 ",
-      "b": "1 #1 #0 #0^#1 #1 ",
-      "b2": "4 #1 #4 #6^#6 #4 ",
-      "aceAvgPerSet": "3.96",
-      "dfAvgPerSet": "1.29",
-      "secSrvToDf": "8.64",
-      "srvGameToDf": "4.18",
-      "bAvgPerSet": "1.08",
-      "last_aceAvgPerSet": "3.00",
-      "last_dfAvgPerSet": "1.33",
-      "last_secSrvToDf": "9.92",
-      "last_srvGameToDf": "4.04",
+      "sb_a1": "6",
+      "sb_a2": "4",
+      "sb_am": "9",
+      "sb_df1": "4",
+      "sb_df2": "2",
+      "sb_dfm": "4",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "2 #4^#10^#4 #6 #12 ",
+      "ace2": "2 #8^#4^#0 #6 #5 ",
+      "df": "5 #4^#5^#7 #4 #4 ",
+      "df2": "0 #2^#1^#3 #1 #1 ",
+      "b": "0 #0^#5^#1 #0 #2 ",
+      "b2": "5 #5^#4^#4 #2 #0 ",
+      "aceAvgPerSet": "2.31",
+      "dfAvgPerSet": "1.46",
+      "secSrvToDf": "8.75",
+      "srvGameToDf": "3.06",
+      "bAvgPerSet": "0.79",
+      "last_aceAvgPerSet": "3.67",
+      "last_dfAvgPerSet": "2.50",
+      "last_secSrvToDf": "8.38",
+      "last_srvGameToDf": "2.85",
       "last_bAvgPerSet": "0.50"
     },
+    "stats2": {
+      "sb_a1": "7#6#6",
+      "sb_a2": "7#6#6",
+      "sb_am": "14#13#14",
+      "sb_df1": "3#2#2",
+      "sb_df2": "2#2#2",
+      "sb_dfm": "5#6#4",
+      "sb_b1": "2#1",
+      "sb_b2": "3#3",
+      "sb_bm": "4#4",
+      "ace": "9 #8^#12^#8 #11 #1 ",
+      "ace2": "5 #6^#4^#15 #14 #5 ",
+      "df": "2 #0^#3^#1 #2 #1 ",
+      "df2": "0 #10^#3^#5 #3 #5 ",
+      "b": "0 #2^#0^#0 #1 #1 ",
+      "b2": "1 #1^#3^#1 #0 #5 ",
+      "aceAvgPerSet": "3.21",
+      "dfAvgPerSet": "1.08",
+      "secSrvToDf": "8.91",
+      "srvGameToDf": "4.02",
+      "bAvgPerSet": "0.93",
+      "last_aceAvgPerSet": "3.50",
+      "last_dfAvgPerSet": "1.00",
+      "last_secSrvToDf": "10.00",
+      "last_srvGameToDf": "3.75",
+      "last_bAvgPerSet": "0.00"
+    },
     "A": [
       {
         "book": "betclic",
@@ -2463,7 +2140,7 @@
       {
         "book": "betclic",
         "lineType": "player1",
-        "over": "+ 9.5 @1.8"
+        "over": "+ 8.5 @1.8"
       },
       {
         "book": "betclic",
@@ -2481,322 +2158,524 @@
     "B_book_cnt": 0
   },
   {
-    "id": "6996676656476890625",
-    "matchStartTime": "16:00",
+    "id": "-2797269215044599303",
+    "matchStartTime": "18:10",
     "tournament": "Miami ATP • 1/64 finału",
-    "eventName": "Giovanni Mpetshi Perricard - Camilo Ugo Carabelli",
-    "p1": "Giovanni Mpetshi Perricard",
-    "p2": "Camilo Ugo Carabelli",
+    "eventName": "Raphael Collignon - Grigor Dimitrov",
+    "p1": "Raphael Collignon",
+    "p2": "Grigor Dimitrov",
     "atp": true,
-    "tags1": "A",
+    "tags1": "DF",
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
-      "sb_a1": "18#16#16#13",
-      "sb_a2": "5#11#6#7",
-      "sb_am": "25#28#21#20",
-      "sb_df1": "2#3#2#2",
-      "sb_df2": "1#2#3#2",
-      "sb_dfm": "3#6#4#5",
-      "sb_b1": "1#2#1",
-      "sb_b2": "2#1#2",
-      "sb_bm": "2#3#3",
-      "ace": "11^#11 #29^#19^#20 #7^",
-      "ace2": "6^#8 #16^#9^#4 #17^",
-      "df": "7^#1 #2^#1^#2 #2^",
-      "df2": "1^#3 #2^#0^#4 #2^",
-      "b": "3^#1 #0^#1^#2 #0^",
-      "b2": "1^#3 #1^#1^#0 #1^",
-      "aceAvgPerSet": "6.20",
-      "dfAvgPerSet": "1.17",
-      "secSrvToDf": "6.46",
-      "srvGameToDf": "3.82",
-      "bAvgPerSet": "0.42",
-      "last_aceAvgPerSet": "7.00",
-      "last_dfAvgPerSet": "0.83",
-      "last_secSrvToDf": "7.33",
-      "last_srvGameToDf": "4.50",
-      "last_bAvgPerSet": "0.33"
+      "sb_a1": "7",
+      "sb_a2": "5",
+      "sb_am": "13",
+      "sb_df1": "2",
+      "sb_df2": "1",
+      "sb_dfm": "3",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "5 #4 #3 #10 #2 #8 ",
+      "ace2": "3 #5 #7 #11 #3 #10 ",
+      "df": "4 #1 #1 #2 #0 #4 ",
+      "df2": "0 #1 #0 #2 #3 #2 ",
+      "b": "1 #0 #0 #1 #3 #3 ",
+      "b2": "2 #1 #3 #0 #0 #0 ",
+      "aceAvgPerSet": "3.09",
+      "dfAvgPerSet": "2.42",
+      "secSrvToDf": "4.58",
+      "srvGameToDf": "2.59",
+      "bAvgPerSet": "0.91",
+      "last_aceAvgPerSet": "2.50",
+      "last_dfAvgPerSet": "1.00",
+      "last_secSrvToDf": "7.89",
+      "last_srvGameToDf": "4.17",
+      "last_bAvgPerSet": "0.50"
     },
     "stats2": {
-      "sb_a1": "4#3#4#2#2",
-      "sb_a2": "9#15#6#2#2",
-      "sb_am": "13#18#9#3#4",
-      "sb_df1": "4#3#3#2#3",
-      "sb_df2": "2#4#2#2#2",
-      "sb_dfm": "4#7#5#3#5",
-      "sb_b1": "2#3#4#4#4",
-      "sb_b2": "4#3#4#4#4",
-      "sb_bm": "5#5#7#7#7",
-      "ace": "3 #8 #4 #2 #2 #1 ",
-      "ace2": "13 #9 #5 #5 #1 #0 ",
-      "df": "1 #5 #7 #4 #4 #1 ",
-      "df2": "0 #2 #1 #3 #1 #4 ",
-      "b": "0 #1 #1 #0 #1 #5 ",
-      "b2": "0 #0 #3 #1 #3 #2 ",
-      "aceAvgPerSet": "4.96",
-      "dfAvgPerSet": "1.41",
-      "secSrvToDf": "9.33",
-      "srvGameToDf": "3.90",
-      "bAvgPerSet": "1.34",
-      "last_aceAvgPerSet": "2.00",
-      "last_dfAvgPerSet": "1.17",
-      "last_secSrvToDf": "9.11",
-      "last_srvGameToDf": "3.94",
-      "last_bAvgPerSet": "1.00"
+      "sb_a1": "4#6#6#9",
+      "sb_a2": "6#9#8#8",
+      "sb_am": "9#16#13#17",
+      "sb_df1": "5#4#4#3",
+      "sb_df2": "2#3#3#3",
+      "sb_dfm": "7#8#6#5",
+      "sb_b1": "1#3#3",
+      "sb_b2": "4#2#3",
+      "sb_bm": "5#4#5",
+      "ace": "1 #3^#4 #14^#11^#11 ",
+      "ace2": "6 #10^#5 #16^#21^#10 ",
+      "df": "5 #2^#4 #5^#4^#2 ",
+      "df2": "2 #8^#0 #4^#1^#2 ",
+      "b": "0 #4^#0 #1^#0^#0 ",
+      "b2": "3 #4^#3 #2^#4^#1 ",
+      "aceAvgPerSet": "3.03",
+      "dfAvgPerSet": "1.51",
+      "secSrvToDf": "8.68",
+      "srvGameToDf": "4.13",
+      "bAvgPerSet": "0.97",
+      "last_aceAvgPerSet": "2.33",
+      "last_dfAvgPerSet": "2.00",
+      "last_secSrvToDf": "5.75",
+      "last_srvGameToDf": "2.86",
+      "last_bAvgPerSet": "0.00"
     },
     "A": [
       {
         "book": "betclic",
         "lineType": "meczowa",
-        "over": "+22.5 @1.8"
+        "over": "+15.5 @1.8"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+22.5 @1.55"
+        "over": "+16.5 @1.65"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+23.5 @1.7"
+        "over": "+17.5 @1.85"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+24.5 @1.85"
+        "over": "+18.5 @2.1"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+25.5 @2"
+        "over": "+19.5 @2.35"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+26.5 @2.2"
+        "over": "+20.5 @2.75"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+27.5 @2.45"
+        "over": "+21.5 @3.2"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+21.5 @1.8"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+28.5 @2.7"
+        "over": "+22.5 @3.5"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+22.5 @2"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+29.5 @3"
+        "over": "+23.5 @4"
       },
       {
-        "book": "lvbet-BB",
+        "book": "superbet",
         "lineType": "player1",
-        "over": "+16.5 @1.55"
+        "over": "+ 7.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 8.5 @1.9"
       },
       {
         "book": "betclic",
         "lineType": "player1",
-        "over": "+17.5 @1.8"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+17.5 @1.73"
+        "over": "+ 8.5 @1.8"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+17.5 @1.6"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+18.5 @1.96"
+        "over": "+ 9.5 @2.3"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+18.5 @1.8"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+19.5 @2.2"
+        "over": "+10.5 @2.85"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+19.5 @2"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+20.5 @2.5"
+        "over": "+11.5 @3.5"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+20.5 @2.25"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+21.5 @2.9"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+21.5 @2.5"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+22.5 @2.85"
+        "over": "+12.5 @4.25"
       },
       {
         "book": "betclic",
         "lineType": "player2",
-        "over": "+ 4.5 @1.8"
+        "over": "+ 7.5 @1.8"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 4.5 @1.55"
+        "over": "+ 7.5 @1.6"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 5.5 @2.1"
-      },
-      {
-        "book": "fortuna-BB",
-        "lineType": "player2",
-        "over": "+ 5.5 @1.65"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player2",
-        "over": "+ 5.5 @1.65"
+        "over": "+ 8.5 @1.85"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 6.5 @3"
-      },
-      {
-        "book": "fortuna-BB",
-        "lineType": "player2",
-        "over": "+ 6.5 @2.1"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player2",
-        "over": "+ 6.5 @2.1"
+        "over": "+ 9.5 @2.25"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 7.5 @4"
-      },
-      {
-        "book": "fortuna-BB",
-        "lineType": "player2",
-        "over": "+ 7.5 @2.8"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player2",
-        "over": "+ 7.5 @2.8"
+        "over": "+10.5 @2.85"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 8.5 @5.25"
+        "over": "+11.5 @3.5"
       },
       {
-        "book": "fortuna-BB",
+        "book": "superbet",
         "lineType": "player2",
-        "over": "+ 8.5 @3.9"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player2",
-        "over": "+ 8.5 @3.9"
+        "over": "+12.5 @4.5"
       }
     ],
-    "A_cnt": 36,
-    "A_book_cnt": 4,
+    "A_cnt": 25,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 6.5 @1.65"
+        "over": "+ 8.5 @1.65"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 7.5 @2"
+        "over": "+ 9.5 @1.95"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 8.5 @2.5"
+        "over": "+10.5 @2.35"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+ 9.5 @3.2"
+        "over": "+11.5 @2.95"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+10.5 @4.5"
+        "over": "+12.5 @3.5"
       },
       {
         "book": "superbet",
         "lineType": "meczowa",
-        "over": "+11.5 @6"
+        "over": "+13.5 @4.5"
       },
       {
         "book": "superbet",
         "lineType": "player1",
+        "over": "+ 4.5 @1.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 5.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 6.5 @2.3"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 7.5 @3"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 8.5 @4.2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 9.5 @6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 4.5 @2.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 5.5 @3.75"
+      }
+    ],
+    "DF_cnt": 15,
+    "DF_book_cnt": 1,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "3810898626339712107",
+    "matchStartTime": "01:30",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Alexandre Muller - Matteo Berrettini",
+    "p1": "Alexandre Muller",
+    "p2": "Matteo Berrettini",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": null,
+      "sb_a2": null,
+      "sb_am": null,
+      "sb_df1": null,
+      "sb_df2": null,
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "4 #5 #3 #3 #9 #2 ",
+      "ace2": "18 #40 #1 #3 #7 #9 ",
+      "df": "2 #4 #3 #2 #2 #1 ",
+      "df2": "1 #0 #0 #1 #0 #0 ",
+      "b": "3 #3 #0 #3 #4 #1 ",
+      "b2": "6 #5 #4 #4 #2 #4 ",
+      "aceAvgPerSet": "1.77",
+      "dfAvgPerSet": "1.25",
+      "secSrvToDf": "8.57",
+      "srvGameToDf": "3.97",
+      "bAvgPerSet": "0.67",
+      "last_aceAvgPerSet": "1.00",
+      "last_dfAvgPerSet": "0.50",
+      "last_secSrvToDf": "10.00",
+      "last_srvGameToDf": "4.67",
+      "last_bAvgPerSet": "0.67"
+    },
+    "stats2": {
+      "sb_a1": "9#11#6#6#6#6",
+      "sb_a2": "8#4#6#3#3#2",
+      "sb_am": "18#14#14#9#9#8",
+      "sb_df1": "2#1#2#2#2#2",
+      "sb_df2": "2#1#4#2#2#2",
+      "sb_dfm": "3#3#5#4#4#3",
+      "sb_b1": "2#3#4#4",
+      "sb_b2": "3#2#2#2",
+      "sb_bm": "4#5#5#5",
+      "ace": "5 #14^#3 #9^#7^#6 ",
+      "ace2": "4 #6^#4 #3^#6^#3 ",
+      "df": "2 #3^#2 #2^#3^#2 ",
+      "df2": "1 #2^#4 #1^#0^#0 ",
+      "b": "0 #3^#0 #2^#4^#1 ",
+      "b2": "1 #2^#1 #3^#2^#0 ",
+      "aceAvgPerSet": "3.87",
+      "dfAvgPerSet": "1.00",
+      "secSrvToDf": "9.25",
+      "srvGameToDf": "4.14",
+      "bAvgPerSet": "1.12",
+      "last_aceAvgPerSet": "3.33",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "6.67",
+      "last_srvGameToDf": "3.92",
+      "last_bAvgPerSet": "0.67"
+    },
+    "A": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+13.5 @1.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+14.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+15.5 @2.05"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+15.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+16.5 @2.35"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+16.5 @2"
+      },
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+16.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+17.5 @2.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+18.5 @3.25"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+19.5 @3.85"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 5.5 @2.4"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 6.5 @3.35"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 7.5 @4.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 8.5 @6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 8.5 @1.45"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 9.5 @1.7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+10.5 @2.05"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+11.5 @2.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+12.5 @3"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+12.5 @1.8"
+      }
+    ],
+    "A_cnt": 22,
+    "A_book_cnt": 3,
+    "DF": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
         "over": "+ 3.5 @1.75"
       },
       {
         "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 4.5 @2.3"
+        "lineType": "meczowa",
+        "over": "+ 4.5 @2.35"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @3.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @7"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+ 5.5 @3.2"
+        "over": "+ 1.5 @1.45"
       },
       {
         "book": "superbet",
         "lineType": "player1",
-        "over": "+ 6.5 @4.5"
+        "over": "+ 2.5 @2.1"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 3.5 @3.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 4.5 @6"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 2.5 @1.75"
+        "over": "+ 1.5 @2"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 3.5 @2.35"
+        "over": "+ 2.5 @3.25"
       },
       {
         "book": "superbet",
         "lineType": "player2",
-        "over": "+ 4.5 @3.5"
+        "over": "+ 3.5 @5.75"
       }
     ],
-    "DF_cnt": 13,
+    "DF_cnt": 12,
     "DF_book_cnt": 1,
     "B": null,
     "B_cnt": 0,
@@ -2812,7 +2691,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "6#10#11#10#9",
       "sb_a2": "8#8#8#8#11",
@@ -2894,6 +2773,359 @@
     "B_book_cnt": 0
   },
   {
+    "id": "-581147693485409523",
+    "matchStartTime": "23:00",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Darwin Blanch - Jan-Lennard Struff",
+    "p1": "Darwin Blanch",
+    "p2": "Jan-Lennard Struff",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": null,
+      "sb_a2": null,
+      "sb_am": null,
+      "sb_df1": null,
+      "sb_df2": null,
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": null,
+      "ace2": null,
+      "df": null,
+      "df2": null,
+      "b": null,
+      "b2": null,
+      "aceAvgPerSet": null,
+      "dfAvgPerSet": null,
+      "secSrvToDf": null,
+      "srvGameToDf": null,
+      "bAvgPerSet": null,
+      "last_aceAvgPerSet": null,
+      "last_dfAvgPerSet": null,
+      "last_secSrvToDf": null,
+      "last_srvGameToDf": null,
+      "last_bAvgPerSet": null
+    },
+    "stats2": {
+      "sb_a1": "8#8#9#9",
+      "sb_a2": "7#13#13#8",
+      "sb_am": "16#21#21#17",
+      "sb_df1": "3#2#3#3",
+      "sb_df2": "4#4#4#4",
+      "sb_dfm": "8#4#7#7",
+      "sb_b1": "1#2#3",
+      "sb_b2": "2#3#2",
+      "sb_bm": "3#4#4",
+      "ace": "5 #9 #13^#6 #9^#3 ",
+      "ace2": "5 #12 #20^#0 #13^#1 ",
+      "df": "4 #2 #4^#0 #2^#1 ",
+      "df2": "2 #2 #4^#3 #7^#3 ",
+      "b": "0 #0 #0^#6 #2^#5 ",
+      "b2": "1 #3 #1^#0 #1^#1 ",
+      "aceAvgPerSet": "3.68",
+      "dfAvgPerSet": "1.45",
+      "secSrvToDf": "8.00",
+      "srvGameToDf": "3.59",
+      "bAvgPerSet": "3.00",
+      "last_aceAvgPerSet": "2.83",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "7.25",
+      "last_srvGameToDf": "3.33",
+      "last_bAvgPerSet": "0.83"
+    },
+    "A": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+17.5 @1.57"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+18.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+19.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+20.5 @2.2"
+      },
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+20.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+21.5 @2.4"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+22.5 @2.7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+23.5 @3"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+23.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+24.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 8.5 @1.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 9.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+10.5 @2.2"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+10.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+11.5 @2.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.55"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 8.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 9.5 @2.15"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 9.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+10.5 @2.7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+11.5 @3.4"
+      }
+    ],
+    "A_cnt": 21,
+    "A_book_cnt": 3,
+    "DF": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.45"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @2.1"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @3"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @4"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @5.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 4.5 @2.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 5.5 @4"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 6.5 @6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 7.5 @9"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.95"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 3.5 @3.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 4.5 @5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 5.5 @8"
+      }
+    ],
+    "DF_cnt": 14,
+    "DF_book_cnt": 1,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-132523082428148213",
+    "matchStartTime": "00:00",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Stefanos Tsitsipas - Arthur Fery",
+    "p1": "Stefanos Tsitsipas",
+    "p2": "Arthur Fery",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "6#6#8#5#5#8",
+      "sb_a2": "8#6#5#8#6#7",
+      "sb_am": "14#14#13#13#10#14",
+      "sb_df1": "2#2#2#3#1#3",
+      "sb_df2": "6#2#3#4#1#5",
+      "sb_dfm": "8#6#4#6#3#8",
+      "sb_b1": "2#2#2#3#3",
+      "sb_b2": "2#2#3#1#2",
+      "sb_bm": "3#4#5#4#4",
+      "ace": "0^#6 #8 #4 #5 #8 ",
+      "ace2": "3^#7 #5 #3 #4 #4 ",
+      "df": "3^#2 #1 #1 #0 #4 ",
+      "df2": "2^#1 #2 #4 #1 #4 ",
+      "b": "2^#0 #0 #1 #1 #0 ",
+      "b2": "4^#1 #2 #0 #0 #0 ",
+      "aceAvgPerSet": "3.17",
+      "dfAvgPerSet": "1.24",
+      "secSrvToDf": "7.85",
+      "srvGameToDf": "3.53",
+      "bAvgPerSet": "0.80",
+      "last_aceAvgPerSet": "3.17",
+      "last_dfAvgPerSet": "1.00",
+      "last_secSrvToDf": "9.00",
+      "last_srvGameToDf": "4.25",
+      "last_bAvgPerSet": "0.50"
+    },
+    "stats2": {
+      "sb_a1": null,
+      "sb_a2": null,
+      "sb_am": null,
+      "sb_df1": null,
+      "sb_df2": null,
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "12^#6^#5^#6^#2 #5 ",
+      "ace2": "7^#6^#11^#7^#2 #4 ",
+      "df": "1^#3^#1^#0^#0 #0 ",
+      "df2": "4^#10^#1^#8^#3 #1 ",
+      "b": "4^#3^#1^#6^#4 #4 ",
+      "b2": "2^#3^#5^#3^#0 #1 ",
+      "aceAvgPerSet": "3.42",
+      "dfAvgPerSet": "1.28",
+      "secSrvToDf": "9.75",
+      "srvGameToDf": "4.07",
+      "bAvgPerSet": "1.35",
+      "last_aceAvgPerSet": "1.67",
+      "last_dfAvgPerSet": "0.00",
+      "last_secSrvToDf": "9.50",
+      "last_srvGameToDf": "4.67",
+      "last_bAvgPerSet": "2.00"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+11.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+16.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+17.5 @2"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 7.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.8"
+      }
+    ],
+    "A_cnt": 5,
+    "A_book_cnt": 2,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
     "id": "3402596402820296898",
     "matchStartTime": "16:00",
     "tournament": "Miami ATP • 1/64 finału",
@@ -2903,7 +3135,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "DF",
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "15#17#15#12",
       "sb_a2": "3#7#6#15",
@@ -2985,6 +3217,188 @@
     "B_book_cnt": 0
   },
   {
+    "id": "4924448670713537965",
+    "matchStartTime": "16:00",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Terence Atmane - Daniel Altmaier",
+    "p1": "Terence Atmane",
+    "p2": "Daniel Altmaier",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "9#10#9#8#9#10",
+      "sb_a2": "6#7#5#6#5#7",
+      "sb_am": "16#17#13#13#14#18",
+      "sb_df1": "3#3#4#3#3#2",
+      "sb_df2": "4#2#2#4#3#2",
+      "sb_dfm": "8#5#6#6#6#4",
+      "sb_b1": "2#2#2#2",
+      "sb_b2": "3#3#3#3",
+      "sb_bm": "5#5#4#5",
+      "ace": "10^#6 #6^#5 #9 #11^",
+      "ace2": "3^#5 #3^#4 #9 #5^",
+      "df": "8^#2 #1^#0 #4 #2^",
+      "df2": "2^#0 #0^#4 #2 #2^",
+      "b": "4^#1 #4^#3 #1 #2^",
+      "b2": "4^#4 #1^#0 #2 #1^",
+      "aceAvgPerSet": "3.32",
+      "dfAvgPerSet": "1.55",
+      "secSrvToDf": "6.01",
+      "srvGameToDf": "2.35",
+      "bAvgPerSet": "0.87",
+      "last_aceAvgPerSet": "2.67",
+      "last_dfAvgPerSet": "0.50",
+      "last_secSrvToDf": "7.92",
+      "last_srvGameToDf": "4.08",
+      "last_bAvgPerSet": "1.17"
+    },
+    "stats2": {
+      "sb_a1": "6#6",
+      "sb_a2": "4#5",
+      "sb_am": "11#11",
+      "sb_df1": "3#5",
+      "sb_df2": "2#3",
+      "sb_dfm": "5#7",
+      "sb_b1": "2",
+      "sb_b2": "4",
+      "sb_bm": "5",
+      "ace": "8 #8 #2 #8^#3 #7 ",
+      "ace2": "1 #2 #0 #20^#3 #7 ",
+      "df": "1 #2 #4 #4^#2 #5 ",
+      "df2": "0 #1 #0 #3^#2 #1 ",
+      "b": "1 #1 #0 #0^#1 #1 ",
+      "b2": "4 #1 #4 #6^#6 #4 ",
+      "aceAvgPerSet": "3.96",
+      "dfAvgPerSet": "1.29",
+      "secSrvToDf": "8.64",
+      "srvGameToDf": "4.18",
+      "bAvgPerSet": "1.08",
+      "last_aceAvgPerSet": "3.00",
+      "last_dfAvgPerSet": "1.33",
+      "last_secSrvToDf": "9.92",
+      "last_srvGameToDf": "4.04",
+      "last_bAvgPerSet": "0.50"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+16.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 9.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "401363580085631576",
+    "matchStartTime": "16:00",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Emilio Nava - Tomas Machac",
+    "p1": "Emilio Nava",
+    "p2": "Tomas Machac",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "9#4#6#5#6",
+      "sb_a2": "6#2#6#3#3",
+      "sb_am": "16#8#14#8#8",
+      "sb_df1": "4#3#4#2#3",
+      "sb_df2": "2#2#2#2#3",
+      "sb_dfm": "6#6#5#5#6",
+      "sb_b1": "2#3",
+      "sb_b2": "4#3",
+      "sb_bm": "5#6",
+      "ace": "12 #2 #12 #4 #6 #1 ",
+      "ace2": "3 #1 #3 #3 #3 #1 ",
+      "df": "3 #2 #3 #4 #3 #2 ",
+      "df2": "2 #1 #2 #2 #0 #1 ",
+      "b": "0 #0 #3 #1 #0 #0 ",
+      "b2": "1 #4 #1 #0 #2 #5 ",
+      "aceAvgPerSet": "3.69",
+      "dfAvgPerSet": "1.26",
+      "secSrvToDf": "8.28",
+      "srvGameToDf": "3.83",
+      "bAvgPerSet": "0.94",
+      "last_aceAvgPerSet": "4.67",
+      "last_dfAvgPerSet": "1.67",
+      "last_secSrvToDf": "7.92",
+      "last_srvGameToDf": "3.67",
+      "last_bAvgPerSet": "0.83"
+    },
+    "stats2": {
+      "sb_a1": "4#9",
+      "sb_a2": "6#9",
+      "sb_am": "11#17",
+      "sb_df1": "2#4",
+      "sb_df2": "2#3",
+      "sb_dfm": "3#7",
+      "sb_b1": "1#4",
+      "sb_b2": "4#5",
+      "sb_bm": "5#8",
+      "ace": "1 #3 #6 #21^#5^#8^",
+      "ace2": "7 #10 #24 #11^#8^#3^",
+      "df": "4 #3 #6 #1^#1^#2^",
+      "df2": "0 #5 #8 #4^#3^#0^",
+      "b": "0 #5 #3 #4^#4^#3^",
+      "b2": "3 #8 #3 #0^#1^#2^",
+      "aceAvgPerSet": "2.96",
+      "dfAvgPerSet": "1.24",
+      "secSrvToDf": "8.96",
+      "srvGameToDf": "3.91",
+      "bAvgPerSet": "1.06",
+      "last_aceAvgPerSet": "2.17",
+      "last_dfAvgPerSet": "1.33",
+      "last_secSrvToDf": "7.14",
+      "last_srvGameToDf": "3.42",
+      "last_bAvgPerSet": "0.67"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+16.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+10.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
     "id": "-1787205205562754043",
     "matchStartTime": "16:00",
     "tournament": "Miami ATP • 1/64 finału",
@@ -2994,7 +3408,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "5#8#5",
       "sb_a2": "10#12#5",
@@ -3056,6 +3470,11 @@
         "over": "+15.5 @1.6"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "meczowa",
+        "over": "+16.5 @1.8"
+      },
+      {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+16.5 @1.8"
@@ -3091,6 +3510,16 @@
         "over": "+21.5 @3.2"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+21.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+22.5 @2"
+      },
+      {
         "book": "lvbet-BB",
         "lineType": "player1",
         "over": "+ 8.5 @1.45"
@@ -3099,6 +3528,11 @@
         "book": "superbet",
         "lineType": "player1",
         "over": "+ 8.5 @1.45"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player1",
+        "over": "+ 9.5 @1.75"
       },
       {
         "book": "superbet",
@@ -3144,6 +3578,11 @@
         "book": "superbet",
         "lineType": "player1",
         "over": "+12.5 @2.7"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.7"
       },
       {
         "book": "superbet",
@@ -3196,13 +3635,18 @@
         "over": "+10.5 @3.75"
       }
     ],
-    "A_cnt": 29,
-    "A_book_cnt": 3,
+    "A_cnt": 34,
+    "A_book_cnt": 5,
     "DF": [
       {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+ 3.5 @1.6"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @2.3"
       },
       {
         "book": "superbet",
@@ -3223,6 +3667,11 @@
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+ 7.5 @7.3"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.7"
       },
       {
         "book": "superbet",
@@ -3255,6 +3704,11 @@
         "over": "+ 1.5 @1.45"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "player2",
+        "over": "+ 2.5 @2.2"
+      },
+      {
         "book": "superbet",
         "lineType": "player2",
         "over": "+ 2.5 @2.2"
@@ -3270,8 +3724,970 @@
         "over": "+ 4.5 @6.8"
       }
     ],
-    "DF_cnt": 14,
+    "DF_cnt": 17,
+    "DF_book_cnt": 2,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "4178549093055412778",
+    "matchStartTime": "16:00",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Arthur Cazaux - Marcelo Tomas Barrios Vera",
+    "p1": "Arthur Cazaux",
+    "p2": "Marcelo Tomas Barrios Vera",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": null,
+      "sb_a2": null,
+      "sb_am": null,
+      "sb_df1": null,
+      "sb_df2": null,
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "18^#6 #8 #16 #9 #5 ",
+      "ace2": "6^#3 #4 #4 #3 #2 ",
+      "df": "0^#1 #4 #2 #0 #1 ",
+      "df2": "1^#0 #5 #4 #4 #5 ",
+      "b": "1^#1 #0 #2 #0 #4 ",
+      "b2": "3^#0 #1 #2 #2 #1 ",
+      "aceAvgPerSet": "3.53",
+      "dfAvgPerSet": "0.78",
+      "secSrvToDf": "8.14",
+      "srvGameToDf": "3.38",
+      "bAvgPerSet": "0.78",
+      "last_aceAvgPerSet": "4.83",
+      "last_dfAvgPerSet": "0.67",
+      "last_secSrvToDf": "12.94",
+      "last_srvGameToDf": "4.78",
+      "last_bAvgPerSet": "0.33"
+    },
+    "stats2": {
+      "sb_a1": null,
+      "sb_a2": null,
+      "sb_am": null,
+      "sb_df1": null,
+      "sb_df2": null,
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": null,
+      "ace2": null,
+      "df": null,
+      "df2": null,
+      "b": null,
+      "b2": null,
+      "aceAvgPerSet": null,
+      "dfAvgPerSet": null,
+      "secSrvToDf": null,
+      "srvGameToDf": null,
+      "bAvgPerSet": null,
+      "last_aceAvgPerSet": null,
+      "last_dfAvgPerSet": null,
+      "last_secSrvToDf": null,
+      "last_srvGameToDf": null,
+      "last_bAvgPerSet": null
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+12.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 8.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-7334506486519485836",
+    "matchStartTime": "19:30",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Nikoloz Basilashvili - Mariano Navone",
+    "p1": "Nikoloz Basilashvili",
+    "p2": "Mariano Navone",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": null,
+      "sb_a2": null,
+      "sb_am": null,
+      "sb_df1": null,
+      "sb_df2": null,
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "5 #9 #9 #10^#14 #4 ",
+      "ace2": "3 #5 #7 #5^#11 #21 ",
+      "df": "2 #4 #5 #9^#3 #5 ",
+      "df2": "2 #6 #0 #1^#2 #5 ",
+      "b": "3 #3 #0 #2^#0 #0 ",
+      "b2": "0 #0 #2 #2^#1 #2 ",
+      "aceAvgPerSet": "3.21",
+      "dfAvgPerSet": "1.58",
+      "secSrvToDf": "6.04",
+      "srvGameToDf": "2.38",
+      "bAvgPerSet": "0.79",
+      "last_aceAvgPerSet": "3.00",
+      "last_dfAvgPerSet": "1.83",
+      "last_secSrvToDf": "7.22",
+      "last_srvGameToDf": "2.83",
+      "last_bAvgPerSet": "1.33"
+    },
+    "stats2": {
+      "sb_a1": "4#3#3#3",
+      "sb_a2": "5#5#4#6",
+      "sb_am": "9#7#4#8",
+      "sb_df1": "3#3#2#3",
+      "sb_df2": "2#3#2#3",
+      "sb_dfm": "4#6#4#6",
+      "sb_b1": "3#3#4",
+      "sb_b2": "4#5#4",
+      "sb_bm": "6#7#7",
+      "ace": "4^#1^#0 #0 #1 #5 ",
+      "ace2": "5^#2^#1 #1 #1 #15 ",
+      "df": "5^#6^#2 #4 #1 #5 ",
+      "df2": "2^#3^#2 #1 #2 #5 ",
+      "b": "3^#4^#0 #2 #5 #1 ",
+      "b2": "4^#2^#3 #5 #0 #6 ",
+      "aceAvgPerSet": "4.23",
+      "dfAvgPerSet": "1.34",
+      "secSrvToDf": "9.37",
+      "srvGameToDf": "4.05",
+      "bAvgPerSet": "1.43",
+      "last_aceAvgPerSet": "1.33",
+      "last_dfAvgPerSet": "1.50",
+      "last_secSrvToDf": "4.26",
+      "last_srvGameToDf": "3.19",
+      "last_bAvgPerSet": "0.67"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.45"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+10.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+11.5 @1.9"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+12.5 @2.2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+13.5 @2.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+14.5 @3.2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+15.5 @3.6"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 5.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 6.5 @1.45"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 7.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 8.5 @2.1"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 9.5 @2.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+10.5 @3.3"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.15"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 4.5 @3.3"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 5.5 @5.2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 6.5 @6.5"
+      }
+    ],
+    "A_cnt": 20,
+    "A_book_cnt": 2,
+    "DF": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.45"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2.15"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @2.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+10.5 @3.7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+11.5 @5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+12.5 @6.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.45"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 5.5 @1.9"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 6.5 @2.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 7.5 @3.7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 8.5 @5.3"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 2.5 @2.05"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 3.5 @3.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 4.5 @6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 5.5 @9.5"
+      }
+    ],
+    "DF_cnt": 16,
     "DF_book_cnt": 1,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-9045729463866131883",
+    "matchStartTime": "19:30",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Rafael Jodar - Yannick Hanfmann",
+    "p1": "Rafael Jodar",
+    "p2": "Yannick Hanfmann",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "5#5#4#3",
+      "sb_a2": "5#9#4#10",
+      "sb_am": "12#13#9#13",
+      "sb_df1": "1#2#2#2",
+      "sb_df2": "1#4#2#2",
+      "sb_dfm": "3#6#3#3",
+      "sb_b1": "3#2#1",
+      "sb_b2": "2#3#3",
+      "sb_bm": "5#5#4",
+      "ace": "5 #7 #3 #3^#5 #3 ",
+      "ace2": "2 #0 #4 #6^#2 #15 ",
+      "df": "0 #3 #3 #0^#0 #0 ",
+      "df2": "0 #1 #0 #1^#1 #0 ",
+      "b": "2 #3 #0 #1^#1 #1 ",
+      "b2": "1 #2 #4 #4^#0 #2 ",
+      "aceAvgPerSet": "1.78",
+      "dfAvgPerSet": "0.44",
+      "secSrvToDf": "9.05",
+      "srvGameToDf": "4.23",
+      "bAvgPerSet": "1.33",
+      "last_aceAvgPerSet": "1.67",
+      "last_dfAvgPerSet": "0.33",
+      "last_secSrvToDf": "6.50",
+      "last_srvGameToDf": "3.75",
+      "last_bAvgPerSet": "0.67"
+    },
+    "stats2": {
+      "sb_a1": "4#5#6",
+      "sb_a2": "3#3#4",
+      "sb_am": "7#7#9",
+      "sb_df1": "3#2#2",
+      "sb_df2": "2#2#3",
+      "sb_dfm": "5#4#5",
+      "sb_b1": "2#3#3",
+      "sb_b2": "4#2#3",
+      "sb_bm": "5#5#5",
+      "ace": "9^#3 #10 #0 #5^#5 ",
+      "ace2": "5^#8 #6 #5 #4^#4 ",
+      "df": "1^#1 #2 #0 #4^#1 ",
+      "df2": "5^#2 #3 #2 #1^#7 ",
+      "b": "4^#2 #2 #2 #3^#3 ",
+      "b2": "1^#1 #3 #0 #2^#1 ",
+      "aceAvgPerSet": "3.39",
+      "dfAvgPerSet": "1.67",
+      "secSrvToDf": "9.82",
+      "srvGameToDf": "4.04",
+      "bAvgPerSet": "1.67",
+      "last_aceAvgPerSet": "2.00",
+      "last_dfAvgPerSet": "0.33",
+      "last_secSrvToDf": "11.67",
+      "last_srvGameToDf": "5.00",
+      "last_bAvgPerSet": "1.33"
+    },
+    "A": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+12.5 @1.45"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+13.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+14.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+15.5 @2.35"
+      },
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+15.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+16.5 @2.8"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+16.5 @1.7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+17.5 @3.2"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+17.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+18.5 @3.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 5.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 6.5 @2.15"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 7.5 @2.9"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 7.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 8.5 @4"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 9.5 @5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.45"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.75"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 8.5 @2.15"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 9.5 @2.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+10.5 @3.3"
+      }
+    ],
+    "A_cnt": 22,
+    "A_book_cnt": 3,
+    "DF": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.72"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @2.4"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @3.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 2.5 @2.9"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 3.5 @4.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 4.5 @7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 2.5 @2.9"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 3.5 @4.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 4.5 @7"
+      }
+    ],
+    "DF_cnt": 13,
+    "DF_book_cnt": 1,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "6996676656476890625",
+    "matchStartTime": "16:00",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Giovanni Mpetshi Perricard - Camilo Ugo Carabelli",
+    "p1": "Giovanni Mpetshi Perricard",
+    "p2": "Camilo Ugo Carabelli",
+    "atp": true,
+    "tags1": "A",
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "18#16#16#13",
+      "sb_a2": "5#11#6#7",
+      "sb_am": "25#28#21#20",
+      "sb_df1": "2#3#2#2",
+      "sb_df2": "1#2#3#2",
+      "sb_dfm": "3#6#4#5",
+      "sb_b1": "1#2#1",
+      "sb_b2": "2#1#2",
+      "sb_bm": "2#3#3",
+      "ace": "11^#11 #29^#19^#20 #7^",
+      "ace2": "6^#8 #16^#9^#4 #17^",
+      "df": "7^#1 #2^#1^#2 #2^",
+      "df2": "1^#3 #2^#0^#4 #2^",
+      "b": "3^#1 #0^#1^#2 #0^",
+      "b2": "1^#3 #1^#1^#0 #1^",
+      "aceAvgPerSet": "6.20",
+      "dfAvgPerSet": "1.17",
+      "secSrvToDf": "6.46",
+      "srvGameToDf": "3.82",
+      "bAvgPerSet": "0.42",
+      "last_aceAvgPerSet": "7.00",
+      "last_dfAvgPerSet": "0.83",
+      "last_secSrvToDf": "7.33",
+      "last_srvGameToDf": "4.50",
+      "last_bAvgPerSet": "0.33"
+    },
+    "stats2": {
+      "sb_a1": "4#3#4#2#2",
+      "sb_a2": "9#15#6#2#2",
+      "sb_am": "13#18#9#3#4",
+      "sb_df1": "4#3#3#2#3",
+      "sb_df2": "2#4#2#2#2",
+      "sb_dfm": "4#7#5#3#5",
+      "sb_b1": "2#3#4#4#4",
+      "sb_b2": "4#3#4#4#4",
+      "sb_bm": "5#5#7#7#7",
+      "ace": "3 #8 #4 #2 #2 #1 ",
+      "ace2": "13 #9 #5 #5 #1 #0 ",
+      "df": "1 #5 #7 #4 #4 #1 ",
+      "df2": "0 #2 #1 #3 #1 #4 ",
+      "b": "0 #1 #1 #0 #1 #5 ",
+      "b2": "0 #0 #3 #1 #3 #2 ",
+      "aceAvgPerSet": "4.96",
+      "dfAvgPerSet": "1.41",
+      "secSrvToDf": "9.33",
+      "srvGameToDf": "3.90",
+      "bAvgPerSet": "1.34",
+      "last_aceAvgPerSet": "2.00",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "9.11",
+      "last_srvGameToDf": "3.94",
+      "last_bAvgPerSet": "1.00"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+22.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+22.5 @1.55"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+23.5 @1.7"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "meczowa",
+        "over": "+24.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+24.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+25.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+26.5 @2.2"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+26.5 @1.7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+27.5 @2.45"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+27.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+28.5 @2.7"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+29.5 @3"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+16.5 @1.55"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+17.5 @1.8"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+17.5 @1.73"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+17.5 @1.6"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+18.5 @1.96"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+18.5 @1.8"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+19.5 @2.2"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player1",
+        "over": "+19.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+19.5 @2"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+20.5 @2.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+20.5 @2.25"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+21.5 @2.9"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+21.5 @2.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+22.5 @2.85"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.55"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player2",
+        "over": "+ 5.5 @2.1"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 5.5 @2.1"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player2",
+        "over": "+ 5.5 @1.65"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player2",
+        "over": "+ 5.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 6.5 @3"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player2",
+        "over": "+ 6.5 @2.1"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player2",
+        "over": "+ 6.5 @2.1"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 7.5 @4"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player2",
+        "over": "+ 7.5 @2.8"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player2",
+        "over": "+ 7.5 @2.8"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 8.5 @5.25"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player2",
+        "over": "+ 8.5 @3.9"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player2",
+        "over": "+ 8.5 @3.9"
+      }
+    ],
+    "A_cnt": 41,
+    "A_book_cnt": 6,
+    "DF": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.65"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @3.2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+10.5 @4.5"
+      },
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+11.5 @6"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 4.5 @2.3"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 5.5 @3.2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 6.5 @4.5"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.75"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.35"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 4.5 @3.5"
+      }
+    ],
+    "DF_cnt": 16,
+    "DF_book_cnt": 2,
     "B": null,
     "B_cnt": 0,
     "B_book_cnt": 0
@@ -3286,7 +4702,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "D",
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "5#6",
       "sb_a2": "2#4",
@@ -3363,9 +4779,19 @@
         "over": "+16.5 @2.5"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+16.5 @1.7"
+      },
+      {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+17.5 @2.95"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+17.5 @2"
       },
       {
         "book": "superbet",
@@ -3458,8 +4884,8 @@
         "over": "+ 9.5 @7.5"
       }
     ],
-    "A_cnt": 23,
-    "A_book_cnt": 2,
+    "A_cnt": 25,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
@@ -3524,6 +4950,97 @@
     "B_book_cnt": 0
   },
   {
+    "id": "3188391065192280106",
+    "matchStartTime": "16:00",
+    "tournament": "Miami ATP • 1/64 finału",
+    "eventName": "Quentin Halys - Liam Draxl",
+    "p1": "Quentin Halys",
+    "p2": "Liam Draxl",
+    "atp": true,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "12#11#11#13",
+      "sb_a2": "6#10#5#3",
+      "sb_am": "19#21#16#15",
+      "sb_df1": "3#3#3#3",
+      "sb_df2": "2#1#3#1",
+      "sb_dfm": "6#5#6#5",
+      "sb_b1": "2#2#3",
+      "sb_b2": "3#3#3",
+      "sb_bm": "4#4#5",
+      "ace": "7 #9 #15 #10 #5 #14^",
+      "ace2": "12 #13 #8 #8 #5 #4^",
+      "df": "1 #1 #5 #3 #1 #2^",
+      "df2": "1 #1 #1 #0 #2 #0^",
+      "b": "0 #0 #1 #3 #0 #3^",
+      "b2": "2 #1 #0 #1 #2 #1^",
+      "aceAvgPerSet": "4.54",
+      "dfAvgPerSet": "1.25",
+      "secSrvToDf": "8.60",
+      "srvGameToDf": "3.71",
+      "bAvgPerSet": "0.66",
+      "last_aceAvgPerSet": "4.67",
+      "last_dfAvgPerSet": "0.50",
+      "last_secSrvToDf": "11.50",
+      "last_srvGameToDf": "5.00",
+      "last_bAvgPerSet": "0.17"
+    },
+    "stats2": {
+      "sb_a1": "4",
+      "sb_a2": "5",
+      "sb_am": "9",
+      "sb_df1": "4",
+      "sb_df2": "4",
+      "sb_dfm": "7",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "7^#9^#4 #4 #4 #5^",
+      "ace2": "9^#6^#14 #8 #4 #6^",
+      "df": "2^#2^#3 #3 #2 #4^",
+      "df2": "3^#3^#2 #0 #2 #4^",
+      "b": "5^#4^#1 #1 #3 #2^",
+      "b2": "3^#2^#2 #5 #1 #7^",
+      "aceAvgPerSet": "2.88",
+      "dfAvgPerSet": "1.27",
+      "secSrvToDf": "8.50",
+      "srvGameToDf": "3.98",
+      "bAvgPerSet": "1.09",
+      "last_aceAvgPerSet": "1.67",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "4.72",
+      "last_srvGameToDf": "4.17",
+      "last_bAvgPerSet": "0.83"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+20.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+13.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
     "id": "7301738244740887752",
     "matchStartTime": "17:10",
     "tournament": "Miami ATP • 1/64 finału",
@@ -3533,7 +5050,7 @@
     "atp": true,
     "tags1": "A",
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "19#20",
       "sb_a2": "12#8",
@@ -3600,6 +5117,11 @@
         "over": "+27.5 @1.6"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "meczowa",
+        "over": "+28.5 @1.75"
+      },
+      {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+28.5 @1.75"
@@ -3625,9 +5147,19 @@
         "over": "+31.5 @2.35"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+31.5 @1.75"
+      },
+      {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+32.5 @2.55"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+32.5 @1.9"
       },
       {
         "book": "superbet",
@@ -3638,6 +5170,11 @@
         "book": "superbet",
         "lineType": "player1",
         "over": "+20.5 @1.55"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "player1",
+        "over": "+21.5 @1.75"
       },
       {
         "book": "superbet",
@@ -3670,6 +5207,11 @@
         "over": "+ 6.5 @1.65"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "player2",
+        "over": "+ 7.5 @2.1"
+      },
+      {
         "book": "superbet",
         "lineType": "player2",
         "over": "+ 7.5 @2.1"
@@ -3695,13 +5237,18 @@
         "over": "+10.5 @4.5"
       }
     ],
-    "A_cnt": 21,
-    "A_book_cnt": 2,
+    "A_cnt": 26,
+    "A_book_cnt": 4,
     "DF": [
       {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.7"
+      },
+      {
+        "book": "fuksiarz",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2"
       },
       {
         "book": "superbet",
@@ -3734,6 +5281,11 @@
         "over": "+ 3.5 @1.45"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.75"
+      },
+      {
         "book": "superbet",
         "lineType": "player1",
         "over": "+ 4.5 @1.75"
@@ -3759,6 +5311,11 @@
         "over": "+ 8.5 @6"
       },
       {
+        "book": "fuksiarz",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.9"
+      },
+      {
         "book": "superbet",
         "lineType": "player2",
         "over": "+ 2.5 @1.9"
@@ -3774,8 +5331,8 @@
         "over": "+ 4.5 @5"
       }
     ],
-    "DF_cnt": 15,
-    "DF_book_cnt": 1,
+    "DF_cnt": 18,
+    "DF_book_cnt": 2,
     "B": null,
     "B_cnt": 0,
     "B_book_cnt": 0
@@ -3790,7 +5347,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "6#7#6#7#7",
       "sb_a2": "6#8#2#7#13",
@@ -3872,9 +5429,19 @@
         "over": "+12.5 @2.65"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+12.5 @1.7"
+      },
+      {
         "book": "superbet",
         "lineType": "meczowa",
         "over": "+13.5 @3.25"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+13.5 @2"
       },
       {
         "book": "superbet",
@@ -3937,8 +5504,8 @@
         "over": "+ 6.5 @4.3"
       }
     ],
-    "A_cnt": 18,
-    "A_book_cnt": 2,
+    "A_cnt": 20,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
@@ -4027,7 +5594,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "3#3#4#5",
       "sb_a2": "6#1#4#4",
@@ -4089,6 +5656,16 @@
         "over": "+ 7.5 @2"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.6"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 9.5 @1.8"
@@ -4114,8 +5691,8 @@
         "over": "+ 4.5 @1.8"
       }
     ],
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 8,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
@@ -4140,85 +5717,75 @@
     "B_book_cnt": 0
   },
   {
-    "id": "-5289517107057553052",
-    "matchStartTime": "16:00",
+    "id": "-6534244981754673495",
+    "matchStartTime": "17:10",
     "tournament": "Miami WTA • 1/64 finału",
-    "eventName": "Elena Gabriela Ruse - Antonia Ruzic",
-    "p1": "Elena Gabriela Ruse",
-    "p2": "Antonia Ruzic",
+    "eventName": "Tereza Valentova - Katie Volynets",
+    "p1": "Tereza Valentova",
+    "p2": "Katie Volynets",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
-      "sb_a1": "5#4#3#2",
-      "sb_a2": "2#3#2#5",
-      "sb_am": "6#7",
-      "sb_df1": "6#5#4#5",
-      "sb_df2": "5#3#3#5",
-      "sb_dfm": "9",
-      "sb_b1": null,
-      "sb_b2": null,
-      "sb_bm": null,
-      "ace": "2 #5 #6^#4^#1^#0 ",
-      "ace2": "2 #1 #7^#0^#6^#1 ",
-      "df": "4 #8 #7^#7^#3^#3 ",
-      "df2": "5 #6 #4^#2^#5^#3 ",
-      "b": "3 #2 #7^#6^#1^#2 ",
-      "b2": "6 #4 #5^#2^#4^#4 ",
-      "aceAvgPerSet": "1.26",
-      "dfAvgPerSet": "1.93",
-      "secSrvToDf": "6.03",
-      "srvGameToDf": "3.03",
-      "bAvgPerSet": "1.55",
-      "last_aceAvgPerSet": "0.50",
-      "last_dfAvgPerSet": "1.50",
-      "last_secSrvToDf": "6.83",
-      "last_srvGameToDf": "2.97",
+      "sb_a1": "5#4#4#5#3#3",
+      "sb_a2": "2#3#1#2#1#6",
+      "sb_am": "7#9",
+      "sb_df1": "4#4#4#4#4#4",
+      "sb_df2": "6#2#3#4#3#2",
+      "sb_dfm": "6",
+      "sb_b1": "4#2",
+      "sb_b2": "4#5",
+      "sb_bm": "7#6",
+      "ace": "2 #2 #4 #4^#7^#4 ",
+      "ace2": "9 #1 #0 #4^#0^#4 ",
+      "df": "6 #4 #3 #1^#3^#8 ",
+      "df2": "5 #0 #3 #4^#1^#1 ",
+      "b": "2 #1 #4 #5^#4^#2 ",
+      "b2": "2 #5 #2 #3^#4^#5 ",
+      "aceAvgPerSet": "1.50",
+      "dfAvgPerSet": "1.69",
+      "secSrvToDf": "7.12",
+      "srvGameToDf": "3.25",
+      "bAvgPerSet": "1.88",
+      "last_aceAvgPerSet": "1.33",
+      "last_dfAvgPerSet": "2.50",
+      "last_secSrvToDf": "6.46",
+      "last_srvGameToDf": "2.89",
       "last_bAvgPerSet": "1.00"
     },
     "stats2": {
-      "sb_a1": "2#2#2#4#3",
-      "sb_a2": "3#3#5#3#4",
-      "sb_am": "5#5#7#6#7",
-      "sb_df1": "4#3#4#3#4",
-      "sb_df2": "2#3#3#3#3",
-      "sb_dfm": "5#6",
-      "sb_b1": "3#3#2#4",
-      "sb_b2": "5#5#5#4",
-      "sb_bm": "7#7#7#7",
-      "ace": "0 #1 #5^#0^#2^#10^",
-      "ace2": "2 #4 #4^#7^#3^#6^",
-      "df": "1 #4 #4^#1^#4^#6^",
-      "df2": "0 #5 #2^#7^#2^#7^",
-      "b": "0 #3 #6^#3^#5^#6^",
-      "b2": "5 #2 #4^#5^#1^#3^",
-      "aceAvgPerSet": "1.40",
+      "sb_a1": "1#1#2#1#2",
+      "sb_a2": "3#4#4#4#9",
+      "sb_am": "4#5#6#5",
+      "sb_df1": "1#1#1#2#1",
+      "sb_df2": "3#4#5#5#6",
+      "sb_dfm": null,
+      "sb_b1": "5",
+      "sb_b2": "5",
+      "sb_bm": "9",
+      "ace": "0 #5^#7 #1 #1 #1 ",
+      "ace2": "2 #0^#0 #3 #1 #3 ",
+      "df": "0 #1^#0 #3 #1 #1 ",
+      "df2": "0 #1^#6 #4 #5 #14 ",
+      "b": "5 #4^#4 #4 #2 #5 ",
+      "b2": "2 #1^#5 #5 #6 #2 ",
+      "aceAvgPerSet": "1.87",
       "dfAvgPerSet": "1.98",
-      "secSrvToDf": "7.60",
-      "srvGameToDf": "3.57",
-      "bAvgPerSet": "1.60",
-      "last_aceAvgPerSet": "1.00",
-      "last_dfAvgPerSet": "1.50",
-      "last_secSrvToDf": "6.17",
-      "last_srvGameToDf": "3.19",
+      "secSrvToDf": "5.96",
+      "srvGameToDf": "3.67",
+      "bAvgPerSet": "1.96",
+      "last_aceAvgPerSet": "1.67",
+      "last_dfAvgPerSet": "0.67",
+      "last_secSrvToDf": "9.33",
+      "last_srvGameToDf": "4.92",
       "last_bAvgPerSet": "1.67"
     },
     "A": [
       {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 5.5 @1.75"
-      },
-      {
         "book": "betclic",
         "lineType": "meczowa",
-        "over": "+ 6.5 @1.8"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 3.5 @1.61"
+        "over": "+ 5.5 @1.8"
       },
       {
         "book": "betclic",
@@ -4226,77 +5793,198 @@
         "over": "+ 3.5 @1.6"
       },
       {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+ 4.5 @1.68"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+ 5.5 @2.2"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+ 6.5 @3.1"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player1",
-        "over": "+ 7.5 @4.6"
-      },
-      {
-        "book": "superbet",
+        "book": "betclic",
         "lineType": "player2",
-        "over": "+ 1.5 @1.75"
+        "over": "+ 1.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "6498706732284395335",
+    "matchStartTime": "18:20",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Solana Sierra - Kamilla Rakhimova",
+    "p1": "Solana Sierra",
+    "p2": "Kamilla Rakhimova",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "2#3#4#2",
+      "sb_a2": "3#4#5#8",
+      "sb_am": "5#7",
+      "sb_df1": "4#5#5#4",
+      "sb_df2": "5#4#6#5",
+      "sb_dfm": null,
+      "sb_b1": "2",
+      "sb_b2": "6",
+      "sb_bm": "7",
+      "ace": "0 #5 #5 #1 #2 #2 ",
+      "ace2": "1 #3 #1 #5 #13 #1 ",
+      "df": "3 #4 #4 #2 #4 #0 ",
+      "df2": "2 #2 #5 #2 #6 #7 ",
+      "b": "0 #4 #1 #0 #2 #5 ",
+      "b2": "6 #2 #2 #5 #4 #0 ",
+      "aceAvgPerSet": "1.11",
+      "dfAvgPerSet": "2.42",
+      "secSrvToDf": "4.41",
+      "srvGameToDf": "2.10",
+      "bAvgPerSet": "1.72",
+      "last_aceAvgPerSet": "1.17",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "6.61",
+      "last_srvGameToDf": "3.17",
+      "last_bAvgPerSet": "1.50"
+    },
+    "stats2": {
+      "sb_a1": "4#3#1#2#2",
+      "sb_a2": "9#4#4#5#3",
+      "sb_am": "13#7#5#6#4",
+      "sb_df1": "4#4#5#5#5",
+      "sb_df2": "4#3#7#3#5",
+      "sb_dfm": null,
+      "sb_b1": "2#4",
+      "sb_b2": "6#4",
+      "sb_bm": "7#7",
+      "ace": "3 #3^#1 #1^#3 #1 ",
+      "ace2": "8 #6^#0 #12^#0 #3 ",
+      "df": "5 #7^#3 #4^#7 #1 ",
+      "df2": "2 #6^#10 #5^#2 #6 ",
+      "b": "2 #7^#5 #7^#6 #3 ",
+      "b2": "5 #3^#7 #1^#2 #6 ",
+      "aceAvgPerSet": "3.83",
+      "dfAvgPerSet": "1.94",
+      "secSrvToDf": "7.31",
+      "srvGameToDf": "3.78",
+      "bAvgPerSet": "2.39",
+      "last_aceAvgPerSet": "0.33",
+      "last_dfAvgPerSet": "1.83",
+      "last_secSrvToDf": "5.13",
+      "last_srvGameToDf": "2.92",
+      "last_bAvgPerSet": "2.17"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 5.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.5"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-2103594650018685687",
+    "matchStartTime": "17:10",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Alycia Parks - Sinja Kraus",
+    "p1": "Alycia Parks",
+    "p2": "Sinja Kraus",
+    "atp": false,
+    "tags1": "DF;A",
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "6#7#9#8#9#8",
+      "sb_a2": "1#2#2#7#2#2",
+      "sb_am": "7#8",
+      "sb_df1": "7#9#6#6#6#5",
+      "sb_df2": "3#5#1#4#3#4",
+      "sb_dfm": null,
+      "sb_b1": "3",
+      "sb_b2": "4",
+      "sb_bm": "6",
+      "ace": "3 #3^#3 #1 #11^#13 ",
+      "ace2": "0 #1^#1 #1 #0^#2 ",
+      "df": "5 #2^#14 #1 #4^#6 ",
+      "df2": "1 #8^#1 #0 #0^#4 ",
+      "b": "2 #4^#2 #2 #2^#4 ",
+      "b2": "4 #5^#5 #1 #3^#2 ",
+      "aceAvgPerSet": "2.83",
+      "dfAvgPerSet": "2.70",
+      "secSrvToDf": "5.15",
+      "srvGameToDf": "2.50",
+      "bAvgPerSet": "1.35",
+      "last_aceAvgPerSet": "2.50",
+      "last_dfAvgPerSet": "2.17",
+      "last_secSrvToDf": "8.94",
+      "last_srvGameToDf": "3.11",
+      "last_bAvgPerSet": "1.33"
+    },
+    "stats2": {
+      "sb_a1": "3#3",
+      "sb_a2": "3#1",
+      "sb_am": "4",
+      "sb_df1": "3#4",
+      "sb_df2": "2#3",
+      "sb_dfm": "7",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "0 #5 #1 #0 #0 #8^",
+      "ace2": "0 #7 #7 #0 #2 #1^",
+      "df": "1 #5 #2 #1 #3 #6^",
+      "df2": "1 #4 #5 #2 #0 #3^",
+      "b": "6 #5 #2 #4 #2 #4^",
+      "b2": "2 #4 #3 #1 #6 #5^",
+      "aceAvgPerSet": "1.08",
+      "dfAvgPerSet": "2.30",
+      "secSrvToDf": "7.69",
+      "srvGameToDf": "3.66",
+      "bAvgPerSet": "2.19",
+      "last_aceAvgPerSet": "1.33",
+      "last_dfAvgPerSet": "1.33",
+      "last_secSrvToDf": "11.53",
+      "last_srvGameToDf": "3.58",
+      "last_bAvgPerSet": "1.67"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+11.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 8.5 @1.8"
       },
       {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 2.5 @1.8"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player2",
-        "over": "+ 2.5 @1.55"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player2",
-        "over": "+ 3.5 @2.25"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player2",
-        "over": "+ 4.5 @3.5"
-      },
-      {
-        "book": "lvbet-BB",
-        "lineType": "player2",
-        "over": "+ 5.5 @5.75"
       }
     ],
-    "A_cnt": 14,
-    "A_book_cnt": 3,
-    "DF": [
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 7.5 @1.95"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 4.5 @1.92"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 2.5 @1.7"
-      }
-    ],
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
     "B": null,
     "B_cnt": 0,
     "B_book_cnt": 0
@@ -4311,7 +5999,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "1#1#1#1",
       "sb_a2": "3#1#3#1",
@@ -4378,6 +6066,16 @@
         "over": "+ 2.5 @1.8"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.6"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @2"
+      },
+      {
         "book": "superbet",
         "lineType": "player1",
         "over": "+ 0.5 @2.52"
@@ -4398,8 +6096,8 @@
         "over": "+ 1.5 @1.8"
       }
     ],
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 8,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
@@ -4424,6 +6122,1164 @@
     "B_book_cnt": 0
   },
   {
+    "id": "6543062633402677186",
+    "matchStartTime": "20:40",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Viktorija Golubic - Peyton Stearns",
+    "p1": "Viktorija Golubic",
+    "p2": "Peyton Stearns",
+    "atp": false,
+    "tags1": null,
+    "tags2": "A",
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "1",
+      "sb_a2": "4",
+      "sb_am": null,
+      "sb_df1": "2",
+      "sb_df2": "4",
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "1^#0^#1 #1^#0 #0^",
+      "ace2": "8^#10^#1 #4^#0 #0^",
+      "df": "4^#2^#0 #4^#4 #3^",
+      "df2": "6^#10^#5 #3^#2 #9^",
+      "b": "4^#7^#3 #6^#7 #10^",
+      "b2": "4^#6^#5 #5^#3 #6^",
+      "aceAvgPerSet": "0.20",
+      "dfAvgPerSet": "1.02",
+      "secSrvToDf": "5.47",
+      "srvGameToDf": "3.58",
+      "bAvgPerSet": "1.94",
+      "last_aceAvgPerSet": "0.17",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "4.33",
+      "last_srvGameToDf": "3.75",
+      "last_bAvgPerSet": "2.67"
+    },
+    "stats2": {
+      "sb_a1": "4#2#4",
+      "sb_a2": "3#3#3",
+      "sb_am": "7#5#7",
+      "sb_df1": "4#4#4",
+      "sb_df2": "5#3#4",
+      "sb_dfm": null,
+      "sb_b1": "5#5",
+      "sb_b2": "4#4",
+      "sb_bm": "8#8",
+      "ace": "3 #8 #4^#5^#3 #5^",
+      "ace2": "5 #2 #4^#2^#1 #0^",
+      "df": "2 #5 #9^#8^#2 #3^",
+      "df2": "4 #6 #10^#10^#8 #1^",
+      "b": "2 #4 #5^#8^#5 #7^",
+      "b2": "4 #3 #5^#6^#0 #5^",
+      "aceAvgPerSet": "1.87",
+      "dfAvgPerSet": "2.18",
+      "secSrvToDf": "6.05",
+      "srvGameToDf": "2.84",
+      "bAvgPerSet": "1.61",
+      "last_aceAvgPerSet": "1.83",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "1.33",
+      "last_srvGameToDf": "3.75",
+      "last_bAvgPerSet": "2.33"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.5"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "603007050689031116",
+    "matchStartTime": "19:00",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Paula Badosa - Aliaksandra Sasnovich",
+    "p1": "Paula Badosa",
+    "p2": "Aliaksandra Sasnovich",
+    "atp": false,
+    "tags1": "A;DF",
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "5#4#5",
+      "sb_a2": "1#2#2",
+      "sb_am": "6#6#7",
+      "sb_df1": "7#6#6",
+      "sb_df2": "2#5#3",
+      "sb_dfm": "9",
+      "sb_b1": "5",
+      "sb_b2": "3",
+      "sb_bm": "7",
+      "ace": "4 #6 #6^#4 #5 #5^",
+      "ace2": "0 #1 #2^#0 #1 #3^",
+      "df": "10 #9 #8^#6 #6 #8^",
+      "df2": "1 #2 #1^#7 #3 #1^",
+      "b": "2 #4 #4^#3 #4 #4^",
+      "b2": "5 #2 #6^#5 #1 #5^",
+      "aceAvgPerSet": "2.18",
+      "dfAvgPerSet": "2.97",
+      "secSrvToDf": "5.25",
+      "srvGameToDf": "2.30",
+      "bAvgPerSet": "1.42",
+      "last_aceAvgPerSet": "1.50",
+      "last_dfAvgPerSet": "2.83",
+      "last_secSrvToDf": "5.01",
+      "last_srvGameToDf": "2.00",
+      "last_bAvgPerSet": "1.50"
+    },
+    "stats2": {
+      "sb_a1": "4#2#3",
+      "sb_a2": "1#6#2",
+      "sb_am": "8",
+      "sb_df1": "3#4#4",
+      "sb_df2": "2#3#4",
+      "sb_dfm": "6",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "5 #6 #2 #0 #5 #3 ",
+      "ace2": "0 #1 #8 #5 #1 #0 ",
+      "df": "5 #0 #3 #2 #3 #6 ",
+      "df2": "2 #1 #0 #3 #2 #5 ",
+      "b": "3 #4 #1 #3 #6 #4 ",
+      "b2": "1 #2 #4 #4 #3 #2 ",
+      "aceAvgPerSet": "1.38",
+      "dfAvgPerSet": "1.63",
+      "secSrvToDf": "6.64",
+      "srvGameToDf": "3.54",
+      "bAvgPerSet": "1.90",
+      "last_aceAvgPerSet": "2.33",
+      "last_dfAvgPerSet": "1.83",
+      "last_secSrvToDf": "6.42",
+      "last_srvGameToDf": "3.33",
+      "last_bAvgPerSet": "1.83"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-696859208637449639",
+    "matchStartTime": "20:10",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Lulu Sun - Taylor Townsend",
+    "p1": "Lulu Sun",
+    "p2": "Taylor Townsend",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "8#4#7#4#6",
+      "sb_a2": "6#3#4#4#6",
+      "sb_am": "14#7#11",
+      "sb_df1": "3#4#5#4#4",
+      "sb_df2": "5#3#3#4#3",
+      "sb_dfm": "7",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "9 #7 #5 #13 #3 #5^",
+      "ace2": "0 #7 #9 #2 #0 #10^",
+      "df": "5 #3 #3 #4 #4 #5^",
+      "df2": "8 #2 #0 #2 #4 #4^",
+      "b": "5 #3 #0 #2 #1 #2^",
+      "b2": "2 #2 #3 #0 #4 #4^",
+      "aceAvgPerSet": "2.93",
+      "dfAvgPerSet": "1.61",
+      "secSrvToDf": "5.51",
+      "srvGameToDf": "2.25",
+      "bAvgPerSet": "1.45",
+      "last_aceAvgPerSet": "3.17",
+      "last_dfAvgPerSet": "2.00",
+      "last_secSrvToDf": "7.63",
+      "last_srvGameToDf": "3.18",
+      "last_bAvgPerSet": "1.50"
+    },
+    "stats2": {
+      "sb_a1": "2#5#7",
+      "sb_a2": "4#2#3",
+      "sb_am": "7#7",
+      "sb_df1": "3#3#3",
+      "sb_df2": "5#4#4",
+      "sb_dfm": null,
+      "sb_b1": "4#5",
+      "sb_b2": "4#4",
+      "sb_bm": "7#8",
+      "ace": "2 #2 #3 #10 #2 #5 ",
+      "ace2": "1 #1 #2 #2 #8 #5 ",
+      "df": "3 #3 #2 #0 #6 #5 ",
+      "df2": "4 #4 #4 #2 #5 #7 ",
+      "b": "2 #6 #4 #2 #3 #4 ",
+      "b2": "5 #2 #1 #0 #4 #2 ",
+      "aceAvgPerSet": "1.96",
+      "dfAvgPerSet": "1.87",
+      "secSrvToDf": "5.62",
+      "srvGameToDf": "3.77",
+      "bAvgPerSet": "1.58",
+      "last_aceAvgPerSet": "1.50",
+      "last_dfAvgPerSet": "1.83",
+      "last_secSrvToDf": "3.00",
+      "last_srvGameToDf": "2.72",
+      "last_bAvgPerSet": "2.00"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+14.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "4503770962572833767",
+    "matchStartTime": "17:10",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Dalma Galfi - Elvina Kalieva",
+    "p1": "Dalma Galfi",
+    "p2": "Elvina Kalieva",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "6#5#5#5#6",
+      "sb_a2": "1#4#2#2#1",
+      "sb_am": "5#7#6",
+      "sb_df1": "3#3#3#3#3",
+      "sb_df2": "4#4#2#3#3",
+      "sb_dfm": null,
+      "sb_b1": "4",
+      "sb_b2": "4",
+      "sb_bm": "8",
+      "ace": "7 #5 #7 #1 #7^#4^",
+      "ace2": "2 #10 #1 #2 #3^#0^",
+      "df": "3 #0 #2 #4 #6^#0^",
+      "df2": "2 #5 #0 #1 #7^#2^",
+      "b": "2 #1 #4 #0 #6^#3^",
+      "b2": "4 #3 #1 #3 #5^#3^",
+      "aceAvgPerSet": "2.12",
+      "dfAvgPerSet": "1.27",
+      "secSrvToDf": "7.00",
+      "srvGameToDf": "3.63",
+      "bAvgPerSet": "1.40",
+      "last_aceAvgPerSet": "1.83",
+      "last_dfAvgPerSet": "1.00",
+      "last_secSrvToDf": "5.17",
+      "last_srvGameToDf": "3.94",
+      "last_bAvgPerSet": "1.50"
+    },
+    "stats2": {
+      "sb_a1": "5#6",
+      "sb_a2": "6#6",
+      "sb_am": "11",
+      "sb_df1": "3#3",
+      "sb_df2": "2#5",
+      "sb_dfm": "7",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "4 #3 #7^#5 #3 #3 ",
+      "ace2": "3 #0 #5^#1 #5 #5 ",
+      "df": "4 #4 #1^#1 #3 #3 ",
+      "df2": "4 #4 #6^#2 #2 #2 ",
+      "b": "5 #4 #4^#5 # # ",
+      "b2": "1 #1 #4^#1 # # ",
+      "aceAvgPerSet": "3.90",
+      "dfAvgPerSet": "1.93",
+      "secSrvToDf": "8.10",
+      "srvGameToDf": "3.97",
+      "bAvgPerSet": "2.03",
+      "last_aceAvgPerSet": "2.00",
+      "last_dfAvgPerSet": "1.50",
+      "last_secSrvToDf": "4.00",
+      "last_srvGameToDf": "3.06",
+      "last_bAvgPerSet": "2.33"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+10.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-2051182172454752388",
+    "matchStartTime": "17:10",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Anastasia Zakharova - Anna Bondar",
+    "p1": "Anastasia Zakharova",
+    "p2": "Anna Bondar",
+    "atp": false,
+    "tags1": null,
+    "tags2": "A",
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "2#1#2#1",
+      "sb_a2": "6#3#4#3",
+      "sb_am": "4#6#4",
+      "sb_df1": "3#3#3#3",
+      "sb_df2": "2#4#5#6",
+      "sb_dfm": "8",
+      "sb_b1": "4",
+      "sb_b2": "5",
+      "sb_bm": "8",
+      "ace": "0 #2 #0 #0 #0 #0 ",
+      "ace2": "6 #2 #2 #1 #3 #1 ",
+      "df": "1 #1 #1 #1 #0 #1 ",
+      "df2": "2 #2 #3 #4 #7 #1 ",
+      "b": "4 #6 #1 #4 #4 #6 ",
+      "b2": "0 #1 #5 #0 #3 #2 ",
+      "aceAvgPerSet": "0.52",
+      "dfAvgPerSet": "1.29",
+      "secSrvToDf": "4.87",
+      "srvGameToDf": "2.77",
+      "bAvgPerSet": "1.81",
+      "last_aceAvgPerSet": "0.33",
+      "last_dfAvgPerSet": "0.50",
+      "last_secSrvToDf": "3.67",
+      "last_srvGameToDf": "3.83",
+      "last_bAvgPerSet": "1.83"
+    },
+    "stats2": {
+      "sb_a1": "5#4#7#4#7",
+      "sb_a2": "3#4#3#1#3",
+      "sb_am": "8#8#9#5",
+      "sb_df1": "3#2#3#3#3",
+      "sb_df2": "2#7#5#3#5",
+      "sb_dfm": "5",
+      "sb_b1": "2",
+      "sb_b2": "5",
+      "sb_bm": "6",
+      "ace": "2 #4 #9 #3 #3 #11^",
+      "ace2": "1 #3 #0 #6 #1 #3^",
+      "df": "4 #0 #1 #1 #0 #2^",
+      "df2": "0 #3 #1 #2 #1 #4^",
+      "b": "1 #5 #0 #0 #1 #4^",
+      "b2": "4 #4 #1 #4 #3 #2^",
+      "aceAvgPerSet": "2.07",
+      "dfAvgPerSet": "1.73",
+      "secSrvToDf": "8.38",
+      "srvGameToDf": "3.89",
+      "bAvgPerSet": "1.77",
+      "last_aceAvgPerSet": "3.00",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "7.14",
+      "last_srvGameToDf": "4.00",
+      "last_bAvgPerSet": "0.33"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.5"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "3199382372782246515",
+    "matchStartTime": "18:20",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Ann Li - Kimberly Birrell",
+    "p1": "Ann Li",
+    "p2": "Kimberly Birrell",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "6#4#4#3#4",
+      "sb_a2": "3#1#1#2#2",
+      "sb_am": "9#4#5",
+      "sb_df1": "2#2#2#2#3",
+      "sb_df2": "4#3#3#2#5",
+      "sb_dfm": "5",
+      "sb_b1": "5#4#4",
+      "sb_b2": "5#4#4",
+      "sb_bm": "8#7#7",
+      "ace": "6 #6^#12^#8^#4 #1 ",
+      "ace2": "6 #0^#6^#1^#1 #4 ",
+      "df": "0 #2^#1^#2^#3 #1 ",
+      "df2": "2 #6^#3^#6^#1 #2 ",
+      "b": "2 #3^#3^#5^#6 #3 ",
+      "b2": "4 #3^#4^#5^#4 #0 ",
+      "aceAvgPerSet": "1.94",
+      "dfAvgPerSet": "0.87",
+      "secSrvToDf": "8.40",
+      "srvGameToDf": "4.08",
+      "bAvgPerSet": "1.63",
+      "last_aceAvgPerSet": "2.17",
+      "last_dfAvgPerSet": "0.50",
+      "last_secSrvToDf": "13.17",
+      "last_srvGameToDf": "5.17",
+      "last_bAvgPerSet": "1.00"
+    },
+    "stats2": {
+      "sb_a1": "3#2#2#2",
+      "sb_a2": "6#3#7#3",
+      "sb_am": "4#8#4",
+      "sb_df1": "6#5#7#7",
+      "sb_df2": "2#4#4#6",
+      "sb_dfm": null,
+      "sb_b1": "3#4#4",
+      "sb_b2": "5#5#5",
+      "sb_bm": "7#8#8",
+      "ace": "5^#2 #2 #0 #4^#3 ",
+      "ace2": "1^#3 #7 #1 #4^#2 ",
+      "df": "2^#3 #4 #3 #10^#8 ",
+      "df2": "2^#3 #5 #4 #9^#5 ",
+      "b": "5^#6 #4 #2 #5^#5 ",
+      "b2": "4^#2 #5 #0 #5^#2 ",
+      "aceAvgPerSet": "1.32",
+      "dfAvgPerSet": "2.37",
+      "secSrvToDf": "6.43",
+      "srvGameToDf": "3.25",
+      "bAvgPerSet": "2.03",
+      "last_aceAvgPerSet": "0.83",
+      "last_dfAvgPerSet": "2.83",
+      "last_secSrvToDf": "2.92",
+      "last_srvGameToDf": "2.21",
+      "last_bAvgPerSet": "1.83"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+10.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 7.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.6"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-5289517107057553052",
+    "matchStartTime": "16:00",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Elena Gabriela Ruse - Antonia Ruzic",
+    "p1": "Elena Gabriela Ruse",
+    "p2": "Antonia Ruzic",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "5#4#3#2",
+      "sb_a2": "2#3#2#5",
+      "sb_am": "6#7",
+      "sb_df1": "6#5#4#5",
+      "sb_df2": "5#3#3#5",
+      "sb_dfm": "9",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "2 #5 #6^#4^#1^#0 ",
+      "ace2": "2 #1 #7^#0^#6^#1 ",
+      "df": "4 #8 #7^#7^#3^#3 ",
+      "df2": "5 #6 #4^#2^#5^#3 ",
+      "b": "3 #2 #7^#6^#1^#2 ",
+      "b2": "6 #4 #5^#2^#4^#4 ",
+      "aceAvgPerSet": "1.26",
+      "dfAvgPerSet": "1.93",
+      "secSrvToDf": "6.03",
+      "srvGameToDf": "3.03",
+      "bAvgPerSet": "1.55",
+      "last_aceAvgPerSet": "0.50",
+      "last_dfAvgPerSet": "1.50",
+      "last_secSrvToDf": "6.83",
+      "last_srvGameToDf": "2.97",
+      "last_bAvgPerSet": "1.00"
+    },
+    "stats2": {
+      "sb_a1": "2#2#2#4#3",
+      "sb_a2": "3#3#5#3#4",
+      "sb_am": "5#5#7#6#7",
+      "sb_df1": "4#3#4#3#4",
+      "sb_df2": "2#3#3#3#3",
+      "sb_dfm": "5#6",
+      "sb_b1": "3#3#2#4",
+      "sb_b2": "5#5#5#4",
+      "sb_bm": "7#7#7#7",
+      "ace": "0 #1 #5^#0^#2^#10^",
+      "ace2": "2 #4 #4^#7^#3^#6^",
+      "df": "1 #4 #4^#1^#4^#6^",
+      "df2": "0 #5 #2^#7^#2^#7^",
+      "b": "0 #3 #6^#3^#5^#6^",
+      "b2": "5 #2 #4^#5^#1^#3^",
+      "aceAvgPerSet": "1.40",
+      "dfAvgPerSet": "1.98",
+      "secSrvToDf": "7.60",
+      "srvGameToDf": "3.57",
+      "bAvgPerSet": "1.60",
+      "last_aceAvgPerSet": "1.00",
+      "last_dfAvgPerSet": "1.50",
+      "last_secSrvToDf": "6.17",
+      "last_srvGameToDf": "3.19",
+      "last_bAvgPerSet": "1.67"
+    },
+    "A": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.75"
+      },
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.6"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.61"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.6"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.68"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.68"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player1",
+        "over": "+ 5.5 @2.2"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+ 5.5 @2.2"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player1",
+        "over": "+ 6.5 @3.1"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+ 6.5 @3.1"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player1",
+        "over": "+ 7.5 @4.6"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player1",
+        "over": "+ 7.5 @4.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.75"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.8"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.55"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.25"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.25"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player2",
+        "over": "+ 4.5 @3.5"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player2",
+        "over": "+ 4.5 @3.5"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "player2",
+        "over": "+ 5.5 @5.75"
+      },
+      {
+        "book": "lvbet-BB",
+        "lineType": "player2",
+        "over": "+ 5.5 @5.75"
+      }
+    ],
+    "A_cnt": 23,
+    "A_book_cnt": 5,
+    "DF": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.95"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.92"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.7"
+      }
+    ],
+    "DF_cnt": 3,
+    "DF_book_cnt": 1,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-130385383418895631",
+    "matchStartTime": "17:10",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Darja Semenistaja - Elisabetta Cocciaretto",
+    "p1": "Darja Semenistaja",
+    "p2": "Elisabetta Cocciaretto",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "3#3",
+      "sb_a2": "3#5",
+      "sb_am": "8",
+      "sb_df1": "2#2",
+      "sb_df2": "3#3",
+      "sb_dfm": "5",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "0 #1 #3 #3^#3 #2 ",
+      "ace2": "0 #4 #1 #1^#0 #9 ",
+      "df": "1 #1 #2 #0^#2 #3 ",
+      "df2": "1 #1 #1 #5^#1 #2 ",
+      "b": "2 #5 #0 #8^#5 #1 ",
+      "b2": "6 #1 #3 #6^#1 #6 ",
+      "aceAvgPerSet": "0.81",
+      "dfAvgPerSet": "0.74",
+      "secSrvToDf": "5.89",
+      "srvGameToDf": "3.72",
+      "bAvgPerSet": "1.81",
+      "last_aceAvgPerSet": "1.00",
+      "last_dfAvgPerSet": "1.00",
+      "last_secSrvToDf": "5.17",
+      "last_srvGameToDf": "3.44",
+      "last_bAvgPerSet": "1.83"
+    },
+    "stats2": {
+      "sb_a1": "2#2#1#1",
+      "sb_a2": "4#4#4#3",
+      "sb_am": "6#5",
+      "sb_df1": "4#3#3#3",
+      "sb_df2": "5#5#2#5",
+      "sb_dfm": "8#5",
+      "sb_b1": "4#4#2",
+      "sb_b2": "5#4#5",
+      "sb_bm": "8#7#7",
+      "ace": "4^#0^#1 #1^#0 #1 ",
+      "ace2": "2^#3^#2 #8^#2 #4 ",
+      "df": "5^#2^#5 #6^#2 #1 ",
+      "df2": "7^#5^#2 #2^#3 #2 ",
+      "b": "6^#3^#4 #5^#4 #4 ",
+      "b2": "3^#3^#5 #5^#1 #2 ",
+      "aceAvgPerSet": "1.43",
+      "dfAvgPerSet": "2.31",
+      "secSrvToDf": "5.91",
+      "srvGameToDf": "3.64",
+      "bAvgPerSet": "1.86",
+      "last_aceAvgPerSet": "0.17",
+      "last_dfAvgPerSet": "1.33",
+      "last_secSrvToDf": "6.83",
+      "last_srvGameToDf": "4.33",
+      "last_bAvgPerSet": "1.83"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 2.5 @2"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-364038074737762416",
+    "matchStartTime": "18:20",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Eva Lys - Yulia Starodubtseva",
+    "p1": "Eva Lys",
+    "p2": "Yulia Starodubtseva",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": null,
+      "sb_a2": null,
+      "sb_am": null,
+      "sb_df1": null,
+      "sb_df2": null,
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "0^#0^#0 #0 #0 #2 ",
+      "ace2": "9^#6^#1 #2 #3 #1 ",
+      "df": "2^#6^#6 #2 #2 #1 ",
+      "df2": "3^#2^#5 #3 #1 #1 ",
+      "b": "4^#7^#6 #3 #1 #5 ",
+      "b2": "5^#8^#2 #5 #4 #1 ",
+      "aceAvgPerSet": "0.39",
+      "dfAvgPerSet": "1.56",
+      "secSrvToDf": "2.99",
+      "srvGameToDf": "1.95",
+      "bAvgPerSet": "2.03",
+      "last_aceAvgPerSet": "0.00",
+      "last_dfAvgPerSet": "1.67",
+      "last_secSrvToDf": "3.21",
+      "last_srvGameToDf": "2.75",
+      "last_bAvgPerSet": "1.67"
+    },
+    "stats2": {
+      "sb_a1": "2#2",
+      "sb_a2": "2#3",
+      "sb_am": null,
+      "sb_df1": "2#3",
+      "sb_df2": "3#4",
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "1 #6 #1 #0^#3^#1 ",
+      "ace2": "2 #4 #5 #4^#1^#1 ",
+      "df": "0 #4 #2 #2^#2^#1 ",
+      "df2": "2 #3 #1 #7^#4^#2 ",
+      "b": "4 #3 #1 #2^#3^#4 ",
+      "b2": "0 #2 #5 #6^#3^#0 ",
+      "aceAvgPerSet": "1.25",
+      "dfAvgPerSet": "1.77",
+      "secSrvToDf": "7.35",
+      "srvGameToDf": "3.40",
+      "bAvgPerSet": "1.70",
+      "last_aceAvgPerSet": "1.33",
+      "last_dfAvgPerSet": "0.83",
+      "last_secSrvToDf": "8.33",
+      "last_srvGameToDf": "3.67",
+      "last_bAvgPerSet": "1.83"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.5"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 2.5 @2"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "8754377822240940090",
+    "matchStartTime": "19:30",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Caty Mcnally - Rebeka Masarova",
+    "p1": "Caty Mcnally",
+    "p2": "Rebeka Masarova",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "2#2#2#2#2",
+      "sb_a2": "1#4#2#2#2",
+      "sb_am": "3#5#3",
+      "sb_df1": "3#4#3#3#4",
+      "sb_df2": "4#5#4#3#5",
+      "sb_dfm": "5",
+      "sb_b1": "5",
+      "sb_b2": "3",
+      "sb_bm": "8",
+      "ace": "0^#1 #1 #2 #1 #0 ",
+      "ace2": "2^#5 #0 #1 #2 #1 ",
+      "df": "3^#3 #2 #1 #3 #6 ",
+      "df2": "4^#3 #1 #4 #7 #2 ",
+      "b": "3^#0 #3 #5 #6 #3 ",
+      "b2": "6^#2 #6 #3 #4 #5 ",
+      "aceAvgPerSet": "0.59",
+      "dfAvgPerSet": "1.31",
+      "secSrvToDf": "4.76",
+      "srvGameToDf": "3.20",
+      "bAvgPerSet": "1.53",
+      "last_aceAvgPerSet": "0.33",
+      "last_dfAvgPerSet": "2.00",
+      "last_secSrvToDf": "5.00",
+      "last_srvGameToDf": "2.92",
+      "last_bAvgPerSet": "1.50"
+    },
+    "stats2": {
+      "sb_a1": "8#8#6#4#3",
+      "sb_a2": "2#1#4#1#3",
+      "sb_am": "9#10#5#6",
+      "sb_df1": "4#5#4#4#5",
+      "sb_df2": "5#4#2#4#3",
+      "sb_dfm": "6",
+      "sb_b1": "3#4",
+      "sb_b2": "4#3",
+      "sb_bm": "6#6",
+      "ace": "11^#6^#3 #6^#7 #5 ",
+      "ace2": "5^#0^#0 #2^#1 #0 ",
+      "df": "4^#1^#6 #10^#3 #1 ",
+      "df2": "8^#3^#7 #2^#4 #5 ",
+      "b": "6^#6^#2 #3^#2 #4 ",
+      "b2": "4^#3^#4 #6^#1 #1 ",
+      "aceAvgPerSet": "2.15",
+      "dfAvgPerSet": "1.79",
+      "secSrvToDf": "5.83",
+      "srvGameToDf": "3.47",
+      "bAvgPerSet": "2.13",
+      "last_aceAvgPerSet": "2.17",
+      "last_dfAvgPerSet": "0.50",
+      "last_secSrvToDf": "7.83",
+      "last_srvGameToDf": "4.33",
+      "last_bAvgPerSet": "2.17"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "615529115895622064",
+    "matchStartTime": "17:00",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Jennifer Brady - Sloane Stephens",
+    "p1": "Jennifer Brady",
+    "p2": "Sloane Stephens",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": "3#5",
+      "sb_a2": "2#2",
+      "sb_am": "5",
+      "sb_df1": "3#3",
+      "sb_df2": "3#5",
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "4^#2^#5 #0 #2 #0 ",
+      "ace2": "5^#2^#3 #1 #3 #0 ",
+      "df": "2^#4^#2 #5 #2 #4 ",
+      "df2": "4^#3^#3 #0 #9 #7 ",
+      "b": "4^#4^# #1 #4 #2 ",
+      "b2": "6^#5^# #4 #0 #6 ",
+      "aceAvgPerSet": "1.05",
+      "dfAvgPerSet": "1.50",
+      "secSrvToDf": "8.66",
+      "srvGameToDf": "3.34",
+      "bAvgPerSet": "1.48",
+      "last_aceAvgPerSet": "0.67",
+      "last_dfAvgPerSet": "1.33",
+      "last_secSrvToDf": "7.75",
+      "last_srvGameToDf": "3.42",
+      "last_bAvgPerSet": "1.50"
+    },
+    "stats2": {
+      "sb_a1": "2",
+      "sb_a2": "2",
+      "sb_am": "3",
+      "sb_df1": "2",
+      "sb_df2": "5",
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "0 #2 #0 #2^#3 #1^",
+      "ace2": "0 #3 #1 #1^#1 #0^",
+      "df": "1 #2 #3 #5^#0 #1^",
+      "df2": "4 #8 #2 #1^#3 #1^",
+      "b": "3 #4 #5 #4^#5 #4^",
+      "b2": "6 #6 #2 #2^#2 #6^",
+      "aceAvgPerSet": "0.91",
+      "dfAvgPerSet": "2.05",
+      "secSrvToDf": "7.86",
+      "srvGameToDf": "3.70",
+      "bAvgPerSet": "1.75",
+      "last_aceAvgPerSet": "0.67",
+      "last_dfAvgPerSet": "0.50",
+      "last_secSrvToDf": "6.83",
+      "last_srvGameToDf": "4.33",
+      "last_bAvgPerSet": "1.67"
+    },
+    "A": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.6"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @2"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 2.5 @2.2"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.6"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 1.5 @2.3"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 2.5 @2"
+      }
+    ],
+    "A_cnt": 8,
+    "A_book_cnt": 3,
+    "DF": [
+      {
+        "book": "superbet",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.1"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.67"
+      },
+      {
+        "book": "superbet",
+        "lineType": "player2",
+        "over": "+ 1.5 @2.15"
+      }
+    ],
+    "DF_cnt": 3,
+    "DF_book_cnt": 1,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
     "id": "-234971367161486736",
     "matchStartTime": "16:00",
     "tournament": "Miami WTA • 1/64 finału",
@@ -4433,7 +7289,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "4#4#2#2#3",
       "sb_a2": "1#3#2#4#2",
@@ -4546,123 +7402,183 @@
     "B_book_cnt": 0
   },
   {
-    "id": "615529115895622064",
-    "matchStartTime": "17:00",
+    "id": "3168874886718486957",
+    "matchStartTime": "19:30",
     "tournament": "Miami WTA • 1/64 finału",
-    "eventName": "Jennifer Brady - Sloane Stephens",
-    "p1": "Jennifer Brady",
-    "p2": "Sloane Stephens",
+    "eventName": "Lilli Tagger - Ella Seidel",
+    "p1": "Lilli Tagger",
+    "p2": "Ella Seidel",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
-      "sb_a1": "3#5",
+      "sb_a1": "5#4",
       "sb_a2": "2#2",
-      "sb_am": "5",
+      "sb_am": "7#6",
       "sb_df1": "3#3",
-      "sb_df2": "3#5",
+      "sb_df2": "2#4",
       "sb_dfm": null,
-      "sb_b1": null,
-      "sb_b2": null,
-      "sb_bm": null,
-      "ace": "4^#2^#5 #0 #2 #0 ",
-      "ace2": "5^#2^#3 #1 #3 #0 ",
-      "df": "2^#4^#2 #5 #2 #4 ",
-      "df2": "4^#3^#3 #0 #9 #7 ",
-      "b": "4^#4^# #1 #4 #2 ",
-      "b2": "6^#5^# #4 #0 #6 ",
-      "aceAvgPerSet": "1.05",
-      "dfAvgPerSet": "1.50",
-      "secSrvToDf": "8.66",
-      "srvGameToDf": "3.34",
-      "bAvgPerSet": "1.48",
-      "last_aceAvgPerSet": "0.67",
-      "last_dfAvgPerSet": "1.33",
-      "last_secSrvToDf": "7.75",
-      "last_srvGameToDf": "3.42",
-      "last_bAvgPerSet": "1.50"
+      "sb_b1": "3",
+      "sb_b2": "5",
+      "sb_bm": "7",
+      "ace": "1 #5 #7 #0 #1 #2 ",
+      "ace2": "3 #0 #0 #1 #0 #1 ",
+      "df": "3 #3 #1 #2 #2 #0 ",
+      "df2": "3 #8 #2 #1 #1 #1 ",
+      "b": "0 #4 #3 #1 #1 #0 ",
+      "b2": "4 #1 #1 #6 #5 #5 ",
+      "aceAvgPerSet": "1.37",
+      "dfAvgPerSet": "1.00",
+      "secSrvToDf": "7.84",
+      "srvGameToDf": "3.66",
+      "bAvgPerSet": "1.05",
+      "last_aceAvgPerSet": "0.33",
+      "last_dfAvgPerSet": "1.17",
+      "last_secSrvToDf": "6.50",
+      "last_srvGameToDf": "3.00",
+      "last_bAvgPerSet": "0.33"
     },
     "stats2": {
-      "sb_a1": "2",
-      "sb_a2": "2",
-      "sb_am": "3",
-      "sb_df1": "2",
-      "sb_df2": "5",
+      "sb_a1": "2#4#4#4",
+      "sb_a2": "8#3#2#2",
+      "sb_am": "7#6",
+      "sb_df1": "5#5#5#5",
+      "sb_df2": "4#4#3#3",
       "sb_dfm": null,
       "sb_b1": null,
       "sb_b2": null,
       "sb_bm": null,
-      "ace": "0 #2 #0 #2^#3 #1^",
-      "ace2": "0 #3 #1 #1^#1 #0^",
-      "df": "1 #2 #3 #5^#0 #1^",
-      "df2": "4 #8 #2 #1^#3 #1^",
-      "b": "3 #4 #5 #4^#5 #4^",
-      "b2": "6 #6 #2 #2^#2 #6^",
-      "aceAvgPerSet": "0.91",
-      "dfAvgPerSet": "2.05",
-      "secSrvToDf": "7.86",
-      "srvGameToDf": "3.70",
-      "bAvgPerSet": "1.75",
-      "last_aceAvgPerSet": "0.67",
-      "last_dfAvgPerSet": "0.50",
-      "last_secSrvToDf": "6.83",
-      "last_srvGameToDf": "4.33",
-      "last_bAvgPerSet": "1.67"
+      "ace": "5^#3 #1 #6 #8^#0 ",
+      "ace2": "11^#6 #0 #0 #2^#3 ",
+      "df": "8^#6 #4 #5 #4^#7 ",
+      "df2": "4^#5 #1 #0 #8^#5 ",
+      "b": "4^#4 #0 #5 #2^#4 ",
+      "b2": "6^#2 #4 #2 #3^#2 ",
+      "aceAvgPerSet": "1.38",
+      "dfAvgPerSet": "2.26",
+      "secSrvToDf": "6.56",
+      "srvGameToDf": "3.31",
+      "bAvgPerSet": "2.02",
+      "last_aceAvgPerSet": "1.33",
+      "last_dfAvgPerSet": "2.50",
+      "last_secSrvToDf": "5.40",
+      "last_srvGameToDf": "2.19",
+      "last_bAvgPerSet": "1.17"
     },
     "A": [
       {
-        "book": "superbet",
+        "book": "betclic",
         "lineType": "meczowa",
-        "over": "+ 3.5 @1.8"
+        "over": "+10.5 @1.8"
       },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.8"
+      }
+    ],
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
+    "B": null,
+    "B_cnt": 0,
+    "B_book_cnt": 0
+  },
+  {
+    "id": "-501040843403435194",
+    "matchStartTime": "18:20",
+    "tournament": "Miami WTA • 1/64 finału",
+    "eventName": "Emerson Jones - Linda Fruhvirtova",
+    "p1": "Emerson Jones",
+    "p2": "Linda Fruhvirtova",
+    "atp": false,
+    "tags1": null,
+    "tags2": "DF",
+    "updateTime": "10:31",
+    "stats1": {
+      "sb_a1": null,
+      "sb_a2": null,
+      "sb_am": null,
+      "sb_df1": null,
+      "sb_df2": null,
+      "sb_dfm": null,
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "0 #4 #2 #0 #2 #3 ",
+      "ace2": "5 #0 #2 #1 #3 #1 ",
+      "df": "4 #3 #5 #5 #4 #2 ",
+      "df2": "1 #3 #2 #5 #0 #3 ",
+      "b": "2 #7 #0 #2 #2 #6 ",
+      "b2": "6 #4 #4 #5 #6 #3 ",
+      "aceAvgPerSet": "1.55",
+      "dfAvgPerSet": "2.05",
+      "secSrvToDf": "5.97",
+      "srvGameToDf": "2.70",
+      "bAvgPerSet": "1.55",
+      "last_aceAvgPerSet": "1.17",
+      "last_dfAvgPerSet": "1.83",
+      "last_secSrvToDf": "6.11",
+      "last_srvGameToDf": "3.17",
+      "last_bAvgPerSet": "1.33"
+    },
+    "stats2": {
+      "sb_a1": "3#3#3#4",
+      "sb_a2": "3#1#1#2",
+      "sb_am": "3#4",
+      "sb_df1": "5#6#6#5",
+      "sb_df2": "2#3#3#5",
+      "sb_dfm": "8",
+      "sb_b1": null,
+      "sb_b2": null,
+      "sb_bm": null,
+      "ace": "2 #6^#3 #1 #3^#0 ",
+      "ace2": "0 #0^#0 #4 #9^#1 ",
+      "df": "1 #7^#7 #3 #2^#1 ",
+      "df2": "0 #3^#0 #3 #2^#0 ",
+      "b": "4 #7^#3 #5 #5^#1 ",
+      "b2": "1 #5^#4 #2 #4^#5 ",
+      "aceAvgPerSet": "1.19",
+      "dfAvgPerSet": "2.67",
+      "secSrvToDf": "4.64",
+      "srvGameToDf": "3.07",
+      "bAvgPerSet": "1.92",
+      "last_aceAvgPerSet": "0.50",
+      "last_dfAvgPerSet": "0.67",
+      "last_secSrvToDf": "6.50",
+      "last_srvGameToDf": "4.50",
+      "last_bAvgPerSet": "1.33"
+    },
+    "A": [
       {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 5.5 @1.8"
       },
       {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 2.5 @2.2"
-      },
-      {
         "book": "betclic",
         "lineType": "player1",
-        "over": "+ 2.5 @1.6"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 1.5 @2.3"
+        "over": "+ 1.5 @1.5"
       },
       {
         "book": "betclic",
         "lineType": "player2",
-        "over": "+ 2.5 @2"
+        "over": "+ 3.5 @1.5"
       }
     ],
-    "A_cnt": 6,
-    "A_book_cnt": 2,
-    "DF": [
-      {
-        "book": "superbet",
-        "lineType": "meczowa",
-        "over": "+ 3.5 @2.1"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player1",
-        "over": "+ 1.5 @1.67"
-      },
-      {
-        "book": "superbet",
-        "lineType": "player2",
-        "over": "+ 1.5 @2.15"
-      }
-    ],
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": null,
+    "DF_cnt": 0,
+    "DF_book_cnt": 0,
     "B": null,
     "B_cnt": 0,
     "B_book_cnt": 0
@@ -4677,7 +7593,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:59",
+    "updateTime": "10:31",
     "stats1": {
       "sb_a1": "3#3#4#4#3",
       "sb_a2": "3#2#4#4#3",
@@ -4744,6 +7660,16 @@
         "over": "+ 6.5 @1.8"
       },
       {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.6"
+      },
+      {
+        "book": "betfan",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2"
+      },
+      {
         "book": "superbet",
         "lineType": "player1",
         "over": "+ 3.5 @1.97"
@@ -4764,8 +7690,8 @@
         "over": "+ 1.5 @1.6"
       }
     ],
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 8,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
