@@ -9,7 +9,7 @@
     "atp": false,
     "tags1": "T",
     "tags2": null,
-    "updateTime": "07:20",
+    "updateTime": "08:00",
     "stats1": {
       "sb_a1": "2#3#3#3#4#2",
       "sb_a2": "3#1#3#2#2#1",
@@ -231,7 +231,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:20",
+    "updateTime": "08:00",
     "stats1": {
       "sb_a1": "6#6#6#7#10#10",
       "sb_a2": "3#4#3#9#3#11",
@@ -434,6 +434,12 @@
     "DF_book_cnt": 3,
     "B": [
       {
+        "book": "forbet",
+        "under": "- 3.5 @1.66",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.05"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @1.8",
         "lineType": "meczowa",
@@ -470,8 +476,8 @@
         "over": "+ 2.5 @1.48"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 7,
+    "B_book_cnt": 3
   },
   {
     "id": "5922637749671267140",
@@ -483,7 +489,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:20",
+    "updateTime": "08:00",
     "stats1": {
       "sb_a1": "4#3#3#5#6#4",
       "sb_a2": "5#3#2#8#5#7",
@@ -558,9 +564,21 @@
         "over": "+ 6.5 @1.93"
       },
       {
+        "book": "sts",
+        "under": "- 6.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.85"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 7.5 @1.8"
+      },
+      {
+        "book": "sts",
+        "under": "- 3.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 3.5 @2"
       },
       {
         "book": "superbet",
@@ -592,6 +610,12 @@
         "over": "+ 2.5 @1.8"
       },
       {
+        "book": "sts",
+        "under": "- 2.5 @2.15",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.6"
+      },
+      {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 3.5 @1.8"
@@ -605,8 +629,8 @@
         "over": "  @2.05"
       }
     ],
-    "A_cnt": 10,
-    "A_book_cnt": 3,
+    "A_cnt": 13,
+    "A_book_cnt": 4,
     "DF": [
       {
         "book": "betclic",
