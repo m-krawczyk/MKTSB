@@ -9,7 +9,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3##3#5#4#",
       "sb_a2": "4##4#9#4#",
@@ -102,7 +102,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "6#7#6#7#7#10",
       "sb_a2": "4#7#6#7#6#10",
@@ -195,7 +195,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "7##4#7#10#9",
       "sb_a2": "6##5#7#7#5",
@@ -288,7 +288,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": "D",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3#4#6#3#5#4",
       "sb_a2": "3#4#6#1#1#4",
@@ -465,7 +465,7 @@
   },
   {
     "id": "7787725850041390722",
-    "matchStartTime": "14:10",
+    "matchStartTime": "15:20",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Dino Prizmic - Novak Djokovic",
     "p1": "Dino Prizmic",
@@ -473,7 +473,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "4###6##",
       "sb_a2": "3###9##",
@@ -530,6 +530,12 @@
     },
     "A": [
       {
+        "book": "fortuna",
+        "under": "- 6.5 @1.68",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.99"
+      },
+      {
         "book": "betfan",
         "under": "- 6.5 @1.95",
         "lineType": "meczowa",
@@ -551,6 +557,12 @@
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 7.5 @1.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @1.81",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.83"
       },
       {
         "book": "betfan",
@@ -576,6 +588,12 @@
         "over": "+ 3.5 @1.8"
       },
       {
+        "book": "fortuna",
+        "under": "- 3.5 @1.76",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.88"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @1.95",
         "lineType": "player2",
@@ -599,9 +617,16 @@
         "over": "+ 4.5 @1.8"
       }
     ],
-    "MA": null,
-    "A_cnt": 12,
-    "A_book_cnt": 4,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @2.7",
+        "lineType": "meczowa",
+        "over": "  @1.74"
+      }
+    ],
+    "A_cnt": 15,
+    "A_book_cnt": 5,
     "DF": [
       {
         "book": "betfan",
@@ -622,6 +647,12 @@
         "over": "+ 4.5 @2.15"
       },
       {
+        "book": "fortuna",
+        "under": "- 4.5 @2.01",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.66"
+      },
+      {
         "book": "betfan",
         "under": "- 2.5 @1.55",
         "lineType": "player1",
@@ -640,6 +671,12 @@
         "over": "+ 2.5 @2.25"
       },
       {
+        "book": "fortuna",
+        "under": "- 2.5 @1.97",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.69"
+      },
+      {
         "book": "betfan",
         "under": "- 1.5 @2.15",
         "lineType": "player2",
@@ -656,12 +693,31 @@
         "under": "- 1.5 @2.15",
         "lineType": "player2",
         "over": "+ 1.5 @1.6"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @1.52",
+        "lineType": "player2",
+        "over": "+ 2.5 @2.27"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 9,
-    "DF_book_cnt": 3,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @1.68",
+        "lineType": "meczowa",
+        "over": "  @3"
+      }
+    ],
+    "DF_cnt": 12,
+    "DF_book_cnt": 4,
     "B": [
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @1.6",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @2.14"
+      },
       {
         "book": "superbet",
         "under": "- 6.5 @1.66",
@@ -699,8 +755,8 @@
         "over": "+ 3.5 @1.65"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 7,
+    "B_book_cnt": 3
   },
   {
     "id": "3943703676590061908",
@@ -712,7 +768,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "D",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#7#5#7#10#12",
       "sb_a2": "#5#4#3#15#14",
@@ -797,7 +853,7 @@
   },
   {
     "id": "3386113653506860271",
-    "matchStartTime": "13:20",
+    "matchStartTime": "14:20",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Learner Tien - Damir Dzumhur",
     "p1": "Learner Tien",
@@ -805,7 +861,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#5#6#7#4#7",
       "sb_a2": "#3#5#7#7#4",
@@ -982,7 +1038,7 @@
   },
   {
     "id": "5610732465774401219",
-    "matchStartTime": "13:20",
+    "matchStartTime": "14:20",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Alejandro Tabilo - Francisco Cerundolo",
     "p1": "Alejandro Tabilo",
@@ -990,7 +1046,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "5##8#6#5#5",
       "sb_a2": "1##7#5#6#4",
@@ -1167,7 +1223,7 @@
   },
   {
     "id": "-5305702931605486389",
-    "matchStartTime": "14:30",
+    "matchStartTime": "15:30",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Sebastian Baez - Alexander Bublik",
     "p1": "Sebastian Baez",
@@ -1175,7 +1231,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "A;DF",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "1##2#2#2#2",
       "sb_a2": "1##3#3#5#5",
@@ -1232,14 +1288,20 @@
     },
     "A": [
       {
-        "book": "betfan",
-        "under": "- 7.5 @1.9",
+        "book": "fortuna",
+        "under": "- 7.5 @1.81",
         "lineType": "meczowa",
-        "over": "+ 7.5 @1.8"
+        "over": "+ 7.5 @1.83"
       },
       {
         "book": "superbet",
-        "under": "- 7.5 @1.92",
+        "under": "- 7.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.82"
+      },
+      {
+        "book": "betfan",
+        "under": "- 7.5 @1.9",
         "lineType": "meczowa",
         "over": "+ 7.5 @1.8"
       },
@@ -1255,9 +1317,21 @@
         "over": "+ 0.5 @1.42"
       },
       {
+        "book": "fortuna",
+        "under": "- 1.5 @1.4",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.6"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 1.5 @1.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @1.67",
+        "lineType": "player2",
+        "over": "+ 6.5 @2"
       },
       {
         "book": "betfan",
@@ -1267,9 +1341,9 @@
       },
       {
         "book": "superbet",
-        "under": "- 6.5 @1.87",
+        "under": "- 6.5 @1.85",
         "lineType": "player2",
-        "over": "+ 6.5 @1.83"
+        "over": "+ 6.5 @1.85"
       },
       {
         "book": "betclic",
@@ -1277,10 +1351,29 @@
         "over": "+ 8.5 @1.8"
       }
     ],
-    "MA": null,
-    "A_cnt": 8,
-    "A_book_cnt": 3,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @28",
+        "lineType": "meczowa",
+        "over": "  @1.02"
+      }
+    ],
+    "A_cnt": 11,
+    "A_book_cnt": 4,
     "DF": [
+      {
+        "book": "fortuna",
+        "under": "- 5.5 @1.69",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.97"
+      },
+      {
+        "book": "superbet",
+        "under": "- 5.5 @1.78",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.92"
+      },
       {
         "book": "betfan",
         "under": "- 5.5 @1.8",
@@ -1288,10 +1381,10 @@
         "over": "+ 5.5 @1.9"
       },
       {
-        "book": "superbet",
-        "under": "- 5.5 @1.8",
-        "lineType": "meczowa",
-        "over": "+ 5.5 @1.9"
+        "book": "fortuna",
+        "under": "- 1.5 @1.87",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.77"
       },
       {
         "book": "betfan",
@@ -1301,9 +1394,15 @@
       },
       {
         "book": "superbet",
-        "under": "- 1.5 @2.05",
+        "under": "- 1.5 @2.02",
         "lineType": "player1",
         "over": "+ 1.5 @1.7"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.77",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.87"
       },
       {
         "book": "betfan",
@@ -1313,15 +1412,28 @@
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @1.88",
+        "under": "- 3.5 @1.85",
         "lineType": "player2",
-        "over": "+ 3.5 @1.83"
+        "over": "+ 3.5 @1.85"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 6,
-    "DF_book_cnt": 2,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @5",
+        "lineType": "meczowa",
+        "over": "  @1.36"
+      }
+    ],
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
+      {
+        "book": "fortuna",
+        "under": "- 5.5 @1.82",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.84"
+      },
       {
         "book": "superbet",
         "under": "- 5.5 @2.02",
@@ -1341,8 +1453,8 @@
         "over": "+ 3.5 @2.05"
       }
     ],
-    "B_cnt": 3,
-    "B_book_cnt": 1
+    "B_cnt": 4,
+    "B_book_cnt": 2
   },
   {
     "id": "-6244711511397165044",
@@ -1354,7 +1466,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3####3#4",
       "sb_a2": "3####6#4",
@@ -1439,7 +1551,7 @@
   },
   {
     "id": "6215027608210216437",
-    "matchStartTime": "13:00",
+    "matchStartTime": "14:10",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Daniel Altmaier - Alexander Zverev",
     "p1": "Daniel Altmaier",
@@ -1447,7 +1559,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "6##5#6#5#",
       "sb_a2": "6##3#6#4#",
@@ -1560,6 +1672,12 @@
     "A_book_cnt": 3,
     "DF": [
       {
+        "book": "fortuna",
+        "under": "- 3.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.79"
+      },
+      {
         "book": "betfan",
         "under": "- 4.5 @1.7",
         "lineType": "meczowa",
@@ -1572,6 +1690,12 @@
         "over": "+ 4.5 @2"
       },
       {
+        "book": "fortuna",
+        "under": "- 1.5 @2.13",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.59"
+      },
+      {
         "book": "betfan",
         "under": "- 2.5 @1.65",
         "lineType": "player1",
@@ -1582,6 +1706,12 @@
         "under": "- 2.5 @1.65",
         "lineType": "player1",
         "over": "+ 2.5 @2.1"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 1.5 @1.75",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.9"
       },
       {
         "book": "betfan",
@@ -1596,10 +1726,23 @@
         "over": "+ 1.5 @1.59"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 6,
-    "DF_book_cnt": 2,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @1.8",
+        "lineType": "meczowa",
+        "over": "  @3"
+      }
+    ],
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
+      {
+        "book": "fortuna",
+        "under": "- 4.5 @1.58",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @2.17"
+      },
       {
         "book": "superbet",
         "under": "- 4.5 @1.76",
@@ -1619,8 +1762,8 @@
         "over": "+ 3.5 @1.8"
       }
     ],
-    "B_cnt": 3,
-    "B_book_cnt": 1
+    "B_cnt": 4,
+    "B_book_cnt": 2
   },
   {
     "id": "3615202466562745157",
@@ -1632,7 +1775,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#2#2#3#3#3",
       "sb_a2": "#3#3#4#3#2",
@@ -1725,7 +1868,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "D",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "###8#5#5",
       "sb_a2": "###3#2#9",
@@ -1818,7 +1961,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "5#4#4##4#3",
       "sb_a2": "6#6#4##6#5",
@@ -1930,7 +2073,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3#7####",
       "sb_a2": "3#10####",
@@ -2042,7 +2185,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#4#3#2#2#4",
       "sb_a2": "#6#4#4#2#3",
@@ -2239,7 +2382,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "4##4#4#3#3",
       "sb_a2": "5##6#5#2#5",
@@ -2332,7 +2475,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "6##7##9#8",
       "sb_a2": "6##5##10#7",
@@ -2509,7 +2652,7 @@
   },
   {
     "id": "6518564136205392012",
-    "matchStartTime": "14:30",
+    "matchStartTime": "15:30",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Tommy Paul - Aleksandar Vukic",
     "p1": "Tommy Paul",
@@ -2517,7 +2660,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "##6#4#4#6",
       "sb_a2": "##5#4#4#7",
@@ -2575,9 +2718,15 @@
     "A": [
       {
         "book": "superbet",
-        "under": "- 6.5 @2.02",
+        "under": "- 6.5 @1.76",
         "lineType": "meczowa",
-        "over": "+ 6.5 @1.71"
+        "over": "+ 6.5 @1.95"
+      },
+      {
+        "book": "betfan",
+        "under": "- 6.5 @2",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.7"
       },
       {
         "book": "betclic",
@@ -2586,7 +2735,13 @@
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @1.69",
+        "under": "- 3.5 @1.66",
+        "lineType": "player1",
+        "over": "+ 3.5 @2.1"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.67",
         "lineType": "player1",
         "over": "+ 3.5 @2.05"
       },
@@ -2597,6 +2752,12 @@
       },
       {
         "book": "superbet",
+        "under": "- 2.5 @2.25",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.57"
+      },
+      {
+        "book": "betfan",
         "under": "- 3.5 @1.85",
         "lineType": "player2",
         "over": "+ 3.5 @1.85"
@@ -2608,31 +2769,49 @@
       }
     ],
     "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 9,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
+        "under": "- 3.5 @1.69",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.05"
+      },
+      {
+        "book": "betfan",
         "under": "- 3.5 @1.7",
         "lineType": "meczowa",
-        "over": "+ 3.5 @2.02"
+        "over": "+ 3.5 @2"
       },
       {
         "book": "superbet",
+        "under": "- 1.5 @1.72",
+        "lineType": "player1",
+        "over": "+ 1.5 @2"
+      },
+      {
+        "book": "betfan",
         "under": "- 1.5 @1.75",
         "lineType": "player1",
-        "over": "+ 1.5 @1.97"
+        "over": "+ 1.5 @1.95"
       },
       {
         "book": "superbet",
         "under": "- 1.5 @2.05",
         "lineType": "player2",
         "over": "+ 1.5 @1.69"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2.05",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.67"
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": [
       {
         "book": "superbet",
@@ -2666,7 +2845,7 @@
     "atp": true,
     "tags1": "D",
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "5#7#7#6#8#7",
       "sb_a2": "6#12#6#9#9#14",
@@ -2759,7 +2938,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "7#7#6#6##",
       "sb_a2": "6#3#4#3##",
@@ -2852,7 +3031,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "9##8#12#13#11",
       "sb_a2": "6##5#7#6#7",
@@ -2964,7 +3143,7 @@
     "atp": true,
     "tags1": "T",
     "tags2": "A",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "4###4#3#3",
       "sb_a2": "6###3#2#3",
@@ -3021,10 +3200,22 @@
     },
     "A": [
       {
-        "book": "superbet",
-        "under": "- 9.5 @1.87",
+        "book": "fortuna",
+        "under": "- 8.5 @1.72",
         "lineType": "meczowa",
-        "over": "+ 9.5 @1.83"
+        "over": "+ 8.5 @1.93"
+      },
+      {
+        "book": "superbet",
+        "under": "- 9.5 @1.83",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.88"
+      },
+      {
+        "book": "betfan",
+        "under": "- 9.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.85"
       },
       {
         "book": "betclic",
@@ -3033,9 +3224,21 @@
       },
       {
         "book": "superbet",
-        "under": "- 2.5 @2.07",
+        "under": "- 2.5 @2.02",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @2.05",
         "lineType": "player1",
         "over": "+ 2.5 @1.67"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.68",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.99"
       },
       {
         "book": "betclic",
@@ -3043,10 +3246,22 @@
         "over": "+ 4.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 6.5 @1.92",
+        "book": "fortuna",
+        "under": "- 5.5 @1.71",
         "lineType": "player2",
-        "over": "+ 6.5 @1.78"
+        "over": "+ 5.5 @1.95"
+      },
+      {
+        "book": "superbet",
+        "under": "- 6.5 @1.9",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 6.5 @1.95",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.75"
       },
       {
         "book": "betclic",
@@ -3054,15 +3269,46 @@
         "over": "+ 7.5 @1.8"
       }
     ],
-    "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @4.35",
+        "lineType": "meczowa",
+        "over": "  @1.37"
+      }
+    ],
+    "A_cnt": 12,
+    "A_book_cnt": 4,
     "DF": [
       {
+        "book": "fortuna",
+        "under": "- 3.5 @2.18",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.56"
+      },
+      {
         "book": "superbet",
-        "under": "- 4.5 @1.72",
+        "under": "- 4.5 @1.69",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @2.05"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.7",
         "lineType": "meczowa",
         "over": "+ 4.5 @2"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 1.5 @1.6",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.11"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @1.67",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.05"
       },
       {
         "book": "superbet",
@@ -3075,17 +3321,42 @@
         "under": "- 2.5 @2.07",
         "lineType": "player2",
         "over": "+ 2.5 @1.68"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @2.05",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.67"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @2.03",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.65"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @4.6",
+        "lineType": "meczowa",
+        "over": "  @1.43"
+      }
+    ],
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
       {
         "book": "superbet",
         "under": "- 3.5 @1.5",
         "lineType": "meczowa",
         "over": "+ 3.5 @2.4"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.55",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.23"
       },
       {
         "book": "superbet",
@@ -3100,8 +3371,8 @@
         "over": "+ 0.5 @1.85"
       }
     ],
-    "B_cnt": 3,
-    "B_book_cnt": 1
+    "B_cnt": 4,
+    "B_book_cnt": 2
   },
   {
     "id": "1796549075141317624",
@@ -3113,7 +3384,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "2##6#5#5#5",
       "sb_a2": "6##8#5#3#6",
@@ -3302,7 +3573,7 @@
   },
   {
     "id": "6155440905485438803",
-    "matchStartTime": "16:30",
+    "matchStartTime": "17:50",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Yannick Hanfmann - Luciano Darderi",
     "p1": "Yannick Hanfmann",
@@ -3310,7 +3581,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "6###5#7#6",
       "sb_a2": "10###6#4#6",
@@ -3367,10 +3638,16 @@
     },
     "A": [
       {
-        "book": "superbet",
-        "under": "- 9.5 @1.87",
+        "book": "betfan",
+        "under": "- 9.5 @1.85",
         "lineType": "meczowa",
         "over": "+ 9.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "under": "- 9.5 @1.92",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.78"
       },
       {
         "book": "betclic",
@@ -3378,10 +3655,16 @@
         "over": "+10.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 5.5 @1.72",
+        "book": "betfan",
+        "under": "- 5.5 @1.7",
         "lineType": "player1",
         "over": "+ 5.5 @2"
+      },
+      {
+        "book": "superbet",
+        "under": "- 5.5 @1.77",
+        "lineType": "player1",
+        "over": "+ 5.5 @1.95"
       },
       {
         "book": "betclic",
@@ -3389,10 +3672,16 @@
         "over": "+ 6.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 4.5 @1.68",
+        "book": "betfan",
+        "under": "- 4.5 @1.65",
         "lineType": "player2",
-        "over": "+ 4.5 @2.05"
+        "over": "+ 4.5 @2.1"
+      },
+      {
+        "book": "superbet",
+        "under": "- 4.5 @1.72",
+        "lineType": "player2",
+        "over": "+ 4.5 @2"
       },
       {
         "book": "betclic",
@@ -3401,31 +3690,49 @@
       }
     ],
     "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 9,
+    "A_book_cnt": 3,
     "DF": [
       {
-        "book": "superbet",
+        "book": "betfan",
         "under": "- 2.5 @2.25",
         "lineType": "meczowa",
         "over": "+ 2.5 @1.57"
       },
       {
         "book": "superbet",
-        "under": "- 1.5 @1.66",
+        "under": "- 3.5 @1.58",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.22"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @1.65",
         "lineType": "player1",
         "over": "+ 1.5 @2.1"
       },
       {
         "book": "superbet",
-        "under": "- 1.5 @1.82",
+        "under": "- 1.5 @1.69",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.05"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @1.8",
         "lineType": "player2",
-        "over": "+ 1.5 @1.88"
+        "over": "+ 1.5 @1.9"
+      },
+      {
+        "book": "superbet",
+        "under": "- 1.5 @1.87",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.85"
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": [
       {
         "book": "superbet",
@@ -3459,7 +3766,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#4#4#5#5#4",
       "sb_a2": "#3#6#4#5#2",
@@ -3563,7 +3870,7 @@
   },
   {
     "id": "8190572341718044313",
-    "matchStartTime": "13:20",
+    "matchStartTime": "14:35",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Tallon Griekspoor - Alexander Blockx",
     "p1": "Tallon Griekspoor",
@@ -3571,7 +3878,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "##5#6#8#9",
       "sb_a2": "##8#8#5#10",
@@ -3756,7 +4063,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "4#4#6##4#5",
       "sb_a2": "7#6#3##3#8",
@@ -3941,7 +4248,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "5###5#3#5",
       "sb_a2": "4###5#3#4",
@@ -4034,7 +4341,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "6#6#8#6#6#",
       "sb_a2": "5#4#6#4#4#",
@@ -4119,7 +4426,7 @@
   },
   {
     "id": "-5013163110389192246",
-    "matchStartTime": "14:30",
+    "matchStartTime": "15:45",
     "tournament": "Rzym ATP • 1/32 finału",
     "eventName": "Ugo Humbert - Vit Kopriva",
     "p1": "Ugo Humbert",
@@ -4127,7 +4434,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#3#4#7#6#7",
       "sb_a2": "#6#4#3#6#9",
@@ -4191,9 +4498,15 @@
       },
       {
         "book": "superbet",
-        "under": "- 6.5 @1.83",
+        "under": "- 6.5 @1.82",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.88"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @1.82",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.82"
       },
       {
         "book": "betclic",
@@ -4213,15 +4526,27 @@
         "over": "+ 3.5 @1.74"
       },
       {
+        "book": "fortuna",
+        "under": "- 4.5 @1.63",
+        "lineType": "player1",
+        "over": "+ 4.5 @2.06"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 4.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 2.5 @1.95",
+        "book": "fortuna",
+        "under": "- 2.5 @1.71",
         "lineType": "player2",
-        "over": "+ 2.5 @1.77"
+        "over": "+ 2.5 @1.94"
+      },
+      {
+        "book": "superbet",
+        "under": "- 2.5 @1.92",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.78"
       },
       {
         "book": "betfan",
@@ -4235,9 +4560,16 @@
         "over": "+ 2.5 @1.7"
       }
     ],
-    "MA": null,
-    "A_cnt": 9,
-    "A_book_cnt": 3,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @1.5",
+        "lineType": "meczowa",
+        "over": "  @3.6"
+      }
+    ],
+    "A_cnt": 12,
+    "A_book_cnt": 4,
     "DF": [
       {
         "book": "superbet",
@@ -4252,6 +4584,18 @@
         "over": "+ 5.5 @1.9"
       },
       {
+        "book": "fortuna",
+        "under": "- 5.5 @1.77",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.87"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @1.74",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.91"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @1.9",
         "lineType": "player1",
@@ -4264,21 +4608,46 @@
         "over": "+ 2.5 @1.8"
       },
       {
+        "book": "betfan",
+        "under": "- 2.5 @1.95",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.75"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @1.97",
         "lineType": "player2",
         "over": "+ 2.5 @1.74"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.57",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.16"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 5,
-    "DF_book_cnt": 2,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @2.75",
+        "lineType": "meczowa",
+        "over": "  @1.79"
+      }
+    ],
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
       {
         "book": "superbet",
         "under": "- 5.5 @1.63",
         "lineType": "meczowa",
         "over": "+ 5.5 @2.15"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 5.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.98"
       },
       {
         "book": "superbet",
@@ -4293,8 +4662,8 @@
         "over": "+ 3.5 @2.3"
       }
     ],
-    "B_cnt": 3,
-    "B_book_cnt": 1
+    "B_cnt": 4,
+    "B_book_cnt": 2
   },
   {
     "id": "-1924461090391214266",
@@ -4306,7 +4675,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "5##4#6#7#10",
       "sb_a2": "12##3#8#5#5",
@@ -4455,7 +4824,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "T",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "##1#1#1#",
       "sb_a2": "2##4#4#4#",
@@ -4548,7 +4917,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "2#3###2#2",
       "sb_a2": "3#7###4#1",
@@ -4641,7 +5010,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "4#4#4###3",
       "sb_a2": "3#6#5###3",
@@ -4734,7 +5103,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "1#1#1#1#2#1",
       "sb_a2": "4#2#1#3#3#2",
@@ -4827,7 +5196,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3#3#5#6#7#2",
       "sb_a2": "2#2#3#2#7#4",
@@ -4920,7 +5289,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "6#5###7#6",
       "sb_a2": "1#3###5#5",
@@ -5013,7 +5382,7 @@
     "atp": false,
     "tags1": "DF;T",
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3#6###3#4",
       "sb_a2": "1#4###3#2",
@@ -5106,7 +5475,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "2###3#4#2",
       "sb_a2": "2###1#3#6",
@@ -5199,7 +5568,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3#3#4#5#6#3",
       "sb_a2": "1#2#9#4#10#2",
@@ -5329,7 +5698,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#####",
       "sb_a2": "#####",
@@ -5470,7 +5839,7 @@
   },
   {
     "id": "-6163789494900125227",
-    "matchStartTime": "13:20",
+    "matchStartTime": "14:15",
     "tournament": "Rzym WTA • 1/32 finału",
     "eventName": "Ekaterina Alexandrova - Laura Siegemund",
     "p1": "Ekaterina Alexandrova",
@@ -5478,7 +5847,7 @@
     "atp": false,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "10#7#5#5#4#6",
       "sb_a2": "10#3#7#4#5#5",
@@ -5540,6 +5909,12 @@
         "over": "+ 6.5 @1.8"
       },
       {
+        "book": "betfan",
+        "under": "- 3.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.65"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @2.12",
         "lineType": "player1",
@@ -5557,20 +5932,38 @@
         "over": "+ 0.5 @1.56"
       },
       {
+        "book": "betfan",
+        "under": "- 0.5 @2.3",
+        "lineType": "player2",
+        "over": "+ 0.5 @1.55"
+      },
+      {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 1.5 @1.8"
       }
     ],
     "MA": null,
-    "A_cnt": 5,
-    "A_book_cnt": 2,
+    "A_cnt": 7,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 3.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.65"
+      },
       {
         "book": "superbet",
         "under": "- 3.5 @2.1",
         "lineType": "player1",
         "over": "+ 3.5 @1.65"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.75",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.95"
       },
       {
         "book": "superbet",
@@ -5580,8 +5973,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 2,
-    "DF_book_cnt": 1,
+    "DF_cnt": 4,
+    "DF_book_cnt": 2,
     "B": [
       {
         "book": "superbet",
@@ -5615,7 +6008,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "1#1###1#1",
       "sb_a2": "2#2###1#3",
@@ -5860,7 +6253,7 @@
   },
   {
     "id": "-7835555278078344788",
-    "matchStartTime": "15:40",
+    "matchStartTime": "16:40",
     "tournament": "Rzym WTA • 1/32 finału",
     "eventName": "Elina Svitolina - Noemi Basiletti",
     "p1": "Elina Svitolina",
@@ -5868,7 +6261,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#4#7#4#4#6",
       "sb_a2": "#4#6#1#4#2",
@@ -5925,6 +6318,12 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 2.5 @2",
+        "lineType": "meczowa",
+        "over": "+ 2.5 @1.7"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @2.05",
         "lineType": "meczowa",
@@ -5934,6 +6333,12 @@
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 3.5 @2"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.85"
       },
       {
         "book": "superbet",
@@ -5947,14 +6352,20 @@
         "over": "+ 2.5 @1.8"
       },
       {
+        "book": "betfan",
+        "under": "- 0.5 @1.32",
+        "lineType": "player2",
+        "over": "+ 0.5 @3.1"
+      },
+      {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 0.5 @2.2"
       }
     ],
     "MA": null,
-    "A_cnt": 5,
-    "A_book_cnt": 2,
+    "A_cnt": 8,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
@@ -5963,10 +6374,28 @@
         "over": "+ 3.5 @1.66"
       },
       {
+        "book": "betfan",
+        "under": "- 3.5 @2.1",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.65"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 2.5 @2.1"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @1.68",
         "lineType": "player1",
         "over": "+ 2.5 @2.05"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @1.65",
+        "lineType": "player2",
+        "over": "+ 1.5 @2.1"
       },
       {
         "book": "superbet",
@@ -5976,8 +6405,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": [
       {
         "book": "superbet",
@@ -6003,7 +6432,7 @@
   },
   {
     "id": "8052551918403001998",
-    "matchStartTime": "15:40",
+    "matchStartTime": "16:40",
     "tournament": "Rzym WTA • 1/32 finału",
     "eventName": "Karolina Pliskova - Jaqueline Cristian",
     "p1": "Karolina Pliskova",
@@ -6011,7 +6440,7 @@
     "atp": false,
     "tags1": "D",
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "4#5#5###6",
       "sb_a2": "2#4#3###2",
@@ -6068,15 +6497,39 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 6.5 @1.95",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.75"
+      },
+      {
         "book": "superbet",
         "under": "- 6.5 @1.95",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.75"
       },
       {
+        "book": "fortuna",
+        "under": "- 7.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.96"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.93",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.72"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.65"
       },
       {
         "book": "superbet",
@@ -6096,20 +6549,51 @@
         "over": "+ 2.5 @1.66"
       },
       {
+        "book": "betfan",
+        "under": "- 2.5 @2.1",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.65"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.71",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.94"
+      },
+      {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 3.5 @1.8"
       }
     ],
-    "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @1.8",
+        "lineType": "meczowa",
+        "over": "  @2.6"
+      }
+    ],
+    "A_cnt": 12,
+    "A_book_cnt": 4,
     "DF": [
+      {
+        "book": "fortuna",
+        "under": "- 7.5 @2.04",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.64"
+      },
       {
         "book": "superbet",
         "under": "- 8.5 @1.7",
         "lineType": "meczowa",
         "over": "+ 8.5 @2.02"
+      },
+      {
+        "book": "betfan",
+        "under": "- 8.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2"
       },
       {
         "book": "superbet",
@@ -6118,16 +6602,53 @@
         "over": "+ 4.5 @1.66"
       },
       {
+        "book": "betfan",
+        "under": "- 4.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.65"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 4.5 @2.04",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.64"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @1.64",
         "lineType": "player2",
         "over": "+ 3.5 @2.12"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.65",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.1"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.73",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.92"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @1.48",
+        "lineType": "meczowa",
+        "over": "  @3.5"
+      }
+    ],
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
+      {
+        "book": "fortuna",
+        "under": "- 7.5 @1.81",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.85"
+      },
       {
         "book": "superbet",
         "under": "- 7.5 @1.85",
@@ -6147,8 +6668,8 @@
         "over": "+ 3.5 @1.62"
       }
     ],
-    "B_cnt": 3,
-    "B_book_cnt": 1
+    "B_cnt": 4,
+    "B_book_cnt": 2
   },
   {
     "id": "8471126515413696997",
@@ -6160,7 +6681,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "5#4#3#4#5#4",
       "sb_a2": "1#2#2#3#6#3",
@@ -6301,7 +6822,7 @@
   },
   {
     "id": "8391651060190318299",
-    "matchStartTime": "14:30",
+    "matchStartTime": "15:25",
     "tournament": "Rzym WTA • 1/32 finału",
     "eventName": "Rebeka Masarova - Leylah Fernandez",
     "p1": "Rebeka Masarova",
@@ -6309,7 +6830,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "4#6#5#5#8#8",
       "sb_a2": "1#3#2#1#2#1",
@@ -6366,6 +6887,12 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 4.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @2"
+      },
+      {
         "book": "superbet",
         "under": "- 4.5 @1.72",
         "lineType": "meczowa",
@@ -6377,10 +6904,16 @@
         "over": "+ 6.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 3.5 @1.68",
+        "book": "betfan",
+        "under": "- 3.5 @1.8",
         "lineType": "player1",
-        "over": "+ 3.5 @2.07"
+        "over": "+ 3.5 @1.9"
+      },
+      {
+        "book": "superbet",
+        "under": "- 3.5 @1.82",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.9"
       },
       {
         "book": "betclic",
@@ -6388,10 +6921,16 @@
         "over": "+ 4.5 @1.8"
       },
       {
-        "book": "superbet",
+        "book": "betfan",
         "under": "- 0.5 @2.45",
         "lineType": "player2",
-        "over": "+ 0.5 @1.49"
+        "over": "+ 0.5 @1.48"
+      },
+      {
+        "book": "superbet",
+        "under": "- 0.5 @2.47",
+        "lineType": "player2",
+        "over": "+ 0.5 @1.48"
       },
       {
         "book": "betclic",
@@ -6400,9 +6939,15 @@
       }
     ],
     "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 9,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 7.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.9"
+      },
       {
         "book": "superbet",
         "under": "- 7.5 @1.8",
@@ -6410,21 +6955,33 @@
         "over": "+ 7.5 @1.9"
       },
       {
-        "book": "superbet",
-        "under": "- 3.5 @1.87",
+        "book": "betfan",
+        "under": "- 3.5 @1.85",
         "lineType": "player1",
         "over": "+ 3.5 @1.85"
       },
       {
         "book": "superbet",
+        "under": "- 3.5 @1.87",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.83"
+      },
+      {
+        "book": "betfan",
         "under": "- 3.5 @2",
         "lineType": "player2",
-        "over": "+ 3.5 @1.72"
+        "over": "+ 3.5 @1.7"
+      },
+      {
+        "book": "superbet",
+        "under": "- 3.5 @2.05",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.7"
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": null,
     "B_cnt": 0,
     "B_book_cnt": 0
@@ -6439,7 +6996,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3#3#2#3#2#2",
       "sb_a2": "3#2#6#4#2#4",
@@ -6502,15 +7059,27 @@
         "over": "+ 2.5 @2.02"
       },
       {
+        "book": "betfan",
+        "under": "- 2.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 2.5 @2"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 4.5 @1.8"
       },
       {
         "book": "superbet",
-        "under": "- 1.5 @1.45",
+        "under": "- 0.5 @2.55",
         "lineType": "player1",
-        "over": "+ 1.5 @2.55"
+        "over": "+ 0.5 @1.46"
+      },
+      {
+        "book": "betfan",
+        "under": "- 0.5 @2.55",
+        "lineType": "player1",
+        "over": "+ 0.5 @1.45"
       },
       {
         "book": "betclic",
@@ -6518,10 +7087,16 @@
         "over": "+ 2.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 1.5 @1.51",
+        "book": "betfan",
+        "under": "- 1.5 @1.55",
         "lineType": "player2",
-        "over": "+ 1.5 @2.4"
+        "over": "+ 1.5 @2.3"
+      },
+      {
+        "book": "superbet",
+        "under": "- 1.5 @1.56",
+        "lineType": "player2",
+        "over": "+ 1.5 @2.3"
       },
       {
         "book": "betclic",
@@ -6530,9 +7105,15 @@
       }
     ],
     "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 9,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 6.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.9"
+      },
       {
         "book": "superbet",
         "under": "- 6.5 @1.8",
@@ -6541,27 +7122,39 @@
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @2.07",
+        "under": "- 3.5 @2.15",
         "lineType": "player1",
-        "over": "+ 3.5 @1.68"
+        "over": "+ 3.5 @1.63"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @2.15",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.62"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.7",
+        "lineType": "player2",
+        "over": "+ 2.5 @2"
       },
       {
         "book": "superbet",
-        "under": "- 2.5 @1.76",
+        "under": "- 2.5 @1.72",
         "lineType": "player2",
-        "over": "+ 2.5 @1.95"
+        "over": "+ 2.5 @2"
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": null,
     "B_cnt": 0,
     "B_book_cnt": 0
   },
   {
     "id": "-3330488241361695124",
-    "matchStartTime": "13:20",
+    "matchStartTime": "14:20",
     "tournament": "Rzym WTA • 1/32 finału",
     "eventName": "Jessica Pegula - Zeynep Sonmez",
     "p1": "Jessica Pegula",
@@ -6569,7 +7162,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "##3#4#3#3",
       "sb_a2": "##1#3#2#2",
@@ -6626,6 +7219,12 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 2.5 @1.6",
+        "lineType": "meczowa",
+        "over": "+ 2.5 @2.2"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @1.6",
         "lineType": "meczowa",
@@ -6635,6 +7234,12 @@
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2.25",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.57"
       },
       {
         "book": "superbet",
@@ -6648,15 +7253,27 @@
         "over": "+ 2.5 @1.8"
       },
       {
+        "book": "betfan",
+        "under": "- 0.5 @1.28",
+        "lineType": "player2",
+        "over": "+ 0.5 @3.3"
+      },
+      {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 0.5 @1.8"
       }
     ],
     "MA": null,
-    "A_cnt": 5,
-    "A_book_cnt": 2,
+    "A_cnt": 8,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 3.5 @2.2",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.6"
+      },
       {
         "book": "superbet",
         "under": "- 3.5 @2.2",
@@ -6664,10 +7281,22 @@
         "over": "+ 3.5 @1.6"
       },
       {
+        "book": "betfan",
+        "under": "- 1.5 @2.2",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.6"
+      },
+      {
         "book": "superbet",
         "under": "- 1.5 @2.2",
         "lineType": "player1",
         "over": "+ 1.5 @1.6"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2.3",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.55"
       },
       {
         "book": "superbet",
@@ -6677,8 +7306,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": [
       {
         "book": "superbet",
@@ -6704,7 +7333,7 @@
   },
   {
     "id": "3267654380276865097",
-    "matchStartTime": "15:20",
+    "matchStartTime": "16:40",
     "tournament": "Rzym WTA • 1/32 finału",
     "eventName": "Maria Sakkari - Elena Rybakina",
     "p1": "Maria Sakkari",
@@ -6712,7 +7341,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "3##3#3#3#2",
       "sb_a2": "2##5#7#3#5",
@@ -6769,15 +7398,45 @@
     },
     "A": [
       {
+        "book": "fortuna",
+        "under": "- 7.5 @1.71",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.95"
+      },
+      {
+        "book": "betfan",
+        "under": "- 7.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "under": "- 7.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.85"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 1.5 @2.17",
+        "book": "fortuna",
+        "under": "- 1.5 @1.99",
         "lineType": "player1",
-        "over": "+ 1.5 @1.62"
+        "over": "+ 1.5 @1.68"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "under": "- 1.5 @2.12",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.64"
       },
       {
         "book": "betclic",
@@ -6785,10 +7444,22 @@
         "over": "+ 2.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 5.5 @1.87",
+        "book": "fortuna",
+        "under": "- 5.5 @1.77",
         "lineType": "player2",
-        "over": "+ 5.5 @1.83"
+        "over": "+ 5.5 @1.87"
+      },
+      {
+        "book": "betfan",
+        "under": "- 5.5 @1.85",
+        "lineType": "player2",
+        "over": "+ 5.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "under": "- 5.5 @1.85",
+        "lineType": "player2",
+        "over": "+ 5.5 @1.85"
       },
       {
         "book": "betclic",
@@ -6796,32 +7467,94 @@
         "over": "+ 6.5 @1.8"
       }
     ],
-    "MA": null,
-    "A_cnt": 5,
-    "A_book_cnt": 2,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @13.5",
+        "lineType": "meczowa",
+        "over": "  @1.1"
+      }
+    ],
+    "A_cnt": 12,
+    "A_book_cnt": 4,
     "DF": [
       {
-        "book": "superbet",
-        "under": "- 1.5 @1.87",
-        "lineType": "player1",
-        "over": "+ 1.5 @1.83"
+        "book": "betfan",
+        "under": "- 3.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.8"
       },
       {
         "book": "superbet",
-        "under": "- 1.5 @2.35",
-        "lineType": "player2",
+        "under": "- 3.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @2.13",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.59"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.85"
+      },
+      {
+        "book": "superbet",
+        "under": "- 1.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.85"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 1.5 @2.25",
+        "lineType": "player1",
         "over": "+ 1.5 @1.53"
+      },
+      {
+        "book": "superbet",
+        "under": "- 1.5 @2.17",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.62"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2.3",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.55"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 1.5 @2.31",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.5"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 2,
-    "DF_book_cnt": 1,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @2.2",
+        "lineType": "meczowa",
+        "over": "  @2.15"
+      }
+    ],
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
       {
         "book": "superbet",
         "under": "- 5.5 @1.85",
         "lineType": "meczowa",
         "over": "+ 5.5 @1.85"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 5.5 @1.83",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.83"
       },
       {
         "book": "superbet",
@@ -6836,8 +7569,8 @@
         "over": "+ 4.5 @2.4"
       }
     ],
-    "B_cnt": 3,
-    "B_book_cnt": 1
+    "B_cnt": 4,
+    "B_book_cnt": 2
   },
   {
     "id": "3689872358778434980",
@@ -6849,7 +7582,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#3###3#4",
       "sb_a2": "#4###2#3",
@@ -6998,7 +7731,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "#2#4#4#4#3",
       "sb_a2": "#4#3#4#6#5",
@@ -7132,7 +7865,7 @@
   },
   {
     "id": "8492434807759389363",
-    "matchStartTime": "13:00",
+    "matchStartTime": "14:20",
     "tournament": "Rzym WTA • 1/32 finału",
     "eventName": "Naomi Osaka - Eva Lys",
     "p1": "Naomi Osaka",
@@ -7140,7 +7873,7 @@
     "atp": false,
     "tags1": "A",
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "5###10#5#5",
       "sb_a2": "4###6#4#2",
@@ -7197,7 +7930,19 @@
     },
     "A": [
       {
+        "book": "fortuna",
+        "under": "- 5.5 @1.83",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.81"
+      },
+      {
         "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 6.5 @1.9",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.8"
       },
@@ -7208,9 +7953,21 @@
         "over": "+ 6.5 @1.8"
       },
       {
+        "book": "fortuna",
+        "under": "- 5.5 @1.64",
+        "lineType": "player1",
+        "over": "+ 5.5 @2.04"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 5.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 6.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 6.5 @2"
       },
       {
         "book": "superbet",
@@ -7219,20 +7976,57 @@
         "over": "+ 6.5 @1.95"
       },
       {
+        "book": "betfan",
+        "under": "- 0.5 @1.4",
+        "lineType": "player2",
+        "over": "+ 0.5 @2.7"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 0.5 @1.67",
+        "lineType": "player2",
+        "over": "+ 0.5 @2"
+      },
+      {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 0.5 @1.5"
       }
     ],
-    "MA": null,
-    "A_cnt": 5,
-    "A_book_cnt": 2,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @1.03",
+        "lineType": "meczowa",
+        "over": "  @30"
+      }
+    ],
+    "A_cnt": 11,
+    "A_book_cnt": 4,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 5.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.85"
+      },
       {
         "book": "superbet",
         "under": "- 5.5 @1.85",
         "lineType": "meczowa",
         "over": "+ 5.5 @1.85"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @1.93",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.72"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.62",
+        "lineType": "player1",
+        "over": "+ 2.5 @2.15"
       },
       {
         "book": "superbet",
@@ -7241,18 +8035,50 @@
         "over": "+ 2.5 @2.1"
       },
       {
+        "book": "fortuna",
+        "under": "- 2.5 @1.77",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.87"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.6",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.2"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @1.64",
         "lineType": "player2",
         "over": "+ 3.5 @2.12"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 4.5 @1.81",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.83"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
-    "B": null,
-    "B_cnt": 0,
-    "B_book_cnt": 0
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @4.8",
+        "lineType": "meczowa",
+        "over": "  @1.34"
+      }
+    ],
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
+    "B": [
+      {
+        "book": "fortuna",
+        "under": "- 7.5 @1.69",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2"
+      }
+    ],
+    "B_cnt": 1,
+    "B_book_cnt": 1
   },
   {
     "id": "4130225474387566277",
@@ -7264,7 +8090,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "2#1#4#2##",
       "sb_a2": "4#3#5#5##",
@@ -7449,7 +8275,7 @@
   },
   {
     "id": "-8370850486703652103",
-    "matchStartTime": "14:30",
+    "matchStartTime": "15:30",
     "tournament": "Rzym WTA • 1/32 finału",
     "eventName": "Simona Waltert - Hailey Baptiste",
     "p1": "Simona Waltert",
@@ -7457,7 +8283,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:49",
+    "updateTime": "14:07",
     "stats1": {
       "sb_a1": "##1#2#1#3",
       "sb_a2": "##1#1#1#3",
@@ -7514,6 +8340,12 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 4.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.8"
+      },
+      {
         "book": "superbet",
         "under": "- 4.5 @1.9",
         "lineType": "meczowa",
@@ -7525,6 +8357,12 @@
         "over": "+ 6.5 @1.8"
       },
       {
+        "book": "betfan",
+        "under": "- 1.5 @1.47",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.5"
+      },
+      {
         "book": "superbet",
         "under": "- 1.5 @1.47",
         "lineType": "player1",
@@ -7534,6 +8372,12 @@
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 1.5 @1.6"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.8",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.9"
       },
       {
         "book": "superbet",
@@ -7548,9 +8392,15 @@
       }
     ],
     "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 9,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 7.5 @1.65",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2.1"
+      },
       {
         "book": "superbet",
         "under": "- 7.5 @1.67",
@@ -7564,6 +8414,18 @@
         "over": "+ 2.5 @1.66"
       },
       {
+        "book": "betfan",
+        "under": "- 2.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.65"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.6",
+        "lineType": "player2",
+        "over": "+ 4.5 @2.2"
+      },
+      {
         "book": "superbet",
         "under": "- 4.5 @1.62",
         "lineType": "player2",
@@ -7571,8 +8433,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": [
       {
         "book": "superbet",
