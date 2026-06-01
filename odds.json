@@ -9,7 +9,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "3#3#3#3#4#4",
       "sb_a2": "2#3#1#3#3#6",
@@ -448,7 +448,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "1#4#3###2",
       "sb_a2": "2#4#1###3",
@@ -851,7 +851,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "3#5#4##5#5",
       "sb_a2": "3#2#1##2#1",
@@ -1290,7 +1290,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "1#3#2#1#1#1",
       "sb_a2": "3#5#7#3#3#2",
@@ -1691,7 +1691,7 @@
   },
   {
     "id": "7488992820849552081",
-    "matchStartTime": "11:00",
+    "matchStartTime": "12:10",
     "tournament": "French Open K. • Ćwierćfinał",
     "eventName": "Elina Svitolina - Marta Kostyuk",
     "p1": "Elina Svitolina",
@@ -1699,7 +1699,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "DF",
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "4#3#3#2##",
       "sb_a2": "2#1#2#3##",
@@ -1757,9 +1757,15 @@
     "A": [
       {
         "book": "superbet",
-        "under": "- 3.5 @1.67",
+        "under": "- 2.5 @2.27",
         "lineType": "meczowa",
-        "over": "+ 3.5 @2.07"
+        "over": "+ 2.5 @1.56"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.87"
       },
       {
         "book": "betclic",
@@ -1768,9 +1774,15 @@
       },
       {
         "book": "superbet",
-        "under": "- 0.5 @2.5",
+        "under": "- 0.5 @2.35",
         "lineType": "player1",
-        "over": "+ 0.5 @1.47"
+        "over": "+ 0.5 @1.53"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @1.4",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.65"
       },
       {
         "book": "betclic",
@@ -1779,9 +1791,15 @@
       },
       {
         "book": "superbet",
-        "under": "- 2.5 @1.61",
+        "under": "- 2.5 @1.52",
         "lineType": "player2",
-        "over": "+ 2.5 @2.17"
+        "over": "+ 2.5 @2.37"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.65",
+        "lineType": "player2",
+        "over": "+ 2.5 @2.06"
       },
       {
         "book": "betclic",
@@ -1790,9 +1808,15 @@
       }
     ],
     "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 9,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 5.5 @2.02",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.67"
+      },
       {
         "book": "superbet",
         "under": "- 6.5 @1.9",
@@ -1812,6 +1836,12 @@
         "over": "+ 1.5 @1.58"
       },
       {
+        "book": "betfan",
+        "under": "- 1.5 @2.3",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.53"
+      },
+      {
         "book": "betclic",
         "under": "- 2.5 @1.65",
         "lineType": "player1",
@@ -1824,6 +1854,12 @@
         "over": "+ 4.5 @1.78"
       },
       {
+        "book": "betfan",
+        "under": "- 4.5 @2",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.7"
+      },
+      {
         "book": "betclic",
         "under": "- 5.5 @1.7",
         "lineType": "player2",
@@ -1831,8 +1867,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 6,
-    "DF_book_cnt": 2,
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
       {
         "book": "superbet",
@@ -1884,7 +1920,7 @@
     "atp": false,
     "tags1": "T",
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "2#3#2#3##",
       "sb_a2": "1#1#1#1##",
@@ -1942,9 +1978,15 @@
     "A": [
       {
         "book": "superbet",
-        "under": "- 3.5 @2.1",
+        "under": "- 3.5 @1.85",
         "lineType": "meczowa",
-        "over": "+ 3.5 @1.66"
+        "over": "+ 3.5 @1.87"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.65",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @2.05"
       },
       {
         "book": "betclic",
@@ -1952,10 +1994,28 @@
         "over": "+ 4.5 @1.8"
       },
       {
+        "book": "fortuna",
+        "under": "- 4.5 @1.84",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.8"
+      },
+      {
         "book": "superbet",
-        "under": "- 1.5 @2.1",
+        "under": "- 1.5 @1.87",
         "lineType": "player1",
-        "over": "+ 1.5 @1.65"
+        "over": "+ 1.5 @1.85"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 1.5 @1.82",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.82"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.7"
       },
       {
         "book": "betclic",
@@ -1964,25 +2024,56 @@
       },
       {
         "book": "superbet",
-        "under": "- 1.5 @2.37",
+        "under": "- 1.5 @2.17",
         "lineType": "player2",
-        "over": "+ 1.5 @1.52"
+        "over": "+ 1.5 @1.61"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.7",
+        "lineType": "player2",
+        "over": "+ 2.5 @2"
       },
       {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 2.5 @1.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @1.85",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.79"
       }
     ],
-    "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @3.3",
+        "lineType": "meczowa",
+        "over": "  @1.66"
+      }
+    ],
+    "A_cnt": 12,
+    "A_book_cnt": 4,
     "DF": [
       {
         "book": "superbet",
-        "under": "- 5.5 @1.63",
+        "under": "- 5.5 @1.64",
         "lineType": "meczowa",
-        "over": "+ 5.5 @2.15"
+        "over": "+ 5.5 @2.12"
+      },
+      {
+        "book": "betfan",
+        "under": "- 5.5 @1.65",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @2.07"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 5.5 @1.82",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.82"
       },
       {
         "book": "betclic",
@@ -1997,10 +2088,34 @@
         "over": "+ 3.5 @2.22"
       },
       {
+        "book": "betfan",
+        "under": "- 3.5 @1.6",
+        "lineType": "player1",
+        "over": "+ 3.5 @2.15"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.77",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.87"
+      },
+      {
         "book": "betclic",
         "under": "- 3.5 @1.65",
         "lineType": "player1",
         "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 1.5 @1.93",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.72"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2.15",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.6"
       },
       {
         "book": "superbet",
@@ -2015,10 +2130,23 @@
         "over": "+ 2.5 @1.8"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 6,
-    "DF_book_cnt": 2,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @1.4",
+        "lineType": "meczowa",
+        "over": "  @4.6"
+      }
+    ],
+    "DF_cnt": 12,
+    "DF_book_cnt": 4,
     "B": [
+      {
+        "book": "fortuna",
+        "under": "- 7.5 @1.88",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.78"
+      },
       {
         "book": "superbet",
         "under": "- 7.5 @2",
@@ -2056,8 +2184,8 @@
         "over": "+ 3.5 @1.7"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 7,
+    "B_book_cnt": 3
   },
   {
     "id": "5212257243876344528",
@@ -2069,7 +2197,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "12#9#10#8#6#4",
       "sb_a2": "9#2#6#4#2#1",
@@ -2514,7 +2642,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "7#3#5#3##4",
       "sb_a2": "4#7#5#3##6",
@@ -3010,7 +3138,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "9#7#6#3##3",
       "sb_a2": "8#4#4#3##4",
@@ -3455,7 +3583,7 @@
     "atp": true,
     "tags1": "D",
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "12#8#7#4#4#",
       "sb_a2": "13#21#7#4#3#",
@@ -3901,7 +4029,7 @@
   },
   {
     "id": "-3614087723449878309",
-    "matchStartTime": "11:00",
+    "matchStartTime": "20:15",
     "tournament": "French Open M. • Ćwierćfinał",
     "eventName": "Jakub Mensik - Joao Fonseca",
     "p1": "Jakub Mensik",
@@ -3909,7 +4037,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "13#9#8#11#7#8",
       "sb_a2": "10#5#4#8#3#5",
@@ -3967,21 +4095,27 @@
     "A": [
       {
         "book": "superbet",
-        "under": "-17.5 @2.17",
+        "under": "-17.5 @2.12",
         "lineType": "meczowa",
-        "over": "+17.5 @1.59"
+        "over": "+17.5 @1.63"
       },
       {
         "book": "superbet",
-        "under": "-18.5 @1.95",
+        "under": "-18.5 @1.9",
         "lineType": "meczowa",
-        "over": "+18.5 @1.76"
+        "over": "+18.5 @1.82"
       },
       {
         "book": "superbet",
-        "under": "-19.5 @1.74",
+        "under": "-19.5 @1.7",
         "lineType": "meczowa",
-        "over": "+19.5 @1.97"
+        "over": "+19.5 @2.02"
+      },
+      {
+        "book": "betfan",
+        "under": "-19.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+19.5 @1.82"
       },
       {
         "book": "betclic",
@@ -4001,6 +4135,12 @@
         "over": "+12.5 @1.88"
       },
       {
+        "book": "betfan",
+        "under": "-12.5 @1.95",
+        "lineType": "player1",
+        "over": "+12.5 @1.72"
+      },
+      {
         "book": "superbet",
         "under": "-13.5 @1.58",
         "lineType": "player1",
@@ -4013,21 +4153,21 @@
       },
       {
         "book": "superbet",
-        "under": "- 5.5 @2.37",
+        "under": "- 5.5 @2.22",
         "lineType": "player2",
-        "over": "+ 5.5 @1.49"
+        "over": "+ 5.5 @1.56"
       },
       {
         "book": "superbet",
-        "under": "- 6.5 @1.82",
+        "under": "- 6.5 @1.71",
         "lineType": "player2",
-        "over": "+ 6.5 @1.88"
+        "over": "+ 6.5 @2"
       },
       {
-        "book": "superbet",
-        "under": "- 7.5 @1.47",
+        "book": "betfan",
+        "under": "- 6.5 @1.8",
         "lineType": "player2",
-        "over": "+ 7.5 @2.42"
+        "over": "+ 6.5 @1.87"
       },
       {
         "book": "betclic",
@@ -4036,8 +4176,8 @@
       }
     ],
     "MA": null,
-    "A_cnt": 12,
-    "A_book_cnt": 2,
+    "A_cnt": 14,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "betclic",
@@ -4058,6 +4198,12 @@
         "over": "+ 8.5 @2.1"
       },
       {
+        "book": "betfan",
+        "under": "- 8.5 @1.67",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2.02"
+      },
+      {
         "book": "betclic",
         "under": "- 5.5 @1.7",
         "lineType": "player1",
@@ -4076,10 +4222,22 @@
         "over": "+ 6.5 @2.1"
       },
       {
+        "book": "betfan",
+        "under": "- 6.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 6.5 @2.05"
+      },
+      {
         "book": "superbet",
         "under": "- 1.5 @2.1",
         "lineType": "player2",
-        "over": "+ 1.5 @1.64"
+        "over": "+ 1.5 @1.65"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2.15",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.6"
       },
       {
         "book": "betclic",
@@ -4089,8 +4247,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 8,
-    "DF_book_cnt": 2,
+    "DF_cnt": 11,
+    "DF_book_cnt": 3,
     "B": [
       {
         "book": "superbet",
@@ -4134,7 +4292,7 @@
   },
   {
     "id": "-8184636212252591801",
-    "matchStartTime": "11:00",
+    "matchStartTime": "13:20",
     "tournament": "French Open M. • Ćwierćfinał",
     "eventName": "Rafael Jodar - Alexander Zverev",
     "p1": "Rafael Jodar",
@@ -4142,7 +4300,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "14:11",
+    "updateTime": "21:38",
     "stats1": {
       "sb_a1": "10#6#7#8##",
       "sb_a2": "5#5#5#6##",
@@ -4200,9 +4358,15 @@
     "A": [
       {
         "book": "superbet",
-        "under": "-12.5 @1.87",
+        "under": "-12.5 @1.77",
         "lineType": "meczowa",
-        "over": "+12.5 @1.83"
+        "over": "+12.5 @1.95"
+      },
+      {
+        "book": "betfan",
+        "under": "-13.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+13.5 @1.82"
       },
       {
         "book": "betclic",
@@ -4211,9 +4375,15 @@
       },
       {
         "book": "superbet",
-        "under": "- 4.5 @1.64",
+        "under": "- 3.5 @2.17",
         "lineType": "player1",
-        "over": "+ 4.5 @2.12"
+        "over": "+ 3.5 @1.61"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.77"
       },
       {
         "book": "betclic",
@@ -4222,25 +4392,37 @@
       },
       {
         "book": "superbet",
-        "under": "- 8.5 @1.8",
+        "under": "- 8.5 @1.71",
         "lineType": "player2",
-        "over": "+ 8.5 @1.92"
+        "over": "+ 8.5 @2.02"
       },
       {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 8.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 8.5 @1.93",
+        "lineType": "player2",
+        "over": "+ 8.5 @1.75"
       }
     ],
     "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "A_cnt": 9,
+    "A_book_cnt": 3,
     "DF": [
       {
         "book": "superbet",
-        "under": "- 5.5 @2.05",
+        "under": "- 5.5 @2.1",
         "lineType": "meczowa",
-        "over": "+ 5.5 @1.7"
+        "over": "+ 5.5 @1.66"
+      },
+      {
+        "book": "betfan",
+        "under": "- 6.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @2"
       },
       {
         "book": "betclic",
@@ -4250,9 +4432,15 @@
       },
       {
         "book": "superbet",
-        "under": "- 2.5 @2.1",
+        "under": "- 2.5 @2.2",
         "lineType": "player1",
-        "over": "+ 2.5 @1.66"
+        "over": "+ 2.5 @1.6"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.55",
+        "lineType": "player1",
+        "over": "+ 3.5 @2.25"
       },
       {
         "book": "betclic",
@@ -4267,6 +4455,12 @@
         "over": "+ 2.5 @1.6"
       },
       {
+        "book": "betfan",
+        "under": "- 2.5 @2.2",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.57"
+      },
+      {
         "book": "betclic",
         "under": "- 3.5 @1.65",
         "lineType": "player2",
@@ -4274,8 +4468,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 6,
-    "DF_book_cnt": 2,
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
       {
         "book": "superbet",
