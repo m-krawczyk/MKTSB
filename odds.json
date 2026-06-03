@@ -9,7 +9,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "13:09",
+    "updateTime": "16:59",
     "stats1": {
       "sb_a1": "#3#3#3#3#4",
       "sb_a2": "#2#3#1#3#3",
@@ -502,7 +502,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "13:09",
+    "updateTime": "16:59",
     "stats1": {
       "sb_a1": "2#1#3#2##2",
       "sb_a2": "4#2#5#3##3",
@@ -932,6 +932,137 @@
     "B_book_cnt": 5
   },
   {
+    "id": "-6732933861945458862",
+    "matchStartTime": "16:10",
+    "tournament": "French Open K. • Półfinał",
+    "eventName": "Diana Shnaider - Maja Chwalinska",
+    "p1": "Diana Shnaider",
+    "p2": "Maja Chwalinska",
+    "atp": false,
+    "tags1": null,
+    "tags2": null,
+    "updateTime": "16:59",
+    "stats1": {
+      "sb_a1": "1#1#2#1##3",
+      "sb_a2": "2#1#2#1##3",
+      "sb_am": "3#2#3#2##5",
+      "sb_df1": "3#2#4#3##3",
+      "sb_df2": "3#4#4#2##4",
+      "sb_dfm": "#####",
+      "sb_b1": "5#6#6##5#",
+      "sb_b2": "5#4#4##5#",
+      "sb_bm": "9#9#8##8#",
+      "ace": "1^3#0 #2 #0 #0 #1^3",
+      "ace2": "2^3#1 #0 #1 #2 #1^3",
+      "df": "1^3#3 #1 #1 #2 #5^3",
+      "df2": "4^3#2 #2 #2 #1 #3^3",
+      "b": "6^3#6 #6 #6 #1 #7^3",
+      "b2": "3^3#3 #3 #3 #5 #3^3",
+      "aceAvgPerSet": "0.66",
+      "dfAvgPerSet": "1.45",
+      "secSrvToDf": "6.31",
+      "srvGameToDf": "3.26",
+      "bAvgPerSet": "1.69",
+      "last_aceAvgPerSet": "0.29",
+      "last_dfAvgPerSet": "0.93",
+      "last_secSrvToDf": "5.25",
+      "last_srvGameToDf": "3.73",
+      "last_bAvgPerSet": "2.29"
+    },
+    "stats2": {
+      "sb_a1": "1#1#3#2#1#1",
+      "sb_a2": "3#3#5#7#3#3",
+      "sb_am": "4#4#7#9##4",
+      "sb_df1": "2#2#4#3#2#2",
+      "sb_df2": "3#3#5#5#3#3",
+      "sb_dfm": "#####5",
+      "sb_b1": "5#5#4###3",
+      "sb_b2": "4#5#5###5",
+      "sb_bm": "9#9#8###7",
+      "ace": "0 #3^3#0 #0 #4 #2^3",
+      "ace2": "1 #3^3#3 #5 #0 #3^3",
+      "df": "0 #1^3#2 #0 #5 #2^3",
+      "df2": "0 #4^3#5 #3 #1 #4^3",
+      "b": "3 #4^3#6 #5 #1 #6^3",
+      "b2": "0 #3^3#2 #1 #5 #4^3",
+      "aceAvgPerSet": "1.85",
+      "dfAvgPerSet": "1.81",
+      "secSrvToDf": "7.28",
+      "srvGameToDf": "3.93",
+      "bAvgPerSet": "1.90",
+      "last_aceAvgPerSet": "0.64",
+      "last_dfAvgPerSet": "0.71",
+      "last_secSrvToDf": "6.25",
+      "last_srvGameToDf": "3.65",
+      "last_bAvgPerSet": "1.79"
+    },
+    "A": [
+      {
+        "book": "betclic",
+        "lineType": "meczowa",
+        "over": "+ 2.5 @2"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player1",
+        "over": "+ 0.5 @1.52"
+      },
+      {
+        "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 0.5 @1.52"
+      }
+    ],
+    "MA": null,
+    "A_cnt": 3,
+    "A_book_cnt": 1,
+    "DF": [
+      {
+        "book": "betclic",
+        "under": "- 3.5 @1.88",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.6"
+      },
+      {
+        "book": "betclic",
+        "under": "- 2.5 @1.4",
+        "lineType": "player1",
+        "over": "+ 2.5 @2.25"
+      },
+      {
+        "book": "betclic",
+        "under": "- 1.5 @1.52",
+        "lineType": "player2",
+        "over": "+ 1.5 @2"
+      }
+    ],
+    "MDF": null,
+    "DF_cnt": 3,
+    "DF_book_cnt": 1,
+    "B": [
+      {
+        "book": "betclic",
+        "under": "- 8.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.7"
+      },
+      {
+        "book": "betclic",
+        "under": "- 4.5 @2",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.52"
+      },
+      {
+        "book": "betclic",
+        "under": "- 4.5 @1.55",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.95"
+      }
+    ],
+    "B_cnt": 3,
+    "B_book_cnt": 1
+  },
+  {
     "id": "-619963024543552002",
     "matchStartTime": "15:00",
     "tournament": "French Open K. • Półfinał",
@@ -941,7 +1072,7 @@
     "atp": false,
     "tags1": "DF",
     "tags2": "T",
-    "updateTime": "13:09",
+    "updateTime": "16:59",
     "stats1": {
       "sb_a1": "3#3#3#3#2#2",
       "sb_a2": "1#2#1#2#1#1",
@@ -998,10 +1129,46 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 1.5 @3.3",
+        "lineType": "meczowa",
+        "over": "+ 1.5 @1.27"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.93",
+        "lineType": "meczowa",
+        "over": "+ 2.5 @1.75"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @1.97",
+        "lineType": "meczowa",
+        "over": "+ 2.5 @1.69"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 2.5 @2.25",
+        "lineType": "meczowa",
+        "over": "+ 2.5 @1.55"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @2.25",
         "lineType": "meczowa",
         "over": "+ 2.5 @1.55"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.45",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.5"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.51",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.3"
       },
       {
         "book": "superbet",
@@ -1012,7 +1179,19 @@
       {
         "book": "betclic",
         "lineType": "meczowa",
-        "over": "+ 3.5 @1.8"
+        "over": "+ 3.5 @2"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2.15",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.6"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 1.5 @2.15",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.6"
       },
       {
         "book": "superbet",
@@ -1021,20 +1200,81 @@
         "over": "+ 1.5 @1.6"
       },
       {
+        "book": "fortuna",
+        "under": "- 1.5 @2.25",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.53"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @1.58",
+        "lineType": "player1",
+        "over": "+ 2.5 @2.15"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
-        "over": "+ 2.5 @2"
+        "over": "+ 2.5 @2.1"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 0.5 @1.96",
+        "lineType": "player2",
+        "over": "+ 0.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "under": "- 0.5 @2.2",
+        "lineType": "player2",
+        "over": "+ 0.5 @1.57"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 1.5 @1.33",
+        "lineType": "player2",
+        "over": "+ 1.5 @2.88"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 1.5 @1.4",
+        "lineType": "player2",
+        "over": "+ 1.5 @2.65"
       },
       {
         "book": "betclic",
         "lineType": "player2",
-        "over": "+ 1.5 @2"
+        "over": "+ 1.5 @2.1"
       }
     ],
-    "MA": null,
-    "A_cnt": 6,
-    "A_book_cnt": 2,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @1.4",
+        "lineType": "meczowa",
+        "over": "  @6"
+      }
+    ],
+    "A_cnt": 20,
+    "A_book_cnt": 5,
     "DF": [
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @2.55",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.41"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 7.5 @1.78",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.86"
+      },
+      {
+        "book": "betfan",
+        "under": "- 7.5 @1.91",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.76"
+      },
       {
         "book": "superbet",
         "under": "- 7.5 @2.07",
@@ -1042,10 +1282,22 @@
         "over": "+ 7.5 @1.66"
       },
       {
-        "book": "superbet",
-        "under": "- 8.5 @1.69",
+        "book": "fuksiarz",
+        "under": "- 7.5 @2.05",
         "lineType": "meczowa",
-        "over": "+ 8.5 @2.02"
+        "over": "+ 7.5 @1.65"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 8.5 @1.47",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2.39"
+      },
+      {
+        "book": "superbet",
+        "under": "- 8.5 @1.68",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2.05"
       },
       {
         "book": "betclic",
@@ -1054,10 +1306,34 @@
         "over": "+ 8.5 @1.8"
       },
       {
+        "book": "fortuna",
+        "under": "- 3.5 @2.15",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.58"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @2.42",
         "lineType": "player1",
         "over": "+ 3.5 @1.47"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.66",
+        "lineType": "player1",
+        "over": "+ 4.5 @2.04"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 4.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 4.5 @2.03"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 4.5 @1.75",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.95"
       },
       {
         "book": "superbet",
@@ -1072,10 +1348,34 @@
         "over": "+ 4.5 @1.6"
       },
       {
+        "book": "fortuna",
+        "under": "- 2.5 @2.42",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.46"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.71",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.95"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.77",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.9"
+      },
+      {
         "book": "betclic",
         "under": "- 3.5 @1.6",
         "lineType": "player2",
         "over": "+ 3.5 @1.88"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 3.5 @1.9",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.8"
       },
       {
         "book": "superbet",
@@ -1084,10 +1384,29 @@
         "over": "+ 3.5 @1.8"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 8,
-    "DF_book_cnt": 2,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @1.76",
+        "lineType": "meczowa",
+        "over": "  @2.7"
+      }
+    ],
+    "DF_cnt": 21,
+    "DF_book_cnt": 5,
     "B": [
+      {
+        "book": "fortuna",
+        "under": "- 7.5 @1.96",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.72"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 8.5 @1.65",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2.05"
+      },
       {
         "book": "superbet",
         "under": "- 8.5 @1.69",
@@ -1099,6 +1418,12 @@
         "under": "- 8.5 @1.6",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.88"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 4.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.85"
       },
       {
         "book": "superbet",
@@ -1113,6 +1438,12 @@
         "over": "+ 4.5 @1.7"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 4.5 @1.7",
+        "lineType": "player2",
+        "over": "+ 4.5 @2"
+      },
+      {
         "book": "superbet",
         "under": "- 4.5 @1.72",
         "lineType": "player2",
@@ -1125,8 +1456,8 @@
         "over": "+ 4.5 @1.88"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 10,
+    "B_book_cnt": 4
   },
   {
     "id": "-5924780834820719050",
@@ -1138,7 +1469,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "13:09",
+    "updateTime": "16:59",
     "stats1": {
       "sb_a1": "13#10#10#7#6#9",
       "sb_a2": "8#8#11#5#9#6",
@@ -1244,7 +1575,7 @@
       },
       {
         "book": "superbet",
-        "under": "-19.5 @1.6",
+        "under": "-19.5 @1.61",
         "lineType": "meczowa",
         "over": "+19.5 @2.15"
       },
@@ -1409,7 +1740,7 @@
     "DF": [
       {
         "book": "superbet",
-        "under": "- 6.5 @2.12",
+        "under": "- 6.5 @2.1",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.63"
       },
@@ -1709,7 +2040,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "13:09",
+    "updateTime": "16:59",
     "stats1": {
       "sb_a1": "15#12#9#10#8#6",
       "sb_a2": "9#9#2#6#4#2",
@@ -2226,7 +2557,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "13:09",
+    "updateTime": "16:59",
     "stats1": {
       "sb_a1": "13#13#9#8#11#7",
       "sb_a2": "7#10#5#4#8#3",
@@ -2283,9 +2614,39 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "-18.5 @2",
+        "lineType": "meczowa",
+        "over": "+18.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "under": "-19.5 @1.77",
+        "lineType": "meczowa",
+        "over": "+19.5 @1.9"
+      },
+      {
+        "book": "fortuna",
+        "under": "-19.5 @1.84",
+        "lineType": "meczowa",
+        "over": "+19.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "-20.5 @1.6",
+        "lineType": "meczowa",
+        "over": "+20.5 @2.15"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+20.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 9.5 @1.8",
+        "lineType": "player1",
+        "over": "+ 9.5 @1.87"
       },
       {
         "book": "betclic",
@@ -2293,20 +2654,63 @@
         "over": "+ 9.5 @1.8"
       },
       {
+        "book": "fortuna",
+        "under": "-10.5 @1.71",
+        "lineType": "player1",
+        "over": "+10.5 @1.94"
+      },
+      {
+        "book": "betfan",
+        "under": "- 9.5 @1.92",
+        "lineType": "player2",
+        "over": "+ 9.5 @1.75"
+      },
+      {
+        "book": "fortuna",
+        "under": "-10.5 @1.71",
+        "lineType": "player2",
+        "over": "+10.5 @1.94"
+      },
+      {
         "book": "betclic",
         "lineType": "player2",
         "over": "+11.5 @1.8"
       }
     ],
-    "MA": null,
-    "A_cnt": 3,
-    "A_book_cnt": 1,
+    "MA": [
+      {
+        "book": "fortuna",
+        "under": "  @2",
+        "lineType": "meczowa",
+        "over": "  @2"
+      }
+    ],
+    "A_cnt": 11,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "fortuna",
+        "under": "- 8.5 @1.73",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.92"
+      },
       {
         "book": "betclic",
         "under": "- 8.5 @1.7",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "under": "- 9.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @2"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 4.5 @2.31",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.5"
       },
       {
         "book": "betclic",
@@ -2315,16 +2719,47 @@
         "over": "+ 5.5 @1.55"
       },
       {
+        "book": "betfan",
+        "under": "- 6.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 6.5 @2.06"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @2",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.7"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @1.96",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.7"
+      },
+      {
         "book": "betclic",
         "under": "- 2.5 @2",
         "lineType": "player2",
         "over": "+ 2.5 @1.52"
       }
     ],
-    "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "MDF": [
+      {
+        "book": "fortuna",
+        "under": "  @1.29",
+        "lineType": "meczowa",
+        "over": "  @5.2"
+      }
+    ],
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
     "B": [
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @1.98",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.7"
+      },
       {
         "book": "betclic",
         "under": "- 6.5 @1.88",
@@ -2344,7 +2779,7 @@
         "over": "+ 4.5 @1.7"
       }
     ],
-    "B_cnt": 3,
-    "B_book_cnt": 1
+    "B_cnt": 4,
+    "B_book_cnt": 2
   }
 ]
