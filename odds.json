@@ -9,7 +9,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "T",
-    "updateTime": "11:07",
+    "updateTime": "11:33",
     "stats1": {
       "sb_a1": "1#1#1#1#3#2",
       "sb_a2": "1#2#3#3#5#7",
@@ -549,7 +549,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:07",
+    "updateTime": "11:33",
     "stats1": {
       "sb_a1": "13#13#9#8#11#7",
       "sb_a2": "7#10#5#4#8#3",
@@ -1275,10 +1275,22 @@
         "over": "+ 2.5 @2"
       },
       {
+        "book": "sts",
+        "under": "- 2.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 2.5 @2"
+      },
+      {
         "book": "betclic",
         "under": "- 2.5 @1.6",
         "lineType": "player1",
         "over": "+ 2.5 @1.88"
+      },
+      {
+        "book": "sts",
+        "under": "- 4.5 @1.8",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.9"
       },
       {
         "book": "etoto",
@@ -1311,8 +1323,8 @@
         "over": "+ 4.5 @1.7"
       }
     ],
-    "B_cnt": 16,
-    "B_book_cnt": 6
+    "B_cnt": 18,
+    "B_book_cnt": 7
   },
   {
     "id": "-9125899003555201522",
@@ -1324,7 +1336,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:07",
+    "updateTime": "11:33",
     "stats1": {
       "sb_a1": "12#6#6#8##3",
       "sb_a2": "10#8#7#7##3",
