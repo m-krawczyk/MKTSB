@@ -9,7 +9,7 @@
     "atp": true,
     "tags1": "D",
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "5#9#7#4#3#3",
       "sb_a2": "11#11#7#3#7#6",
@@ -197,7 +197,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "#####",
       "sb_a2": "#####",
@@ -289,7 +289,13 @@
         "over": "+ 3.5 @1.73"
       }
     ],
-    "MA": null,
+    "MA": [
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      }
+    ],
     "A_cnt": 6,
     "A_book_cnt": 2,
     "DF": [
@@ -329,7 +335,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "2#2#2#1#2#1",
       "sb_a2": "1#2#2#2#2#3",
@@ -461,7 +467,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "3#####",
       "sb_a2": "2#####",
@@ -632,7 +638,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "",
       "sb_a2": "",
@@ -764,7 +770,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "4#6#8#8#7#5",
       "sb_a2": "6#10#6#7#4#6",
@@ -986,7 +992,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "7#11#9#9#9#9",
       "sb_a2": "4#11#7#9#5#8",
@@ -1137,7 +1143,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "#18#9#7#13#10",
       "sb_a2": "#10#8#9#6#8",
@@ -1310,7 +1316,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "11#14#14#6#6#7",
       "sb_a2": "8#17#8#4#5#4",
@@ -1532,7 +1538,7 @@
     "atp": true,
     "tags1": "A",
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "13#12#20#21#19#17",
       "sb_a2": "5#7#16#20#9#11",
@@ -1665,7 +1671,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "T",
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "6#5#8#11#11#5",
       "sb_a2": "4#5#6#5#6#9",
@@ -1798,7 +1804,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "3#3#4#3#1#2",
       "sb_a2": "6#2#5#4#1#5",
@@ -1949,7 +1955,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "#3#3#3#4#5",
       "sb_a2": "#2#5#4#6#4",
@@ -2076,7 +2082,13 @@
         "over": "+ 9.5 @6.5"
       }
     ],
-    "MA": null,
+    "MA": [
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      }
+    ],
     "A_cnt": 13,
     "A_book_cnt": 3,
     "DF": [
@@ -2153,7 +2165,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "3#4#5#3#4#5",
       "sb_a2": "4#2#2#1#3#9",
@@ -2230,6 +2242,12 @@
         "over": "+ 5.5 @2.02"
       },
       {
+        "book": "sts",
+        "under": "- 5.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @2"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.8"
@@ -2242,6 +2260,12 @@
       },
       {
         "book": "fuksiarz",
+        "under": "- 3.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 3.5 @2"
+      },
+      {
+        "book": "sts",
         "under": "- 3.5 @1.7",
         "lineType": "player1",
         "over": "+ 3.5 @2"
@@ -2276,14 +2300,26 @@
         "over": "+ 1.5 @1.65"
       },
       {
+        "book": "sts",
+        "under": "- 1.5 @2.1",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.65"
+      },
+      {
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 3.5 @1.8"
       }
     ],
-    "MA": null,
-    "A_cnt": 12,
-    "A_book_cnt": 4,
+    "MA": [
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      }
+    ],
+    "A_cnt": 15,
+    "A_book_cnt": 5,
     "DF": [
       {
         "book": "fuksiarz",
@@ -2298,6 +2334,12 @@
         "over": "+ 3.5 @1.87"
       },
       {
+        "book": "sts",
+        "under": "- 3.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @1.85"
+      },
+      {
         "book": "superbet",
         "under": "- 1.5 @1.47",
         "lineType": "player1",
@@ -2310,8 +2352,20 @@
         "over": "+ 1.5 @2.45"
       },
       {
+        "book": "sts",
+        "under": "- 1.5 @1.47",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.45"
+      },
+      {
         "book": "fuksiarz",
         "under": "- 2.5 @1.63",
+        "lineType": "player2",
+        "over": "+ 2.5 @2.1"
+      },
+      {
+        "book": "sts",
+        "under": "- 2.5 @1.65",
         "lineType": "player2",
         "over": "+ 2.5 @2.1"
       },
@@ -2323,11 +2377,30 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 6,
-    "DF_book_cnt": 2,
-    "B": null,
-    "B_cnt": 0,
-    "B_book_cnt": 0
+    "DF_cnt": 9,
+    "DF_book_cnt": 3,
+    "B": [
+      {
+        "book": "sts",
+        "under": "- 6.5 @2",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.7"
+      },
+      {
+        "book": "sts",
+        "under": "- 5.5 @1.45",
+        "lineType": "player1",
+        "over": "+ 5.5 @2.5"
+      },
+      {
+        "book": "sts",
+        "under": "- 1.5 @2.1",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.65"
+      }
+    ],
+    "B_cnt": 3,
+    "B_book_cnt": 1
   },
   {
     "id": "9069188852661895479",
@@ -2339,7 +2412,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:42",
+    "updateTime": "08:47",
     "stats1": {
       "sb_a1": "4###3#5#",
       "sb_a2": "1###4#6#",
@@ -2431,7 +2504,13 @@
         "over": "+ 4.5 @1.8"
       }
     ],
-    "MA": null,
+    "MA": [
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      }
+    ],
     "A_cnt": 6,
     "A_book_cnt": 2,
     "DF": [
