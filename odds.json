@@ -9,13 +9,13 @@
     "atp": true,
     "tags1": "D",
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
-      "sb_a1": "#9#7#4#3#3",
-      "sb_a2": "#11#7#3#7#6",
-      "sb_am": "#20#13#7#9#9",
-      "sb_df1": "#4#4#3#2#2",
-      "sb_df2": "#3#3#2#3#1",
+      "sb_a1": "5#9#7#4#3#3",
+      "sb_a2": "11#11#7#3#7#6",
+      "sb_am": "16#20#13#7#9#9",
+      "sb_df1": "2#4#4#3#2#2",
+      "sb_df2": "3#3#3#2#3#1",
       "sb_dfm": "#####3",
       "sb_b1": "##2#3#4#1",
       "sb_b2": "##3#4#3#4",
@@ -123,11 +123,33 @@
         "over": "+14.5 @5.5"
       }
     ],
-    "MA": null,
+    "MA": [
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      }
+    ],
     "A_cnt": 11,
     "A_book_cnt": 3,
     "DF": null,
-    "MDF": null,
+    "MDF": [
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      }
+    ],
     "DF_cnt": 0,
     "DF_book_cnt": 0,
     "B": [
@@ -175,7 +197,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "#####",
       "sb_a2": "#####",
@@ -307,7 +329,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "2#2#2#1#2#1",
       "sb_a2": "1#2#2#2#2#3",
@@ -439,7 +461,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "3#####",
       "sb_a2": "2#####",
@@ -571,7 +593,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "",
       "sb_a2": "",
@@ -703,7 +725,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "4#6#8#8#7#5",
       "sb_a2": "6#10#6#7#4#6",
@@ -854,7 +876,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "7#11#9#9#9#9",
       "sb_a2": "4#11#7#9#5#8",
@@ -1005,7 +1027,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "#18#9#7#13#10",
       "sb_a2": "#10#8#9#6#8",
@@ -1097,7 +1119,18 @@
         "over": "+ 7.5 @2.07"
       }
     ],
-    "MA": null,
+    "MA": [
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      }
+    ],
     "A_cnt": 6,
     "A_book_cnt": 2,
     "DF": [
@@ -1120,7 +1153,18 @@
         "over": "+ 1.5 @2.02"
       }
     ],
-    "MDF": null,
+    "MDF": [
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      },
+      {
+        "book": "fortuna-BB",
+        "lineType": "meczowa",
+        "over": "  @"
+      }
+    ],
     "DF_cnt": 3,
     "DF_book_cnt": 1,
     "B": [
@@ -1156,7 +1200,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "11#14#14#6#6#7",
       "sb_a2": "8#17#8#4#5#4",
@@ -1355,7 +1399,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "3#4#5#3#4#5",
       "sb_a2": "4#2#2#1#3#9",
@@ -1487,7 +1531,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "4###3#5#",
       "sb_a2": "1###4#6#",
@@ -1638,7 +1682,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "3#3#4#3#1#2",
       "sb_a2": "6#2#5#4#1#5",
@@ -1789,7 +1833,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "06:07",
+    "updateTime": "06:18",
     "stats1": {
       "sb_a1": "#3#3#3#4#5",
       "sb_a2": "#2#5#4#6#4",
