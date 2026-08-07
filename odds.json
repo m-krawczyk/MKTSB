@@ -9,7 +9,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "7#8#15#9#12#14",
       "sb_a2": "6#4#15#6#10#6",
@@ -21,9 +21,9 @@
       "sb_b2": "####2#",
       "sb_bm": "####4#",
       "dynamic": {
-        "a": "\nost. 6 surf: 5.2/set\nostatnie 12: 2.97/set",
-        "df": "\nost. 6 surf: 1/set\nostatnie 12: 1.1/set",
-        "b": "\nost. 6 surf: 1.2/set\nostatnie 12: 0.71/set"
+        "a": "\nost. 6 surf: 4.29/set\nostatnie 12: 2.97/set",
+        "df": "\nost. 6 surf: 0.5/set\nostatnie 12: 1.1/set",
+        "b": "\nost. 6 surf: 0.64/set\nostatnie 12: 0.71/set"
       },
       "ace": "10 #16^3#5^3#13^3#5 #14^4",
       "ace2": "7 #8^3#7^3#9^3#6 #17^4",
@@ -54,9 +54,9 @@
       "sb_b2": "#####3",
       "sb_bm": "#####4",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.8/set\nostatnie 12: 2.79/set",
-        "df": "\nost. 6 surf: 1.6/set\nostatnie 12: 1.36/set",
-        "b": "\nost. 6 surf: 1/set\nostatnie 12: 1/set"
+        "a": "\nost. 6 surf: 3.27/set\nostatnie 12: 2.79/set",
+        "df": "\nost. 6 surf: 1.07/set\nostatnie 12: 1.36/set",
+        "b": "\nost. 6 surf: 1.13/set\nostatnie 12: 1/set"
       },
       "ace": "9 #5^3#3^3#5 #9^3#4 ",
       "ace2": "4 #6^3#11^3#5 #6^3#7 ",
@@ -150,7 +150,7 @@
       },
       {
         "book": "superbet",
-        "under": "  @1.37",
+        "under": "  @1.36",
         "lineType": "meczowa",
         "over": "  @3.65"
       }
@@ -226,7 +226,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": "A",
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "3#7#5#5#5#16",
       "sb_a2": "5#18#6#3#3#10",
@@ -238,9 +238,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 0.6/set\nostatnie 12: 2.66/set",
-        "df": "\nost. 6 surf: 2.4/set\nostatnie 12: 1.94/set",
-        "b": "\nost. 6 surf: 1.8/set\nostatnie 12: 1.09/set"
+        "a": "\nost. 6 surf: 1.73/set\nostatnie 12: 2.66/set",
+        "df": "\nost. 6 surf: 2.13/set\nostatnie 12: 1.94/set",
+        "b": "\nost. 6 surf: 1.13/set\nostatnie 12: 1.09/set"
       },
       "ace": "0 #3^3#1 #4^3#16 #12^5",
       "ace2": "3 #13^3#5 #1^3#3 #8^5",
@@ -271,9 +271,9 @@
       "sb_b2": "#####1",
       "sb_bm": "#####3",
       "dynamic": {
-        "a": "\nost. 6 surf: 6/set\nostatnie 12: 5.41/set",
-        "df": "\nost. 6 surf: 1.6/set\nostatnie 12: 1.03/set",
-        "b": "\nost. 6 surf: 1.2/set\nostatnie 12: 0.81/set"
+        "a": "\nost. 6 surf: 5.71/set\nostatnie 12: 5.41/set",
+        "df": "\nost. 6 surf: 1.71/set\nostatnie 12: 1.03/set",
+        "b": "\nost. 6 surf: 0.57/set\nostatnie 12: 0.81/set"
       },
       "ace": "14 #16^3#20^4#16^3#15^3#16^3",
       "ace2": "4 #2^3#6^4#11^3#10^3#6^3",
@@ -294,6 +294,12 @@
       "last_bAvgPerSet": "0.94"
     },
     "A": [
+      {
+        "book": "fortuna",
+        "under": "-15.5 @1.91",
+        "lineType": "meczowa",
+        "over": "+15.5 @1.74"
+      },
       {
         "book": "etoto",
         "under": "-16.5 @1.75",
@@ -362,9 +368,21 @@
         "over": "+ 4.5 @2"
       },
       {
+        "book": "fortuna",
+        "under": "- 4.5 @1.84",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.8"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 5.5 @1.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "-11.5 @1.65",
+        "lineType": "player2",
+        "over": "+11.5 @2.03"
       },
       {
         "book": "fuksiarz",
@@ -412,11 +430,23 @@
         "under": "  @20",
         "lineType": "meczowa",
         "over": "  @1"
+      },
+      {
+        "book": "fortuna",
+        "under": "  @9.2",
+        "lineType": "meczowa",
+        "over": "  @1.08"
       }
     ],
-    "A_cnt": 19,
-    "A_book_cnt": 6,
+    "A_cnt": 22,
+    "A_book_cnt": 7,
     "DF": [
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @1.84",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.8"
+      },
       {
         "book": "betfan",
         "under": "- 6.5 @2",
@@ -448,6 +478,12 @@
         "over": "+ 4.5 @1.87"
       },
       {
+        "book": "fortuna",
+        "under": "- 4.5 @1.89",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.75"
+      },
+      {
         "book": "superbet",
         "under": "- 5.5 @1.64",
         "lineType": "player1",
@@ -464,6 +500,12 @@
         "under": "- 2.5 @1.7",
         "lineType": "player2",
         "over": "+ 2.5 @2"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @1.71",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.94"
       },
       {
         "book": "fuksiarz",
@@ -484,16 +526,28 @@
         "under": "  @1.29",
         "lineType": "meczowa",
         "over": "  @4.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "  @1.36",
+        "lineType": "meczowa",
+        "over": "  @4.65"
       }
     ],
-    "DF_cnt": 10,
-    "DF_book_cnt": 4,
+    "DF_cnt": 13,
+    "DF_book_cnt": 5,
     "B": [
       {
         "book": "22bet",
         "under": "- 3.5 @1.44",
         "lineType": "meczowa",
         "over": "+ 3.5 @2.4"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 3.5 @1.6",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.14"
       },
       {
         "book": "22bet",
@@ -508,8 +562,8 @@
         "over": "+ 1.5 @1.44"
       }
     ],
-    "B_cnt": 3,
-    "B_book_cnt": 1
+    "B_cnt": 4,
+    "B_book_cnt": 2
   },
   {
     "id": "2578730017759639827",
@@ -521,7 +575,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "4#4#7#13#9#6",
       "sb_a2": "5#6#7#24#7#7",
@@ -533,9 +587,9 @@
       "sb_b2": "####5#4",
       "sb_bm": "####9#10",
       "dynamic": {
-        "a": "\nost. 6 surf: 1/set\nostatnie 12: 1.97/set",
-        "df": "\nost. 6 surf: 2.5/set\nostatnie 12: 1.22/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.11/set"
+        "a": "\nost. 6 surf: 3.08/set\nostatnie 12: 1.97/set",
+        "df": "\nost. 6 surf: 0.92/set\nostatnie 12: 1.22/set",
+        "b": "\nost. 6 surf: 0.69/set\nostatnie 12: 1.11/set"
       },
       "ace": "2 #4^3#3^3#10^3#7^4#17^5",
       "ace2": "0 #2^3#6^3#15^3#2^4#14^5",
@@ -566,9 +620,9 @@
       "sb_b2": "####1#3",
       "sb_bm": "####3#7",
       "dynamic": {
-        "a": "\nost. 6 surf: 4/set\nostatnie 12: 1.97/set",
-        "df": "\nost. 6 surf: 1/set\nostatnie 12: 0.49/set",
-        "b": "\nost. 6 surf: 1.5/set\nostatnie 12: 1/set"
+        "a": "\nost. 6 surf: 3.36/set\nostatnie 12: 1.97/set",
+        "df": "\nost. 6 surf: 0.79/set\nostatnie 12: 0.49/set",
+        "b": "\nost. 6 surf: 1/set\nostatnie 12: 1/set"
       },
       "ace": "8 #4^3#12^3#14^3#2 #6^3",
       "ace2": "7 #1^3#8^3#8^3#4 #11^3",
@@ -756,7 +810,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "3#9#9#8#6#8",
       "sb_a2": "7#5#9#3#10#9",
@@ -768,9 +822,9 @@
       "sb_b2": "####2#1",
       "sb_bm": "####3#4",
       "dynamic": {
-        "a": "\nost. 6 surf: 2/set\nostatnie 12: 1.74/set",
-        "df": "\nost. 6 surf: 1.8/set\nostatnie 12: 1.51/set",
-        "b": "\nost. 6 surf: 0.8/set\nostatnie 12: 1.38/set"
+        "a": "\nost. 6 surf: 3.06/set\nostatnie 12: 1.74/set",
+        "df": "\nost. 6 surf: 2.13/set\nostatnie 12: 1.51/set",
+        "b": "\nost. 6 surf: 0.56/set\nostatnie 12: 1.38/set"
       },
       "ace": "3^3#7 #6^4#11^4#5^3#6 ",
       "ace2": "3^3#5 #7^4#5^4#22^3#7 ",
@@ -801,9 +855,9 @@
       "sb_b2": "#####2",
       "sb_bm": "#####5",
       "dynamic": {
-        "a": "\nost. 6 surf: 4.25/set\nostatnie 12: 3.27/set",
-        "df": "\nost. 6 surf: 2/set\nostatnie 12: 1/set",
-        "b": "\nost. 6 surf: 0.75/set\nostatnie 12: 1.06/set"
+        "a": "\nost. 6 surf: 2.53/set\nostatnie 12: 3.27/set",
+        "df": "\nost. 6 surf: 0.8/set\nostatnie 12: 1/set",
+        "b": "\nost. 6 surf: 1/set\nostatnie 12: 1.06/set"
       },
       "ace": "7 #10 #6^4#19^3#12^3#5^3",
       "ace2": "4 #8 #20^4#6^3#1^3#1^3",
@@ -915,7 +969,7 @@
         "book": "superbet",
         "under": "- 7.5 @1.68",
         "lineType": "meczowa",
-        "over": "+ 7.5 @2.02"
+        "over": "+ 7.5 @2.05"
       },
       {
         "book": "superbet",
@@ -973,7 +1027,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "3#5#2#2#2#2",
       "sb_a2": "5#4#5#2#3#5",
@@ -985,9 +1039,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 1/set\nostatnie 12: 0.77/set",
-        "df": "\nost. 6 surf: 2/set\nostatnie 12: 1.19/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.35/set"
+        "a": "\nost. 6 surf: 1.94/set\nostatnie 12: 0.77/set",
+        "df": "\nost. 6 surf: 1.31/set\nostatnie 12: 1.19/set",
+        "b": "\nost. 6 surf: 1.38/set\nostatnie 12: 1.35/set"
       },
       "ace": "4 #1^3#2^3#1^3#0 #1 ",
       "ace2": "4 #1^3#4^3#0^3#1 #1 ",
@@ -1018,9 +1072,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.67/set\nostatnie 12: 2.36/set",
-        "df": "\nost. 6 surf: 1.5/set\nostatnie 12: 1.36/set",
-        "b": "\nost. 6 surf: 1.17/set\nostatnie 12: 1.25/set"
+        "a": "\nost. 6 surf: 2.5/set\nostatnie 12: 2.36/set",
+        "df": "\nost. 6 surf: 1.43/set\nostatnie 12: 1.36/set",
+        "b": "\nost. 6 surf: 1.07/set\nostatnie 12: 1.25/set"
       },
       "ace": "3 #4^3#5^3#11 #9 #12^5",
       "ace2": "6 #6^3#15^3#1 #5 #9^5",
@@ -1043,9 +1097,9 @@
     "A": [
       {
         "book": "superbet",
-        "under": "- 7.5 @1.8",
+        "under": "- 7.5 @2.02",
         "lineType": "meczowa",
-        "over": "+ 7.5 @1.88"
+        "over": "+ 7.5 @1.69"
       },
       {
         "book": "betclic",
@@ -1079,12 +1133,6 @@
         "over": "+ 4.5 @2.75"
       },
       {
-        "book": "superbet",
-        "under": "- 4.5 @1.67",
-        "lineType": "player2",
-        "over": "+ 4.5 @2.05"
-      },
-      {
         "book": "22bet",
         "lineType": "player2",
         "over": "+ 4.5 @1.83"
@@ -1093,6 +1141,12 @@
         "book": "betclic",
         "lineType": "player2",
         "over": "+ 4.5 @1.8"
+      },
+      {
+        "book": "superbet",
+        "under": "- 4.5 @1.97",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.72"
       }
     ],
     "MA": [
@@ -1110,9 +1164,9 @@
       },
       {
         "book": "superbet",
-        "under": "  @3.15",
+        "under": "  @3.85",
         "lineType": "meczowa",
-        "over": "  @1.59"
+        "over": "  @1.42"
       }
     ],
     "A_cnt": 10,
@@ -1132,7 +1186,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @1.92",
+        "under": "- 3.5 @1.9",
         "lineType": "player1",
         "over": "+ 3.5 @1.78"
       },
@@ -1192,7 +1246,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "8#7#13#12#11#8",
       "sb_a2": "3#12#6#10#11#5",
@@ -1204,9 +1258,9 @@
       "sb_b2": "#####2",
       "sb_bm": "#####5",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.4/set\nostatnie 12: 3.27/set",
-        "df": "\nost. 6 surf: 1.8/set\nostatnie 12: 1.68/set",
-        "b": "\nost. 6 surf: 0.8/set\nostatnie 12: 1.14/set"
+        "a": "\nost. 6 surf: 2.54/set\nostatnie 12: 3.27/set",
+        "df": "\nost. 6 surf: 2.08/set\nostatnie 12: 1.68/set",
+        "b": "\nost. 6 surf: 0.92/set\nostatnie 12: 1.14/set"
       },
       "ace": "7^3#5 #14^5#16^4#13^5#11^3",
       "ace2": "1^3#8 #5^5#7^4#7^5#4^3",
@@ -1237,9 +1291,9 @@
       "sb_b2": "#####1",
       "sb_bm": "#####2",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.09/set\nostatnie 12: 3.67/set",
-        "df": "\nost. 6 surf: 1.36/set\nostatnie 12: 1.31/set",
-        "b": "\nost. 6 surf: 1.09/set\nostatnie 12: 0.69/set"
+        "a": "\nost. 6 surf: 2.82/set\nostatnie 12: 3.67/set",
+        "df": "\nost. 6 surf: 1.18/set\nostatnie 12: 1.31/set",
+        "b": "\nost. 6 surf: 0.76/set\nostatnie 12: 0.69/set"
       },
       "ace": "3 #5^3#8^3#7^3#19^5#15^3",
       "ace2": "1 #6^3#7^3#6^3#14^5#24^3",
@@ -1330,7 +1384,7 @@
         "book": "superbet",
         "under": "- 6.5 @1.95",
         "lineType": "player2",
-        "over": "+ 6.5 @1.75"
+        "over": "+ 6.5 @1.76"
       },
       {
         "book": "betfan",
@@ -1420,6 +1474,12 @@
     "DF_book_cnt": 3,
     "B": [
       {
+        "book": "22bet",
+        "under": "- 3.5 @1.48",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.29"
+      },
+      {
         "book": "lvbet",
         "under": "- 3.5 @1.5",
         "lineType": "meczowa",
@@ -1450,7 +1510,7 @@
         "over": "+ 2.5 @2.5"
       }
     ],
-    "B_cnt": 5,
+    "B_cnt": 6,
     "B_book_cnt": 2
   },
   {
@@ -1463,7 +1523,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "7#8#10#9#18#9",
       "sb_a2": "6#7#8#6#10#8",
@@ -1475,9 +1535,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 3.3/set\nostatnie 12: 3.06/set",
-        "df": "\nost. 6 surf: 1.3/set\nostatnie 12: 0.91/set",
-        "b": "\nost. 6 surf: 0.8/set\nostatnie 12: 0.45/set"
+        "a": "\nost. 6 surf: 2.75/set\nostatnie 12: 3.06/set",
+        "df": "\nost. 6 surf: 1.13/set\nostatnie 12: 0.91/set",
+        "b": "\nost. 6 surf: 0.75/set\nostatnie 12: 0.45/set"
       },
       "ace": "7 #9^3#7 #10^3#9^4#11^3",
       "ace2": "5 #5^3#11 #7^3#11^4#12^3",
@@ -1508,9 +1568,9 @@
       "sb_b2": "#####2",
       "sb_bm": "#####4",
       "dynamic": {
-        "a": "\nost. 6 surf: 3.89/set\nostatnie 12: 3.31/set",
-        "df": "\nost. 6 surf: 1.89/set\nostatnie 12: 1.51/set",
-        "b": "\nost. 6 surf: 1/set\nostatnie 12: 1.02/set"
+        "a": "\nost. 6 surf: 4.5/set\nostatnie 12: 3.31/set",
+        "df": "\nost. 6 surf: 1.67/set\nostatnie 12: 1.51/set",
+        "b": "\nost. 6 surf: 0.83/set\nostatnie 12: 1.02/set"
       },
       "ace": "9^3#15^3#11^3#31^4#13^5#19^3",
       "ace2": "5^3#12^3#3^3#10^4#5^5#5^3",
@@ -1580,7 +1640,7 @@
       },
       {
         "book": "superbet",
-        "under": "-10.5 @1.69",
+        "under": "-10.5 @1.7",
         "lineType": "player2",
         "over": "+10.5 @2.02"
       },
@@ -1606,7 +1666,7 @@
         "book": "superbet",
         "under": "  @5",
         "lineType": "meczowa",
-        "over": "  @1.23"
+        "over": "  @1.22"
       }
     ],
     "A_cnt": 12,
@@ -1626,7 +1686,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @1.68",
+        "under": "- 3.5 @1.69",
         "lineType": "player1",
         "over": "+ 3.5 @2.02"
       },
@@ -1680,7 +1740,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "5#7#10#15#10#",
       "sb_a2": "9#8#8#14#10#",
@@ -1692,9 +1752,9 @@
       "sb_b2": "####2#",
       "sb_bm": "####4#",
       "dynamic": {
-        "a": "\nost. 6 surf: 3.75/set\nostatnie 12: 3.06/set",
-        "df": "\nost. 6 surf: 1/set\nostatnie 12: 1.26/set",
-        "b": "\nost. 6 surf: 0.88/set\nostatnie 12: 0.74/set"
+        "a": "\nost. 6 surf: 4.6/set\nostatnie 12: 3.06/set",
+        "df": "\nost. 6 surf: 0.87/set\nostatnie 12: 1.26/set",
+        "b": "\nost. 6 surf: 0.8/set\nostatnie 12: 0.74/set"
       },
       "ace": "8^3#5 #17^3#19^4#19^3#2 ",
       "ace2": "10^3#9 #14^3#16^4#5^3#11 ",
@@ -1725,9 +1785,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 1.67/set\nostatnie 12: 2.21/set",
-        "df": "\nost. 6 surf: 2.33/set\nostatnie 12: 1.1/set",
-        "b": "\nost. 6 surf: 1/set\nostatnie 12: 1.02/set"
+        "a": "\nost. 6 surf: 2.07/set\nostatnie 12: 2.21/set",
+        "df": "\nost. 6 surf: 2.07/set\nostatnie 12: 1.1/set",
+        "b": "\nost. 6 surf: 0.71/set\nostatnie 12: 1.02/set"
       },
       "ace": "5^3#6^3#8^3#12^4#4 #9^3",
       "ace2": "4^3#2^3#5^3#14^4#1 #6^3",
@@ -1759,6 +1819,12 @@
         "under": "-12.5 @1.9",
         "lineType": "meczowa",
         "over": "+12.5 @1.8"
+      },
+      {
+        "book": "fortuna",
+        "under": "-13.5 @1.83",
+        "lineType": "meczowa",
+        "over": "+13.5 @1.81"
       },
       {
         "book": "betclic",
@@ -1794,6 +1860,12 @@
         "over": "+ 6.5 @1.83"
       },
       {
+        "book": "fortuna",
+        "under": "- 6.5 @1.82",
+        "lineType": "player1",
+        "over": "+ 6.5 @1.82"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 6.5 @1.6"
@@ -1826,6 +1898,12 @@
         "over": "+ 6.5 @1.8"
       },
       {
+        "book": "fortuna",
+        "under": "- 6.5 @1.97",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.69"
+      },
+      {
         "book": "betfan",
         "lineType": "player2",
         "over": "+ 6.5 @1.6"
@@ -1854,11 +1932,23 @@
         "under": "  @1.66",
         "lineType": "meczowa",
         "over": "  @2.72"
+      },
+      {
+        "book": "fortuna",
+        "under": "  @2.25",
+        "lineType": "meczowa",
+        "over": "  @1.9"
       }
     ],
-    "A_cnt": 16,
-    "A_book_cnt": 5,
+    "A_cnt": 19,
+    "A_book_cnt": 6,
     "DF": [
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @1.73",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.92"
+      },
       {
         "book": "superbet",
         "under": "- 6.5 @1.8",
@@ -1884,6 +1974,18 @@
         "over": "+ 2.5 @1.75"
       },
       {
+        "book": "fortuna",
+        "under": "- 3.5 @1.63",
+        "lineType": "player1",
+        "over": "+ 3.5 @2.06"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 2.5 @2.11",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.6"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @1.92",
         "lineType": "player2",
@@ -1902,11 +2004,23 @@
         "under": "  @3.05",
         "lineType": "meczowa",
         "over": "  @1.63"
+      },
+      {
+        "book": "fortuna",
+        "under": "  @2.1",
+        "lineType": "meczowa",
+        "over": "  @2.2"
       }
     ],
-    "DF_cnt": 5,
-    "DF_book_cnt": 3,
+    "DF_cnt": 8,
+    "DF_book_cnt": 4,
     "B": [
+      {
+        "book": "fortuna",
+        "under": "- 4.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.98"
+      },
       {
         "book": "22bet",
         "under": "- 4.5 @1.75",
@@ -1944,8 +2058,8 @@
         "over": "+ 1.5 @1.48"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 7,
+    "B_book_cnt": 3
   },
   {
     "id": "5039767213394208132",
@@ -1957,7 +2071,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "13#10#11#12#13#19",
       "sb_a2": "7#4#3#8#4#13",
@@ -1969,9 +2083,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 5.2/set\nostatnie 12: 5.28/set",
-        "df": "\nost. 6 surf: 2/set\nostatnie 12: 1.33/set",
-        "b": "\nost. 6 surf: 1.4/set\nostatnie 12: 0.81/set"
+        "a": "\nost. 6 surf: 4.8/set\nostatnie 12: 5.28/set",
+        "df": "\nost. 6 surf: 1.07/set\nostatnie 12: 1.33/set",
+        "b": "\nost. 6 surf: 0.73/set\nostatnie 12: 0.81/set"
       },
       "ace": "5 #21^3#21^3#7^3#16^3#21^4",
       "ace2": "0 #3^3#2^3#6^3#7^3#15^4",
@@ -2107,7 +2221,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "6#8#7#13#14#17",
       "sb_a2": "7#4#7#16#9#7",
@@ -2119,9 +2233,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.71/set\nostatnie 12: 4.24/set",
-        "df": "\nost. 6 surf: 0.86/set\nostatnie 12: 0.71/set",
-        "b": "\nost. 6 surf: 1/set\nostatnie 12: 0.85/set"
+        "a": "\nost. 6 surf: 2.92/set\nostatnie 12: 4.24/set",
+        "df": "\nost. 6 surf: 0.62/set\nostatnie 12: 0.71/set",
+        "b": "\nost. 6 surf: 0.92/set\nostatnie 12: 0.85/set"
       },
       "ace": "2 #6 #11^3#14^4#16^4#25^3",
       "ace2": "10 #2 #16^3#12^4#7^4#3^3",
@@ -2257,7 +2371,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "8#5#7#5##6",
       "sb_a2": "6#6#13#3##5",
@@ -2269,9 +2383,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 3.71/set\nostatnie 12: 2.75/set",
-        "df": "\nost. 6 surf: 1.43/set\nostatnie 12: 0.82/set",
-        "b": "\nost. 6 surf: 1.43/set\nostatnie 12: 1.07/set"
+        "a": "\nost. 6 surf: 2.64/set\nostatnie 12: 2.75/set",
+        "df": "\nost. 6 surf: 1.36/set\nostatnie 12: 0.82/set",
+        "b": "\nost. 6 surf: 0.86/set\nostatnie 12: 1.07/set"
       },
       "ace": "2 #8 #16^3#2^3#5 #7 ",
       "ace2": "8 #2 #4^3#4^3#1 #5 ",
@@ -2302,9 +2416,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 2/set\nostatnie 12: 2.38/set",
-        "df": "\nost. 6 surf: 0.8/set\nostatnie 12: 1/set",
-        "b": "\nost. 6 surf: 1/set\nostatnie 12: 1.03/set"
+        "a": "\nost. 6 surf: 2.94/set\nostatnie 12: 2.38/set",
+        "df": "\nost. 6 surf: 0.94/set\nostatnie 12: 1/set",
+        "b": "\nost. 6 surf: 0.67/set\nostatnie 12: 1.03/set"
       },
       "ace": "8^3#2 #5^3#4^3#3 #3 ",
       "ace2": "4^3#5 #8^3#7^3#0 #4 ",
@@ -2407,7 +2521,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "D",
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "4#6#5#8#11#3",
       "sb_a2": "2#4#5#18#12#7",
@@ -2419,9 +2533,9 @@
       "sb_b2": "#####4",
       "sb_bm": "#####5",
       "dynamic": {
-        "a": "\nost. 6 surf: 3.14/set\nostatnie 12: 1.97/set",
-        "df": "\nost. 6 surf: 1.29/set\nostatnie 12: 1/set",
-        "b": "\nost. 6 surf: 1.29/set\nostatnie 12: 1.1/set"
+        "a": "\nost. 6 surf: 3.13/set\nostatnie 12: 1.97/set",
+        "df": "\nost. 6 surf: 1.13/set\nostatnie 12: 1/set",
+        "b": "\nost. 6 surf: 0.73/set\nostatnie 12: 1.1/set"
       },
       "ace": "4 #12^3#6 #11^4#8^3#3 ",
       "ace2": "1 #4^3#4 #16^4#8^3#4 ",
@@ -2557,7 +2671,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "4#4#4#3#6#9",
       "sb_a2": "4#2#3#2#1#7",
@@ -2569,9 +2683,9 @@
       "sb_b2": "#####4",
       "sb_bm": "#####6",
       "dynamic": {
-        "a": "\nost. 6 surf: 1/set\nostatnie 12: 2.24/set",
-        "df": "\nost. 6 surf: 1.25/set\nostatnie 12: 1.24/set",
-        "b": "\nost. 6 surf: 1.63/set\nostatnie 12: 1.31/set"
+        "a": "\nost. 6 surf: 1.62/set\nostatnie 12: 2.24/set",
+        "df": "\nost. 6 surf: 1/set\nostatnie 12: 1.24/set",
+        "b": "\nost. 6 surf: 1.46/set\nostatnie 12: 1.31/set"
       },
       "ace": "1 #4 #0 #3 #8^3#11^3",
       "ace2": "3 #1 #1 #0 #0^3#11^3",
@@ -2602,9 +2716,9 @@
       "sb_b2": "####2#",
       "sb_bm": "####6#",
       "dynamic": {
-        "a": "\nost. 6 surf: 5/set\nostatnie 12: 2.43/set",
-        "df": "\nost. 6 surf: 5.33/set\nostatnie 12: 1.83/set",
-        "b": "\nost. 6 surf: 1.33/set\nostatnie 12: 1.4/set"
+        "a": "\nost. 6 surf: 3.57/set\nostatnie 12: 2.43/set",
+        "df": "\nost. 6 surf: 1.71/set\nostatnie 12: 1.83/set",
+        "b": "\nost. 6 surf: 1.29/set\nostatnie 12: 1.4/set"
       },
       "ace": "15^3#2 #1 #6^3#13 #9^3",
       "ace2": "3^3#4 #1 #3^3#4 #2^3",
@@ -2705,7 +2819,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 6.5 @2.02",
+        "under": "- 6.5 @2.05",
         "lineType": "player2",
         "over": "+ 6.5 @1.68"
       },
@@ -2740,7 +2854,7 @@
       },
       {
         "book": "superbet",
-        "under": "  @7.1",
+        "under": "  @7",
         "lineType": "meczowa",
         "over": "  @1.15"
       },
@@ -2754,6 +2868,12 @@
     "A_cnt": 19,
     "A_book_cnt": 6,
     "DF": [
+      {
+        "book": "fortuna",
+        "under": "- 6.5 @1.88",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.76"
+      },
       {
         "book": "betfan",
         "under": "- 7.5 @1.75",
@@ -2773,16 +2893,28 @@
         "over": "+ 7.5 @1.7"
       },
       {
-        "book": "superbet",
-        "under": "- 3.5 @1.78",
+        "book": "fortuna",
+        "under": "- 2.5 @2.1",
         "lineType": "player1",
-        "over": "+ 3.5 @1.9"
+        "over": "+ 2.5 @1.6"
       },
       {
         "book": "superbet",
-        "under": "- 4.5 @1.7",
+        "under": "- 3.5 @1.77",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.92"
+      },
+      {
+        "book": "fortuna",
+        "under": "- 4.5 @1.64",
         "lineType": "player2",
-        "over": "+ 4.5 @2"
+        "over": "+ 4.5 @2.05"
+      },
+      {
+        "book": "superbet",
+        "under": "- 4.5 @1.69",
+        "lineType": "player2",
+        "over": "+ 4.5 @2.02"
       }
     ],
     "MDF": [
@@ -2794,14 +2926,26 @@
       },
       {
         "book": "superbet",
-        "under": "  @2.7",
+        "under": "  @2.75",
         "lineType": "meczowa",
         "over": "  @1.72"
+      },
+      {
+        "book": "fortuna",
+        "under": "  @3.15",
+        "lineType": "meczowa",
+        "over": "  @1.58"
       }
     ],
-    "DF_cnt": 5,
-    "DF_book_cnt": 3,
+    "DF_cnt": 8,
+    "DF_book_cnt": 4,
     "B": [
+      {
+        "book": "lvbet",
+        "under": "- 4.5 @2.07",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.62"
+      },
       {
         "book": "22bet",
         "under": "- 4.5 @2.03",
@@ -2809,16 +2953,16 @@
         "over": "+ 4.5 @1.61"
       },
       {
-        "book": "lvbet",
-        "under": "- 4.5 @2.15",
-        "lineType": "meczowa",
-        "over": "+ 4.5 @1.57"
-      },
-      {
         "book": "fortuna",
         "under": "- 5.5 @1.86",
         "lineType": "meczowa",
         "over": "+ 5.5 @1.8"
+      },
+      {
+        "book": "lvbet",
+        "under": "- 1.5 @1.55",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.2"
       },
       {
         "book": "22bet",
@@ -2828,15 +2972,9 @@
       },
       {
         "book": "lvbet",
-        "under": "- 1.5 @1.62",
-        "lineType": "player1",
-        "over": "+ 1.5 @2.07"
-      },
-      {
-        "book": "lvbet",
-        "under": "- 3.5 @1.88",
+        "under": "- 3.5 @1.98",
         "lineType": "player2",
-        "over": "+ 3.5 @1.8"
+        "over": "+ 3.5 @1.7"
       },
       {
         "book": "22bet",
@@ -2858,7 +2996,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "1#2##2#2#2",
       "sb_a2": "4#2##1#1#4",
@@ -2903,9 +3041,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.09/set\nostatnie 12: 1.93/set",
-        "df": "\nost. 6 surf: 2.91/set\nostatnie 12: 2.23/set",
-        "b": "\nost. 6 surf: 1.45/set\nostatnie 12: 1.43/set"
+        "a": "\nost. 6 surf: 1.77/set\nostatnie 12: 1.93/set",
+        "df": "\nost. 6 surf: 3.15/set\nostatnie 12: 2.23/set",
+        "b": "\nost. 6 surf: 1.54/set\nostatnie 12: 1.43/set"
       },
       "ace": "2 #5 #4 #7 #5^3#6^3",
       "ace2": "4 #1 #2 #2 #10^3#2^3",
@@ -2948,6 +3086,16 @@
         "over": "+ 8.5 @1.8"
       },
       {
+        "book": "22bet",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @2.75"
+      },
+      {
+        "book": "22bet",
+        "lineType": "meczowa",
+        "over": "+14.5 @10"
+      },
+      {
         "book": "superbet",
         "under": "- 1.5 @2.1",
         "lineType": "player1",
@@ -2962,6 +3110,11 @@
         "book": "betfan",
         "lineType": "player1",
         "over": "+ 2.5 @2"
+      },
+      {
+        "book": "22bet",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.67"
       },
       {
         "book": "betclic",
@@ -3020,7 +3173,7 @@
         "over": "  @1.46"
       }
     ],
-    "A_cnt": 14,
+    "A_cnt": 17,
     "A_book_cnt": 4,
     "DF": [
       {
@@ -3121,7 +3274,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "DF;T",
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "3#3#3#3#4#4",
       "sb_a2": "1#3#2#7#2#3",
@@ -3166,9 +3319,9 @@
       "sb_b2": "#3####",
       "sb_bm": "#6####",
       "dynamic": {
-        "a": "\nost. 6 surf: 2/set\nostatnie 12: 1.38/set",
-        "df": "\nost. 6 surf: 4.5/set\nostatnie 12: 1.94/set",
-        "b": "\nost. 6 surf: 3/set\nostatnie 12: 1.78/set"
+        "a": "\nost. 6 surf: 1.38/set\nostatnie 12: 1.38/set",
+        "df": "\nost. 6 surf: 2.5/set\nostatnie 12: 1.94/set",
+        "b": "\nost. 6 surf: 1.88/set\nostatnie 12: 1.78/set"
       },
       "ace": "4 #3^3#7^3#4^3#1^3#10^3",
       "ace2": "5 #3^3#2^3#1^3#0^3#0^3",
@@ -3260,7 +3413,7 @@
         "book": "superbet",
         "under": "- 9.5 @1.95",
         "lineType": "meczowa",
-        "over": "+ 9.5 @1.76"
+        "over": "+ 9.5 @1.75"
       },
       {
         "book": "superbet",
@@ -3318,7 +3471,7 @@
     "atp": false,
     "tags1": "T",
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "3#5#3#5#2#1",
       "sb_a2": "3#3#3#5#1#2",
@@ -3330,9 +3483,9 @@
       "sb_b2": "###2#4#5",
       "sb_bm": "###6#9#9",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.5/set\nostatnie 12: 1.3/set",
-        "df": "\nost. 6 surf: 0/set\nostatnie 12: 1.37/set",
-        "b": "\nost. 6 surf: 3/set\nostatnie 12: 2.11/set"
+        "a": "\nost. 6 surf: 1.6/set\nostatnie 12: 1.3/set",
+        "df": "\nost. 6 surf: 1.27/set\nostatnie 12: 1.37/set",
+        "b": "\nost. 6 surf: 2.13/set\nostatnie 12: 2.11/set"
       },
       "ace": "5 #5^3#8 #4 #1 #2 ",
       "ace2": "2 #9^3#2 #1 #0 #1 ",
@@ -3363,9 +3516,9 @@
       "sb_b2": "####3#",
       "sb_bm": "####6#",
       "dynamic": {
-        "a": "\nost. 6 surf: 1.5/set\nostatnie 12: 1.44/set",
-        "df": "\nost. 6 surf: 1.83/set\nostatnie 12: 2.52/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.52/set"
+        "a": "\nost. 6 surf: 1.14/set\nostatnie 12: 1.44/set",
+        "df": "\nost. 6 surf: 1.64/set\nostatnie 12: 2.52/set",
+        "b": "\nost. 6 surf: 1.5/set\nostatnie 12: 1.52/set"
       },
       "ace": "3 #4 #2 #5 #3 #5^3",
       "ace2": "0 #0 #0 #6 #4 #7^3",
@@ -3397,10 +3550,16 @@
         "over": "+ 5.5 @2"
       },
       {
-        "book": "superbet",
-        "under": "- 5.5 @1.83",
+        "book": "etoto",
+        "under": "- 5.5 @1.8",
         "lineType": "meczowa",
-        "over": "+ 5.5 @1.85"
+        "over": "+ 5.5 @1.9"
+      },
+      {
+        "book": "superbet",
+        "under": "- 5.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.9"
       },
       {
         "book": "22bet",
@@ -3415,9 +3574,15 @@
       },
       {
         "book": "superbet",
+        "under": "- 3.5 @2.07",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.66"
+      },
+      {
+        "book": "etoto",
         "under": "- 3.5 @2.1",
         "lineType": "player1",
-        "over": "+ 3.5 @1.63"
+        "over": "+ 3.5 @1.65"
       },
       {
         "book": "betfan",
@@ -3445,10 +3610,16 @@
         "over": "+ 1.5 @2"
       },
       {
-        "book": "superbet",
-        "under": "- 1.5 @1.78",
+        "book": "etoto",
+        "under": "- 1.5 @1.75",
         "lineType": "player2",
-        "over": "+ 1.5 @1.9"
+        "over": "+ 1.5 @1.95"
+      },
+      {
+        "book": "superbet",
+        "under": "- 1.5 @1.77",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.92"
       },
       {
         "book": "betclic",
@@ -3470,8 +3641,8 @@
         "over": "  @7.2"
       }
     ],
-    "A_cnt": 13,
-    "A_book_cnt": 4,
+    "A_cnt": 16,
+    "A_book_cnt": 5,
     "DF": [
       {
         "book": "betfan",
@@ -3487,21 +3658,21 @@
       },
       {
         "book": "superbet",
-        "under": "- 7.5 @1.92",
+        "under": "- 7.5 @1.88",
         "lineType": "meczowa",
-        "over": "+ 7.5 @1.77"
+        "over": "+ 7.5 @1.8"
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @1.8",
+        "under": "- 3.5 @1.76",
         "lineType": "player1",
-        "over": "+ 3.5 @1.88"
+        "over": "+ 3.5 @1.92"
       },
       {
         "book": "superbet",
-        "under": "- 4.5 @1.65",
+        "under": "- 4.5 @1.63",
         "lineType": "player2",
-        "over": "+ 4.5 @2.07"
+        "over": "+ 4.5 @2.12"
       }
     ],
     "MDF": [
@@ -3513,9 +3684,9 @@
       },
       {
         "book": "superbet",
-        "under": "  @2.62",
+        "under": "  @2.67",
         "lineType": "meczowa",
-        "over": "  @1.76"
+        "over": "  @1.75"
       }
     ],
     "DF_cnt": 5,
@@ -3547,9 +3718,9 @@
       },
       {
         "book": "lvbet",
-        "under": "- 3.5 @1.7",
+        "under": "- 3.5 @1.62",
         "lineType": "player2",
-        "over": "+ 3.5 @1.98"
+        "over": "+ 3.5 @2.07"
       },
       {
         "book": "22bet",
@@ -3571,7 +3742,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "2#2#2#2#2#2",
       "sb_a2": "6#4#1#2#2#7",
@@ -3583,9 +3754,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 0.58/set\nostatnie 12: 0.89/set",
-        "df": "\nost. 6 surf: 2.42/set\nostatnie 12: 2.36/set",
-        "b": "\nost. 6 surf: 2.42/set\nostatnie 12: 2.04/set"
+        "a": "\nost. 6 surf: 0.71/set\nostatnie 12: 0.89/set",
+        "df": "\nost. 6 surf: 2.36/set\nostatnie 12: 2.36/set",
+        "b": "\nost. 6 surf: 2.21/set\nostatnie 12: 2.04/set"
       },
       "ace": "5 #1^3#0 #0 #1^3#1 ",
       "ace2": "2 #4^3#0 #1 #1^3#1 ",
@@ -3641,9 +3812,9 @@
     "A": [
       {
         "book": "superbet",
-        "under": "- 3.5 @1.6",
+        "under": "- 3.5 @1.67",
         "lineType": "meczowa",
-        "over": "+ 3.5 @2.17"
+        "over": "+ 3.5 @2.05"
       },
       {
         "book": "betfan",
@@ -3662,9 +3833,9 @@
       },
       {
         "book": "superbet",
-        "under": "- 1.5 @1.95",
+        "under": "- 1.5 @2.1",
         "lineType": "player1",
-        "over": "+ 1.5 @1.74"
+        "over": "+ 1.5 @1.64"
       },
       {
         "book": "betfan",
@@ -3712,9 +3883,9 @@
       },
       {
         "book": "superbet",
-        "under": "  @2.02",
+        "under": "  @1.9",
         "lineType": "meczowa",
-        "over": "  @2.8"
+        "over": "  @3"
       }
     ],
     "A_cnt": 12,
@@ -3788,7 +3959,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "5#6#5#4#5#6",
       "sb_a2": "4#6#2#7#2#1",
@@ -3800,9 +3971,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.67/set\nostatnie 12: 1.96/set",
-        "df": "\nost. 6 surf: 3.67/set\nostatnie 12: 2.41/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.52/set"
+        "a": "\nost. 6 surf: 1.57/set\nostatnie 12: 1.96/set",
+        "df": "\nost. 6 surf: 2.14/set\nostatnie 12: 2.41/set",
+        "b": "\nost. 6 surf: 1.79/set\nostatnie 12: 1.52/set"
       },
       "ace": "8^3#4 #2 #4 #2^3#8 ",
       "ace2": "2^3#7 #1 #2 #1^3#0 ",
@@ -3833,9 +4004,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 3.43/set\nostatnie 12: 3.36/set",
-        "df": "\nost. 6 surf: 1.71/set\nostatnie 12: 1.08/set",
-        "b": "\nost. 6 surf: 1.43/set\nostatnie 12: 1.76/set"
+        "a": "\nost. 6 surf: 3.57/set\nostatnie 12: 3.36/set",
+        "df": "\nost. 6 surf: 1.29/set\nostatnie 12: 1.08/set",
+        "b": "\nost. 6 surf: 1.07/set\nostatnie 12: 1.76/set"
       },
       "ace": "10 #5 #9^3#9 #8 #5 ",
       "ace2": "0 #0 #1^3#7 #5 #1 ",
@@ -3858,9 +4029,9 @@
     "A": [
       {
         "book": "superbet",
-        "under": "-11.5 @1.74",
+        "under": "-11.5 @1.73",
         "lineType": "meczowa",
-        "over": "+11.5 @1.95"
+        "over": "+11.5 @1.97"
       },
       {
         "book": "etoto",
@@ -3903,7 +4074,7 @@
         "book": "superbet",
         "under": "- 4.5 @1.95",
         "lineType": "player1",
-        "over": "+ 4.5 @1.74"
+        "over": "+ 4.5 @1.75"
       },
       {
         "book": "betclic",
@@ -3912,7 +4083,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 6.5 @1.75",
+        "under": "- 6.5 @1.74",
         "lineType": "player2",
         "over": "+ 6.5 @1.95"
       },
@@ -3963,7 +4134,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 8.5 @1.8",
+        "under": "- 8.5 @1.78",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.9"
       },
@@ -3983,7 +4154,7 @@
     "MDF": [
       {
         "book": "superbet",
-        "under": "  @1.47",
+        "under": "  @1.46",
         "lineType": "meczowa",
         "over": "  @3.5"
       }
@@ -4023,7 +4194,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "2#2#2#2#2#",
       "sb_a2": "3#4#5#5#4#",
@@ -4035,9 +4206,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 2/set\nostatnie 12: 0.89/set",
-        "df": "\nost. 6 surf: 1/set\nostatnie 12: 1.29/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.82/set"
+        "a": "\nost. 6 surf: 1.36/set\nostatnie 12: 0.89/set",
+        "df": "\nost. 6 surf: 0.93/set\nostatnie 12: 1.29/set",
+        "b": "\nost. 6 surf: 1.29/set\nostatnie 12: 1.82/set"
       },
       "ace": "4 #1^3#2^3#5 #1 #0 ",
       "ace2": "0 #2^3#6^3#3 #3 #0 ",
@@ -4109,9 +4280,9 @@
       },
       {
         "book": "superbet",
-        "under": "- 5.5 @1.8",
+        "under": "- 5.5 @1.78",
         "lineType": "meczowa",
-        "over": "+ 5.5 @1.88"
+        "over": "+ 5.5 @1.9"
       },
       {
         "book": "etoto",
@@ -4147,13 +4318,13 @@
         "over": "+ 2.5 @2.6"
       },
       {
-        "book": "etoto",
-        "under": "- 2.5 @1.9",
+        "book": "superbet",
+        "under": "- 2.5 @1.78",
         "lineType": "player1",
-        "over": "+ 2.5 @1.8"
+        "over": "+ 2.5 @1.9"
       },
       {
-        "book": "superbet",
+        "book": "etoto",
         "under": "- 2.5 @1.9",
         "lineType": "player1",
         "over": "+ 2.5 @1.8"
@@ -4164,16 +4335,16 @@
         "over": "+ 3.5 @2"
       },
       {
-        "book": "superbet",
-        "under": "- 2.5 @2",
-        "lineType": "player2",
-        "over": "+ 2.5 @1.71"
-      },
-      {
         "book": "etoto",
         "under": "- 2.5 @2.02",
         "lineType": "player2",
         "over": "+ 2.5 @1.7"
+      },
+      {
+        "book": "superbet",
+        "under": "- 2.5 @2.05",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.67"
       },
       {
         "book": "betfan",
@@ -4218,9 +4389,9 @@
       },
       {
         "book": "superbet",
-        "under": "  @2.3",
+        "under": "  @2.52",
         "lineType": "meczowa",
-        "over": "  @2.1"
+        "over": "  @1.95"
       },
       {
         "book": "fortuna",
@@ -4366,7 +4537,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "3#5#4#5#6#2",
       "sb_a2": "2#3#4#4#1#2",
@@ -4378,9 +4549,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 1.75/set\nostatnie 12: 1.74/set",
-        "df": "\nost. 6 surf: 1.75/set\nostatnie 12: 0.67/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.26/set"
+        "a": "\nost. 6 surf: 1.85/set\nostatnie 12: 1.74/set",
+        "df": "\nost. 6 surf: 1.15/set\nostatnie 12: 0.67/set",
+        "b": "\nost. 6 surf: 1.54/set\nostatnie 12: 1.26/set"
       },
       "ace": "4 #3 #3^3#7^3#5 #1 ",
       "ace2": "5 #1 #2^3#2^3#0 #2 ",
@@ -4411,9 +4582,9 @@
       "sb_b2": "#####5",
       "sb_bm": "#####9",
       "dynamic": {
-        "a": "\nost. 6 surf: 1.5/set\nostatnie 12: 0.86/set",
-        "df": "\nost. 6 surf: 3/set\nostatnie 12: 1.61/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.75/set"
+        "a": "\nost. 6 surf: 1/set\nostatnie 12: 0.86/set",
+        "df": "\nost. 6 surf: 1.23/set\nostatnie 12: 1.61/set",
+        "b": "\nost. 6 surf: 1.77/set\nostatnie 12: 1.75/set"
       },
       "ace": "3 #1^3#6^3#1 #2 #2^3",
       "ace2": "1 #4^3#6^3#6 #3 #3^3",
@@ -4435,15 +4606,15 @@
     },
     "A": [
       {
-        "book": "superbet",
-        "under": "- 6.5 @1.85",
-        "lineType": "meczowa",
-        "over": "+ 6.5 @1.83"
-      },
-      {
         "book": "betfan",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.6"
+      },
+      {
+        "book": "superbet",
+        "under": "- 7.5 @1.67",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2.05"
       },
       {
         "book": "betfan",
@@ -4456,12 +4627,6 @@
         "over": "+ 9.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 3.5 @2.1",
-        "lineType": "player1",
-        "over": "+ 3.5 @1.65"
-      },
-      {
         "book": "betfan",
         "lineType": "player1",
         "over": "+ 3.5 @1.5"
@@ -4470,6 +4635,12 @@
         "book": "betfan",
         "lineType": "player1",
         "over": "+ 4.5 @2"
+      },
+      {
+        "book": "superbet",
+        "under": "- 4.5 @1.78",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.9"
       },
       {
         "book": "betclic",
@@ -4507,9 +4678,9 @@
       },
       {
         "book": "superbet",
-        "under": "  @1.5",
+        "under": "  @1.36",
         "lineType": "meczowa",
-        "over": "  @3.6"
+        "over": "  @4.4"
       }
     ],
     "A_cnt": 12,
@@ -4523,7 +4694,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 7.5 @1.72",
+        "under": "- 7.5 @1.73",
         "lineType": "meczowa",
         "over": "+ 7.5 @1.97"
       },
@@ -4583,7 +4754,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "DF",
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "5#4#7#8#5#5",
       "sb_a2": "2#2#7#6#2#3",
@@ -4595,9 +4766,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 2.25/set\nostatnie 12: 2.63/set",
-        "df": "\nost. 6 surf: 2.5/set\nostatnie 12: 1.37/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.56/set"
+        "a": "\nost. 6 surf: 2.23/set\nostatnie 12: 2.63/set",
+        "df": "\nost. 6 surf: 1.08/set\nostatnie 12: 1.37/set",
+        "b": "\nost. 6 surf: 1.85/set\nostatnie 12: 1.56/set"
       },
       "ace": "5 #4 #5 #9 #7 #5 ",
       "ace2": "1 #4 #8 #4 #1 #4 ",
@@ -4628,9 +4799,9 @@
       "sb_b2": "#####4",
       "sb_bm": "#####6",
       "dynamic": {
-        "a": "\nost. 6 surf: 1.8/set\nostatnie 12: 1.79/set",
-        "df": "\nost. 6 surf: 3.8/set\nostatnie 12: 2.04/set",
-        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.46/set"
+        "a": "\nost. 6 surf: 1.67/set\nostatnie 12: 1.79/set",
+        "df": "\nost. 6 surf: 2.27/set\nostatnie 12: 2.04/set",
+        "b": "\nost. 6 surf: 1.4/set\nostatnie 12: 1.46/set"
       },
       "ace": "7^3#2 #6^3#7 #5 #0 ",
       "ace2": "8^3#1 #2^3#1 #5 #7 ",
@@ -4751,7 +4922,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "5#4#6#5#5#4",
       "sb_a2": "2#3#1#2#2#3",
@@ -4796,9 +4967,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 0.73/set\nostatnie 12: 0.59/set",
-        "df": "\nost. 6 surf: 0.82/set\nostatnie 12: 1.1/set",
-        "b": "\nost. 6 surf: 1.91/set\nostatnie 12: 1.76/set"
+        "a": "\nost. 6 surf: 0.62/set\nostatnie 12: 0.59/set",
+        "df": "\nost. 6 surf: 1/set\nostatnie 12: 1.1/set",
+        "b": "\nost. 6 surf: 1.62/set\nostatnie 12: 1.76/set"
       },
       "ace": "3 #2^3#1 #2 #0 #1^3",
       "ace2": "4 #3^3#3 #4 #2 #4^3",
@@ -4937,7 +5108,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "4#4#6#5#5#5",
       "sb_a2": "2#2#2#3#2#4",
@@ -4949,9 +5120,9 @@
       "sb_b2": "#####",
       "sb_bm": "#####",
       "dynamic": {
-        "a": "\nost. 6 surf: 1.33/set\nostatnie 12: 1.29/set",
-        "df": "\nost. 6 surf: 3/set\nostatnie 12: 1.82/set",
-        "b": "\nost. 6 surf: 2.33/set\nostatnie 12: 2.14/set"
+        "a": "\nost. 6 surf: 1.69/set\nostatnie 12: 1.29/set",
+        "df": "\nost. 6 surf: 2.46/set\nostatnie 12: 1.82/set",
+        "b": "\nost. 6 surf: 2.08/set\nostatnie 12: 2.14/set"
       },
       "ace": "1 #3^3#4 #4 #1 #4^3",
       "ace2": "1 #1^3#1 #4 #0 #6^3",
@@ -4982,9 +5153,9 @@
       "sb_b2": "#####3",
       "sb_bm": "#####7",
       "dynamic": {
-        "a": "\nost. 6 surf: 0/set\nostatnie 12: 1.63/set",
-        "df": "\nost. 6 surf: 2.33/set\nostatnie 12: 1.87/set",
-        "b": "\nost. 6 surf: 2.33/set\nostatnie 12: 1.63/set"
+        "a": "\nost. 6 surf: 0.93/set\nostatnie 12: 1.63/set",
+        "df": "\nost. 6 surf: 1.43/set\nostatnie 12: 1.87/set",
+        "b": "\nost. 6 surf: 1.86/set\nostatnie 12: 1.63/set"
       },
       "ace": "0^3#2^3#20^3#4 #5^3#1 ",
       "ace2": "1^3#4^3#0^3#2 #1^3#0 ",
@@ -5105,7 +5276,7 @@
     "atp": false,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "10:05",
+    "updateTime": "10:38",
     "stats1": {
       "sb_a1": "3#3#5#4#4#5",
       "sb_a2": "2#1#4#1#2#1",
@@ -5117,9 +5288,9 @@
       "sb_b2": "##4###",
       "sb_bm": "##7###",
       "dynamic": {
-        "a": "\nost. 6 surf: 1.5/set\nostatnie 12: 1.63/set",
-        "df": "\nost. 6 surf: 2.75/set\nostatnie 12: 1.81/set",
-        "b": "\nost. 6 surf: 2.5/set\nostatnie 12: 1.89/set"
+        "a": "\nost. 6 surf: 1.25/set\nostatnie 12: 1.63/set",
+        "df": "\nost. 6 surf: 2.67/set\nostatnie 12: 1.81/set",
+        "b": "\nost. 6 surf: 2/set\nostatnie 12: 1.89/set"
       },
       "ace": "1 #5 #5 #3 #2 #2^3",
       "ace2": "1 #0 #1 #0 #1 #1^3",
@@ -5150,9 +5321,9 @@
       "sb_b2": "#####2",
       "sb_bm": "#####6",
       "dynamic": {
-        "a": "\nost. 6 surf: 0.75/set\nostatnie 12: 0.67/set",
-        "df": "\nost. 6 surf: 0.5/set\nostatnie 12: 1.74/set",
-        "b": "\nost. 6 surf: 2.75/set\nostatnie 12: 2.19/set"
+        "a": "\nost. 6 surf: 0.86/set\nostatnie 12: 0.67/set",
+        "df": "\nost. 6 surf: 1.14/set\nostatnie 12: 1.74/set",
+        "b": "\nost. 6 surf: 1.86/set\nostatnie 12: 2.19/set"
       },
       "ace": "2 #1 #1 #0 #2^3#6^3",
       "ace2": "0 #0 #4 #2 #3^3#5^3",
