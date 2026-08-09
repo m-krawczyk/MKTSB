@@ -9,7 +9,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "5#3#9#9#8#6",
       "sb_a2": "7#7#5#9#3#10",
@@ -22,7 +22,7 @@
       "sb_bm": "#####3",
       "dynamic": {
         "a": "\n                                                  67% 1. serwis\nost. 6 surf:       2.27/set      61% 1. serwis\nostatnie 12:       1.71/set      66% 1. serwis",
-        "df": "\n                                                  67% 1. serwis\nost. 6 surf:       1.8/set      61% 1. serwis\nostatnie 12: 1.45/set      66% 1. serwis",
+        "df": "\n                                                  67% 1. serwis\nost. 6 surf:       1.8/set      61% 1. serwis\nostatnie 12:       1.45/set      66% 1. serwis",
         "b": "\n                                                  67% 1. serwis\nost. 6 surf:       0.93/set      61% 1. serwis\nostatnie 12:       1.39/set      66% 1. serwis"
       },
       "ace": "0 #3^3#7 #6^4#11^4#5^3",
@@ -55,7 +55,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  55% 1. serwis\nost. 6 surf:       3.4/set      56% 1. serwis\nostatnie 12:       3.06/set      62% 1. serwis",
-        "df": "\n                                                  55% 1. serwis\nost. 6 surf:       1.2/set      56% 1. serwis\nostatnie 12: 1.33/set      62% 1. serwis",
+        "df": "\n                                                  55% 1. serwis\nost. 6 surf:       1.2/set      56% 1. serwis\nostatnie 12:       1.33/set      62% 1. serwis",
         "b": "\n                                                  55% 1. serwis\nost. 6 surf:       1/set      56% 1. serwis\nostatnie 12:       1.03/set      62% 1. serwis"
       },
       "ace": "9 #9 #5^3#3^3#5 #9^3",
@@ -96,15 +96,21 @@
         "over": "+10.5 @1.85"
       },
       {
-        "book": "22bet",
-        "under": "-10.5 @1.8",
+        "book": "betclic",
         "lineType": "meczowa",
         "over": "+10.5 @1.8"
       },
       {
-        "book": "betclic",
+        "book": "etoto",
+        "under": "-10.5 @1.9",
         "lineType": "meczowa",
         "over": "+10.5 @1.8"
+      },
+      {
+        "book": "22bet",
+        "under": "-10.5 @1.91",
+        "lineType": "meczowa",
+        "over": "+10.5 @1.7"
       },
       {
         "book": "betfan",
@@ -124,21 +130,21 @@
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @1.72",
+        "under": "- 3.5 @1.71",
         "lineType": "player1",
         "over": "+ 3.5 @2"
+      },
+      {
+        "book": "etoto",
+        "under": "- 3.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.85"
       },
       {
         "book": "sts",
         "under": "- 3.5 @2.1",
         "lineType": "player1",
         "over": "+ 3.5 @1.65"
-      },
-      {
-        "book": "22bet",
-        "under": "- 3.5 @2.03",
-        "lineType": "player1",
-        "over": "+ 3.5 @1.61"
       },
       {
         "book": "betfan",
@@ -162,15 +168,15 @@
         "over": "+ 6.5 @1.85"
       },
       {
-        "book": "22bet",
-        "under": "- 6.5 @1.8",
+        "book": "betclic",
         "lineType": "player2",
         "over": "+ 6.5 @1.8"
       },
       {
-        "book": "betclic",
+        "book": "etoto",
+        "under": "- 6.5 @2",
         "lineType": "player2",
-        "over": "+ 6.5 @1.8"
+        "over": "+ 6.5 @1.72"
       },
       {
         "book": "fuksiarz",
@@ -200,7 +206,7 @@
         "book": "betclic",
         "under": "  @2.75",
         "lineType": "meczowa",
-        "over": "  @1.4"
+        "over": "  @1.36"
       },
       {
         "book": "superbet",
@@ -209,14 +215,26 @@
         "over": "  @1.15"
       }
     ],
-    "A_cnt": 21,
-    "A_book_cnt": 6,
+    "A_cnt": 22,
+    "A_book_cnt": 7,
     "DF": [
+      {
+        "book": "22bet",
+        "under": "- 7.5 @1.64",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2"
+      },
       {
         "book": "betfan",
         "under": "- 7.5 @1.75",
         "lineType": "meczowa",
         "over": "+ 7.5 @1.93"
+      },
+      {
+        "book": "etoto",
+        "under": "- 7.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.9"
       },
       {
         "book": "fuksiarz",
@@ -249,6 +267,12 @@
         "over": "+ 3.5 @1.72"
       },
       {
+        "book": "etoto",
+        "under": "- 3.5 @2.02",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.7"
+      },
+      {
         "book": "fuksiarz",
         "under": "- 3.5 @2",
         "lineType": "player1",
@@ -259,6 +283,12 @@
         "under": "- 3.5 @2.02",
         "lineType": "player1",
         "over": "+ 3.5 @1.69"
+      },
+      {
+        "book": "etoto",
+        "under": "- 3.5 @1.9",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.8"
       },
       {
         "book": "fuksiarz",
@@ -287,20 +317,32 @@
     ],
     "MDF": [
       {
+        "book": "22bet",
+        "under": "  @1.97",
+        "lineType": "meczowa",
+        "over": "  @2.35"
+      },
+      {
         "book": "superbet",
         "under": "  @2.02",
         "lineType": "meczowa",
         "over": "  @2.25"
       }
     ],
-    "DF_cnt": 12,
-    "DF_book_cnt": 4,
+    "DF_cnt": 16,
+    "DF_book_cnt": 6,
     "B": [
       {
         "book": "betclic",
         "under": "- 4.5 @1.65",
         "lineType": "meczowa",
         "over": "+ 4.5 @1.8"
+      },
+      {
+        "book": "etoto",
+        "under": "- 5.5 @1.6",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @2.2"
       },
       {
         "book": "lvbet",
@@ -321,6 +363,12 @@
         "over": "+ 2.5 @1.42"
       },
       {
+        "book": "etoto",
+        "under": "- 3.5 @1.6",
+        "lineType": "player1",
+        "over": "+ 3.5 @2.2"
+      },
+      {
         "book": "lvbet",
         "under": "- 3.5 @1.57",
         "lineType": "player1",
@@ -339,6 +387,12 @@
         "over": "+ 1.5 @1.75"
       },
       {
+        "book": "etoto",
+        "under": "- 2.5 @1.57",
+        "lineType": "player2",
+        "over": "+ 2.5 @2.25"
+      },
+      {
         "book": "22bet",
         "under": "- 2.5 @1.53",
         "lineType": "player2",
@@ -351,8 +405,8 @@
         "over": "+ 2.5 @2.17"
       }
     ],
-    "B_cnt": 9,
-    "B_book_cnt": 3
+    "B_cnt": 12,
+    "B_book_cnt": 4
   },
   {
     "id": "-2382361721940823481",
@@ -364,7 +418,7 @@
     "atp": true,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "4#3#7#5#5#5",
       "sb_a2": "13#5#18#6#3#3",
@@ -377,7 +431,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  59% 1. serwis\nost. 6 surf:       1.5/set      61% 1. serwis\nostatnie 12:       2.54/set      62% 1. serwis",
-        "df": "\n                                                  59% 1. serwis\nost. 6 surf:       2/set      61% 1. serwis\nostatnie 12: 1.86/set      62% 1. serwis",
+        "df": "\n                                                  59% 1. serwis\nost. 6 surf:       2/set      61% 1. serwis\nostatnie 12:       1.86/set      62% 1. serwis",
         "b": "\n                                                  59% 1. serwis\nost. 6 surf:       1.19/set      61% 1. serwis\nostatnie 12:       1.11/set      62% 1. serwis"
       },
       "ace": "4^3#0 #3^3#1 #4^3#16 ",
@@ -410,7 +464,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  65% 1. serwis\nost. 6 surf:       4.47/set      62% 1. serwis\nostatnie 12:       3.32/set      65% 1. serwis",
-        "df": "\n                                                  65% 1. serwis\nost. 6 surf:       1.59/set      62% 1. serwis\nostatnie 12: 1.43/set      65% 1. serwis",
+        "df": "\n                                                  65% 1. serwis\nost. 6 surf:       1.59/set      62% 1. serwis\nostatnie 12:       1.43/set      65% 1. serwis",
         "b": "\n                                                  65% 1. serwis\nost. 6 surf:       0.88/set      62% 1. serwis\nostatnie 12:       0.95/set      65% 1. serwis"
       },
       "ace": "3 #9^3#15^3#11^3#31^4#13^5",
@@ -432,6 +486,18 @@
       "last_bAvgPerSet": "0.90"
     },
     "A": [
+      {
+        "book": "etoto",
+        "under": "-12.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+12.5 @1.8"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "-12.5 @1.95",
+        "lineType": "meczowa",
+        "over": "+12.5 @1.75"
+      },
       {
         "book": "superbet",
         "under": "-12.5 @1.95",
@@ -458,6 +524,18 @@
         "book": "betfan",
         "lineType": "meczowa",
         "over": "+15.5 @2"
+      },
+      {
+        "book": "etoto",
+        "under": "- 3.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 3.5 @1.95",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.75"
       },
       {
         "book": "superbet",
@@ -487,10 +565,22 @@
         "over": "+ 4.5 @1.8"
       },
       {
+        "book": "etoto",
+        "under": "- 8.5 @2",
+        "lineType": "player2",
+        "over": "+ 8.5 @1.72"
+      },
+      {
         "book": "sts",
         "under": "- 8.5 @2",
         "lineType": "player2",
         "over": "+ 8.5 @1.7"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 9.5 @1.7",
+        "lineType": "player2",
+        "over": "+ 9.5 @2"
       },
       {
         "book": "superbet",
@@ -528,14 +618,26 @@
         "over": "  @1.04"
       }
     ],
-    "A_cnt": 15,
-    "A_book_cnt": 4,
+    "A_cnt": 21,
+    "A_book_cnt": 6,
     "DF": [
       {
         "book": "betfan",
         "under": "- 8.5 @2",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.7"
+      },
+      {
+        "book": "etoto",
+        "under": "- 9.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.9"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 9.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.9"
       },
       {
         "book": "superbet",
@@ -556,10 +658,22 @@
         "over": "+ 4.5 @1.63"
       },
       {
+        "book": "etoto",
+        "under": "- 5.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 5.5 @1.85"
+      },
+      {
         "book": "superbet",
         "under": "- 5.5 @1.87",
         "lineType": "player1",
         "over": "+ 5.5 @1.82"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 5.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 5.5 @1.8"
       },
       {
         "book": "betclic",
@@ -568,7 +682,19 @@
         "over": "+ 5.5 @1.72"
       },
       {
+        "book": "etoto",
+        "under": "- 3.5 @1.95",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.75"
+      },
+      {
         "book": "betfan",
+        "under": "- 3.5 @2",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.7"
+      },
+      {
+        "book": "fuksiarz",
         "under": "- 3.5 @2",
         "lineType": "player2",
         "over": "+ 3.5 @1.7"
@@ -594,9 +720,15 @@
         "over": "  @3.55"
       }
     ],
-    "DF_cnt": 9,
-    "DF_book_cnt": 3,
+    "DF_cnt": 15,
+    "DF_book_cnt": 5,
     "B": [
+      {
+        "book": "etoto",
+        "under": "- 4.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.9"
+      },
       {
         "book": "lvbet",
         "under": "- 4.5 @1.77",
@@ -608,6 +740,12 @@
         "under": "- 4.5 @1.68",
         "lineType": "meczowa",
         "over": "+ 4.5 @1.75"
+      },
+      {
+        "book": "etoto",
+        "under": "- 1.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.8"
       },
       {
         "book": "lvbet",
@@ -622,6 +760,12 @@
         "over": "+ 1.5 @1.68"
       },
       {
+        "book": "etoto",
+        "under": "- 2.5 @2.3",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.55"
+      },
+      {
         "book": "lvbet",
         "under": "- 2.5 @2.27",
         "lineType": "player2",
@@ -634,8 +778,8 @@
         "over": "+ 2.5 @1.45"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 9,
+    "B_book_cnt": 3
   },
   {
     "id": "3247995460954795089",
@@ -647,7 +791,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "7#6#14#9#15#8",
       "sb_a2": "7#9#8#12#6#11",
@@ -660,7 +804,7 @@
       "sb_bm": "#####3",
       "dynamic": {
         "a": "\n                                                  70% 1. serwis\nost. 6 surf:       3.15/set      68% 1. serwis\nostatnie 12:       2.08/set      75% 1. serwis",
-        "df": "\n                                                  70% 1. serwis\nost. 6 surf:       0.77/set      68% 1. serwis\nostatnie 12: 0.5/set      75% 1. serwis",
+        "df": "\n                                                  70% 1. serwis\nost. 6 surf:       0.77/set      68% 1. serwis\nostatnie 12:       0.5/set      75% 1. serwis",
         "b": "\n                                                  70% 1. serwis\nost. 6 surf:       1/set      68% 1. serwis\nostatnie 12:       1.03/set      75% 1. serwis"
       },
       "ace": "5 #8 #4^3#12^3#14^3#2 ",
@@ -693,7 +837,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  66% 1. serwis\nost. 6 surf:       3/set      65% 1. serwis\nostatnie 12:       3.6/set      68% 1. serwis",
-        "df": "\n                                                  66% 1. serwis\nost. 6 surf:       1.06/set      65% 1. serwis\nostatnie 12: 1.29/set      68% 1. serwis",
+        "df": "\n                                                  66% 1. serwis\nost. 6 surf:       1.06/set      65% 1. serwis\nostatnie 12:       1.29/set      68% 1. serwis",
         "b": "\n                                                  66% 1. serwis\nost. 6 surf:       0.94/set      65% 1. serwis\nostatnie 12:       0.74/set      68% 1. serwis"
       },
       "ace": "8 #3 #5^3#8^3#7^3#19^5",
@@ -722,10 +866,22 @@
         "over": "+11.5 @1.59"
       },
       {
+        "book": "fuksiarz",
+        "under": "-12.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+12.5 @1.85"
+      },
+      {
         "book": "superbet",
         "under": "-12.5 @1.83",
         "lineType": "meczowa",
         "over": "+12.5 @1.85"
+      },
+      {
+        "book": "etoto",
+        "under": "-12.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+12.5 @1.8"
       },
       {
         "book": "superbet",
@@ -755,10 +911,22 @@
         "over": "+15.5 @2"
       },
       {
+        "book": "etoto",
+        "under": "- 4.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.65"
+      },
+      {
         "book": "superbet",
         "under": "- 4.5 @2.12",
         "lineType": "player1",
         "over": "+ 4.5 @1.61"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 4.5 @2.15",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.6"
       },
       {
         "book": "superbet",
@@ -794,10 +962,22 @@
         "over": "+ 6.5 @1.52"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 7.5 @1.8",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.9"
+      },
+      {
         "book": "superbet",
         "under": "- 7.5 @1.8",
         "lineType": "player2",
         "over": "+ 7.5 @1.9"
+      },
+      {
+        "book": "etoto",
+        "under": "- 7.5 @1.85",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.85"
       },
       {
         "book": "betclic",
@@ -836,17 +1016,23 @@
       },
       {
         "book": "superbet",
-        "under": "  @4.15",
+        "under": "  @4.1",
         "lineType": "meczowa",
         "over": "  @1.33"
       }
     ],
-    "A_cnt": 20,
-    "A_book_cnt": 4,
+    "A_cnt": 26,
+    "A_book_cnt": 6,
     "DF": [
       {
         "book": "betfan",
         "under": "- 4.5 @2",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.7"
+      },
+      {
+        "book": "etoto",
+        "under": "- 4.5 @2.02",
         "lineType": "meczowa",
         "over": "+ 4.5 @1.7"
       },
@@ -863,6 +1049,12 @@
         "over": "+ 5.5 @1.97"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 5.5 @1.75",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.95"
+      },
+      {
         "book": "betclic",
         "under": "- 5.5 @1.58",
         "lineType": "meczowa",
@@ -875,16 +1067,34 @@
         "over": "+ 1.5 @1.73"
       },
       {
+        "book": "etoto",
+        "under": "- 1.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.65"
+      },
+      {
         "book": "betclic",
         "under": "- 1.5 @1.85",
         "lineType": "player1",
         "over": "+ 1.5 @1.62"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 1.5 @2.25",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.55"
+      },
+      {
         "book": "superbet",
         "under": "- 1.5 @2.25",
         "lineType": "player1",
         "over": "+ 1.5 @1.54"
+      },
+      {
+        "book": "etoto",
+        "under": "- 2.5 @2.2",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.6"
       },
       {
         "book": "betfan",
@@ -905,6 +1115,12 @@
         "over": "+ 3.5 @2.02"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 3.5 @1.7",
+        "lineType": "player2",
+        "over": "+ 3.5 @2"
+      },
+      {
         "book": "betclic",
         "under": "- 3.5 @1.62",
         "lineType": "player2",
@@ -914,14 +1130,20 @@
     "MDF": [
       {
         "book": "superbet",
-        "under": "  @3.8",
+        "under": "  @3.85",
         "lineType": "meczowa",
         "over": "  @1.48"
       }
     ],
-    "DF_cnt": 11,
-    "DF_book_cnt": 3,
+    "DF_cnt": 17,
+    "DF_book_cnt": 5,
     "B": [
+      {
+        "book": "etoto",
+        "under": "- 2.5 @2.1",
+        "lineType": "meczowa",
+        "over": "+ 2.5 @1.65"
+      },
       {
         "book": "lvbet",
         "under": "- 2.5 @2.05",
@@ -933,6 +1155,12 @@
         "under": "- 3.5 @1.8",
         "lineType": "meczowa",
         "over": "+ 3.5 @1.65"
+      },
+      {
+        "book": "etoto",
+        "under": "- 1.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.1"
       },
       {
         "book": "lvbet",
@@ -947,6 +1175,12 @@
         "over": "+ 1.5 @1.55"
       },
       {
+        "book": "etoto",
+        "under": "- 1.5 @1.72",
+        "lineType": "player2",
+        "over": "+ 1.5 @2"
+      },
+      {
         "book": "lvbet",
         "under": "- 1.5 @1.67",
         "lineType": "player2",
@@ -959,8 +1193,8 @@
         "over": "+ 1.5 @1.85"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 9,
+    "B_book_cnt": 3
   },
   {
     "id": "341525676417377092",
@@ -972,7 +1206,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "6#5#7#10#15#10",
       "sb_a2": "6#9#8#8#14#10",
@@ -985,7 +1219,7 @@
       "sb_bm": "#####4",
       "dynamic": {
         "a": "\n                                                  66% 1. serwis\nost. 6 surf:       3.69/set      64% 1. serwis\nostatnie 12:       3.06/set      64% 1. serwis",
-        "df": "\n                                                  66% 1. serwis\nost. 6 surf:       1.13/set      64% 1. serwis\nostatnie 12: 1.29/set      64% 1. serwis",
+        "df": "\n                                                  66% 1. serwis\nost. 6 surf:       1.13/set      64% 1. serwis\nostatnie 12:       1.29/set      64% 1. serwis",
         "b": "\n                                                  66% 1. serwis\nost. 6 surf:       1/set      64% 1. serwis\nostatnie 12:       0.79/set      64% 1. serwis"
       },
       "ace": "4^3#8^3#5 #17^3#19^4#19^3",
@@ -1018,7 +1252,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  65% 1. serwis\nost. 6 surf:       1.81/set      63% 1. serwis\nostatnie 12:       0.94/set      69% 1. serwis",
-        "df": "\n                                                  65% 1. serwis\nost. 6 surf:       1.44/set      63% 1. serwis\nostatnie 12: 1.19/set      69% 1. serwis",
+        "df": "\n                                                  65% 1. serwis\nost. 6 surf:       1.44/set      63% 1. serwis\nostatnie 12:       1.19/set      69% 1. serwis",
         "b": "\n                                                  65% 1. serwis\nost. 6 surf:       1.38/set      63% 1. serwis\nostatnie 12:       1.39/set      69% 1. serwis"
       },
       "ace": "6^3#4 #1^3#2^3#1^3#0 ",
@@ -1053,20 +1287,15 @@
         "over": "+ 9.5 @1.88"
       },
       {
+        "book": "22bet",
+        "under": "- 9.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.8"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+10.5 @1.8"
-      },
-      {
-        "book": "22bet",
-        "lineType": "player1",
-        "over": "+ 4.5 @1.57"
-      },
-      {
-        "book": "22bet",
-        "under": "- 5.5 @1.75",
-        "lineType": "player1",
-        "over": "+ 5.5 @1.85"
       },
       {
         "book": "fuksiarz",
@@ -1086,11 +1315,6 @@
         "over": "+ 5.5 @1.8"
       },
       {
-        "book": "22bet",
-        "lineType": "player1",
-        "over": "+ 9.5 @6"
-      },
-      {
         "book": "superbet",
         "under": "- 3.5 @1.97",
         "lineType": "player2",
@@ -1101,17 +1325,6 @@
         "under": "- 3.5 @2",
         "lineType": "player2",
         "over": "+ 3.5 @1.7"
-      },
-      {
-        "book": "22bet",
-        "under": "- 3.5 @1.94",
-        "lineType": "player2",
-        "over": "+ 3.5 @1.68"
-      },
-      {
-        "book": "22bet",
-        "lineType": "player2",
-        "over": "+ 4.5 @2.25"
       },
       {
         "book": "betclic",
@@ -1139,7 +1352,7 @@
         "over": "  @3.85"
       }
     ],
-    "A_cnt": 14,
+    "A_cnt": 10,
     "A_book_cnt": 4,
     "DF": [
       {
@@ -1153,6 +1366,12 @@
         "under": "- 6.5 @1.85",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.82"
+      },
+      {
+        "book": "22bet",
+        "under": "- 6.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.8"
       },
       {
         "book": "betclic",
@@ -1199,14 +1418,20 @@
     ],
     "MDF": [
       {
+        "book": "22bet",
+        "under": "  @2.13",
+        "lineType": "meczowa",
+        "over": "  @2.14"
+      },
+      {
         "book": "superbet",
         "under": "  @2.75",
         "lineType": "meczowa",
         "over": "  @1.74"
       }
     ],
-    "DF_cnt": 9,
-    "DF_book_cnt": 3,
+    "DF_cnt": 10,
+    "DF_book_cnt": 4,
     "B": [
       {
         "book": "22bet",
@@ -1258,7 +1483,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "6#7#6#4#6#6",
       "sb_a2": "7#5#7#6#6#1",
@@ -1271,7 +1496,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  55% 1. serwis\nost. 6 surf:       2.35/set      61% 1. serwis\nostatnie 12:       1.97/set      61% 1. serwis",
-        "df": "\n                                                  55% 1. serwis\nost. 6 surf:       0.82/set      61% 1. serwis\nostatnie 12: 0.87/set      61% 1. serwis",
+        "df": "\n                                                  55% 1. serwis\nost. 6 surf:       0.82/set      61% 1. serwis\nostatnie 12:       0.87/set      61% 1. serwis",
         "b": "\n                                                  55% 1. serwis\nost. 6 surf:       0.71/set      61% 1. serwis\nostatnie 12:       1.03/set      61% 1. serwis"
       },
       "ace": "4^3#8^3#2 #5^3#4^3#3 ",
@@ -1304,7 +1529,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  61% 1. serwis\nost. 6 surf:       3.94/set      61% 1. serwis\nostatnie 12:       4/set      65% 1. serwis",
-        "df": "\n                                                  61% 1. serwis\nost. 6 surf:       0.81/set      61% 1. serwis\nostatnie 12: 0.67/set      65% 1. serwis",
+        "df": "\n                                                  61% 1. serwis\nost. 6 surf:       0.81/set      61% 1. serwis\nostatnie 12:       0.67/set      65% 1. serwis",
         "b": "\n                                                  61% 1. serwis\nost. 6 surf:       1/set      61% 1. serwis\nostatnie 12:       1.12/set      65% 1. serwis"
       },
       "ace": "16^3#5^3#6 #14^3#10 #12^3",
@@ -1408,7 +1633,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "4#4#4#6#6#4",
       "sb_a2": "6#3#2#12#8#5",
@@ -1421,7 +1646,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  63% 1. serwis\nost. 6 surf:       1.27/set      63% 1. serwis\nostatnie 12:       1.56/set      64% 1. serwis",
-        "df": "\n                                                  63% 1. serwis\nost. 6 surf:       1.53/set      63% 1. serwis\nostatnie 12: 1.21/set      64% 1. serwis",
+        "df": "\n                                                  63% 1. serwis\nost. 6 surf:       1.53/set      63% 1. serwis\nostatnie 12:       1.21/set      64% 1. serwis",
         "b": "\n                                                  63% 1. serwis\nost. 6 surf:       1.47/set      63% 1. serwis\nostatnie 12:       1.35/set      64% 1. serwis"
       },
       "ace": "2 #0 #1^3#5 #6^3#5^3",
@@ -1454,7 +1679,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  69% 1. serwis\nost. 6 surf:       2.93/set      67% 1. serwis\nostatnie 12:       2.17/set      66% 1. serwis",
-        "df": "\n                                                  69% 1. serwis\nost. 6 surf:       1.21/set      67% 1. serwis\nostatnie 12: 1.03/set      66% 1. serwis",
+        "df": "\n                                                  69% 1. serwis\nost. 6 surf:       1.21/set      67% 1. serwis\nostatnie 12:       1.03/set      66% 1. serwis",
         "b": "\n                                                  69% 1. serwis\nost. 6 surf:       0.79/set      67% 1. serwis\nostatnie 12:       1.1/set      66% 1. serwis"
       },
       "ace": "5 #4 #12^3#6 #11^4#8^3",
@@ -1558,7 +1783,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "2#1#1#2#2#2",
       "sb_a2": "2#6#6#9#6#3",
@@ -1571,7 +1796,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  65% 1. serwis\nost. 6 surf:       0.33/set      65% 1. serwis\nostatnie 12:       0.7/set      65% 1. serwis",
-        "df": "\n                                                  65% 1. serwis\nost. 6 surf:       1.07/set      65% 1. serwis\nostatnie 12: 0.97/set      65% 1. serwis",
+        "df": "\n                                                  65% 1. serwis\nost. 6 surf:       1.07/set      65% 1. serwis\nostatnie 12:       0.97/set      65% 1. serwis",
         "b": "\n                                                  65% 1. serwis\nost. 6 surf:       2.07/set      65% 1. serwis\nostatnie 12:       1.83/set      65% 1. serwis"
       },
       "ace": "2^3#2^3#0^3#0 #1 #0 ",
@@ -1604,7 +1829,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  63% 1. serwis\nost. 6 surf:       1/set      74% 1. serwis\nostatnie 12:       0.89/set      61% 1. serwis",
-        "df": "\n                                                  63% 1. serwis\nost. 6 surf:       1.21/set      74% 1. serwis\nostatnie 12: 1.75/set      61% 1. serwis",
+        "df": "\n                                                  63% 1. serwis\nost. 6 surf:       1.21/set      74% 1. serwis\nostatnie 12:       1.75/set      61% 1. serwis",
         "b": "\n                                                  63% 1. serwis\nost. 6 surf:       1.64/set      74% 1. serwis\nostatnie 12:       1.82/set      61% 1. serwis"
       },
       "ace": "4^3#3 #1^3#6^3#1 #2 ",
@@ -1627,6 +1852,12 @@
     },
     "A": [
       {
+        "book": "fuksiarz",
+        "under": "- 4.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @2"
+      },
+      {
         "book": "sts",
         "under": "- 4.5 @1.7",
         "lineType": "meczowa",
@@ -1634,9 +1865,15 @@
       },
       {
         "book": "superbet",
-        "under": "- 4.5 @1.72",
+        "under": "- 4.5 @1.71",
         "lineType": "meczowa",
         "over": "+ 4.5 @2"
+      },
+      {
+        "book": "etoto",
+        "under": "- 4.5 @1.75",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.95"
       },
       {
         "book": "betfan",
@@ -1659,6 +1896,12 @@
         "over": "+ 0.5 @1.2"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 1.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.05"
+      },
+      {
         "book": "sts",
         "under": "- 1.5 @1.67",
         "lineType": "player1",
@@ -1669,6 +1912,12 @@
         "under": "- 1.5 @1.67",
         "lineType": "player1",
         "over": "+ 1.5 @2.05"
+      },
+      {
+        "book": "etoto",
+        "under": "- 1.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 1.5 @2.02"
       },
       {
         "book": "betfan",
@@ -1681,6 +1930,12 @@
         "over": "+ 3.5 @1.8"
       },
       {
+        "book": "etoto",
+        "under": "- 2.5 @2.02",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.7"
+      },
+      {
         "book": "sts",
         "under": "- 2.5 @2.05",
         "lineType": "player2",
@@ -1691,6 +1946,12 @@
         "under": "- 2.5 @2.05",
         "lineType": "player2",
         "over": "+ 2.5 @1.67"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 2.5 @2.05",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.65"
       },
       {
         "book": "betfan",
@@ -1722,14 +1983,26 @@
         "over": "  @1.41"
       }
     ],
-    "A_cnt": 15,
-    "A_book_cnt": 4,
+    "A_cnt": 21,
+    "A_book_cnt": 6,
     "DF": [
       {
         "book": "superbet",
         "under": "- 6.5 @1.92",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.76"
+      },
+      {
+        "book": "etoto",
+        "under": "- 6.5 @1.95",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.75"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 6.5 @1.95",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.75"
       },
       {
         "book": "betfan",
@@ -1750,10 +2023,22 @@
         "over": "+ 2.5 @1.7"
       },
       {
+        "book": "etoto",
+        "under": "- 2.5 @2.1",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.65"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @2.12",
         "lineType": "player1",
         "over": "+ 2.5 @1.62"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 2.5 @2.15",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.6"
       },
       {
         "book": "betclic",
@@ -1762,10 +2047,22 @@
         "over": "+ 3.5 @1.72"
       },
       {
+        "book": "etoto",
+        "under": "- 3.5 @2",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.72"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @1.97",
         "lineType": "player2",
         "over": "+ 3.5 @1.72"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 3.5 @2",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.7"
       },
       {
         "book": "betfan",
@@ -1788,9 +2085,15 @@
         "over": "  @1.68"
       }
     ],
-    "DF_cnt": 9,
-    "DF_book_cnt": 3,
+    "DF_cnt": 15,
+    "DF_book_cnt": 5,
     "B": [
+      {
+        "book": "etoto",
+        "under": "- 6.5 @2.1",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.65"
+      },
       {
         "book": "lvbet",
         "under": "- 6.5 @2.05",
@@ -1802,6 +2105,12 @@
         "under": "- 6.5 @1.85",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.6"
+      },
+      {
+        "book": "etoto",
+        "under": "- 3.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.8"
       },
       {
         "book": "lvbet",
@@ -1822,14 +2131,20 @@
         "over": "+ 3.5 @1.65"
       },
       {
+        "book": "etoto",
+        "under": "- 3.5 @2.2",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.6"
+      },
+      {
         "book": "lvbet",
         "under": "- 3.5 @2.15",
         "lineType": "player2",
         "over": "+ 3.5 @1.57"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 9,
+    "B_book_cnt": 3
   },
   {
     "id": "8634899053280672766",
@@ -1841,7 +2156,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "4#5#5#5#4#3",
       "sb_a2": "2#5#5#2#4#6",
@@ -1854,7 +2169,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  64% 1. serwis\nost. 6 surf:       2/set      64% 1. serwis\nostatnie 12:       2.03/set      61% 1. serwis",
-        "df": "\n                                                  64% 1. serwis\nost. 6 surf:       2.93/set      64% 1. serwis\nostatnie 12: 2.33/set      61% 1. serwis",
+        "df": "\n                                                  64% 1. serwis\nost. 6 surf:       2.93/set      64% 1. serwis\nostatnie 12:       2.33/set      61% 1. serwis",
         "b": "\n                                                  64% 1. serwis\nost. 6 surf:       1.64/set      64% 1. serwis\nostatnie 12:       1.53/set      61% 1. serwis"
       },
       "ace": "5^3#2 #5 #4 #7 #5^3",
@@ -1887,7 +2202,7 @@
       "sb_bm": "#####6",
       "dynamic": {
         "a": "\n                                                  58% 1. serwis\nost. 6 surf:       3.07/set      65% 1. serwis\nostatnie 12:       2.3/set      60% 1. serwis",
-        "df": "\n                                                  58% 1. serwis\nost. 6 surf:       1.64/set      65% 1. serwis\nostatnie 12: 1.87/set      60% 1. serwis",
+        "df": "\n                                                  58% 1. serwis\nost. 6 surf:       1.64/set      65% 1. serwis\nostatnie 12:       1.87/set      60% 1. serwis",
         "b": "\n                                                  58% 1. serwis\nost. 6 surf:       1.36/set      65% 1. serwis\nostatnie 12:       1.43/set      60% 1. serwis"
       },
       "ace": "2 #15^3#2 #1 #6^3#13 ",
@@ -1910,10 +2225,22 @@
     },
     "A": [
       {
+        "book": "fuksiarz",
+        "under": "-11.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+11.5 @1.9"
+      },
+      {
         "book": "superbet",
         "under": "-11.5 @1.82",
         "lineType": "meczowa",
         "over": "+11.5 @1.87"
+      },
+      {
+        "book": "etoto",
+        "under": "-11.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+11.5 @1.85"
       },
       {
         "book": "sts",
@@ -1940,6 +2267,18 @@
         "book": "22bet",
         "lineType": "meczowa",
         "over": "+24.5 @8"
+      },
+      {
+        "book": "etoto",
+        "under": "- 3.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 3.5 @1.95",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.75"
       },
       {
         "book": "sts",
@@ -1974,13 +2313,25 @@
         "over": "+ 7.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 7.5 @1.92",
+        "book": "etoto",
+        "under": "- 7.5 @1.95",
         "lineType": "player2",
-        "over": "+ 7.5 @1.76"
+        "over": "+ 7.5 @1.75"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 7.5 @1.95",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.75"
       },
       {
         "book": "sts",
+        "under": "- 7.5 @1.95",
+        "lineType": "player2",
+        "over": "+ 7.5 @1.75"
+      },
+      {
+        "book": "superbet",
         "under": "- 7.5 @1.95",
         "lineType": "player2",
         "over": "+ 7.5 @1.75"
@@ -2010,14 +2361,26 @@
         "over": "  @1.11"
       }
     ],
-    "A_cnt": 16,
-    "A_book_cnt": 4,
+    "A_cnt": 22,
+    "A_book_cnt": 6,
     "DF": [
       {
-        "book": "superbet",
-        "under": "- 8.5 @1.73",
+        "book": "etoto",
+        "under": "- 8.5 @1.75",
         "lineType": "meczowa",
-        "over": "+ 8.5 @1.97"
+        "over": "+ 8.5 @1.95"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 8.5 @1.75",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.95"
+      },
+      {
+        "book": "superbet",
+        "under": "- 8.5 @1.75",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.95"
       },
       {
         "book": "betclic",
@@ -2032,16 +2395,40 @@
         "over": "+ 5.5 @2.02"
       },
       {
+        "book": "etoto",
+        "under": "- 5.5 @1.72",
+        "lineType": "player1",
+        "over": "+ 5.5 @2"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 5.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 5.5 @2"
+      },
+      {
         "book": "betclic",
         "under": "- 7.5 @1.65",
         "lineType": "player1",
         "over": "+ 7.5 @1.8"
       },
       {
-        "book": "superbet",
-        "under": "- 2.5 @2.12",
+        "book": "etoto",
+        "under": "- 2.5 @2.1",
         "lineType": "player2",
-        "over": "+ 2.5 @1.63"
+        "over": "+ 2.5 @1.65"
+      },
+      {
+        "book": "superbet",
+        "under": "- 2.5 @2.15",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.61"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 2.5 @2.15",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.6"
       },
       {
         "book": "betclic",
@@ -2058,9 +2445,15 @@
         "over": "  @4.75"
       }
     ],
-    "DF_cnt": 6,
-    "DF_book_cnt": 2,
+    "DF_cnt": 12,
+    "DF_book_cnt": 4,
     "B": [
+      {
+        "book": "etoto",
+        "under": "- 5.5 @1.57",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @2.25"
+      },
       {
         "book": "lvbet",
         "under": "- 5.5 @1.55",
@@ -2071,13 +2464,19 @@
         "book": "betclic",
         "under": "- 5.5 @1.45",
         "lineType": "meczowa",
-        "over": "+ 5.5 @2.1"
+        "over": "+ 5.5 @2"
       },
       {
         "book": "22bet",
         "under": "- 6.5 @1.95",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.67"
+      },
+      {
+        "book": "etoto",
+        "under": "- 1.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.8"
       },
       {
         "book": "lvbet",
@@ -2098,6 +2497,12 @@
         "over": "+ 2.5 @1.98"
       },
       {
+        "book": "etoto",
+        "under": "- 3.5 @1.8",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.9"
+      },
+      {
         "book": "lvbet",
         "under": "- 3.5 @1.77",
         "lineType": "player2",
@@ -2116,8 +2521,8 @@
         "over": "+ 4.5 @1.8"
       }
     ],
-    "B_cnt": 9,
-    "B_book_cnt": 3
+    "B_cnt": 12,
+    "B_book_cnt": 4
   },
   {
     "id": "8422237474469713183",
@@ -2129,7 +2534,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "2#4#3#3#5#4",
       "sb_a2": "4#1#2#4#3#5",
@@ -2142,7 +2547,7 @@
       "sb_bm": "#####6",
       "dynamic": {
         "a": "\n                                                  64% 1. serwis\nost. 6 surf:       1.08/set      66% 1. serwis\nostatnie 12:       1.33/set      68% 1. serwis",
-        "df": "\n                                                  64% 1. serwis\nost. 6 surf:       1.46/set      66% 1. serwis\nostatnie 12: 2.48/set      68% 1. serwis",
+        "df": "\n                                                  64% 1. serwis\nost. 6 surf:       1.46/set      66% 1. serwis\nostatnie 12:       2.48/set      68% 1. serwis",
         "b": "\n                                                  64% 1. serwis\nost. 6 surf:       1.62/set      66% 1. serwis\nostatnie 12:       1.48/set      68% 1. serwis"
       },
       "ace": "0 #3 #4 #2 #5 #3 ",
@@ -2175,7 +2580,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  57% 1. serwis\nost. 6 surf:       3.69/set      57% 1. serwis\nostatnie 12:       3.6/set      62% 1. serwis",
-        "df": "\n                                                  57% 1. serwis\nost. 6 surf:       1.46/set      57% 1. serwis\nostatnie 12: 1.04/set      62% 1. serwis",
+        "df": "\n                                                  57% 1. serwis\nost. 6 surf:       1.46/set      57% 1. serwis\nostatnie 12:       1.04/set      62% 1. serwis",
         "b": "\n                                                  57% 1. serwis\nost. 6 surf:       1.08/set      57% 1. serwis\nostatnie 12:       1.72/set      62% 1. serwis"
       },
       "ace": "7 #10 #5 #9^3#9 #8 ",
@@ -2204,10 +2609,22 @@
         "over": "+ 8.5 @1.77"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 8.5 @1.95",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.75"
+      },
+      {
         "book": "sts",
         "under": "- 8.5 @1.95",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.75"
+      },
+      {
+        "book": "etoto",
+        "under": "- 8.5 @2.02",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.7"
       },
       {
         "book": "betfan",
@@ -2225,6 +2642,12 @@
         "over": "+11.5 @1.8"
       },
       {
+        "book": "etoto",
+        "under": "- 1.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.8"
+      },
+      {
         "book": "sts",
         "under": "- 1.5 @1.9",
         "lineType": "player1",
@@ -2235,6 +2658,12 @@
         "under": "- 1.5 @1.9",
         "lineType": "player1",
         "over": "+ 1.5 @1.78"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 1.5 @1.95",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.75"
       },
       {
         "book": "betfan",
@@ -2252,6 +2681,12 @@
         "over": "+ 3.5 @1.8"
       },
       {
+        "book": "etoto",
+        "under": "- 6.5 @2",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.72"
+      },
+      {
         "book": "betfan",
         "lineType": "player2",
         "over": "+ 6.5 @1.6"
@@ -2267,6 +2702,12 @@
         "under": "- 7.5 @1.66",
         "lineType": "player2",
         "over": "+ 7.5 @2.07"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 7.5 @1.65",
+        "lineType": "player2",
+        "over": "+ 7.5 @2.05"
       },
       {
         "book": "betfan",
@@ -2293,14 +2734,26 @@
         "over": "  @1.01"
       }
     ],
-    "A_cnt": 15,
-    "A_book_cnt": 4,
+    "A_cnt": 21,
+    "A_book_cnt": 6,
     "DF": [
       {
         "book": "betfan",
         "under": "- 6.5 @1.8",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.87"
+      },
+      {
+        "book": "etoto",
+        "under": "- 6.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 6.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.8"
       },
       {
         "book": "superbet",
@@ -2313,6 +2766,18 @@
         "under": "-10.5 @1.4",
         "lineType": "meczowa",
         "over": "+10.5 @2.1"
+      },
+      {
+        "book": "etoto",
+        "under": "- 3.5 @1.72",
+        "lineType": "player1",
+        "over": "+ 3.5 @2"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 3.5 @1.75",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.95"
       },
       {
         "book": "superbet",
@@ -2339,10 +2804,22 @@
         "over": "+ 2.5 @2"
       },
       {
+        "book": "etoto",
+        "under": "- 3.5 @1.65",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.1"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @1.65",
         "lineType": "player2",
         "over": "+ 3.5 @2.07"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 3.5 @1.65",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.05"
       },
       {
         "book": "betclic",
@@ -2359,9 +2836,15 @@
         "over": "  @2.27"
       }
     ],
-    "DF_cnt": 9,
-    "DF_book_cnt": 3,
+    "DF_cnt": 15,
+    "DF_book_cnt": 5,
     "B": [
+      {
+        "book": "etoto",
+        "under": "- 6.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.9"
+      },
       {
         "book": "lvbet",
         "under": "- 6.5 @1.77",
@@ -2373,6 +2856,12 @@
         "under": "- 6.5 @1.72",
         "lineType": "meczowa",
         "over": "+ 6.5 @1.72"
+      },
+      {
+        "book": "etoto",
+        "under": "- 2.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.8"
       },
       {
         "book": "lvbet",
@@ -2387,6 +2876,12 @@
         "over": "+ 2.5 @1.68"
       },
       {
+        "book": "etoto",
+        "under": "- 4.5 @1.55",
+        "lineType": "player2",
+        "over": "+ 4.5 @2.3"
+      },
+      {
         "book": "lvbet",
         "under": "- 4.5 @1.5",
         "lineType": "player2",
@@ -2399,8 +2894,8 @@
         "over": "+ 4.5 @1.95"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 9,
+    "B_book_cnt": 3
   },
   {
     "id": "1806800393340135941",
@@ -2412,7 +2907,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "DF;T",
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "3#3##2#2#3",
       "sb_a2": "3#3##3#3#4",
@@ -2425,7 +2920,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  67% 1. serwis\nost. 6 surf:       1/set      67% 1. serwis\nostatnie 12:       0.93/set      70% 1. serwis",
-        "df": "\n                                                  67% 1. serwis\nost. 6 surf:       1.46/set      67% 1. serwis\nostatnie 12: 1.3/set      70% 1. serwis",
+        "df": "\n                                                  67% 1. serwis\nost. 6 surf:       1.46/set      67% 1. serwis\nostatnie 12:       1.3/set      70% 1. serwis",
         "b": "\n                                                  67% 1. serwis\nost. 6 surf:       2.46/set      67% 1. serwis\nostatnie 12:       2.52/set      70% 1. serwis"
       },
       "ace": "4 #3 #3^3#1 #1 #1 ",
@@ -2458,7 +2953,7 @@
       "sb_bm": "##6###",
       "dynamic": {
         "a": "\n                                                  63% 1. serwis\nost. 6 surf:       1.4/set      69% 1. serwis\nostatnie 12:       1.55/set      66% 1. serwis",
-        "df": "\n                                                  63% 1. serwis\nost. 6 surf:       2.33/set      69% 1. serwis\nostatnie 12: 1.87/set      66% 1. serwis",
+        "df": "\n                                                  63% 1. serwis\nost. 6 surf:       2.33/set      69% 1. serwis\nostatnie 12:       1.87/set      66% 1. serwis",
         "b": "\n                                                  63% 1. serwis\nost. 6 surf:       1.93/set      69% 1. serwis\nostatnie 12:       1.9/set      66% 1. serwis"
       },
       "ace": "5 #4 #3^3#7^3#4^3#1^3",
@@ -2486,6 +2981,24 @@
         "over": "+ 4.5 @1.3"
       },
       {
+        "book": "22bet",
+        "under": "- 5.5 @1.61",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @2.04"
+      },
+      {
+        "book": "etoto",
+        "under": "- 5.5 @1.75",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.95"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 5.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.9"
+      },
+      {
         "book": "sts",
         "under": "- 5.5 @1.8",
         "lineType": "meczowa",
@@ -2508,9 +3021,10 @@
         "over": "+ 6.5 @1.8"
       },
       {
-        "book": "22bet",
-        "lineType": "meczowa",
-        "over": "+ 9.5 @3.5"
+        "book": "etoto",
+        "under": "- 1.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.8"
       },
       {
         "book": "sts",
@@ -2523,6 +3037,12 @@
         "under": "- 1.5 @1.9",
         "lineType": "player1",
         "over": "+ 1.5 @1.78"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 1.5 @1.95",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.75"
       },
       {
         "book": "betfan",
@@ -2540,21 +3060,6 @@
         "over": "+ 2.5 @1.8"
       },
       {
-        "book": "22bet",
-        "lineType": "player1",
-        "over": "+ 2.5 @1.62"
-      },
-      {
-        "book": "22bet",
-        "lineType": "player1",
-        "over": "+ 4.5 @3.25"
-      },
-      {
-        "book": "22bet",
-        "lineType": "player2",
-        "over": "+ 2.5 @1.44"
-      },
-      {
         "book": "betfan",
         "lineType": "player2",
         "over": "+ 2.5 @1.4"
@@ -2566,6 +3071,12 @@
       },
       {
         "book": "betclic",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.8"
+      },
+      {
+        "book": "etoto",
+        "under": "- 3.5 @1.9",
         "lineType": "player2",
         "over": "+ 3.5 @1.8"
       },
@@ -2582,9 +3093,10 @@
         "over": "+ 3.5 @1.72"
       },
       {
-        "book": "22bet",
+        "book": "fuksiarz",
+        "under": "- 3.5 @2",
         "lineType": "player2",
-        "over": "+ 4.5 @2.62"
+        "over": "+ 3.5 @1.7"
       }
     ],
     "MA": [
@@ -2601,14 +3113,32 @@
         "over": "  @1.25"
       }
     ],
-    "A_cnt": 20,
-    "A_book_cnt": 5,
+    "A_cnt": 22,
+    "A_book_cnt": 7,
     "DF": [
       {
         "book": "betfan",
         "under": "- 7.5 @1.87",
         "lineType": "meczowa",
         "over": "+ 7.5 @1.8"
+      },
+      {
+        "book": "22bet",
+        "under": "- 7.5 @1.97",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.66"
+      },
+      {
+        "book": "etoto",
+        "under": "- 8.5 @1.72",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 8.5 @1.75",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.95"
       },
       {
         "book": "superbet",
@@ -2623,10 +3153,22 @@
         "over": "+16.5 @2.25"
       },
       {
+        "book": "etoto",
+        "under": "- 2.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 2.5 @2.02"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @1.7",
         "lineType": "player1",
         "over": "+ 2.5 @2.02"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 2.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 2.5 @2"
       },
       {
         "book": "betfan",
@@ -2647,10 +3189,22 @@
         "over": "+ 5.5 @2.05"
       },
       {
+        "book": "etoto",
+        "under": "- 5.5 @1.95",
+        "lineType": "player2",
+        "over": "+ 5.5 @1.75"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 5.5 @1.95",
+        "lineType": "player2",
+        "over": "+ 5.5 @1.75"
+      },
+      {
         "book": "superbet",
         "under": "- 5.5 @1.97",
         "lineType": "player2",
-        "over": "+ 5.5 @1.73"
+        "over": "+ 5.5 @1.72"
       },
       {
         "book": "betclic",
@@ -2667,12 +3221,18 @@
         "over": "  @1.14"
       }
     ],
-    "DF_cnt": 9,
-    "DF_book_cnt": 3,
+    "DF_cnt": 16,
+    "DF_book_cnt": 6,
     "B": [
       {
         "book": "betclic",
         "under": "- 7.5 @1.62",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.85"
+      },
+      {
+        "book": "etoto",
+        "under": "- 7.5 @1.85",
         "lineType": "meczowa",
         "over": "+ 7.5 @1.85"
       },
@@ -2707,6 +3267,24 @@
         "over": "+ 2.5 @1.56"
       },
       {
+        "book": "etoto",
+        "under": "- 3.5 @1.6",
+        "lineType": "player1",
+        "over": "+ 3.5 @2.2"
+      },
+      {
+        "book": "lvbet",
+        "under": "- 3.5 @1.57",
+        "lineType": "player1",
+        "over": "+ 3.5 @2.15"
+      },
+      {
+        "book": "etoto",
+        "under": "- 4.5 @2",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.72"
+      },
+      {
         "book": "lvbet",
         "under": "- 4.5 @2.15",
         "lineType": "player2",
@@ -2725,8 +3303,8 @@
         "over": "+ 4.5 @1.4"
       }
     ],
-    "B_cnt": 9,
-    "B_book_cnt": 3
+    "B_cnt": 13,
+    "B_book_cnt": 4
   },
   {
     "id": "1916820477714549109",
@@ -2738,7 +3316,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "2#2#2#2#2#2",
       "sb_a2": "5#4#4#5#5#2",
@@ -2751,7 +3329,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  72% 1. serwis\nost. 6 surf:       0.77/set      72% 1. serwis\nostatnie 12:       0.64/set      71% 1. serwis",
-        "df": "\n                                                  72% 1. serwis\nost. 6 surf:       0.92/set      72% 1. serwis\nostatnie 12: 1.21/set      71% 1. serwis",
+        "df": "\n                                                  72% 1. serwis\nost. 6 surf:       0.92/set      72% 1. serwis\nostatnie 12:       1.21/set      71% 1. serwis",
         "b": "\n                                                  72% 1. serwis\nost. 6 surf:       1.92/set      72% 1. serwis\nostatnie 12:       1.75/set      71% 1. serwis"
       },
       "ace": "2 #3 #2^3#1 #2 #0 ",
@@ -2784,7 +3362,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  71% 1. serwis\nost. 6 surf:       0.73/set      70% 1. serwis\nostatnie 12:       0.57/set      66% 1. serwis",
-        "df": "\n                                                  71% 1. serwis\nost. 6 surf:       1.13/set      70% 1. serwis\nostatnie 12: 1.68/set      66% 1. serwis",
+        "df": "\n                                                  71% 1. serwis\nost. 6 surf:       1.13/set      70% 1. serwis\nostatnie 12:       1.68/set      66% 1. serwis",
         "b": "\n                                                  71% 1. serwis\nost. 6 surf:       1.87/set      70% 1. serwis\nostatnie 12:       2.21/set      66% 1. serwis"
       },
       "ace": "0^3#2 #1 #1 #0 #2^3",
@@ -2808,9 +3386,9 @@
     "A": [
       {
         "book": "superbet",
-        "under": "- 3.5 @1.75",
+        "under": "- 3.5 @1.77",
         "lineType": "meczowa",
-        "over": "+ 3.5 @1.95"
+        "over": "+ 3.5 @1.92"
       },
       {
         "book": "betclic",
@@ -2830,7 +3408,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 1.5 @1.74",
+        "under": "- 1.5 @1.75",
         "lineType": "player2",
         "over": "+ 1.5 @1.95"
       },
@@ -2843,7 +3421,7 @@
     "MA": [
       {
         "book": "betclic",
-        "under": "  @2.6",
+        "under": "  @2.37",
         "lineType": "meczowa",
         "over": "  @1.6"
       },
@@ -2871,9 +3449,9 @@
       },
       {
         "book": "superbet",
-        "under": "- 2.5 @2.1",
+        "under": "- 2.5 @2.12",
         "lineType": "player1",
-        "over": "+ 2.5 @1.64"
+        "over": "+ 2.5 @1.63"
       },
       {
         "book": "betclic",
@@ -2907,9 +3485,9 @@
     "B": [
       {
         "book": "lvbet",
-        "under": "- 7.5 @1.67",
+        "under": "- 7.5 @1.62",
         "lineType": "meczowa",
-        "over": "+ 7.5 @1.95"
+        "over": "+ 7.5 @2.05"
       },
       {
         "book": "betclic",
@@ -2919,9 +3497,9 @@
       },
       {
         "book": "lvbet",
-        "under": "- 2.5 @2.05",
+        "under": "- 2.5 @1.85",
         "lineType": "player1",
-        "over": "+ 2.5 @1.62"
+        "over": "+ 2.5 @1.77"
       },
       {
         "book": "betclic",
@@ -2931,9 +3509,9 @@
       },
       {
         "book": "lvbet",
-        "under": "- 4.5 @1.95",
+        "under": "- 4.5 @2.05",
         "lineType": "player2",
-        "over": "+ 4.5 @1.67"
+        "over": "+ 4.5 @1.62"
       },
       {
         "book": "betclic",
@@ -2955,7 +3533,7 @@
     "atp": false,
     "tags1": "DF",
     "tags2": null,
-    "updateTime": "09:41",
+    "updateTime": "10:30",
     "stats1": {
       "sb_a1": "5#7#4#5#5#5",
       "sb_a2": "7#5#2#2#4#5",
@@ -2968,7 +3546,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  62% 1. serwis\nost. 6 surf:       2.13/set      63% 1. serwis\nostatnie 12:       1.96/set      65% 1. serwis",
-        "df": "\n                                                  62% 1. serwis\nost. 6 surf:       2.47/set      63% 1. serwis\nostatnie 12: 2/set      65% 1. serwis",
+        "df": "\n                                                  62% 1. serwis\nost. 6 surf:       2.47/set      63% 1. serwis\nostatnie 12:       2/set      65% 1. serwis",
         "b": "\n                                                  62% 1. serwis\nost. 6 surf:       1.6/set      63% 1. serwis\nostatnie 12:       1.57/set      65% 1. serwis"
       },
       "ace": "8^3#7^3#2 #6^3#7 #5 ",
@@ -3001,7 +3579,7 @@
       "sb_bm": "#####",
       "dynamic": {
         "a": "\n                                                  63% 1. serwis\nost. 6 surf:       1.08/set      65% 1. serwis\nostatnie 12:       1.18/set      65% 1. serwis",
-        "df": "\n                                                  63% 1. serwis\nost. 6 surf:       2.54/set      65% 1. serwis\nostatnie 12: 1.82/set      65% 1. serwis",
+        "df": "\n                                                  63% 1. serwis\nost. 6 surf:       2.54/set      65% 1. serwis\nostatnie 12:       1.82/set      65% 1. serwis",
         "b": "\n                                                  63% 1. serwis\nost. 6 surf:       2.23/set      65% 1. serwis\nostatnie 12:       2.14/set      65% 1. serwis"
       },
       "ace": "1 #1 #3^3#4 #4 #1 ",
