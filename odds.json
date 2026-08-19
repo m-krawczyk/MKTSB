@@ -3,14 +3,14 @@
     "id": "2065914354132844196",
     "matchStartTime": "19:00",
     "tournament": "Cincinnati ATP • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 7 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 9 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 3 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 8 % 0 mm",
     "eventName": "Alexander Zverev - Tommy Paul",
     "p1": "Alexander Zverev",
     "p2": "Tommy Paul",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "9#9#9##15#16",
       "sb_a2": "8#5#5##5#20",
@@ -361,14 +361,14 @@
     "id": "1623822926297268771",
     "matchStartTime": "19:20",
     "tournament": "Cincinnati ATP • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 7 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 9 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 3 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 8 % 0 mm",
     "eventName": "Arthur Fils - Alex De Minaur",
     "p1": "Arthur Fils",
     "p2": "Alex De Minaur",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "7#7#4#7#4#6",
       "sb_a2": "9#7#4#5#2#4",
@@ -445,6 +445,12 @@
     },
     "A": [
       {
+        "book": "fuksiarz",
+        "under": "- 8.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.9"
+      },
+      {
         "book": "superbet",
         "under": "- 8.5 @1.8",
         "lineType": "meczowa",
@@ -483,6 +489,12 @@
         "over": "+ 4.5 @1.5"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 5.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 5.5 @2.07"
+      },
+      {
         "book": "superbet",
         "under": "- 5.5 @1.66",
         "lineType": "player1",
@@ -509,6 +521,12 @@
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 6.5 @1.9"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 3.5 @1.62",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.12"
       },
       {
         "book": "superbet",
@@ -564,17 +582,23 @@
         "over": "  @4.3"
       }
     ],
-    "A_cnt": 18,
-    "A_book_cnt": 5,
+    "A_cnt": 21,
+    "A_book_cnt": 6,
     "DF": [
       {
         "book": "superbet",
-        "under": "- 6.5 @1.68",
+        "under": "- 6.5 @1.69",
         "lineType": "meczowa",
-        "over": "+ 6.5 @2.05"
+        "over": "+ 6.5 @2.02"
       },
       {
         "book": "betfan",
+        "under": "- 6.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @2"
+      },
+      {
+        "book": "fuksiarz",
         "under": "- 6.5 @1.7",
         "lineType": "meczowa",
         "over": "+ 6.5 @2"
@@ -592,6 +616,12 @@
         "over": "+ 7.5 @1.7"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 2.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.8"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @1.9",
         "lineType": "player1",
@@ -605,7 +635,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @1.76",
+        "under": "- 3.5 @1.77",
         "lineType": "player2",
         "over": "+ 3.5 @1.92"
       },
@@ -630,8 +660,8 @@
         "over": "  @1.7"
       }
     ],
-    "DF_cnt": 8,
-    "DF_book_cnt": 4,
+    "DF_cnt": 10,
+    "DF_book_cnt": 5,
     "B": [
       {
         "book": "lvbet",
@@ -695,14 +725,14 @@
     "id": "4873628726110709367",
     "matchStartTime": "21:10",
     "tournament": "Cincinnati ATP • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 9 % 0 mm\n22:00 🌡 25°C / 28°C💧 71 %  💨  5 (max 9) km/h 🌧 11 % 0 mm\n23:00 🌡 26°C / 29°C💧 63 %  💨  6 (max 12) km/h 🌧 14 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 8 % 0 mm\n22:00 🌡 25°C / 28°C💧 71 %  💨  5 (max 9) km/h 🌧 11 % 0 mm\n23:00 🌡 26°C / 29°C💧 63 %  💨  6 (max 12) km/h 🌧 13 % 0 mm",
     "eventName": "Nuno Borges - Brandon Nakashima",
     "p1": "Nuno Borges",
     "p2": "Brandon Nakashima",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "8#5#8#7#8#5",
       "sb_a2": "8#4#11#6#6#6",
@@ -971,14 +1001,14 @@
     "id": "5764473490635230534",
     "matchStartTime": "17:00",
     "tournament": "Cincinnati ATP • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n17:00 🌡 26°C / 28°C💧 64 %  💨  8 (max 15) km/h 🌧 1 % 0 mm\n18:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 2 % 0 mm\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 4 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n17:00 🌡 26°C / 28°C💧 64 %  💨  8 (max 15) km/h 🌧 1 % 0 mm\n18:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 2 % 0 mm\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 3 % 0 mm",
     "eventName": "Rafael Jodar - Flavio Cobolli",
     "p1": "Rafael Jodar",
     "p2": "Flavio Cobolli",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "5#4#4#4#4#4",
       "sb_a2": "6#7#9#4#6#3",
@@ -1244,13 +1274,13 @@
         "over": "+ 2.5 @1.68"
       },
       {
-        "book": "superbet",
+        "book": "fuksiarz",
         "under": "- 2.5 @2.2",
         "lineType": "player1",
-        "over": "+ 2.5 @1.59"
+        "over": "+ 2.5 @1.58"
       },
       {
-        "book": "fuksiarz",
+        "book": "superbet",
         "under": "- 2.5 @2.2",
         "lineType": "player1",
         "over": "+ 2.5 @1.58"
@@ -1365,14 +1395,14 @@
     "id": "8986451258958193916",
     "matchStartTime": "01:00",
     "tournament": "Cincinnati ATP • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n01:00 🌡 27°C / 30°C💧 60 %  💨  3 (max 14) km/h 🌧 23 % 0 mm\n02:00 🌡 26°C / 29°C💧 60 %  💨  2 (max 9) km/h 🌧 23 % 0 mm\n03:00 🌡 25°C / 27°C💧 69 %  💨  4 (max 4) km/h 🌧 21 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n01:00 🌡 27°C / 30°C💧 60 %  💨  3 (max 14) km/h 🌧 26 % 0 mm\n02:00 🌡 26°C / 29°C💧 60 %  💨  2 (max 9) km/h 🌧 29 % 0 mm\n03:00 🌡 25°C / 27°C💧 69 %  💨  4 (max 4) km/h 🌧 28 % 0 mm",
     "eventName": "Taylor Fritz - Christopher O'Connell",
     "p1": "Taylor Fritz",
     "p2": "Christopher O'Connell",
     "atp": true,
     "tags1": "A",
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "9#12#12#12#13#13",
       "sb_a2": "4#6#6#6#8#8",
@@ -1591,14 +1621,14 @@
     "id": "-9198650746270947863",
     "matchStartTime": "18:10",
     "tournament": "Cincinnati ATP • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n18:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 2 % 0 mm\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 7 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n18:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 2 % 0 mm\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 3 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 4 % 0 mm",
     "eventName": "Thiago Agustin Tirante - Jakub Mensik",
     "p1": "Thiago Agustin Tirante",
     "p2": "Jakub Mensik",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "9#9#10#7#7#6",
       "sb_a2": "5#6#6#4#10#12",
@@ -1699,6 +1729,12 @@
         "over": "+17.5 @1.75"
       },
       {
+        "book": "fuksiarz",
+        "under": "-18.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+18.5 @1.8"
+      },
+      {
         "book": "superbet",
         "under": "-18.5 @1.92",
         "lineType": "meczowa",
@@ -1754,6 +1790,12 @@
         "over": "+ 8.5 @1.87"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 8.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 8.5 @1.85"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 8.5 @1.8"
@@ -1794,6 +1836,12 @@
         "book": "22bet",
         "lineType": "player2",
         "over": "+ 9.5 @1.57"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "-10.5 @1.85",
+        "lineType": "player2",
+        "over": "+10.5 @1.85"
       },
       {
         "book": "superbet",
@@ -1859,14 +1907,20 @@
         "over": "  @1.43"
       }
     ],
-    "A_cnt": 29,
-    "A_book_cnt": 6,
+    "A_cnt": 32,
+    "A_book_cnt": 7,
     "DF": [
       {
         "book": "fortuna",
         "under": "- 5.5 @2.08",
         "lineType": "meczowa",
         "over": "+ 5.5 @1.62"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 6.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @2"
       },
       {
         "book": "superbet",
@@ -1905,6 +1959,18 @@
         "over": "+ 2.5 @1.71"
       },
       {
+        "book": "fuksiarz",
+        "under": "- 2.5 @2",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.7"
+      },
+      {
+        "book": "fuksiarz",
+        "under": "- 3.5 @1.75",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.95"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @1.75",
         "lineType": "player2",
@@ -1937,8 +2003,8 @@
         "over": "  @1.75"
       }
     ],
-    "DF_cnt": 9,
-    "DF_book_cnt": 4,
+    "DF_cnt": 12,
+    "DF_book_cnt": 5,
     "B": [
       {
         "book": "lvbet",
@@ -1951,12 +2017,6 @@
         "under": "- 3.5 @1.6",
         "lineType": "meczowa",
         "over": "+ 3.5 @2.14"
-      },
-      {
-        "book": "lvbet",
-        "under": "- 3.5 @1.62",
-        "lineType": "meczowa",
-        "over": "+ 3.5 @2.05"
       },
       {
         "book": "22bet",
@@ -1990,12 +2050,6 @@
       },
       {
         "book": "lvbet",
-        "under": "- 1.5 @1.55",
-        "lineType": "player1",
-        "over": "+ 1.5 @2.17"
-      },
-      {
-        "book": "lvbet",
         "under": "- 1.5 @2.15",
         "lineType": "player2",
         "over": "+ 1.5 @1.57"
@@ -2007,33 +2061,27 @@
         "over": "+ 2.5 @2.4"
       },
       {
-        "book": "lvbet",
-        "under": "- 2.5 @1.47",
-        "lineType": "player2",
-        "over": "+ 2.5 @2.35"
-      },
-      {
         "book": "betclic",
         "under": "- 2.5 @1.5",
         "lineType": "player2",
         "over": "+ 2.5 @2"
       }
     ],
-    "B_cnt": 13,
+    "B_cnt": 10,
     "B_book_cnt": 4
   },
   {
     "id": "8317720759588274101",
     "matchStartTime": "18:10",
     "tournament": "Cincinnati WTA • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n18:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 2 % 0 mm\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 7 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n18:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 2 % 0 mm\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 3 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 4 % 0 mm",
     "eventName": "Sorana Cirstea - Jessica Pegula",
     "p1": "Sorana Cirstea",
     "p2": "Jessica Pegula",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "6#4#6#4#3#",
       "sb_a2": "4#1#7#3#2#",
@@ -2378,14 +2426,14 @@
     "id": "7930835663099928301",
     "matchStartTime": "20:00",
     "tournament": "Cincinnati WTA • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 7 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 9 % 0 mm\n22:00 🌡 25°C / 28°C💧 71 %  💨  5 (max 9) km/h 🌧 11 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 8 % 0 mm\n22:00 🌡 25°C / 28°C💧 71 %  💨  5 (max 9) km/h 🌧 11 % 0 mm",
     "eventName": "Diana Shnaider - Elena Rybakina",
     "p1": "Diana Shnaider",
     "p2": "Elena Rybakina",
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "2#2#1#2#2#2",
       "sb_a2": "1#4#2#5#4#4",
@@ -2474,6 +2522,12 @@
         "over": "+ 8.5 @1.95"
       },
       {
+        "book": "sts",
+        "under": "- 8.5 @1.75",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.95"
+      },
+      {
         "book": "betfan",
         "lineType": "meczowa",
         "over": "+ 9.5 @1.7"
@@ -2502,6 +2556,12 @@
         "book": "22bet",
         "lineType": "meczowa",
         "over": "+19.5 @8"
+      },
+      {
+        "book": "sts",
+        "under": "- 1.5 @1.75",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.95"
       },
       {
         "book": "superbet",
@@ -2539,6 +2599,12 @@
         "book": "22bet",
         "lineType": "player1",
         "over": "+ 4.5 @3.4"
+      },
+      {
+        "book": "sts",
+        "under": "- 6.5 @1.75",
+        "lineType": "player2",
+        "over": "+ 6.5 @1.95"
       },
       {
         "book": "superbet",
@@ -2592,8 +2658,8 @@
         "over": "  @1.02"
       }
     ],
-    "A_cnt": 22,
-    "A_book_cnt": 5,
+    "A_cnt": 25,
+    "A_book_cnt": 6,
     "DF": [
       {
         "book": "betfan",
@@ -2723,14 +2789,14 @@
     "id": "1512899263151205492",
     "matchStartTime": "17:00",
     "tournament": "Cincinnati WTA • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n17:00 🌡 26°C / 28°C💧 64 %  💨  8 (max 15) km/h 🌧 1 % 0 mm\n18:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 2 % 0 mm\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 4 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n17:00 🌡 26°C / 28°C💧 64 %  💨  8 (max 15) km/h 🌧 1 % 0 mm\n18:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 2 % 0 mm\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 3 % 0 mm",
     "eventName": "Iga Świątek - Diane Parry",
     "p1": "Iga Świątek",
     "p2": "Diane Parry",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "2#2#2#2#2#2",
       "sb_a2": "2#1#7#3#1#4",
@@ -3112,14 +3178,14 @@
     "id": "491661883734743873",
     "matchStartTime": "20:10",
     "tournament": "Cincinnati WTA • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 7 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 9 % 0 mm\n22:00 🌡 25°C / 28°C💧 71 %  💨  5 (max 9) km/h 🌧 11 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 8 % 0 mm\n22:00 🌡 25°C / 28°C💧 71 %  💨  5 (max 9) km/h 🌧 11 % 0 mm",
     "eventName": "Linda Noskova - Amanda Anisimova",
     "p1": "Linda Noskova",
     "p2": "Amanda Anisimova",
     "atp": false,
     "tags1": "A",
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "7#7#6#5#2#6",
       "sb_a2": "8#4#2#6#3#6",
@@ -3196,6 +3262,12 @@
     },
     "A": [
       {
+        "book": "sts",
+        "under": "-12.5 @1.75",
+        "lineType": "meczowa",
+        "over": "+12.5 @1.95"
+      },
+      {
         "book": "superbet",
         "under": "-12.5 @1.78",
         "lineType": "meczowa",
@@ -3236,6 +3308,12 @@
         "book": "22bet",
         "lineType": "meczowa",
         "over": "+24.5 @5.5"
+      },
+      {
+        "book": "sts",
+        "under": "- 7.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 7.5 @2.1"
       },
       {
         "book": "superbet",
@@ -3280,6 +3358,12 @@
         "over": "+ 4.5 @1.5"
       },
       {
+        "book": "sts",
+        "under": "- 5.5 @1.65",
+        "lineType": "player2",
+        "over": "+ 5.5 @2.1"
+      },
+      {
         "book": "superbet",
         "under": "- 5.5 @1.65",
         "lineType": "player2",
@@ -3316,8 +3400,8 @@
         "over": "  @3.6"
       }
     ],
-    "A_cnt": 20,
-    "A_book_cnt": 5,
+    "A_cnt": 23,
+    "A_book_cnt": 6,
     "DF": [
       {
         "book": "betfan",
@@ -3447,14 +3531,14 @@
     "id": "7271164372373470014",
     "matchStartTime": "01:00",
     "tournament": "Cincinnati WTA • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n01:00 🌡 27°C / 30°C💧 60 %  💨  3 (max 14) km/h 🌧 23 % 0 mm\n02:00 🌡 26°C / 29°C💧 60 %  💨  2 (max 9) km/h 🌧 23 % 0 mm\n03:00 🌡 25°C / 27°C💧 69 %  💨  4 (max 4) km/h 🌧 21 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n01:00 🌡 27°C / 30°C💧 60 %  💨  3 (max 14) km/h 🌧 26 % 0 mm\n02:00 🌡 26°C / 29°C💧 60 %  💨  2 (max 9) km/h 🌧 29 % 0 mm\n03:00 🌡 25°C / 27°C💧 69 %  💨  4 (max 4) km/h 🌧 28 % 0 mm",
     "eventName": "Madison Keys - Xiyu Wang",
     "p1": "Madison Keys",
     "p2": "Xiyu Wang",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "5#6#2#5#6#8",
       "sb_a2": "2#1#3#1#3#6",
@@ -3691,14 +3775,14 @@
     "id": "-619963024543552002",
     "matchStartTime": "19:00",
     "tournament": "Cincinnati WTA • 1/8 finału",
-    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 7 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 9 % 0 mm",
+    "weather": "🔆Pogoda Cincinnati, czas lokalny -6h\n19:00 🌡 27°C / 29°C💧 61 %  💨 11 (max 15) km/h 🌧 3 % 0 mm\n20:00 🌡 26°C / 28°C💧 64 %  💨 11 (max 15) km/h 🌧 4 % 0 mm\n21:00 🌡 25°C / 27°C💧 71 %  💨  6 (max 16) km/h 🌧 8 % 0 mm",
     "eventName": "Marta Kostyuk - Mirra Andreeva",
     "p1": "Marta Kostyuk",
     "p2": "Mirra Andreeva",
     "atp": false,
     "tags1": "DF",
     "tags2": "T",
-    "updateTime": "11:02",
+    "updateTime": "11:19",
     "stats1": {
       "sb_a1": "2#7#4#3#3#3",
       "sb_a2": "1#1#2#2#1#2",
