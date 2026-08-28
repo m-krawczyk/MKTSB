@@ -10,7 +10,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:55",
+    "updateTime": "09:52",
     "stats1": {
       "sb_a1": "5#4#4#2#4#5",
       "sb_a2": "6#1#4#2#4#6",
@@ -173,10 +173,16 @@
     "DF_book_cnt": 2,
     "B": [
       {
+        "book": "lvbet",
+        "under": "- 5.5 @1.77",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.85"
+      },
+      {
         "book": "betclic",
         "under": "- 5.5 @1.7",
         "lineType": "meczowa",
-        "over": "+ 5.5 @1.76"
+        "over": "+ 5.5 @1.7"
       },
       {
         "book": "lvbet",
@@ -186,15 +192,15 @@
       },
       {
         "book": "lvbet",
-        "under": "- 7.5 @1.62",
-        "lineType": "meczowa",
-        "over": "+ 7.5 @2.05"
+        "under": "- 2.5 @1.8",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.8"
       },
       {
         "book": "betclic",
         "under": "- 2.5 @1.72",
         "lineType": "player1",
-        "over": "+ 2.5 @1.72"
+        "over": "+ 2.5 @1.66"
       },
       {
         "book": "betfan",
@@ -209,10 +215,16 @@
         "over": "+ 3.5 @1.8"
       },
       {
+        "book": "lvbet",
+        "under": "- 3.5 @1.62",
+        "lineType": "player2",
+        "over": "+ 3.5 @2.05"
+      },
+      {
         "book": "betclic",
         "under": "- 3.5 @1.58",
         "lineType": "player2",
-        "over": "+ 3.5 @1.9"
+        "over": "+ 3.5 @1.83"
       },
       {
         "book": "lvbet",
@@ -227,7 +239,7 @@
         "over": "+ 4.5 @2.05"
       }
     ],
-    "B_cnt": 9,
+    "B_cnt": 11,
     "B_book_cnt": 3
   },
   {
@@ -241,7 +253,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:55",
+    "updateTime": "09:52",
     "stats1": {
       "sb_a1": "4##5#4#5#5",
       "sb_a2": "4##2#6#3#5",
@@ -318,14 +330,32 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 8.5 @2",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.7"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+14.5 @1.8"
       },
       {
+        "book": "betfan",
+        "under": "- 4.5 @1.65",
+        "lineType": "player1",
+        "over": "+ 4.5 @2.05"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.93",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.75"
       },
       {
         "book": "betclic",
@@ -341,9 +371,15 @@
         "over": "  @1.75"
       }
     ],
-    "A_cnt": 3,
-    "A_book_cnt": 1,
+    "A_cnt": 6,
+    "A_book_cnt": 2,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 8.5 @1.92",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.75"
+      },
       {
         "book": "betclic",
         "under": "-11.5 @1.6",
@@ -351,10 +387,22 @@
         "over": "+11.5 @1.8"
       },
       {
+        "book": "betfan",
+        "under": "- 4.5 @1.7",
+        "lineType": "player1",
+        "over": "+ 4.5 @2"
+      },
+      {
         "book": "betclic",
         "under": "- 5.5 @1.7",
         "lineType": "player1",
         "over": "+ 5.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.75",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.92"
       },
       {
         "book": "betclic",
@@ -364,11 +412,24 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
-    "B": null,
-    "B_cnt": 0,
-    "B_book_cnt": 0
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
+    "B": [
+      {
+        "book": "betfan",
+        "under": "- 3.5 @1.9",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.77"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @2.2",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.57"
+      }
+    ],
+    "B_cnt": 2,
+    "B_book_cnt": 1
   },
   {
     "id": "-4094700675835971624",
@@ -381,7 +442,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:55",
+    "updateTime": "09:52",
     "stats1": {
       "sb_a1": "5#4#6#5#5#3",
       "sb_a2": "6#8#6#6#4#3",
@@ -458,6 +519,18 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 8.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.82"
+      },
+      {
+        "book": "lebull",
+        "under": "- 9.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @1.9"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 9.5 @1.8"
@@ -466,6 +539,18 @@
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 4.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.87",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 3.5 @2.1",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.62"
       },
       {
         "book": "betclic",
@@ -481,9 +566,15 @@
         "over": "  @1.85"
       }
     ],
-    "A_cnt": 3,
-    "A_book_cnt": 1,
+    "A_cnt": 7,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.93",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.75"
+      },
       {
         "book": "betclic",
         "under": "- 6.5 @1.7",
@@ -491,9 +582,21 @@
         "over": "+ 6.5 @1.7"
       },
       {
+        "book": "betfan",
+        "under": "- 1.5 @2.15",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.6"
+      },
+      {
         "book": "betclic",
         "under": "- 2.5 @1.7",
         "lineType": "player1",
+        "over": "+ 2.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @2",
+        "lineType": "player2",
         "over": "+ 2.5 @1.7"
       },
       {
@@ -504,8 +607,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": [
       {
         "book": "lvbet",
@@ -532,6 +635,12 @@
         "over": "+ 2.5 @2.1"
       },
       {
+        "book": "betfan",
+        "under": "- 2.5 @1.82",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.85"
+      },
+      {
         "book": "lvbet",
         "under": "- 2.5 @1.8",
         "lineType": "player2",
@@ -542,10 +651,16 @@
         "under": "- 2.5 @1.7",
         "lineType": "player2",
         "over": "+ 2.5 @1.7"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @2.05",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.65"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 8,
+    "B_book_cnt": 3
   },
   {
     "id": "-6840666750353118427",
@@ -558,7 +673,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "08:55",
+    "updateTime": "09:52",
     "stats1": {
       "sb_a1": "7#5#6#7#8#",
       "sb_a2": "6#7#2#6#5#",
@@ -635,14 +750,38 @@
     },
     "A": [
       {
+        "book": "betfan",
+        "under": "- 9.5 @1.7",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @2"
+      },
+      {
+        "book": "lebull",
+        "under": "-10.5 @1.9",
+        "lineType": "meczowa",
+        "over": "+10.5 @1.8"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+11.5 @1.8"
       },
       {
+        "book": "betfan",
+        "under": "- 4.5 @2.05",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.65"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 6.5 @1.8"
+      },
+      {
+        "book": "betfan",
+        "under": "- 4.5 @1.65",
+        "lineType": "player2",
+        "over": "+ 4.5 @2.05"
       },
       {
         "book": "betclic",
@@ -658,9 +797,15 @@
         "over": "  @2.2"
       }
     ],
-    "A_cnt": 3,
-    "A_book_cnt": 1,
+    "A_cnt": 7,
+    "A_book_cnt": 3,
     "DF": [
+      {
+        "book": "betfan",
+        "under": "- 5.5 @1.8",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.87"
+      },
       {
         "book": "betclic",
         "under": "- 6.5 @1.6",
@@ -668,10 +813,22 @@
         "over": "+ 6.5 @1.88"
       },
       {
+        "book": "betfan",
+        "under": "- 3.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.82"
+      },
+      {
         "book": "betclic",
         "under": "- 4.5 @1.55",
         "lineType": "player1",
         "over": "+ 4.5 @1.95"
+      },
+      {
+        "book": "betfan",
+        "under": "- 1.5 @2",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.7"
       },
       {
         "book": "betclic",
@@ -681,8 +838,8 @@
       }
     ],
     "MDF": null,
-    "DF_cnt": 3,
-    "DF_book_cnt": 1,
+    "DF_cnt": 6,
+    "DF_book_cnt": 2,
     "B": [
       {
         "book": "lvbet",
@@ -703,10 +860,22 @@
         "over": "+ 1.5 @1.55"
       },
       {
+        "book": "betfan",
+        "under": "- 2.5 @1.6",
+        "lineType": "player1",
+        "over": "+ 2.5 @2.15"
+      },
+      {
         "book": "betclic",
         "under": "- 2.5 @1.48",
         "lineType": "player1",
         "over": "+ 2.5 @2.1"
+      },
+      {
+        "book": "betfan",
+        "under": "- 2.5 @1.9",
+        "lineType": "player2",
+        "over": "+ 2.5 @1.77"
       },
       {
         "book": "betclic",
@@ -721,7 +890,7 @@
         "over": "+ 2.5 @1.62"
       }
     ],
-    "B_cnt": 6,
-    "B_book_cnt": 2
+    "B_cnt": 8,
+    "B_book_cnt": 3
   }
 ]
