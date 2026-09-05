@@ -3,14 +3,14 @@
     "id": "-3045177123486525727",
     "matchStartTime": "18:10",
     "tournament": "US Open K. • 1/16 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm\n02:00 🌡 23°C / 23°C💧 58 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n03:00 🌡 22°C / 23°C💧 64 %  💨  6 (max 14) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm\n02:00 🌡 23°C / 23°C💧 58 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n03:00 🌡 22°C / 23°C💧 64 %  💨  6 (max 14) km/h 🌧 1 % 0 mm",
     "eventName": "Iga Świątek - Marie Bouzkova",
     "p1": "Iga Świątek",
     "p2": "Marie Bouzkova",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "2#2#2#2#2#2",
       "sb_a2": "1#1#4#6#2#2",
@@ -117,12 +117,6 @@
         "over": "+ 2.5 @1.47"
       },
       {
-        "book": "lvbet",
-        "under": "- 3.5 @1.42",
-        "lineType": "meczowa",
-        "over": "+ 3.5 @2.27"
-      },
-      {
         "book": "betfan",
         "under": "- 3.5 @1.57",
         "lineType": "meczowa",
@@ -131,6 +125,12 @@
       {
         "book": "fuksiarz",
         "under": "- 3.5 @1.62",
+        "lineType": "meczowa",
+        "over": "+ 3.5 @2.12"
+      },
+      {
+        "book": "lvbet",
+        "under": "- 3.5 @1.50",
         "lineType": "meczowa",
         "over": "+ 3.5 @2.12"
       },
@@ -802,9 +802,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 4.5 @1.80",
+        "under": "- 4.5 @1.72",
         "lineType": "player1",
-        "over": "+ 4.5 @1.64"
+        "over": "+ 4.5 @1.72"
       },
       {
         "book": "sts",
@@ -832,9 +832,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 2.5 @1.56",
+        "under": "- 2.5 @1.55",
         "lineType": "player2",
-        "over": "+ 2.5 @1.92"
+        "over": "+ 2.5 @1.95"
       }
     ],
     "B_cnt": 16,
@@ -851,7 +851,7 @@
     "atp": false,
     "tags1": "A",
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "7#7#8#8#8#6",
       "sb_a2": "2#1#8#2#5#2",
@@ -1362,6 +1362,12 @@
     "DF_book_cnt": 7,
     "B": [
       {
+        "book": "betclic",
+        "under": "- 5.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.60"
+      },
+      {
         "book": "lvbet",
         "under": "- 6.5 @1.57",
         "lineType": "meczowa",
@@ -1375,21 +1381,15 @@
       },
       {
         "book": "betclic",
-        "under": "- 7.5 @1.60",
-        "lineType": "meczowa",
-        "over": "+ 7.5 @1.88"
+        "under": "- 3.5 @1.95",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.55"
       },
       {
         "book": "lvbet",
         "under": "- 3.5 @2.27",
         "lineType": "player1",
         "over": "+ 3.5 @1.50"
-      },
-      {
-        "book": "betclic",
-        "under": "- 4.5 @1.60",
-        "lineType": "player1",
-        "over": "+ 4.5 @1.88"
       },
       {
         "book": "lvbet",
@@ -1399,9 +1399,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 3.5 @1.56",
+        "under": "- 2.5 @1.65",
         "lineType": "player2",
-        "over": "+ 3.5 @1.92"
+        "over": "+ 2.5 @1.80"
       }
     ],
     "B_cnt": 7,
@@ -1418,7 +1418,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "5#3#3#2#3#2",
       "sb_a2": "2#3#3#2#3#3",
@@ -1837,9 +1837,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 4.5 @1.70",
+        "under": "- 4.5 @1.72",
         "lineType": "player2",
-        "over": "+ 4.5 @1.70"
+        "over": "+ 4.5 @1.72"
       }
     ],
     "B_cnt": 6,
@@ -1856,7 +1856,7 @@
     "atp": false,
     "tags1": null,
     "tags2": "DF;T",
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "2#1#1#2#1#1",
       "sb_a2": "2#2#5#1#3#3",
@@ -2367,16 +2367,16 @@
         "over": "+ 5.5 @1.72"
       },
       {
-        "book": "betclic",
-        "under": "- 5.5 @1.70",
-        "lineType": "meczowa",
-        "over": "+ 5.5 @1.70"
-      },
-      {
         "book": "fortuna",
         "under": "- 5.5 @2.00",
         "lineType": "meczowa",
         "over": "+ 5.5 @1.69"
+      },
+      {
+        "book": "betclic",
+        "under": "- 5.5 @2.10",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.45"
       },
       {
         "book": "lvbet",
@@ -2386,9 +2386,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 1.5 @1.60",
+        "under": "- 1.5 @1.55",
         "lineType": "player1",
-        "over": "+ 1.5 @1.85"
+        "over": "+ 1.5 @1.95"
       },
       {
         "book": "lvbet",
@@ -2398,9 +2398,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 4.5 @1.70",
+        "under": "- 4.5 @1.95",
         "lineType": "player2",
-        "over": "+ 4.5 @1.70"
+        "over": "+ 4.5 @1.55"
       }
     ],
     "B_cnt": 7,
@@ -2410,14 +2410,14 @@
     "id": "-9156604949580986822",
     "matchStartTime": "18:10",
     "tournament": "US Open K. • 1/16 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm\n02:00 🌡 23°C / 23°C💧 58 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n03:00 🌡 22°C / 23°C💧 64 %  💨  6 (max 14) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm\n02:00 🌡 23°C / 23°C💧 58 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n03:00 🌡 22°C / 23°C💧 64 %  💨  6 (max 14) km/h 🌧 1 % 0 mm",
     "eventName": "Mirra Andreeva - Nikola Bartunkova",
     "p1": "Mirra Andreeva",
     "p2": "Nikola Bartunkova",
     "atp": false,
     "tags1": "T",
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "4#4#2#4#4#4",
       "sb_a2": "1#2#3#2#1#2",
@@ -3001,14 +3001,14 @@
     "id": "-7540144424689029060",
     "matchStartTime": "17:00",
     "tournament": "US Open K. • 1/16 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Anastasia Potapova - Amanda Anisimova",
     "p1": "Anastasia Potapova",
     "p2": "Amanda Anisimova",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "4#2#2#2#3#2",
       "sb_a2": "3#2#2#4#5#2",
@@ -3568,14 +3568,14 @@
     "id": "-5443951067191953125",
     "matchStartTime": "23:00",
     "tournament": "US Open K. • 1/16 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n05:00 🌡 20°C / 21°C💧 72 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n06:00 🌡 20°C / 21°C💧 82 %  💨  8 (max 17) km/h 🌧 2 % 0 mm\n07:00 🌡 20°C / 21°C💧 89 %  💨  9 (max 23) km/h 🌧 6 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n05:00 🌡 20°C / 21°C💧 72 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n06:00 🌡 20°C / 21°C💧 82 %  💨  8 (max 17) km/h 🌧 2 % 0 mm\n07:00 🌡 20°C / 21°C💧 89 %  💨  9 (max 23) km/h 🌧 7 % 0 mm",
     "eventName": "Yulia Starodubtseva - Elena Rybakina",
     "p1": "Yulia Starodubtseva",
     "p2": "Elena Rybakina",
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "2#2#1#2#2#2",
       "sb_a2": "4#2#6#5#5#2",
@@ -4110,9 +4110,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 5.5 @1.70",
+        "under": "- 5.5 @1.65",
         "lineType": "meczowa",
-        "over": "+ 5.5 @1.70"
+        "over": "+ 5.5 @1.80"
       },
       {
         "book": "lvbet",
@@ -4122,9 +4122,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 1.5 @1.60",
+        "under": "- 1.5 @1.48",
         "lineType": "player1",
-        "over": "+ 1.5 @1.85"
+        "over": "+ 1.5 @2.05"
       },
       {
         "book": "lvbet",
@@ -4134,9 +4134,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 4.5 @1.45",
+        "under": "- 4.5 @1.36",
         "lineType": "player2",
-        "over": "+ 4.5 @2.10"
+        "over": "+ 4.5 @2.35"
       }
     ],
     "B_cnt": 7,
@@ -4146,14 +4146,14 @@
     "id": "-9156494381413919100",
     "matchStartTime": "17:00",
     "tournament": "US Open K. • 1/16 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Madison Keys - Qinwen Zheng",
     "p1": "Madison Keys",
     "p2": "Qinwen Zheng",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "4#5#3#4#5#6",
       "sb_a2": "3#2#1#1#2#1",
@@ -4285,7 +4285,7 @@
         "book": "superbet",
         "under": "-11.5 @1.95",
         "lineType": "meczowa",
-        "over": "+11.5 @1.75"
+        "over": "+11.5 @1.74"
       },
       {
         "book": "betfan",
@@ -4435,9 +4435,9 @@
       },
       {
         "book": "superbet",
-        "under": "- 7.5 @1.51",
+        "under": "- 7.5 @1.52",
         "lineType": "player2",
-        "over": "+ 7.5 @2.30"
+        "over": "+ 7.5 @2.27"
       },
       {
         "book": "sb open.",
@@ -4677,9 +4677,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 6.5 @1.80",
+        "under": "- 5.5 @1.70",
         "lineType": "meczowa",
-        "over": "+ 6.5 @1.65"
+        "over": "+ 5.5 @1.75"
       },
       {
         "book": "lvbet",
@@ -4689,9 +4689,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 3.5 @1.50",
+        "under": "- 3.5 @1.48",
         "lineType": "player1",
-        "over": "+ 3.5 @1.85"
+        "over": "+ 3.5 @2.05"
       },
       {
         "book": "lvbet",
@@ -4701,9 +4701,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 3.5 @1.50",
+        "under": "- 2.5 @1.72",
         "lineType": "player2",
-        "over": "+ 3.5 @2.05"
+        "over": "+ 2.5 @1.72"
       }
     ],
     "B_cnt": 7,
@@ -4713,14 +4713,14 @@
     "id": "-5316153960972075051",
     "matchStartTime": "17:00",
     "tournament": "US Open K. • 1/8 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Jessica Pegula - Sorana Cirstea",
     "p1": "Jessica Pegula",
     "p2": "Sorana Cirstea",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "4#4#4#3#4#4",
       "sb_a2": "3#2#3#4#2#5",
@@ -5009,7 +5009,7 @@
         "book": "betclic",
         "under": "- 7.5 @1.60",
         "lineType": "meczowa",
-        "over": "+ 7.5 @1.88"
+        "over": "+ 7.5 @1.85"
       },
       {
         "book": "lvbet",
@@ -5019,9 +5019,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 4.5 @1.70",
+        "under": "- 4.5 @1.80",
         "lineType": "player1",
-        "over": "+ 4.5 @1.70"
+        "over": "+ 4.5 @1.65"
       },
       {
         "book": "lvbet",
@@ -5031,9 +5031,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 3.5 @1.52",
+        "under": "- 3.5 @1.48",
         "lineType": "player2",
-        "over": "+ 3.5 @2.00"
+        "over": "+ 3.5 @2.05"
       }
     ],
     "B_cnt": 6,
@@ -5043,14 +5043,14 @@
     "id": "1991646096682853913",
     "matchStartTime": "17:00",
     "tournament": "US Open K. • 1/8 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Marta Kostyuk - Linda Noskova",
     "p1": "Marta Kostyuk",
     "p2": "Linda Noskova",
     "atp": false,
     "tags1": "DF",
     "tags2": "A",
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "5#4#4#3#3#2",
       "sb_a2": "2#1#1#2#2#1",
@@ -5134,9 +5134,9 @@
       },
       {
         "book": "lvbet",
-        "under": "- 8.5 @1.75",
+        "under": "- 8.5 @1.80",
         "lineType": "meczowa",
-        "over": "+ 8.5 @1.67"
+        "over": "+ 8.5 @1.65"
       },
       {
         "book": "bc open.",
@@ -5167,15 +5167,15 @@
         "over": "+ 5.5 @1.78"
       },
       {
-        "book": "lvbet",
-        "under": "- 6.5 @1.62",
-        "lineType": "player1",
-        "over": "+ 6.5 @1.82"
-      },
-      {
         "book": "bc open.",
         "lineType": "player1",
         "over": "+ 6.5 @1.80"
+      },
+      {
+        "book": "lvbet",
+        "under": "- 6.5 @1.67",
+        "lineType": "player1",
+        "over": "+ 6.5 @1.75"
       },
       {
         "book": "betclic",
@@ -5221,10 +5221,10 @@
       },
       {
         "book": "lvbet",
-        "under": " @1.05",
-        "x": "@8.75",
+        "under": " @1.04",
+        "x": "@9.00",
         "lineType": "meczowa",
-        "over": " @8.75"
+        "over": " @9.00"
       },
       {
         "book": "superbet",
@@ -5251,7 +5251,7 @@
       },
       {
         "book": "superbet",
-        "under": "-12.5 @1.73",
+        "under": "-12.5 @1.72",
         "lineType": "meczowa",
         "over": "+12.5 @1.97"
       },
@@ -5373,14 +5373,14 @@
     "id": "-3322371518015018648",
     "matchStartTime": "17:00",
     "tournament": "US Open K. • 1/8 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Anna Kalinskaya - Emma Navarro",
     "p1": "Anna Kalinskaya",
     "p2": "Emma Navarro",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "2#3#3#3#4#3",
       "sb_a2": "5#3#2#2#2#4",
@@ -5586,6 +5586,12 @@
         "over": "+10.5 @1.97"
       },
       {
+        "book": "betclic",
+        "under": "-10.5 @1.65",
+        "lineType": "meczowa",
+        "over": "+10.5 @1.75"
+      },
+      {
         "book": "lvbet",
         "under": "- 5.5 @1.65",
         "lineType": "player1",
@@ -5602,6 +5608,18 @@
         "under": "- 5.5 @1.88",
         "lineType": "player1",
         "over": "+ 5.5 @1.80"
+      },
+      {
+        "book": "betclic",
+        "under": "- 7.5 @1.80",
+        "lineType": "player1",
+        "over": "+ 7.5 @1.60"
+      },
+      {
+        "book": "betclic",
+        "under": "- 3.5 @1.70",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.70"
       },
       {
         "book": "lvbet",
@@ -5638,8 +5656,8 @@
         "over": " @2.90"
       }
     ],
-    "DF_cnt": 9,
-    "DF_book_cnt": 3,
+    "DF_cnt": 12,
+    "DF_book_cnt": 4,
     "B": [
       {
         "book": "lvbet",
@@ -5649,9 +5667,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 7.5 @1.75",
+        "under": "- 7.5 @1.72",
         "lineType": "meczowa",
-        "over": "+ 7.5 @1.70"
+        "over": "+ 7.5 @1.72"
       },
       {
         "book": "lvbet",
@@ -5661,9 +5679,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 4.5 @1.55",
+        "under": "- 4.5 @1.48",
         "lineType": "player1",
-        "over": "+ 4.5 @1.95"
+        "over": "+ 4.5 @2.05"
       },
       {
         "book": "lvbet",
@@ -5673,9 +5691,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 3.5 @2.10",
+        "under": "- 3.5 @2.05",
         "lineType": "player2",
-        "over": "+ 3.5 @1.45"
+        "over": "+ 3.5 @1.48"
       }
     ],
     "B_cnt": 6,
@@ -5685,14 +5703,14 @@
     "id": "-8803795606853291029",
     "matchStartTime": "17:00",
     "tournament": "US Open K. • 1/8 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Aryna Sabalenka - Taylor Townsend",
     "p1": "Aryna Sabalenka",
     "p2": "Taylor Townsend",
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "5#5#5#3#6#8",
       "sb_a2": "1#2#2#2#3#6",
@@ -5972,16 +5990,16 @@
     "DF_book_cnt": 4,
     "B": [
       {
-        "book": "betclic",
-        "under": "- 5.5 @1.60",
-        "lineType": "meczowa",
-        "over": "+ 5.5 @1.88"
-      },
-      {
         "book": "lvbet",
         "under": "- 5.5 @1.77",
         "lineType": "meczowa",
         "over": "+ 5.5 @1.85"
+      },
+      {
+        "book": "betclic",
+        "under": "- 5.5 @1.65",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.80"
       },
       {
         "book": "lvbet",
@@ -5991,21 +6009,21 @@
       },
       {
         "book": "betclic",
-        "under": "- 3.5 @2.00",
+        "under": "- 3.5 @1.95",
         "lineType": "player1",
-        "over": "+ 3.5 @1.52"
-      },
-      {
-        "book": "betclic",
-        "under": "- 1.5 @1.70",
-        "lineType": "player2",
-        "over": "+ 1.5 @1.70"
+        "over": "+ 3.5 @1.55"
       },
       {
         "book": "lvbet",
         "under": "- 1.5 @1.95",
         "lineType": "player2",
         "over": "+ 1.5 @1.67"
+      },
+      {
+        "book": "betclic",
+        "under": "- 1.5 @1.85",
+        "lineType": "player2",
+        "over": "+ 1.5 @1.60"
       }
     ],
     "B_cnt": 6,
@@ -6015,14 +6033,14 @@
     "id": "6625490266021334685",
     "matchStartTime": "18:10",
     "tournament": "US Open M. • 1/16 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm\n02:00 🌡 23°C / 23°C💧 58 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n03:00 🌡 22°C / 23°C💧 64 %  💨  6 (max 14) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm\n02:00 🌡 23°C / 23°C💧 58 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n03:00 🌡 22°C / 23°C💧 64 %  💨  6 (max 14) km/h 🌧 1 % 0 mm",
     "eventName": "Alexander Blockx - Flavio Cobolli",
     "p1": "Alexander Blockx",
     "p2": "Flavio Cobolli",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "14#13#9#6#7#5",
       "sb_a2": "9#4#6#2#6#2",
@@ -6325,10 +6343,10 @@
       },
       {
         "book": "lvbet",
-        "under": " @1.02",
+        "under": " @1.03",
         "x": "@12.50",
         "lineType": "meczowa",
-        "over": " @8.75"
+        "over": " @8.50"
       },
       {
         "book": "betters",
@@ -6582,14 +6600,14 @@
     "id": "-2369603355417845752",
     "matchStartTime": "17:30",
     "tournament": "US Open M. • 1/16 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm\n02:00 🌡 23°C / 23°C💧 58 %  💨  7 (max 19) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm\n02:00 🌡 23°C / 23°C💧 58 %  💨  7 (max 19) km/h 🌧 1 % 0 mm",
     "eventName": "Taylor Fritz - Francisco Cerundolo",
     "p1": "Taylor Fritz",
     "p2": "Francisco Cerundolo",
     "atp": true,
     "tags1": "A",
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "17#14#13#9#9#12",
       "sb_a2": "9#5#11#7#4#6",
@@ -6703,7 +6721,7 @@
         "book": "lvbet",
         "under": "-20.5 @1.80",
         "lineType": "meczowa",
-        "over": "+20.5 @1.70"
+        "over": "+20.5 @1.72"
       },
       {
         "book": "superbet",
@@ -6775,9 +6793,9 @@
       },
       {
         "book": "lvbet",
-        "under": "-14.5 @1.75",
+        "under": "-14.5 @1.72",
         "lineType": "player1",
-        "over": "+14.5 @1.77"
+        "over": "+14.5 @1.80"
       },
       {
         "book": "superbet",
@@ -6833,9 +6851,9 @@
       },
       {
         "book": "superbet",
-        "under": "- 5.5 @1.85",
+        "under": "- 5.5 @1.82",
         "lineType": "player2",
-        "over": "+ 5.5 @1.83"
+        "over": "+ 5.5 @1.87"
       },
       {
         "book": "sb open.",
@@ -6983,9 +7001,9 @@
       },
       {
         "book": "lvbet",
-        "under": "- 2.5 @1.65",
+        "under": "- 2.5 @1.62",
         "lineType": "player1",
-        "over": "+ 2.5 @1.85"
+        "over": "+ 2.5 @1.90"
       },
       {
         "book": "fo open.",
@@ -7149,7 +7167,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "13#11#8#9#9#9",
       "sb_a2": "17#9#6#8#5#5",
@@ -7513,6 +7531,12 @@
         "over": "+ 7.5 @1.58"
       },
       {
+        "book": "lvbet",
+        "under": "- 8.5 @1.62",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.88"
+      },
+      {
         "book": "fo open.",
         "under": "- 8.5 @1.85",
         "lineType": "meczowa",
@@ -7541,12 +7565,6 @@
         "under": "- 8.5 @1.95",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.76"
-      },
-      {
-        "book": "lvbet",
-        "under": "- 8.5 @1.67",
-        "lineType": "meczowa",
-        "over": "+ 8.5 @1.75"
       },
       {
         "book": "superbet",
@@ -7658,9 +7676,9 @@
       },
       {
         "book": "lvbet",
-        "under": "- 4.5 @1.67",
+        "under": "- 4.5 @1.60",
         "lineType": "player2",
-        "over": "+ 4.5 @1.75"
+        "over": "+ 4.5 @1.92"
       },
       {
         "book": "superbet",
@@ -7671,18 +7689,18 @@
     ],
     "MDF": [
       {
+        "book": "lvbet",
+        "under": " @2.20",
+        "x": "@5.50",
+        "lineType": "meczowa",
+        "over": " @1.80"
+      },
+      {
         "book": "betters",
         "under": " @2.30",
         "x": "@6.20",
         "lineType": "meczowa",
         "over": " @1.72"
-      },
-      {
-        "book": "lvbet",
-        "under": " @2.35",
-        "x": "@5.50",
-        "lineType": "meczowa",
-        "over": " @1.70"
       },
       {
         "book": "superbet",
@@ -7727,7 +7745,7 @@
     "atp": true,
     "tags1": null,
     "tags2": "DF",
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "16#15#10#9#11#8",
       "sb_a2": "7#4#9#4#6#7",
@@ -8323,7 +8341,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "11#12#10#6#6#11",
       "sb_a2": "16#7#10#7#5#12",
@@ -8815,14 +8833,14 @@
     "id": "8911757654017305014",
     "matchStartTime": "22:30",
     "tournament": "US Open M. • 1/16 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n05:00 🌡 20°C / 21°C💧 72 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n06:00 🌡 20°C / 21°C💧 82 %  💨  8 (max 17) km/h 🌧 2 % 0 mm\n07:00 🌡 20°C / 21°C💧 89 %  💨  9 (max 23) km/h 🌧 6 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n05:00 🌡 20°C / 21°C💧 72 %  💨  7 (max 19) km/h 🌧 1 % 0 mm\n06:00 🌡 20°C / 21°C💧 82 %  💨  8 (max 17) km/h 🌧 2 % 0 mm\n07:00 🌡 20°C / 21°C💧 89 %  💨  9 (max 23) km/h 🌧 7 % 0 mm",
     "eventName": "Zizou Bergs - Botic Van De Zandschulp",
     "p1": "Zizou Bergs",
     "p2": "Botic Van De Zandschulp",
     "atp": true,
     "tags1": "DF",
     "tags2": "DF",
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "12#11#7#5#8#7",
       "sb_a2": "11#4#4#7#3#14",
@@ -9044,7 +9062,7 @@
       {
         "book": "betclic",
         "lineType": "player1",
-        "over": "+14.5 @1.80"
+        "over": "+14.5 @1.60"
       },
       {
         "book": "fo open.",
@@ -9105,12 +9123,12 @@
         "over": "+13.5 @2.00"
       },
       {
-        "book": "bc open.",
+        "book": "betclic",
         "lineType": "player2",
-        "over": "+14.5 @1.80"
+        "over": "+14.5 @2.00"
       },
       {
-        "book": "betclic",
+        "book": "bc open.",
         "lineType": "player2",
         "over": "+14.5 @1.80"
       }
@@ -9118,10 +9136,10 @@
     "MA": [
       {
         "book": "betclic",
-        "under": " @1.85",
-        "x": "@5.50",
+        "under": " @1.60",
+        "x": "@8.00",
         "lineType": "meczowa",
-        "over": " @1.85"
+        "over": " @2.00"
       },
       {
         "book": "lvbet",
@@ -9395,7 +9413,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "10#10#3#6#5#",
       "sb_a2": "9#10#5#6#4#",
@@ -9735,7 +9753,7 @@
       },
       {
         "book": "superbet",
-        "under": "- 3.5 @2.70",
+        "under": "- 3.5 @2.72",
         "lineType": "player1",
         "over": "+ 3.5 @1.35"
       },
@@ -9746,13 +9764,13 @@
         "over": "+ 4.5 @1.82"
       },
       {
-        "book": "superbet",
+        "book": "sb open.",
         "under": "- 4.5 @1.95",
         "lineType": "player1",
-        "over": "+ 4.5 @1.75"
+        "over": "+ 4.5 @1.74"
       },
       {
-        "book": "sb open.",
+        "book": "superbet",
         "under": "- 4.5 @1.95",
         "lineType": "player1",
         "over": "+ 4.5 @1.74"
@@ -9871,7 +9889,7 @@
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "10#12#6#6#8#6",
       "sb_a2": "7#7#6#7#5#9",
@@ -10333,14 +10351,14 @@
     "id": "685467110627410821",
     "matchStartTime": "17:00",
     "tournament": "US Open M. • 1/8 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Daniil Medvedev - Frances Tiafoe",
     "p1": "Daniil Medvedev",
     "p2": "Frances Tiafoe",
     "atp": true,
     "tags1": null,
     "tags2": "D",
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "14#11#9#9#9#7",
       "sb_a2": "16#5#2#10#7#3",
@@ -10631,14 +10649,14 @@
     "id": "8261022874068804890",
     "matchStartTime": "17:00",
     "tournament": "US Open M. • 1/8 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Tommy Paul - Carlos Alcaraz",
     "p1": "Tommy Paul",
     "p2": "Carlos Alcaraz",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "9#10#10#7#6#5",
       "sb_a2": "18#9#12#6#8#3",
@@ -10929,14 +10947,14 @@
     "id": "4675673827784898390",
     "matchStartTime": "17:00",
     "tournament": "US Open M. • 1/8 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Ben Shelton - Stefanos Tsitsipas",
     "p1": "Ben Shelton",
     "p2": "Stefanos Tsitsipas",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "9#12#14#8#8#7",
       "sb_a2": "10#18#9#5#7#3",
@@ -11098,9 +11116,9 @@
       },
       {
         "book": "betclic",
-        "under": "- 3.5 @2.00",
+        "under": "- 3.5 @1.70",
         "lineType": "player1",
-        "over": "+ 3.5 @1.50"
+        "over": "+ 3.5 @1.70"
       },
       {
         "book": "lvbet",
@@ -11122,14 +11140,14 @@
     "id": "7378206178148456672",
     "matchStartTime": "17:00",
     "tournament": "US Open M. • 1/8 finału",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 1 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n23:00 🌡 27°C / 26°C💧 45 %  💨 14 (max 18) km/h 🌧 0 % 0 mm\n00:00 🌡 26°C / 25°C💧 48 %  💨 13 (max 18) km/h 🌧 0 % 0 mm\n01:00 🌡 24°C / 24°C💧 53 %  💨 11 (max 20) km/h 🌧 0 % 0 mm",
     "eventName": "Alex Michelsen - Tomas Martin Etcheverry",
     "p1": "Alex Michelsen",
     "p2": "Tomas Martin Etcheverry",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "15:08",
+    "updateTime": "15:33",
     "stats1": {
       "sb_a1": "8#11#9#6#7#5",
       "sb_a2": "6#16#6#12#9#4",
