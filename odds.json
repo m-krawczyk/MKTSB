@@ -3,14 +3,14 @@
     "id": "-7627691233444423771",
     "matchStartTime": "17:30",
     "tournament": "US Open K. • Ćwierćfinał",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n00:00 🌡 27°C / 27°C💧 37 %  💨  7 (max 8) km/h 🌧 1 % 0 mm\n01:00 🌡 25°C / 24°C💧 42 %  💨  8 (max 15) km/h 🌧 1 % 0 mm\n02:00 🌡 23°C / 22°C💧 48 %  💨  8 (max 15) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n00:00 🌡 27°C / 26°C💧 38 %  💨  5 (max 6) km/h 🌧 1 % 0 mm\n01:00 🌡 25°C / 24°C💧 42 %  💨  8 (max 15) km/h 🌧 1 % 0 mm\n02:00 🌡 23°C / 22°C💧 48 %  💨  8 (max 15) km/h 🌧 1 % 0 mm",
     "eventName": "Aryna Sabalenka - Linda Noskova",
     "p1": "Aryna Sabalenka",
     "p2": "Linda Noskova",
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "07:33",
+    "updateTime": "07:49",
     "stats1": {
       "sb_a1": "6#5#5#5#3#6",
       "sb_a2": "6#1#2#2#2#3",
@@ -92,6 +92,12 @@
         "over": "+11.5 @1.80"
       },
       {
+        "book": "betters",
+        "under": "-11.5 @1.96",
+        "lineType": "meczowa",
+        "over": "+11.5 @1.69"
+      },
+      {
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+12.5 @1.80"
@@ -132,6 +138,12 @@
         "over": "+ 6.5 @1.80"
       },
       {
+        "book": "betters",
+        "under": "- 6.5 @2.02",
+        "lineType": "player1",
+        "over": "+ 6.5 @1.66"
+      },
+      {
         "book": "lvbet",
         "under": "- 6.5 @1.85",
         "lineType": "player1",
@@ -165,6 +177,12 @@
         "under": "- 8.5 @1.45",
         "lineType": "player1",
         "over": "+ 8.5 @2.42"
+      },
+      {
+        "book": "betters",
+        "under": "- 4.5 @2.04",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.64"
       },
       {
         "book": "bc open.",
@@ -216,6 +234,13 @@
         "over": " @2.50"
       },
       {
+        "book": "betters",
+        "under": " @1.33",
+        "x": "@7.60",
+        "lineType": "meczowa",
+        "over": " @3.40"
+      },
+      {
         "book": "lvbet",
         "under": " @1.60",
         "x": "@6.25",
@@ -230,14 +255,20 @@
         "over": " @2.87"
       }
     ],
-    "A_cnt": 21,
-    "A_book_cnt": 5,
+    "A_cnt": 24,
+    "A_book_cnt": 6,
     "DF": [
       {
         "book": "superbet",
         "under": "- 7.5 @2.45",
         "lineType": "meczowa",
         "over": "+ 7.5 @1.44"
+      },
+      {
+        "book": "betters",
+        "under": "- 8.5 @1.70",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.96"
       },
       {
         "book": "lvbet",
@@ -282,6 +313,12 @@
         "over": "+ 1.5 @1.24"
       },
       {
+        "book": "betters",
+        "under": "- 2.5 @1.77",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.87"
+      },
+      {
         "book": "sb open.",
         "under": "- 2.5 @1.95",
         "lineType": "player1",
@@ -322,6 +359,12 @@
         "under": "- 5.5 @1.67",
         "lineType": "player2",
         "over": "+ 5.5 @1.80"
+      },
+      {
+        "book": "betters",
+        "under": "- 5.5 @1.87",
+        "lineType": "player2",
+        "over": "+ 5.5 @1.77"
       },
       {
         "book": "sb open.",
@@ -376,8 +419,8 @@
         "over": " @1.16"
       }
     ],
-    "DF_cnt": 21,
-    "DF_book_cnt": 5,
+    "DF_cnt": 24,
+    "DF_book_cnt": 6,
     "B": [
       {
         "book": "lvbet",
@@ -430,7 +473,7 @@
     "atp": false,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:33",
+    "updateTime": "07:49",
     "stats1": {
       "sb_a1": "3#4#4#4#3#4",
       "sb_a2": "4#3#2#3#4#2",
@@ -513,6 +556,12 @@
         "over": "+ 6.5 @1.42"
       },
       {
+        "book": "sts",
+        "under": "- 6.5 @3.00",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.33"
+      },
+      {
         "book": "sb open.",
         "under": "- 7.5 @1.87",
         "lineType": "meczowa",
@@ -525,10 +574,28 @@
         "over": "+ 7.5 @1.71"
       },
       {
+        "book": "sts",
+        "under": "- 7.5 @2.35",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @1.50"
+      },
+      {
         "book": "superbet",
         "under": "- 8.5 @1.63",
         "lineType": "meczowa",
         "over": "+ 8.5 @2.10"
+      },
+      {
+        "book": "betters",
+        "under": "- 8.5 @1.70",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.96"
+      },
+      {
+        "book": "sts",
+        "under": "- 8.5 @1.85",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @1.80"
       },
       {
         "book": "lvbet",
@@ -545,6 +612,18 @@
         "book": "betclic",
         "lineType": "meczowa",
         "over": "+ 8.5 @1.70"
+      },
+      {
+        "book": "sts",
+        "under": "- 9.5 @1.60",
+        "lineType": "meczowa",
+        "over": "+ 9.5 @2.20"
+      },
+      {
+        "book": "sts",
+        "under": "-10.5 @1.40",
+        "lineType": "meczowa",
+        "over": "+10.5 @2.70"
       },
       {
         "book": "superbet",
@@ -565,6 +644,18 @@
         "over": "+ 3.5 @1.73"
       },
       {
+        "book": "betters",
+        "under": "- 3.5 @2.06",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.63"
+      },
+      {
+        "book": "sts",
+        "under": "- 3.5 @2.70",
+        "lineType": "player1",
+        "over": "+ 3.5 @1.40"
+      },
+      {
         "book": "superbet",
         "under": "- 4.5 @1.44",
         "lineType": "player1",
@@ -577,6 +668,12 @@
         "over": "+ 4.5 @1.98"
       },
       {
+        "book": "sts",
+        "under": "- 4.5 @1.85",
+        "lineType": "player1",
+        "over": "+ 4.5 @1.85"
+      },
+      {
         "book": "betclic",
         "lineType": "player1",
         "over": "+ 4.5 @1.80"
@@ -587,16 +684,34 @@
         "over": "+ 4.5 @1.70"
       },
       {
+        "book": "sts",
+        "under": "- 5.5 @1.42",
+        "lineType": "player1",
+        "over": "+ 5.5 @2.65"
+      },
+      {
         "book": "sb open.",
         "under": "- 3.5 @2.07",
         "lineType": "player2",
         "over": "+ 3.5 @1.65"
       },
       {
+        "book": "sts",
+        "under": "- 3.5 @2.20",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.60"
+      },
+      {
         "book": "superbet",
         "under": "- 3.5 @2.22",
         "lineType": "player2",
         "over": "+ 3.5 @1.55"
+      },
+      {
+        "book": "sts",
+        "under": "- 4.5 @1.60",
+        "lineType": "player2",
+        "over": "+ 4.5 @2.15"
       },
       {
         "book": "superbet",
@@ -610,6 +725,12 @@
         "over": "+ 4.5 @2.00"
       },
       {
+        "book": "betters",
+        "under": "- 4.5 @1.68",
+        "lineType": "player2",
+        "over": "+ 4.5 @1.99"
+      },
+      {
         "book": "lvbet",
         "under": "- 4.5 @1.62",
         "lineType": "player2",
@@ -619,6 +740,12 @@
         "book": "bc open.",
         "lineType": "player2",
         "over": "+ 4.5 @1.80"
+      },
+      {
+        "book": "sts",
+        "under": "- 5.5 @1.33",
+        "lineType": "player2",
+        "over": "+ 5.5 @3.00"
       },
       {
         "book": "superbet",
@@ -643,6 +770,13 @@
         "over": " @1.90"
       },
       {
+        "book": "betters",
+        "under": " @2.26",
+        "x": "@6.00",
+        "lineType": "meczowa",
+        "over": " @1.77"
+      },
+      {
         "book": "superbet",
         "under": " @2.40",
         "x": "@5.30",
@@ -650,14 +784,20 @@
         "over": " @1.92"
       }
     ],
-    "A_cnt": 21,
-    "A_book_cnt": 5,
+    "A_cnt": 35,
+    "A_book_cnt": 7,
     "DF": [
       {
         "book": "superbet",
         "under": "- 4.5 @2.57",
         "lineType": "meczowa",
         "over": "+ 4.5 @1.40"
+      },
+      {
+        "book": "sts",
+        "under": "- 4.5 @4.00",
+        "lineType": "meczowa",
+        "over": "+ 4.5 @1.21"
       },
       {
         "book": "sb open.",
@@ -672,16 +812,34 @@
         "over": "+ 5.5 @1.78"
       },
       {
+        "book": "betters",
+        "under": "- 5.5 @2.04",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.65"
+      },
+      {
         "book": "lvbet",
         "under": "- 5.5 @1.90",
         "lineType": "meczowa",
         "over": "+ 5.5 @1.57"
       },
       {
+        "book": "sts",
+        "under": "- 5.5 @2.70",
+        "lineType": "meczowa",
+        "over": "+ 5.5 @1.40"
+      },
+      {
         "book": "superbet",
         "under": "- 6.5 @1.49",
         "lineType": "meczowa",
         "over": "+ 6.5 @2.32"
+      },
+      {
+        "book": "sts",
+        "under": "- 6.5 @2.00",
+        "lineType": "meczowa",
+        "over": "+ 6.5 @1.70"
       },
       {
         "book": "bc open.",
@@ -696,6 +854,18 @@
         "over": "+ 6.5 @1.55"
       },
       {
+        "book": "sts",
+        "under": "- 7.5 @1.60",
+        "lineType": "meczowa",
+        "over": "+ 7.5 @2.15"
+      },
+      {
+        "book": "sts",
+        "under": "- 8.5 @1.37",
+        "lineType": "meczowa",
+        "over": "+ 8.5 @2.85"
+      },
+      {
         "book": "superbet",
         "under": "- 0.5 @4.50",
         "lineType": "player1",
@@ -706,6 +876,12 @@
         "under": "- 1.5 @2.10",
         "lineType": "player1",
         "over": "+ 1.5 @1.64"
+      },
+      {
+        "book": "betters",
+        "under": "- 1.5 @2.06",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.63"
       },
       {
         "book": "superbet",
@@ -720,10 +896,22 @@
         "over": "+ 1.5 @1.45"
       },
       {
+        "book": "sts",
+        "under": "- 1.5 @2.95",
+        "lineType": "player1",
+        "over": "+ 1.5 @1.35"
+      },
+      {
         "book": "superbet",
         "under": "- 2.5 @1.39",
         "lineType": "player1",
         "over": "+ 2.5 @2.60"
+      },
+      {
+        "book": "sts",
+        "under": "- 2.5 @1.80",
+        "lineType": "player1",
+        "over": "+ 2.5 @1.90"
       },
       {
         "book": "betclic",
@@ -736,6 +924,12 @@
         "under": "- 2.5 @1.65",
         "lineType": "player1",
         "over": "+ 2.5 @1.75"
+      },
+      {
+        "book": "sts",
+        "under": "- 3.5 @1.37",
+        "lineType": "player1",
+        "over": "+ 3.5 @2.85"
       },
       {
         "book": "superbet",
@@ -762,10 +956,28 @@
         "over": "+ 3.5 @1.60"
       },
       {
+        "book": "betters",
+        "under": "- 3.5 @2.16",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.58"
+      },
+      {
+        "book": "sts",
+        "under": "- 3.5 @2.45",
+        "lineType": "player2",
+        "over": "+ 3.5 @1.47"
+      },
+      {
         "book": "superbet",
         "under": "- 4.5 @1.43",
         "lineType": "player2",
         "over": "+ 4.5 @2.47"
+      },
+      {
+        "book": "sts",
+        "under": "- 4.5 @1.70",
+        "lineType": "player2",
+        "over": "+ 4.5 @2.00"
       },
       {
         "book": "bc open.",
@@ -778,6 +990,12 @@
         "under": "- 4.5 @1.60",
         "lineType": "player2",
         "over": "+ 4.5 @1.80"
+      },
+      {
+        "book": "sts",
+        "under": "- 5.5 @1.35",
+        "lineType": "player2",
+        "over": "+ 5.5 @2.95"
       }
     ],
     "MDF": [
@@ -789,6 +1007,13 @@
         "over": " @1.30"
       },
       {
+        "book": "betters",
+        "under": " @5.80",
+        "x": "@6.40",
+        "lineType": "meczowa",
+        "over": " @1.19"
+      },
+      {
         "book": "superbet",
         "under": " @4.90",
         "x": "@5.90",
@@ -796,8 +1021,8 @@
         "over": " @1.32"
       }
     ],
-    "DF_cnt": 21,
-    "DF_book_cnt": 5,
+    "DF_cnt": 35,
+    "DF_book_cnt": 7,
     "B": [
       {
         "book": "lvbet",
@@ -843,14 +1068,14 @@
     "id": "8298531994892625006",
     "matchStartTime": "17:30",
     "tournament": "US Open K. • Ćwierćfinał",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n00:00 🌡 27°C / 27°C💧 37 %  💨  7 (max 8) km/h 🌧 1 % 0 mm\n01:00 🌡 25°C / 24°C💧 42 %  💨  8 (max 15) km/h 🌧 1 % 0 mm\n02:00 🌡 23°C / 22°C💧 48 %  💨  8 (max 15) km/h 🌧 1 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n00:00 🌡 27°C / 26°C💧 38 %  💨  5 (max 6) km/h 🌧 1 % 0 mm\n01:00 🌡 25°C / 24°C💧 42 %  💨  8 (max 15) km/h 🌧 1 % 0 mm\n02:00 🌡 23°C / 22°C💧 48 %  💨  8 (max 15) km/h 🌧 1 % 0 mm",
     "eventName": "Qinwen Zheng - Elena Rybakina",
     "p1": "Qinwen Zheng",
     "p2": "Elena Rybakina",
     "atp": false,
     "tags1": null,
     "tags2": "A",
-    "updateTime": "07:33",
+    "updateTime": "07:49",
     "stats1": {
       "sb_a1": "7#8#7#7##",
       "sb_a2": "2#6#2#2##",
@@ -1263,14 +1488,14 @@
     "id": "-4840443237774318041",
     "matchStartTime": "02:10",
     "tournament": "US Open M. • Ćwierćfinał",
-    "weather": "🔆Pogoda New York, czas lokalny -6h\n09:00 🌡 17°C / 17°C💧 79 %  💨  7 (max 12) km/h 🌧 0 % 0 mm\n18:00 🌡 26°C / 26°C💧 40 %  💨  7 (max 14) km/h 🌧 0 % 0 mm\n19:00 🌡 27°C / 27°C💧 32 %  💨 11 (max 16) km/h 🌧 0 % 0 mm",
+    "weather": "🔆Pogoda New York, czas lokalny -6h\n09:00 🌡 17°C / 17°C💧 79 %  💨  7 (max 12) km/h 🌧 0 % 0 mm\n18:00 🌡 25°C / 27°C💧 47 %  💨  5 (max 11) km/h 🌧 0 % 0 mm\n19:00 🌡 27°C / 28°C💧 39 %  💨  8 (max 15) km/h 🌧 0 % 0 mm",
     "eventName": "Ben Shelton - Carlos Alcaraz",
     "p1": "Ben Shelton",
     "p2": "Carlos Alcaraz",
     "atp": true,
     "tags1": null,
     "tags2": null,
-    "updateTime": "07:33",
+    "updateTime": "07:49",
     "stats1": {
       "sb_a1": "14#9#12#14#8#8",
       "sb_a2": "12#10#18#9#5#7",
@@ -1879,7 +2104,7 @@
     "atp": true,
     "tags1": "D",
     "tags2": null,
-    "updateTime": "07:33",
+    "updateTime": "07:49",
     "stats1": {
       "sb_a1": "8#10#9#12#7#8",
       "sb_a2": "13#19#19#21#9#13",
