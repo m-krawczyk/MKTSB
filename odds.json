@@ -5,14 +5,14 @@
       "id": "8413829563455229418",
       "matchStartTime": "22:00",
       "tournament": "US Open K. • Finał",
-      "weather1": "🔆Pogoda New York, czas lokalny -6h\n04:00 🌡 20°C / 21°C💧 76 %  💨  8 (max 23) km/h 🌧 2 % 0 mm\n05:00 🌡 20°C / 21°C💧 83 %  💨  7 (max 22) km/h 🌧 2 % 0 mm\n06:00 🌡 20°C / 21°C💧 86 %  💨  7 (max 21) km/h 🌧 3 % 0 mm",
+      "weather1": "🔆Pogoda New York, czas lokalny -6h\n04:00 🌡 21°C / 21°C💧 76 %  💨  9 (max 27) km/h 🌧 2 % 0 mm\n05:00 🌡 20°C / 21°C💧 83 %  💨  7 (max 22) km/h 🌧 2 % 0 mm\n06:00 🌡 20°C / 21°C💧 86 %  💨  7 (max 21) km/h 🌧 3 % 0 mm",
       "eventName": "Aryna Sabalenka - Elena Rybakina",
       "p1": "Aryna Sabalenka",
       "p2": "Elena Rybakina",
       "atp": false,
       "tags1": null,
       "tags2": "A",
-      "updateTime": "11:05",
+      "updateTime": "11:56",
       "stats1": {
         "sb_a1": "6#8#6#5#5#5",
         "sb_a2": "4#6#6#1#2#2",
@@ -1250,14 +1250,14 @@
       "id": "7136720986083640132",
       "matchStartTime": "20:00",
       "tournament": "US Open M. • Finał",
-      "weather1": "🔆Pogoda New York, czas lokalny -6h\n02:00 🌡 21°C / 22°C💧 70 %  💨 11 (max 28) km/h 🌧 2 % 0 mm\n03:00 🌡 21°C / 21°C💧 73 %  💨 11 (max 28) km/h 🌧 3 % 0 mm\n04:00 🌡 20°C / 21°C💧 76 %  💨  8 (max 23) km/h 🌧 2 % 0 mm",
+      "weather1": "🔆Pogoda New York, czas lokalny -6h\n02:00 🌡 21°C / 22°C💧 74 %  💨 12 (max 28) km/h 🌧 2 % 0 mm\n03:00 🌡 21°C / 21°C💧 74 %  💨 13 (max 30) km/h 🌧 3 % 0 mm\n04:00 🌡 21°C / 21°C💧 76 %  💨  9 (max 27) km/h 🌧 2 % 0 mm",
       "eventName": "Alexander Zverev - Ben Shelton",
       "p1": "Alexander Zverev",
       "p2": "Ben Shelton",
       "atp": true,
       "tags1": null,
       "tags2": null,
-      "updateTime": "11:05",
+      "updateTime": "11:56",
       "stats1": {
         "sb_a1": "14#12#16#16#13#11",
         "sb_a2": "9#9#10#12#17#9",
@@ -1346,6 +1346,12 @@
           "over": "+26.5 @1.60"
         },
         {
+          "book": "sts",
+          "under": "-26.5 @2.15",
+          "lineType": "meczowa",
+          "over": "+26.5 @1.60"
+        },
+        {
           "book": "forbet",
           "under": "-27.5 @1.77",
           "lineType": "meczowa",
@@ -1359,9 +1365,15 @@
         },
         {
           "book": "sts",
-          "under": "-27.5 @2.00",
+          "under": "-27.5 @1.90",
           "lineType": "meczowa",
-          "over": "+27.5 @1.65"
+          "over": "+27.5 @1.70"
+        },
+        {
+          "book": "sts",
+          "under": "-28.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+28.5 @1.85"
         },
         {
           "book": "lvbet",
@@ -1371,15 +1383,9 @@
         },
         {
           "book": "sts",
-          "under": "-28.5 @1.90",
+          "under": "-29.5 @1.70",
           "lineType": "meczowa",
-          "over": "+28.5 @1.75"
-        },
-        {
-          "book": "sts",
-          "under": "-29.5 @1.75",
-          "lineType": "meczowa",
-          "over": "+29.5 @1.90"
+          "over": "+29.5 @2.00"
         },
         {
           "book": "sb open.",
@@ -1389,9 +1395,9 @@
         },
         {
           "book": "sts",
-          "under": "-30.5 @1.65",
+          "under": "-30.5 @1.60",
           "lineType": "meczowa",
-          "over": "+30.5 @2.00"
+          "over": "+30.5 @2.15"
         },
         {
           "book": "bc open.",
@@ -1405,15 +1411,21 @@
         },
         {
           "book": "sts",
-          "under": "-31.5 @1.55",
-          "lineType": "meczowa",
-          "over": "+31.5 @2.25"
+          "under": "-11.5 @2.15",
+          "lineType": "player1",
+          "over": "+11.5 @1.60"
         },
         {
           "book": "lvbet",
           "under": "-11.5 @2.05",
           "lineType": "player1",
           "over": "+11.5 @1.47"
+        },
+        {
+          "book": "sts",
+          "under": "-12.5 @1.85",
+          "lineType": "player1",
+          "over": "+12.5 @1.85"
         },
         {
           "book": "forbet",
@@ -1435,9 +1447,9 @@
         },
         {
           "book": "sts",
-          "under": "-12.5 @2.20",
+          "under": "-13.5 @1.60",
           "lineType": "player1",
-          "over": "+12.5 @1.60"
+          "over": "+13.5 @2.15"
         },
         {
           "book": "lvbet",
@@ -1454,18 +1466,6 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+13.5 @1.80"
-        },
-        {
-          "book": "sts",
-          "under": "-13.5 @1.85",
-          "lineType": "player1",
-          "over": "+13.5 @1.80"
-        },
-        {
-          "book": "sts",
-          "under": "-14.5 @1.65",
-          "lineType": "player1",
-          "over": "+14.5 @2.10"
         },
         {
           "book": "sb open.",
@@ -1498,26 +1498,20 @@
           "over": "+14.5 @1.83"
         },
         {
-          "book": "sts",
-          "under": "-14.5 @2.00",
-          "lineType": "player2",
-          "over": "+14.5 @1.70"
-        },
-        {
           "book": "lvbet",
           "under": "-14.5 @1.77",
           "lineType": "player2",
           "over": "+14.5 @1.65"
         },
         {
-          "book": "lvbet",
-          "under": "-15.5 @1.57",
+          "book": "sts",
+          "under": "-14.5 @2.15",
           "lineType": "player2",
-          "over": "+15.5 @1.90"
+          "over": "+14.5 @1.60"
         },
         {
-          "book": "sts",
-          "under": "-15.5 @1.80",
+          "book": "lvbet",
+          "under": "-15.5 @1.57",
           "lineType": "player2",
           "over": "+15.5 @1.90"
         },
@@ -1533,9 +1527,15 @@
         },
         {
           "book": "sts",
-          "under": "-16.5 @1.60",
+          "under": "-15.5 @1.90",
           "lineType": "player2",
-          "over": "+16.5 @2.20"
+          "over": "+15.5 @1.80"
+        },
+        {
+          "book": "sts",
+          "under": "-16.5 @1.70",
+          "lineType": "player2",
+          "over": "+16.5 @2.00"
         }
       ],
       "MA1": [
@@ -1572,7 +1572,7 @@
         },
         {
           "book": "sts",
-          "under": "- 7.5 @2.50",
+          "under": "- 7.5 @2.45",
           "lineType": "meczowa",
           "over": "+ 7.5 @1.47"
         },
@@ -1580,7 +1580,7 @@
           "book": "sts",
           "under": "- 8.5 @1.90",
           "lineType": "meczowa",
-          "over": "+ 8.5 @1.70"
+          "over": "+ 8.5 @1.75"
         },
         {
           "book": "lvbet",
@@ -1590,7 +1590,7 @@
         },
         {
           "book": "sts",
-          "under": "- 9.5 @1.60",
+          "under": "- 9.5 @1.65",
           "lineType": "meczowa",
           "over": "+ 9.5 @2.10"
         },
@@ -1664,7 +1664,7 @@
           "book": "sts",
           "under": "- 5.5 @1.55",
           "lineType": "player1",
-          "over": "+ 5.5 @2.25"
+          "over": "+ 5.5 @2.20"
         },
         {
           "book": "forbet",
@@ -1760,7 +1760,7 @@
           "book": "sts",
           "under": "- 4.5 @1.50",
           "lineType": "player2",
-          "over": "+ 4.5 @2.35"
+          "over": "+ 4.5 @2.30"
         },
         {
           "book": "lvbet",
