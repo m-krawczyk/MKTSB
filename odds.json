@@ -12,7 +12,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:51",
+      "updateTime": "07:54",
       "stats1": {
         "sb_a1": "2#1#1#2#1#1",
         "sb_a2": "4#4#4#2#2#5",
@@ -291,7 +291,7 @@
       "atp": false,
       "tags1": "A",
       "tags2": null,
-      "updateTime": "07:51",
+      "updateTime": "07:54",
       "stats1": {
         "sb_a1": "5#3#4#5#3#5",
         "sb_a2": "6#2#2#7#2#4",
@@ -570,7 +570,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:51",
+      "updateTime": "07:54",
       "stats1": {
         "sb_a1": "2####2#",
         "sb_a2": "2####5#",
@@ -790,12 +790,18 @@
           "under": " @3.70",
           "x": "@7.90",
           "lineType": "meczowa",
-          "over": " @1.38"
+          "over": " @1.37"
         }
       ],
       "DF_cnt": 9,
       "DF_book_cnt": 3,
       "B": [
+        {
+          "book": "22bet",
+          "under": "- 7.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.80"
+        },
         {
           "book": "22bet",
           "under": "- 3.5 @2.03",
@@ -809,7 +815,7 @@
           "over": "+ 4.5 @2.03"
         }
       ],
-      "B_cnt": 2,
+      "B_cnt": 3,
       "B_book_cnt": 1
     },
     {
@@ -823,7 +829,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:51",
+      "updateTime": "07:54",
       "stats1": {
         "sb_a1": "2###2#3#4",
         "sb_a2": "2###2#4#3",
@@ -922,6 +928,16 @@
           "over": "+ 2.5 @1.60"
         },
         {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.80"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @10.00"
+        },
+        {
           "book": "sb open.",
           "under": "- 1.5 @1.50",
           "lineType": "player1",
@@ -944,6 +960,16 @@
           "over": "+ 1.5 @2.25"
         },
         {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.50"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 4.5 @7.00"
+        },
+        {
           "book": "sb open.",
           "under": "- 1.5 @1.62",
           "lineType": "player2",
@@ -964,6 +990,16 @@
           "book": "betclic",
           "lineType": "player2",
           "over": "+ 1.5 @1.60"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.83"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 4.5 @4.50"
         }
       ],
       "MA": [
@@ -982,8 +1018,8 @@
           "over": " @2.25"
         }
       ],
-      "A_cnt": 12,
-      "A_book_cnt": 4,
+      "A_cnt": 18,
+      "A_book_cnt": 5,
       "DF": [
         {
           "book": "sb open.",
@@ -1048,9 +1084,28 @@
       ],
       "DF_cnt": 9,
       "DF_book_cnt": 3,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "22bet",
+          "under": "- 8.5 @1.61",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @2.03"
+        },
+        {
+          "book": "22bet",
+          "under": "- 3.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.75"
+        },
+        {
+          "book": "22bet",
+          "under": "- 4.5 @2.29",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.48"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "-987057749041341196",
@@ -1063,7 +1118,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:51",
+      "updateTime": "07:54",
       "stats1": {
         "sb_a1": "1##1#1##",
         "sb_a2": "3##2#2##",
@@ -1327,7 +1382,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:51",
+      "updateTime": "07:54",
       "stats1": {
         "sb_a1": "3####",
         "sb_a2": "3####",
