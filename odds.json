@@ -12,7 +12,7 @@
       "atp": false,
       "tags1": "A",
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "4#4#5#3#4#5",
         "sb_a2": "4#2#6#2#2#7",
@@ -123,6 +123,28 @@
           "over": "+ 4.5 @1.52"
         },
         {
+          "book": "fo open.",
+          "under": "- 5.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.96"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.96"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.80"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+14.5 @4.00"
+        },
+        {
           "book": "betfan",
           "under": "- 1.5 @2.35",
           "lineType": "player1",
@@ -163,6 +185,28 @@
           "over": "+ 2.5 @2.00"
         },
         {
+          "book": "fo open.",
+          "under": "- 2.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.71"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.71"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.91"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 9.5 @9.00"
+        },
+        {
           "book": "etoto",
           "under": "- 2.5 @1.65",
           "lineType": "player2",
@@ -170,6 +214,18 @@
         },
         {
           "book": "betters",
+          "under": "- 2.5 @1.63",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.06"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.63",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.06"
+        },
+        {
+          "book": "fortuna",
           "under": "- 2.5 @1.63",
           "lineType": "player2",
           "over": "+ 2.5 @2.06"
@@ -234,11 +290,37 @@
           "x": "@4.40",
           "lineType": "meczowa",
           "over": " @1.97"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.81",
+          "x": "@5.10",
+          "lineType": "meczowa",
+          "over": " @2.70"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.81",
+          "x": "@5.10",
+          "lineType": "meczowa",
+          "over": " @2.70"
         }
       ],
-      "A_cnt": 21,
-      "A_book_cnt": 7,
+      "A_cnt": 31,
+      "A_book_cnt": 9,
       "DF": [
+        {
+          "book": "fo open.",
+          "under": "- 8.5 @1.76",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.89"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.76",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.89"
+        },
         {
           "book": "betfan",
           "under": "- 8.5 @1.93",
@@ -274,6 +356,24 @@
           "under": "- 8.5 @1.80",
           "lineType": "meczowa",
           "over": "+ 8.5 @1.65"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @2.22",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.54"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 5.5 @1.74",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.90"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.74",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.90"
         },
         {
           "book": "betters",
@@ -324,6 +424,18 @@
           "over": "+ 2.5 @1.70"
         },
         {
+          "book": "fo open.",
+          "under": "- 2.5 @2.06",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.63"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @2.06",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.63"
+        },
+        {
           "book": "bc open.",
           "under": "- 2.5 @1.88",
           "lineType": "player2",
@@ -346,6 +458,12 @@
           "under": "- 2.5 @2.09",
           "lineType": "player2",
           "over": "+ 2.5 @1.58"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.55",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.20"
         }
       ],
       "MDF": [
@@ -355,11 +473,31 @@
           "x": "@8.00",
           "lineType": "meczowa",
           "over": " @5.80"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.30",
+          "x": "@6.70",
+          "lineType": "meczowa",
+          "over": " @5.10"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.30",
+          "x": "@6.70",
+          "lineType": "meczowa",
+          "over": " @5.10"
         }
       ],
-      "DF_cnt": 18,
-      "DF_book_cnt": 6,
+      "DF_cnt": 26,
+      "DF_book_cnt": 8,
       "B": [
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.97",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.71"
+        },
         {
           "book": "betclic",
           "under": "- 7.5 @1.55",
@@ -409,8 +547,8 @@
           "over": "+ 4.5 @1.60"
         }
       ],
-      "B_cnt": 8,
-      "B_book_cnt": 3
+      "B_cnt": 9,
+      "B_book_cnt": 4
     },
     {
       "id": "8549661378679608044",
@@ -423,7 +561,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "12#10#14#6#8#8",
         "sb_a2": "16#15#16#5#10#15",
@@ -567,7 +705,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "###4#6#",
         "sb_a2": "###5#5#",
@@ -711,7 +849,7 @@
       "atp": true,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "16#14#12#16#16#13",
         "sb_a2": "15#9#9#10#12#17",
@@ -855,7 +993,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "#4##5#4#3",
         "sb_a2": "#5##6#2#3",
@@ -999,7 +1137,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "16#14#13#8#9#20",
         "sb_a2": "11#5#6#4#5#11",
@@ -1143,7 +1281,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "17#16#15#10#9#11",
         "sb_a2": "6#7#4#9#4#6",
@@ -1414,7 +1552,7 @@
       "atp": false,
       "tags1": null,
       "tags2": "DF",
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "12#14#13#9#8#6",
         "sb_a2": "13#10#6#7#9#4",
@@ -1685,7 +1823,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "6#6#7#6#14#9",
         "sb_a2": "4#8#7#9#8#12",
@@ -1829,7 +1967,7 @@
       "atp": true,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "#####",
         "sb_a2": "#####",
@@ -1973,7 +2111,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "8#7#4#5#4#5",
         "sb_a2": "7#5#6#4#9#3",
@@ -2117,7 +2255,7 @@
       "atp": false,
       "tags1": null,
       "tags2": "A;DF",
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "3#3#2#1#2#",
         "sb_a2": "2#2#1#2#3#",
@@ -2194,13 +2332,13 @@
       },
       "A": [
         {
-          "book": "fo open.",
-          "under": "- 3.5 @1.91",
+          "book": "fortuna",
+          "under": "- 3.5 @1.65",
           "lineType": "meczowa",
-          "over": "+ 3.5 @1.74"
+          "over": "+ 3.5 @2.03"
         },
         {
-          "book": "fortuna",
+          "book": "fo open.",
           "under": "- 3.5 @1.91",
           "lineType": "meczowa",
           "over": "+ 3.5 @1.74"
@@ -2270,6 +2408,11 @@
           "over": "+ 1.5 @1.60"
         },
         {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.38"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 2.5 @2.25"
@@ -2285,6 +2428,12 @@
           "over": "+ 4.5 @7.00"
         },
         {
+          "book": "fortuna",
+          "under": "- 2.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.96"
+        },
+        {
           "book": "etoto",
           "under": "- 2.5 @1.80",
           "lineType": "player2",
@@ -2292,12 +2441,6 @@
         },
         {
           "book": "fo open.",
-          "under": "- 2.5 @1.80",
-          "lineType": "player2",
-          "over": "+ 2.5 @1.84"
-        },
-        {
-          "book": "fortuna",
           "under": "- 2.5 @1.80",
           "lineType": "player2",
           "over": "+ 2.5 @1.84"
@@ -2352,9 +2495,9 @@
         },
         {
           "book": "22bet",
-          "under": " @3.65",
+          "under": " @3.94",
           "lineType": "meczowa",
-          "over": " @1.59"
+          "over": " @1.58"
         },
         {
           "book": "betters",
@@ -2372,13 +2515,13 @@
         },
         {
           "book": "fortuna",
-          "under": " @4.10",
+          "under": " @5.90",
           "x": "@5.00",
           "lineType": "meczowa",
-          "over": " @1.50"
+          "over": " @1.35"
         }
       ],
-      "A_cnt": 25,
+      "A_cnt": 26,
       "A_book_cnt": 9,
       "DF": [
         {
@@ -2603,7 +2746,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "14:00",
+      "updateTime": "14:20",
       "stats1": {
         "sb_a1": "3#2##3#2#2",
         "sb_a2": "3#3##5#1#1",
