@@ -12,7 +12,7 @@
       "atp": false,
       "tags1": "A",
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "4#4#5#3#4#5",
         "sb_a2": "4#2#6#2#2#7",
@@ -94,11 +94,6 @@
           "over": "+ 4.5 @2.00"
         },
         {
-          "book": "betclic",
-          "lineType": "meczowa",
-          "over": "+ 4.5 @2.00"
-        },
-        {
           "book": "betfan",
           "under": "- 4.5 @1.80",
           "lineType": "meczowa",
@@ -115,6 +110,17 @@
           "under": "- 4.5 @1.82",
           "lineType": "meczowa",
           "over": "+ 4.5 @1.82"
+        },
+        {
+          "book": "etoto",
+          "under": "- 4.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.52"
         },
         {
           "book": "betfan",
@@ -141,6 +147,12 @@
           "over": "+ 2.5 @2.24"
         },
         {
+          "book": "etoto",
+          "under": "- 2.5 @1.65",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.10"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 2.5 @2.00"
@@ -149,6 +161,12 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+ 2.5 @2.00"
+        },
+        {
+          "book": "etoto",
+          "under": "- 2.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.10"
         },
         {
           "book": "betters",
@@ -158,11 +176,6 @@
         },
         {
           "book": "bc open.",
-          "lineType": "player2",
-          "over": "+ 2.5 @2.00"
-        },
-        {
-          "book": "betclic",
           "lineType": "player2",
           "over": "+ 2.5 @2.00"
         },
@@ -177,6 +190,11 @@
           "under": "- 2.5 @1.70",
           "lineType": "player2",
           "over": "+ 2.5 @2.00"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.60"
         }
       ],
       "MA": [
@@ -189,10 +207,10 @@
         },
         {
           "book": "betclic",
-          "under": " @2.00",
-          "x": "@4.00",
+          "under": " @2.25",
+          "x": "@4.50",
           "lineType": "meczowa",
-          "over": " @2.00"
+          "over": " @1.70"
         },
         {
           "book": "betters",
@@ -202,8 +220,8 @@
           "over": " @1.97"
         }
       ],
-      "A_cnt": 16,
-      "A_book_cnt": 5,
+      "A_cnt": 19,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "betfan",
@@ -312,7 +330,7 @@
           "book": "betclic",
           "under": "- 7.5 @1.55",
           "lineType": "meczowa",
-          "over": "+ 7.5 @1.95"
+          "over": "+ 7.5 @1.88"
         },
         {
           "book": "betfan",
@@ -353,7 +371,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "12#10#14#6#8#8",
         "sb_a2": "16#15#16#5#10#15",
@@ -487,6 +505,150 @@
       "B_book_cnt": 0
     },
     {
+      "id": "-2038711287496198522",
+      "matchStartTime": "21:50",
+      "tournament": "Puchar Davisa",
+      "weather": "🔆Pogoda , czas lokalny h\n",
+      "eventName": "Liam Draxl - Quentin Halys",
+      "p1": "Liam Draxl",
+      "p2": "Quentin Halys",
+      "atp": false,
+      "tags1": null,
+      "tags2": null,
+      "updateTime": "12:56",
+      "stats1": {
+        "sb_a1": "###4#6#",
+        "sb_a2": "###5#5#",
+        "sb_am": "###8#11#",
+        "sb_df1": "###5#4#",
+        "sb_df2": "###3#5#",
+        "sb_dfm": "###8#8#",
+        "sb_b1": "#####",
+        "sb_b2": "#####",
+        "sb_bm": "#####",
+        "dynamic": {
+          "a": "\n                                                  74% 1. serwis\nost. 6 surf:           2.29/set      74% 1. serwis\nostatnie 12:           2.39/set      70% 1. serwis",
+          "df": "\n                                                  74% 1. serwis\nlast 6 surf:           1.18/set      74% 1. serwis\nlast 12:                 1.21/set      70% 1. serwis\n                               Win              Lost\nlast 6 set              0.5/set      0.75/set\nlast 6 match       0.64/set      0.58/set",
+          "b": "\n                                                  74% 1. serwis\nost. 6 surf:           1.53/set      74% 1. serwis\nlast 12:           1.27/set      70% 1. serwis"
+        },
+        "ace": "12^3#4 #11^3#1^3#11^3#3^3",
+        "ace2": "7^3#0 #4^3#1^3#4^3#3^3",
+        "df": "6^3#2 #5^3#1^3#2^3#8^3",
+        "df2": "6^3#4 #3^3#6^3#5^3#6^3",
+        "b": "4^3#5 #5^3#5^3#3^3#5^3",
+        "b2": "4^3#2 #3^3#6^3#3^3#4^3",
+        "groundType": "H#H#H#H#C#C",
+        "aceAvgPerSet": "2.75",
+        "dfAvgPerSet": "1.25",
+        "secSrvToDf": "7.74",
+        "srvGameToDf": "3.92",
+        "bAvgPerSet": "1.03",
+        "last_aceAvgPerSet": "2.47",
+        "last_dfAvgPerSet": "1.41",
+        "last_secSrvToDf": "6.42",
+        "last_srvGameToDf": "3.94",
+        "last_bAvgPerSet": "1.59",
+        "last6_W_set_dfAvgPerSet": "0.50",
+        "last6_L_set_dfAvgPerSet": "0.75",
+        "last6_W_match_dfAvgPerSet": "0.64",
+        "last6_L_match_dfAvgPerSet": "0.58"
+      },
+      "stats2": {
+        "sb_a1": "17#15#11#9#13#",
+        "sb_a2": "13#6#6#4#4#",
+        "sb_am": "29#21#17#13#17#",
+        "sb_df1": "7#5#3#4#4#",
+        "sb_df2": "6#5#4#3#4#",
+        "sb_dfm": "13#10#7#7#8#",
+        "sb_b1": "#####",
+        "sb_b2": "#####",
+        "sb_bm": "#####",
+        "dynamic": {
+          "a": "\n                                                  64% 1. serwis\nost. 6 surf:           4.63/set      64% 1. serwis\nostatnie 12:           4.84/set      61% 1. serwis",
+          "df": "\n                                                  64% 1. serwis\nlast 6 surf:           1.84/set      64% 1. serwis\nlast 12:                 1.66/set      61% 1. serwis\n                               Win              Lost\nlast 6 set              0.75/set      1.5/set      🔴\nlast 6 match       0.79/set      0.94/set",
+          "b": "\n                                                  64% 1. serwis\nost. 6 surf:           1.05/set      64% 1. serwis\nlast 12:           0.94/set      61% 1. serwis"
+        },
+        "ace": "18^5#18^4#17^3#9^3#12 #14 ",
+        "ace2": "29^5#12^4#5^3#7^3#2 #2 ",
+        "df": "12^5#9^4#6^3#3^3#2 #3 ",
+        "df2": "8^5#7^4#2^3#6^3#2 #2 ",
+        "b": "3^5#6^4#3^3#2^3#3 #3 ",
+        "b2": "5^5#2^4#2^3#1^3#2 #1 ",
+        "groundType": "H#H#H#H#H#H",
+        "aceAvgPerSet": "4.45",
+        "dfAvgPerSet": "1.33",
+        "secSrvToDf": "8.94",
+        "srvGameToDf": "3.74",
+        "bAvgPerSet": "0.75",
+        "last_aceAvgPerSet": "4.63",
+        "last_dfAvgPerSet": "1.84",
+        "last_secSrvToDf": "8.27",
+        "last_srvGameToDf": "3.29",
+        "last_bAvgPerSet": "1.05",
+        "last6_W_set_dfAvgPerSet": "0.75",
+        "last6_L_set_dfAvgPerSet": "1.50",
+        "last6_W_match_dfAvgPerSet": "0.79",
+        "last6_L_match_dfAvgPerSet": "0.94"
+      },
+      "A": [
+        {
+          "book": "bc open.",
+          "lineType": "meczowa",
+          "over": "+20.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+20.5 @1.80"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player1",
+          "over": "+ 6.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+ 6.5 @1.80"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player2",
+          "over": "+13.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player2",
+          "over": "+13.5 @1.80"
+        }
+      ],
+      "MA": [
+        {
+          "book": "bc open.",
+          "under": " @8.00",
+          "x": "@8.00",
+          "lineType": "meczowa",
+          "over": " @1.01"
+        },
+        {
+          "book": "betclic",
+          "under": " @8.00",
+          "x": "@8.00",
+          "lineType": "meczowa",
+          "over": " @1.01"
+        }
+      ],
+      "A_cnt": 6,
+      "A_book_cnt": 2,
+      "DF": null,
+      "MDF": null,
+      "DF_cnt": 0,
+      "DF_book_cnt": 0,
+      "B": null,
+      "B_cnt": 0,
+      "B_book_cnt": 0
+    },
+    {
       "id": "4158644453406722852",
       "matchStartTime": "14:00",
       "tournament": "Puchar Davisa",
@@ -497,7 +659,7 @@
       "atp": true,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "16#14#12#16#16#13",
         "sb_a2": "15#9#9#10#12#17",
@@ -641,7 +803,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "#4##5#4#3",
         "sb_a2": "#5##6#2#3",
@@ -785,7 +947,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "16#14#13#8#9#20",
         "sb_a2": "11#5#6#4#5#11",
@@ -929,7 +1091,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "17#16#15#10#9#11",
         "sb_a2": "6#7#4#9#4#6",
@@ -1034,6 +1196,12 @@
           "over": "+19.5 @1.80"
         },
         {
+          "book": "fortuna",
+          "under": "- 5.5 @1.87",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.77"
+        },
+        {
           "book": "fo open.",
           "under": "- 5.5 @2.01",
           "lineType": "player1",
@@ -1041,15 +1209,9 @@
         },
         {
           "book": "fortuna",
-          "under": "- 5.5 @2.01",
+          "under": "- 6.5 @1.55",
           "lineType": "player1",
-          "over": "+ 5.5 @1.66"
-        },
-        {
-          "book": "fortuna",
-          "under": "- 6.5 @1.64",
-          "lineType": "player1",
-          "over": "+ 6.5 @2.05"
+          "over": "+ 6.5 @2.20"
         },
         {
           "book": "bc open.",
@@ -1200,7 +1362,7 @@
       "atp": false,
       "tags1": null,
       "tags2": "DF",
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "12#14#13#9#8#6",
         "sb_a2": "13#10#6#7#9#4",
@@ -1334,101 +1496,101 @@
       "B_book_cnt": 0
     },
     {
-      "id": "-2038711287496198522",
-      "matchStartTime": "21:50",
-      "tournament": "Puchar Davisa",
+      "id": "5837418904440525014",
+      "matchStartTime": "22:00",
+      "tournament": "Puchar Davisa • Kolejka 4",
       "weather": "🔆Pogoda , czas lokalny h\n",
-      "eventName": "Liam Draxl - Quentin Halys",
-      "p1": "Liam Draxl",
-      "p2": "Quentin Halys",
+      "eventName": "Joao Fonseca - Stan Wawrinka",
+      "p1": "Joao Fonseca",
+      "p2": "Stan Wawrinka",
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
-        "sb_a1": "###4#6#",
-        "sb_a2": "###5#5#",
-        "sb_am": "###8#11#",
-        "sb_df1": "###5#4#",
-        "sb_df2": "###3#5#",
-        "sb_dfm": "###8#8#",
+        "sb_a1": "6#6#7#6#14#9",
+        "sb_a2": "4#8#7#9#8#12",
+        "sb_am": "9#13#13#15#22#21",
+        "sb_df1": "2#2#2#2#3#2",
+        "sb_df2": "5#4#3#4#5#7",
+        "sb_dfm": "8#6#5#5#7#8",
         "sb_b1": "#####",
         "sb_b2": "#####",
         "sb_bm": "#####",
         "dynamic": {
-          "a": "\n                                                  74% 1. serwis\nost. 6 surf:           2.29/set      74% 1. serwis\nostatnie 12:           2.39/set      70% 1. serwis",
-          "df": "\n                                                  74% 1. serwis\nlast 6 surf:           1.18/set      74% 1. serwis\nlast 12:                 1.21/set      70% 1. serwis\n                               Win              Lost\nlast 6 set              0.5/set      0.75/set\nlast 6 match       0.64/set      0.58/set",
-          "b": "\n                                                  74% 1. serwis\nost. 6 surf:           1.53/set      74% 1. serwis\nlast 12:           1.27/set      70% 1. serwis"
+          "a": "\n                                                  69% 1. serwis\nost. 6 surf:           2.46/set      67% 1. serwis\nostatnie 12:           1.97/set      75% 1. serwis",
+          "df": "\n                                                  69% 1. serwis\nlast 6 surf:           0.92/set      67% 1. serwis\nlast 12:                 0.61/set      75% 1. serwis\n                               Win              Lost\nlast 6 set              0.5/set      0.33/set\nlast 6 match       0.34/set      0.38/set",
+          "b": "\n                                                  69% 1. serwis\nost. 6 surf:           1/set      67% 1. serwis\nlast 12:           1/set      75% 1. serwis"
         },
-        "ace": "12^3#4 #11^3#1^3#11^3#3^3",
-        "ace2": "7^3#0 #4^3#1^3#4^3#3^3",
-        "df": "6^3#2 #5^3#1^3#2^3#8^3",
-        "df2": "6^3#4 #3^3#6^3#5^3#6^3",
-        "b": "4^3#5 #5^3#5^3#3^3#5^3",
-        "b2": "4^3#2 #3^3#6^3#3^3#4^3",
-        "groundType": "H#H#H#H#C#C",
-        "aceAvgPerSet": "2.75",
-        "dfAvgPerSet": "1.25",
-        "secSrvToDf": "7.74",
-        "srvGameToDf": "3.92",
-        "bAvgPerSet": "1.03",
-        "last_aceAvgPerSet": "2.47",
-        "last_dfAvgPerSet": "1.41",
-        "last_secSrvToDf": "6.42",
-        "last_srvGameToDf": "3.94",
-        "last_bAvgPerSet": "1.59",
+        "ace": "2 #0 #5 #8 #4^3#12^3",
+        "ace2": "4 #5 #3 #7 #1^3#8^3",
+        "df": "2 #3 #2 #2 #1^3#3^3",
+        "df2": "8 #1 #7 #4 #0^3#4^3",
+        "b": "3 #2 #2 #3 #0^3#5^3",
+        "b2": "2 #3 #1 #2 #4^3#1^3",
+        "groundType": "H#H#H#H#G#G",
+        "aceAvgPerSet": "2.22",
+        "dfAvgPerSet": "0.65",
+        "secSrvToDf": "7.70",
+        "srvGameToDf": "4.06",
+        "bAvgPerSet": "0.94",
+        "last_aceAvgPerSet": "2.21",
+        "last_dfAvgPerSet": "0.93",
+        "last_secSrvToDf": "9.64",
+        "last_srvGameToDf": "4.57",
+        "last_bAvgPerSet": "1.07",
         "last6_W_set_dfAvgPerSet": "0.50",
-        "last6_L_set_dfAvgPerSet": "0.75",
-        "last6_W_match_dfAvgPerSet": "0.64",
-        "last6_L_match_dfAvgPerSet": "0.58"
+        "last6_L_set_dfAvgPerSet": "0.33",
+        "last6_W_match_dfAvgPerSet": "0.34",
+        "last6_L_match_dfAvgPerSet": "0.38"
       },
       "stats2": {
-        "sb_a1": "17#15#11#9#13#",
-        "sb_a2": "13#6#6#4#4#",
-        "sb_am": "29#21#17#13#17#",
-        "sb_df1": "7#5#3#4#4#",
-        "sb_df2": "6#5#4#3#4#",
-        "sb_dfm": "13#10#7#7#8#",
-        "sb_b1": "#####",
-        "sb_b2": "#####",
-        "sb_bm": "#####",
+        "sb_a1": "10#5#7#11#8#5",
+        "sb_a2": "14#3#7#16#7#4",
+        "sb_am": "23#7#13#26#15#9",
+        "sb_df1": "4#3#3#4#4#3",
+        "sb_df2": "3#4#6#3#5#3",
+        "sb_dfm": "7#7#9#6#8#5",
+        "sb_b1": "#####2",
+        "sb_b2": "#####3",
+        "sb_bm": "#####4",
         "dynamic": {
-          "a": "\n                                                  64% 1. serwis\nost. 6 surf:           4.63/set      64% 1. serwis\nostatnie 12:           4.84/set      61% 1. serwis",
-          "df": "\n                                                  64% 1. serwis\nlast 6 surf:           1.84/set      64% 1. serwis\nlast 12:                 1.66/set      61% 1. serwis\n                               Win              Lost\nlast 6 set              0.75/set      1.5/set      🔴\nlast 6 match       0.79/set      0.94/set",
-          "b": "\n                                                  64% 1. serwis\nost. 6 surf:           1.05/set      64% 1. serwis\nlast 12:           0.94/set      61% 1. serwis"
+          "a": "\n                                                  66% 1. serwis\nost. 6 surf:           2.77/set      55% 1. serwis\nostatnie 12:           3.03/set      60% 1. serwis",
+          "df": "\n                                                  66% 1. serwis\nlast 6 surf:           1.54/set      55% 1. serwis\nlast 12:                 1.21/set      60% 1. serwis\n                               Win              Lost\nlast 6 set              0.5/set      0.58/set\nlast 6 match       0.46/set      0.59/set",
+          "b": "\n                                                  66% 1. serwis\nost. 6 surf:           0.77/set      55% 1. serwis\nlast 12:           0.76/set      60% 1. serwis"
         },
-        "ace": "18^5#18^4#17^3#9^3#12 #14 ",
-        "ace2": "29^5#12^4#5^3#7^3#2 #2 ",
-        "df": "12^5#9^4#6^3#3^3#2 #3 ",
-        "df2": "8^5#7^4#2^3#6^3#2 #2 ",
-        "b": "3^5#6^4#3^3#2^3#3 #3 ",
-        "b2": "5^5#2^4#2^3#1^3#2 #1 ",
-        "groundType": "H#H#H#H#H#H",
-        "aceAvgPerSet": "4.45",
-        "dfAvgPerSet": "1.33",
-        "secSrvToDf": "8.94",
-        "srvGameToDf": "3.74",
-        "bAvgPerSet": "0.75",
-        "last_aceAvgPerSet": "4.63",
-        "last_dfAvgPerSet": "1.84",
-        "last_secSrvToDf": "8.27",
-        "last_srvGameToDf": "3.29",
-        "last_bAvgPerSet": "1.05",
-        "last6_W_set_dfAvgPerSet": "0.75",
-        "last6_L_set_dfAvgPerSet": "1.50",
-        "last6_W_match_dfAvgPerSet": "0.79",
-        "last6_L_match_dfAvgPerSet": "0.94"
+        "ace": "7^3#4^3#16^3#18^4#11^4#9 ",
+        "ace2": "13^3#3^3#14^3#29^4#10^4#5 ",
+        "df": "6^3#3^3#2^3#7^4#2^4#2 ",
+        "df2": "3^3#4^3#8^3#4^4#4^4#4 ",
+        "b": "2^3#5^3#0^3#1^4#2^4#2 ",
+        "b2": "5^3#7^3#2^3#1^4#4^4#2 ",
+        "groundType": "H#C#C#G#C#C",
+        "aceAvgPerSet": "3.21",
+        "dfAvgPerSet": "0.88",
+        "secSrvToDf": "9.00",
+        "srvGameToDf": "3.56",
+        "bAvgPerSet": "0.73",
+        "last_aceAvgPerSet": "3.42",
+        "last_dfAvgPerSet": "1.16",
+        "last_secSrvToDf": "10.36",
+        "last_srvGameToDf": "4.34",
+        "last_bAvgPerSet": "0.63",
+        "last6_W_set_dfAvgPerSet": "0.50",
+        "last6_L_set_dfAvgPerSet": "0.58",
+        "last6_W_match_dfAvgPerSet": "0.46",
+        "last6_L_match_dfAvgPerSet": "0.59"
       },
       "A": [
         {
           "book": "bc open.",
           "lineType": "meczowa",
-          "over": "+20.5 @1.80"
+          "over": "+14.5 @1.80"
         },
         {
           "book": "betclic",
           "lineType": "meczowa",
-          "over": "+20.5 @1.80"
+          "over": "+14.5 @1.80"
         },
         {
           "book": "bc open.",
@@ -1443,28 +1605,28 @@
         {
           "book": "bc open.",
           "lineType": "player2",
-          "over": "+13.5 @1.80"
+          "over": "+ 7.5 @1.80"
         },
         {
           "book": "betclic",
           "lineType": "player2",
-          "over": "+13.5 @1.80"
+          "over": "+ 7.5 @1.80"
         }
       ],
       "MA": [
         {
           "book": "bc open.",
-          "under": " @8.00",
+          "under": " @2.00",
           "x": "@8.00",
           "lineType": "meczowa",
-          "over": " @1.01"
+          "over": " @1.60"
         },
         {
           "book": "betclic",
-          "under": " @8.00",
+          "under": " @2.00",
           "x": "@8.00",
           "lineType": "meczowa",
-          "over": " @1.01"
+          "over": " @1.60"
         }
       ],
       "A_cnt": 6,
@@ -1479,7 +1641,7 @@
     },
     {
       "id": "8920103660063223284",
-      "matchStartTime": "13:10",
+      "matchStartTime": "13:25",
       "tournament": "Puchar Davisa • Kolejka 4",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Holger Rune - Grigor Dimitrov",
@@ -1488,7 +1650,7 @@
       "atp": true,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "#####",
         "sb_a2": "#####",
@@ -1622,6 +1784,150 @@
       "B_book_cnt": 0
     },
     {
+      "id": "-4694554531158177682",
+      "matchStartTime": "06:10",
+      "tournament": "Puchar Davisa • Kolejka 4",
+      "weather": "🔆Pogoda , czas lokalny h\n",
+      "eventName": "Alex De Minaur - Kamil Majchrzak",
+      "p1": "Alex De Minaur",
+      "p2": "Kamil Majchrzak",
+      "atp": false,
+      "tags1": null,
+      "tags2": null,
+      "updateTime": "12:56",
+      "stats1": {
+        "sb_a1": "8#7#4#5#4#5",
+        "sb_a2": "7#5#6#4#9#3",
+        "sb_am": "15#11#9#9#13#8",
+        "sb_df1": "6#3#4#4#3#3",
+        "sb_df2": "9#6#3#3#4#2",
+        "sb_dfm": "14#9#6#6#7#5",
+        "sb_b1": "#####",
+        "sb_b2": "#####",
+        "sb_bm": "#####",
+        "dynamic": {
+          "a": "\n                                                  54% 1. serwis\nost. 6 surf:           2/set      54% 1. serwis\nostatnie 12:           1.91/set      60% 1. serwis",
+          "df": "\n                                                  54% 1. serwis\nlast 6 surf:           1.81/set      54% 1. serwis\nlast 12:                 1.63/set      60% 1. serwis\n                               Win              Lost\nlast 6 set              0.83/set      1/set\nlast 6 match       0.9/set      0.77/set",
+          "b": "\n                                                  54% 1. serwis\nost. 6 surf:           1/set      54% 1. serwis\nlast 12:           1.25/set      60% 1. serwis"
+        },
+        "ace": "4^3#5^3#4 #9 #7^3#3^3",
+        "ace2": "9^3#2^3#2 #5 #9^3#7^3",
+        "df": "7^3#5^3#3 #3 #6^3#5^3",
+        "df2": "4^3#3^3#2 #3 #3^3#3^3",
+        "b": "1^3#6^3#0 #3 #1^3#5^3",
+        "b2": "5^3#1^3#2 #2 #2^3#7^3",
+        "groundType": "H#H#H#H#H#H",
+        "aceAvgPerSet": "1.59",
+        "dfAvgPerSet": "1.15",
+        "secSrvToDf": "8.97",
+        "srvGameToDf": "3.51",
+        "bAvgPerSet": "1.31",
+        "last_aceAvgPerSet": "2.00",
+        "last_dfAvgPerSet": "1.81",
+        "last_secSrvToDf": "8.99",
+        "last_srvGameToDf": "3.16",
+        "last_bAvgPerSet": "1.00",
+        "last6_W_set_dfAvgPerSet": "0.83",
+        "last6_L_set_dfAvgPerSet": "1.00",
+        "last6_W_match_dfAvgPerSet": "0.90",
+        "last6_L_match_dfAvgPerSet": "0.77"
+      },
+      "stats2": {
+        "sb_a1": "15#16#7#6#6#5",
+        "sb_a2": "21#17#9#6#8#13",
+        "sb_am": "35#33#15#12#13#18",
+        "sb_df1": "5#4#2#3#2#2",
+        "sb_df2": "6#7#4#2#5#2",
+        "sb_dfm": "10#11#6#4#7#4",
+        "sb_b1": "#####",
+        "sb_b2": "#####",
+        "sb_bm": "#####",
+        "dynamic": {
+          "a": "\n                                                  58% 1. serwis\nost. 6 surf:           3.13/set      58% 1. serwis\nostatnie 12:           2.97/set      64% 1. serwis",
+          "df": "\n                                                  58% 1. serwis\nlast 6 surf:           1.4/set      58% 1. serwis\nlast 12:                 0.94/set      64% 1. serwis\n                               Win              Lost\nlast 6 set              0.58/set      0.75/set\nlast 6 match       0.28/set      0.63/set",
+          "b": "\n                                                  58% 1. serwis\nost. 6 surf:           0.93/set      58% 1. serwis\nlast 12:           0.94/set      64% 1. serwis"
+        },
+        "ace": "8^4#13^3#6 #13 #1 #6 ",
+        "ace2": "17^4#7^3#4 #11 #8 #14 ",
+        "df": "7^4#4^3#3 #2 #3 #2 ",
+        "df2": "12^4#6^3#9 #3 #6 #3 ",
+        "b": "5^4#4^3#2 #1 #2 #0 ",
+        "b2": "7^4#0^3#3 #2 #4 #2 ",
+        "groundType": "H#H#H#H#H#H",
+        "aceAvgPerSet": "2.79",
+        "dfAvgPerSet": "0.73",
+        "secSrvToDf": "9.92",
+        "srvGameToDf": "4.25",
+        "bAvgPerSet": "1.01",
+        "last_aceAvgPerSet": "3.13",
+        "last_dfAvgPerSet": "1.40",
+        "last_secSrvToDf": "10.22",
+        "last_srvGameToDf": "3.54",
+        "last_bAvgPerSet": "0.93",
+        "last6_W_set_dfAvgPerSet": "0.58",
+        "last6_L_set_dfAvgPerSet": "0.75",
+        "last6_W_match_dfAvgPerSet": "0.28",
+        "last6_L_match_dfAvgPerSet": "0.63"
+      },
+      "A": [
+        {
+          "book": "bc open.",
+          "lineType": "meczowa",
+          "over": "+13.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+13.5 @1.80"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player1",
+          "over": "+ 6.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+ 6.5 @1.80"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.80"
+        }
+      ],
+      "MA": [
+        {
+          "book": "bc open.",
+          "under": " @1.80",
+          "x": "@8.00",
+          "lineType": "meczowa",
+          "over": " @1.80"
+        },
+        {
+          "book": "betclic",
+          "under": " @1.80",
+          "x": "@8.00",
+          "lineType": "meczowa",
+          "over": " @1.80"
+        }
+      ],
+      "A_cnt": 6,
+      "A_book_cnt": 2,
+      "DF": null,
+      "MDF": null,
+      "DF_cnt": 0,
+      "DF_book_cnt": 0,
+      "B": null,
+      "B_cnt": 0,
+      "B_book_cnt": 0
+    },
+    {
       "id": "-632841306155655188",
       "matchStartTime": "19:10",
       "tournament": "Sao Paulo WTA • Półfinał",
@@ -1632,7 +1938,7 @@
       "atp": false,
       "tags1": null,
       "tags2": "A;DF",
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "3#3#2#1#2#",
         "sb_a2": "2#2#1#2#3#",
@@ -2009,7 +2315,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:18",
+      "updateTime": "12:56",
       "stats1": {
         "sb_a1": "3#2##3#2#2",
         "sb_a2": "3#3##5#1#1",
