@@ -12,7 +12,7 @@
       "atp": false,
       "tags1": "A",
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "4#4#5#3#4#5",
         "sb_a2": "4#2#6#2#2#7",
@@ -113,14 +113,24 @@
         },
         {
           "book": "etoto",
-          "under": "- 4.5 @1.90",
+          "under": "- 4.5 @1.95",
           "lineType": "meczowa",
-          "over": "+ 4.5 @1.80"
+          "over": "+ 4.5 @1.75"
         },
         {
           "book": "betclic",
           "lineType": "meczowa",
           "over": "+ 4.5 @1.52"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.80"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+14.5 @4.00"
         },
         {
           "book": "betfan",
@@ -147,12 +157,6 @@
           "over": "+ 2.5 @2.24"
         },
         {
-          "book": "etoto",
-          "under": "- 2.5 @1.65",
-          "lineType": "player1",
-          "over": "+ 2.5 @2.10"
-        },
-        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 2.5 @2.00"
@@ -161,6 +165,22 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+ 2.5 @2.00"
+        },
+        {
+          "book": "etoto",
+          "under": "- 2.5 @1.72",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.00"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.91"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 9.5 @9.00"
         },
         {
           "book": "etoto",
@@ -195,6 +215,16 @@
           "book": "betclic",
           "lineType": "player2",
           "over": "+ 2.5 @1.60"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.62"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 9.5 @6.50"
         }
       ],
       "MA": [
@@ -213,6 +243,12 @@
           "over": " @1.70"
         },
         {
+          "book": "22bet",
+          "under": " @2.50",
+          "lineType": "meczowa",
+          "over": " @2.02"
+        },
+        {
           "book": "betters",
           "under": " @2.28",
           "x": "@4.40",
@@ -220,8 +256,8 @@
           "over": " @1.97"
         }
       ],
-      "A_cnt": 19,
-      "A_book_cnt": 6,
+      "A_cnt": 25,
+      "A_book_cnt": 7,
       "DF": [
         {
           "book": "betfan",
@@ -242,6 +278,12 @@
           "over": "+ 8.5 @1.73"
         },
         {
+          "book": "22bet",
+          "under": "- 8.5 @1.91",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.70"
+        },
+        {
           "book": "bc open.",
           "under": "- 8.5 @1.80",
           "lineType": "meczowa",
@@ -258,6 +300,12 @@
           "under": "- 5.5 @1.92",
           "lineType": "player1",
           "over": "+ 5.5 @1.73"
+        },
+        {
+          "book": "22bet",
+          "under": "- 5.5 @1.90",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.71"
         },
         {
           "book": "betfan",
@@ -312,6 +360,12 @@
           "under": "- 2.5 @2.12",
           "lineType": "player2",
           "over": "+ 2.5 @1.60"
+        },
+        {
+          "book": "22bet",
+          "under": "- 2.5 @2.09",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.58"
         }
       ],
       "MDF": [
@@ -323,8 +377,8 @@
           "over": " @5.80"
         }
       ],
-      "DF_cnt": 15,
-      "DF_book_cnt": 5,
+      "DF_cnt": 18,
+      "DF_book_cnt": 6,
       "B": [
         {
           "book": "betclic",
@@ -333,10 +387,22 @@
           "over": "+ 7.5 @1.88"
         },
         {
+          "book": "22bet",
+          "under": "- 8.5 @1.86",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.74"
+        },
+        {
           "book": "betfan",
           "under": "- 2.5 @1.92",
           "lineType": "player1",
           "over": "+ 2.5 @1.75"
+        },
+        {
+          "book": "22bet",
+          "under": "- 2.5 @2.04",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.61"
         },
         {
           "book": "betclic",
@@ -351,14 +417,20 @@
           "over": "+ 4.5 @1.70"
         },
         {
+          "book": "22bet",
+          "under": "- 4.5 @1.95",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.67"
+        },
+        {
           "book": "betclic",
           "under": "- 4.5 @1.88",
           "lineType": "player2",
           "over": "+ 4.5 @1.60"
         }
       ],
-      "B_cnt": 5,
-      "B_book_cnt": 2
+      "B_cnt": 8,
+      "B_book_cnt": 3
     },
     {
       "id": "8549661378679608044",
@@ -371,7 +443,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "12#10#14#6#8#8",
         "sb_a2": "16#15#16#5#10#15",
@@ -515,7 +587,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "###4#6#",
         "sb_a2": "###5#5#",
@@ -659,7 +731,7 @@
       "atp": true,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "16#14#12#16#16#13",
         "sb_a2": "15#9#9#10#12#17",
@@ -803,7 +875,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "#4##5#4#3",
         "sb_a2": "#5##6#2#3",
@@ -947,7 +1019,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "16#14#13#8#9#20",
         "sb_a2": "11#5#6#4#5#11",
@@ -1091,7 +1163,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "17#16#15#10#9#11",
         "sb_a2": "6#7#4#9#4#6",
@@ -1362,7 +1434,7 @@
       "atp": false,
       "tags1": null,
       "tags2": "DF",
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "12#14#13#9#8#6",
         "sb_a2": "13#10#6#7#9#4",
@@ -1506,7 +1578,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "6#6#7#6#14#9",
         "sb_a2": "4#8#7#9#8#12",
@@ -1650,7 +1722,7 @@
       "atp": true,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "#####",
         "sb_a2": "#####",
@@ -1794,7 +1866,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "8#7#4#5#4#5",
         "sb_a2": "7#5#6#4#9#3",
@@ -1931,14 +2003,14 @@
       "id": "-632841306155655188",
       "matchStartTime": "19:10",
       "tournament": "Sao Paulo WTA • Półfinał",
-      "weather": "🔆Pogoda Sao Paulo, czas lokalny -5h\n20:00 🌡 25°C / 28°C💧 57 %  💨  2 (max 17) km/h 🌧 51 % 0 mm\n21:00 🌡 25°C / 27°C💧 58 %  💨  2 (max 14) km/h 🌧 53 % 0 mm\n22:00 🌡 25°C / 26°C💧 60 %  💨  6 (max 17) km/h 🌧 49 % 0 mm",
+      "weather": "🔆Pogoda Sao Paulo, czas lokalny -5h\n20:00 🌡 25°C / 28°C💧 57 %  💨  2 (max 17) km/h 🌧 78 % 0 mm\n21:00 🌡 25°C / 27°C💧 58 %  💨  2 (max 14) km/h 🌧 74 % 0 mm\n22:00 🌡 25°C / 26°C💧 60 %  💨  6 (max 17) km/h 🌧 58 % 0 mm",
       "eventName": "Nadia Podoroska - Paula Badosa",
       "p1": "Nadia Podoroska",
       "p2": "Paula Badosa",
       "atp": false,
       "tags1": null,
       "tags2": "A;DF",
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "3#3#2#1#2#",
         "sb_a2": "2#2#1#2#3#",
@@ -2015,6 +2087,12 @@
       },
       "A": [
         {
+          "book": "etoto",
+          "under": "- 4.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.95"
+        },
+        {
           "book": "betters",
           "under": "- 4.5 @1.73",
           "lineType": "meczowa",
@@ -2051,6 +2129,12 @@
           "book": "22bet",
           "lineType": "meczowa",
           "over": "+ 9.5 @6.00"
+        },
+        {
+          "book": "etoto",
+          "under": "- 1.5 @1.65",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.10"
         },
         {
           "book": "betfan",
@@ -2102,6 +2186,12 @@
           "over": "+ 2.5 @1.50"
         },
         {
+          "book": "etoto",
+          "under": "- 3.5 @1.55",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.30"
+        },
+        {
           "book": "bc open.",
           "lineType": "player2",
           "over": "+ 3.5 @1.80"
@@ -2146,8 +2236,8 @@
           "over": " @1.51"
         }
       ],
-      "A_cnt": 19,
-      "A_book_cnt": 6,
+      "A_cnt": 22,
+      "A_book_cnt": 7,
       "DF": [
         {
           "book": "betfan",
@@ -2308,14 +2398,14 @@
       "id": "-6562483208575236012",
       "matchStartTime": "18:00",
       "tournament": "Sao Paulo WTA • Półfinał",
-      "weather": "🔆Pogoda Sao Paulo, czas lokalny -5h\n18:00 🌡 24°C / 27°C💧 59 %  💨  5 (max 23) km/h 🌧 17 % 0 mm\n19:00 🌡 25°C / 28°C💧 58 %  💨  4 (max 17) km/h 🌧 37 % 0 mm\n20:00 🌡 25°C / 28°C💧 57 %  💨  2 (max 17) km/h 🌧 51 % 0 mm",
+      "weather": "🔆Pogoda Sao Paulo, czas lokalny -5h\n18:00 🌡 24°C / 27°C💧 59 %  💨  5 (max 23) km/h 🌧 24 % 0 mm\n19:00 🌡 25°C / 28°C💧 58 %  💨  4 (max 17) km/h 🌧 58 % 0 mm\n20:00 🌡 25°C / 28°C💧 57 %  💨  2 (max 17) km/h 🌧 78 % 0 mm",
       "eventName": "Kaitlin Quevedo - Anna Blinkova",
       "p1": "Kaitlin Quevedo",
       "p2": "Anna Blinkova",
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "12:56",
+      "updateTime": "13:15",
       "stats1": {
         "sb_a1": "3#2##3#2#2",
         "sb_a2": "3#3##5#1#1",
