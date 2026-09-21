@@ -12,7 +12,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "3#3#2##3#2",
         "sb_a2": "2#3#3##5#1",
@@ -117,6 +117,12 @@
           "over": "+ 2.5 @1.39"
         },
         {
+          "book": "betters",
+          "under": "- 3.5 @1.60",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @2.12"
+        },
+        {
           "book": "fortuna",
           "under": "- 3.5 @1.62",
           "lineType": "meczowa",
@@ -143,6 +149,12 @@
         {
           "book": "sb open.",
           "under": "- 3.5 @1.74",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.95"
+        },
+        {
+          "book": "sts",
+          "under": "- 3.5 @1.75",
           "lineType": "meczowa",
           "over": "+ 3.5 @1.95"
         },
@@ -193,10 +205,22 @@
           "over": "+ 1.5 @1.95"
         },
         {
+          "book": "sts",
+          "under": "- 1.5 @1.75",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.95"
+        },
+        {
           "book": "superbet",
           "under": "- 1.5 @1.73",
           "lineType": "player1",
           "over": "+ 1.5 @1.95"
+        },
+        {
+          "book": "betters",
+          "under": "- 1.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.79"
         },
         {
           "book": "22bet",
@@ -256,6 +280,12 @@
           "over": "+ 1.5 @1.90"
         },
         {
+          "book": "betters",
+          "under": "- 1.5 @1.75",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.90"
+        },
+        {
           "book": "22bet",
           "under": "- 1.5 @1.72",
           "lineType": "player2",
@@ -298,6 +328,12 @@
           "over": "+ 1.5 @1.61"
         },
         {
+          "book": "sts",
+          "under": "- 1.5 @2.15",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.60"
+        },
+        {
           "book": "superbet",
           "under": "- 1.5 @2.12",
           "lineType": "player2",
@@ -332,6 +368,13 @@
           "over": " @2.50"
         },
         {
+          "book": "betters",
+          "under": " @2.08",
+          "x": "@3.65",
+          "lineType": "meczowa",
+          "over": " @2.36"
+        },
+        {
           "book": "superbet",
           "under": " @2.82",
           "x": "@3.75",
@@ -360,9 +403,15 @@
           "over": " @2.20"
         }
       ],
-      "A_cnt": 38,
-      "A_book_cnt": 10,
+      "A_cnt": 44,
+      "A_book_cnt": 12,
       "DF": [
+        {
+          "book": "sts",
+          "under": "- 8.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.85"
+        },
         {
           "book": "sb open.",
           "under": "- 8.5 @2.00",
@@ -436,6 +485,12 @@
           "over": "+10.5 @1.76"
         },
         {
+          "book": "betters",
+          "under": "-10.5 @1.92",
+          "lineType": "meczowa",
+          "over": "+10.5 @1.73"
+        },
+        {
           "book": "22bet",
           "under": "-10.5 @1.90",
           "lineType": "meczowa",
@@ -496,6 +551,12 @@
           "over": "+ 3.5 @1.61"
         },
         {
+          "book": "betters",
+          "under": "- 3.5 @2.18",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.57"
+        },
+        {
           "book": "22bet",
           "under": "- 3.5 @2.15",
           "lineType": "player1",
@@ -506,6 +567,12 @@
           "under": "- 4.5 @1.56",
           "lineType": "player1",
           "over": "+ 4.5 @2.20"
+        },
+        {
+          "book": "sts",
+          "under": "- 4.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 4.5 @2.00"
         },
         {
           "book": "etoto",
@@ -524,6 +591,12 @@
           "under": "- 3.5 @2.25",
           "lineType": "player2",
           "over": "+ 3.5 @1.53"
+        },
+        {
+          "book": "sts",
+          "under": "- 4.5 @1.95",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.75"
         },
         {
           "book": "etoto",
@@ -574,6 +647,12 @@
           "over": "+ 5.5 @1.42"
         },
         {
+          "book": "betters",
+          "under": "- 6.5 @1.87",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.77"
+        },
+        {
           "book": "22bet",
           "under": "- 6.5 @1.85",
           "lineType": "player2",
@@ -593,6 +672,13 @@
         }
       ],
       "MDF": [
+        {
+          "book": "betters",
+          "under": " @4.50",
+          "x": "@7.80",
+          "lineType": "meczowa",
+          "over": " @1.21"
+        },
         {
           "book": "superbet",
           "under": " @4.85",
@@ -622,8 +708,8 @@
           "over": " @1.47"
         }
       ],
-      "DF_cnt": 38,
-      "DF_book_cnt": 10,
+      "DF_cnt": 44,
+      "DF_book_cnt": 12,
       "B": [
         {
           "book": "22bet",
@@ -633,6 +719,12 @@
         },
         {
           "book": "etoto",
+          "under": "- 7.5 @2.10",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.65"
+        },
+        {
+          "book": "sts",
           "under": "- 7.5 @2.10",
           "lineType": "meczowa",
           "over": "+ 7.5 @1.65"
@@ -668,6 +760,12 @@
           "over": "+ 4.5 @1.87"
         },
         {
+          "book": "sts",
+          "under": "- 4.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.85"
+        },
+        {
           "book": "betclic",
           "under": "- 4.5 @1.72",
           "lineType": "player1",
@@ -692,14 +790,20 @@
           "over": "+ 3.5 @1.62"
         },
         {
+          "book": "sts",
+          "under": "- 3.5 @2.15",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.60"
+        },
+        {
           "book": "betclic",
           "under": "- 3.5 @2.05",
           "lineType": "player2",
           "over": "+ 3.5 @1.50"
         }
       ],
-      "B_cnt": 12,
-      "B_book_cnt": 5
+      "B_cnt": 15,
+      "B_book_cnt": 6
     },
     {
       "id": "4965127337619428429",
@@ -712,7 +816,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "1#2#2###2",
         "sb_a2": "5#2#5###4",
@@ -1002,7 +1106,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "1#2##2#1#",
         "sb_a2": "7#3##1#1#",
@@ -1314,7 +1418,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "4#4####5",
         "sb_a2": "7#4####1",
@@ -1589,7 +1693,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "3#2##3##3",
         "sb_a2": "2#1##5##3",
@@ -1849,7 +1953,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "2##3#3#3#",
         "sb_a2": "5##4#3#3#",
@@ -2124,7 +2228,7 @@
       "atp": false,
       "tags1": "A",
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "3#5#5###3",
         "sb_a2": "4#4#1###2",
@@ -2384,7 +2488,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": null,
         "sb_a2": null,
@@ -2680,7 +2784,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "##1###2",
         "sb_a2": "##5###4",
@@ -2940,7 +3044,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "2#2#1#2#4#1",
         "sb_a2": "3#1#4#3#2#2",
@@ -3200,7 +3304,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "3#4#6#5#4#6",
         "sb_a2": "4#4#8#2#3#2",
@@ -3460,7 +3564,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "1#1###1#2",
         "sb_a2": "2#3###4#2",
@@ -3720,7 +3824,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "2#2##1#1#",
         "sb_a2": "5#7##6#4#",
@@ -3980,7 +4084,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": null,
         "sb_a2": null,
@@ -4255,7 +4359,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "5#7#4#4#4#4",
         "sb_a2": "5#6#4#4#1#5",
@@ -4501,7 +4605,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "5#4#5#3#4#3",
         "sb_a2": "2#1#5#3#3#2",
@@ -4747,7 +4851,7 @@
       "atp": false,
       "tags1": "DF",
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "2#2#2#2#2#",
         "sb_a2": "4#2#6#4#3#",
@@ -5008,7 +5112,7 @@
       "atp": false,
       "tags1": null,
       "tags2": "DF",
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "4#5#2#4#3#3",
         "sb_a2": "2#5#2#2#3#1",
@@ -5254,7 +5358,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "##5#4#5#",
         "sb_a2": "##4#2#3#",
@@ -5611,7 +5715,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "1####2#",
         "sb_a2": "4####3#",
@@ -5892,7 +5996,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "6#6#4#5#6#6",
         "sb_a2": "7#8#7#7#1#5",
@@ -6153,7 +6257,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": "#",
         "sb_a2": "#",
@@ -6434,7 +6538,7 @@
       "atp": false,
       "tags1": null,
       "tags2": null,
-      "updateTime": "07:21",
+      "updateTime": "07:23",
       "stats1": {
         "sb_a1": null,
         "sb_a2": null,
