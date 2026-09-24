@@ -3,7 +3,7 @@
   "odds": [
     {
       "id": "8502004280630543474",
-      "matchStartTime": "10:20",
+      "matchStartTime": "11:20",
       "tournament": "Chengdu ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Alexander Shevchenko - Hubert Hurkacz",
@@ -112,6 +112,18 @@
           "over": "+17.5 @1.85"
         },
         {
+          "book": "fo open.",
+          "under": "-17.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+17.5 @1.84"
+        },
+        {
+          "book": "fortuna",
+          "under": "-17.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+17.5 @1.84"
+        },
+        {
           "book": "etoto",
           "under": "-17.5 @1.90",
           "lineType": "meczowa",
@@ -165,6 +177,18 @@
           "under": "- 4.5 @1.95",
           "lineType": "player1",
           "over": "+ 4.5 @1.75"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 4.5 @1.96",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.70"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.96",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.70"
         },
         {
           "book": "fuksiarz",
@@ -246,6 +270,18 @@
           "over": "+12.5 @1.92"
         },
         {
+          "book": "fo open.",
+          "under": "-12.5 @1.84",
+          "lineType": "player2",
+          "over": "+12.5 @1.80"
+        },
+        {
+          "book": "fortuna",
+          "under": "-12.5 @1.84",
+          "lineType": "player2",
+          "over": "+12.5 @1.80"
+        },
+        {
           "book": "bc open.",
           "lineType": "player2",
           "over": "+14.5 @1.80"
@@ -299,17 +335,25 @@
           "x": "@20.00",
           "lineType": "meczowa",
           "over": " @1.01"
+        },
+        {
+          "book": "fo open.",
+          "under": " @19.00",
+          "x": "@15.00",
+          "lineType": "meczowa",
+          "over": " @1.01"
+        },
+        {
+          "book": "fortuna",
+          "under": " @19.00",
+          "x": "@15.00",
+          "lineType": "meczowa",
+          "over": " @1.01"
         }
       ],
-      "A_cnt": 33,
-      "A_book_cnt": 12,
+      "A_cnt": 39,
+      "A_book_cnt": 14,
       "DF": [
-        {
-          "book": "forbet",
-          "under": "- 3.5 @2.00",
-          "lineType": "meczowa",
-          "over": "+ 3.5 @1.70"
-        },
         {
           "book": "betters",
           "under": "- 3.5 @2.04",
@@ -335,10 +379,28 @@
           "over": "+ 4.5 @2.02"
         },
         {
+          "book": "fo open.",
+          "under": "- 4.5 @1.95",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.71"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.95",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.71"
+        },
+        {
           "book": "superbet",
           "under": "- 4.5 @2.12",
           "lineType": "meczowa",
           "over": "+ 4.5 @1.63"
+        },
+        {
+          "book": "forbet",
+          "under": "- 5.5 @1.77",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.90"
         },
         {
           "book": "fuksiarz",
@@ -351,6 +413,18 @@
           "under": "- 1.5 @2.42",
           "lineType": "player1",
           "over": "+ 1.5 @1.49"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.84",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.80"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.84",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.80"
         },
         {
           "book": "superbet",
@@ -375,6 +449,18 @@
           "under": "- 2.5 @1.53",
           "lineType": "player2",
           "over": "+ 2.5 @2.30"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.61",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.09"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.61",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.09"
         }
       ],
       "MDF": [
@@ -404,13 +490,34 @@
           "x": "@4.15",
           "lineType": "meczowa",
           "over": " @2.20"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.94",
+          "x": "@5.00",
+          "lineType": "meczowa",
+          "over": " @2.50"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.94",
+          "x": "@5.00",
+          "lineType": "meczowa",
+          "over": " @2.50"
         }
       ],
-      "DF_cnt": 12,
-      "DF_book_cnt": 6,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "DF_cnt": 18,
+      "DF_book_cnt": 8,
+      "B": [
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.61",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @2.12"
+        }
+      ],
+      "B_cnt": 1,
+      "B_book_cnt": 1
     },
     {
       "id": "2806065392386475362",
@@ -674,7 +781,7 @@
     },
     {
       "id": "932709481389810165",
-      "matchStartTime": "11:30",
+      "matchStartTime": "12:30",
       "tournament": "Chengdu ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Juan Manuel Cerundolo - Yi Zhou",
@@ -775,11 +882,6 @@
           "under": "-13.5 @1.80",
           "lineType": "meczowa",
           "over": "+13.5 @1.88"
-        },
-        {
-          "book": "22bet",
-          "lineType": "meczowa",
-          "over": "+14.5 @1.40"
         },
         {
           "book": "bc open.",
@@ -929,7 +1031,7 @@
           "over": " @1.47"
         }
       ],
-      "A_cnt": 24,
+      "A_cnt": 23,
       "A_book_cnt": 8,
       "DF": [
         {
@@ -1018,7 +1120,7 @@
     },
     {
       "id": "1366550570295868444",
-      "matchStartTime": "09:10",
+      "matchStartTime": "10:10",
       "tournament": "Chengdu ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Juncheng Shang - Adrian Mannarino",
@@ -1121,11 +1223,6 @@
           "over": "+13.5 @1.73"
         },
         {
-          "book": "22bet",
-          "lineType": "meczowa",
-          "over": "+14.5 @1.53"
-        },
-        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+16.5 @1.80"
@@ -1149,11 +1246,6 @@
           "book": "betfan",
           "lineType": "meczowa",
           "over": "+18.5 @2.00"
-        },
-        {
-          "book": "22bet",
-          "lineType": "meczowa",
-          "over": "+19.5 @2.38"
         },
         {
           "book": "22bet",
@@ -1273,7 +1365,7 @@
           "over": " @1.95"
         }
       ],
-      "A_cnt": 24,
+      "A_cnt": 22,
       "A_book_cnt": 8,
       "DF": [
         {
@@ -1362,7 +1454,7 @@
     },
     {
       "id": "3150829258343064918",
-      "matchStartTime": "10:50",
+      "matchStartTime": "11:50",
       "tournament": "Chengdu ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Lloyd Harris - Aleksandar Kovacevic",
@@ -1454,14 +1546,9 @@
         },
         {
           "book": "superbet",
-          "under": "-23.5 @1.88",
+          "under": "-24.5 @1.78",
           "lineType": "meczowa",
-          "over": "+23.5 @1.80"
-        },
-        {
-          "book": "22bet",
-          "lineType": "meczowa",
-          "over": "+24.5 @1.40"
+          "over": "+24.5 @1.90"
         },
         {
           "book": "bc open.",
@@ -1472,11 +1559,6 @@
           "book": "betclic",
           "lineType": "meczowa",
           "over": "+28.5 @1.80"
-        },
-        {
-          "book": "22bet",
-          "lineType": "meczowa",
-          "over": "+29.5 @1.80"
         },
         {
           "book": "betfan",
@@ -1511,9 +1593,9 @@
         },
         {
           "book": "superbet",
-          "under": "-14.5 @1.87",
+          "under": "-14.5 @1.97",
           "lineType": "player1",
-          "over": "+14.5 @1.82"
+          "over": "+14.5 @1.73"
         },
         {
           "book": "22bet",
@@ -1600,10 +1682,10 @@
         },
         {
           "book": "superbet",
-          "under": " @1.10",
+          "under": " @1.08",
           "x": "@16.00",
           "lineType": "meczowa",
-          "over": " @7.70"
+          "over": " @8.40"
         },
         {
           "book": "sb open.",
@@ -1613,9 +1695,15 @@
           "over": " @6.90"
         }
       ],
-      "A_cnt": 26,
+      "A_cnt": 24,
       "A_book_cnt": 7,
       "DF": [
+        {
+          "book": "22bet",
+          "under": "- 5.5 @1.58",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @2.09"
+        },
         {
           "book": "superbet",
           "under": "- 5.5 @1.95",
@@ -1669,15 +1757,15 @@
           "over": " @1.19"
         }
       ],
-      "DF_cnt": 6,
-      "DF_book_cnt": 2,
+      "DF_cnt": 7,
+      "DF_book_cnt": 3,
       "B": null,
       "B_cnt": 0,
       "B_book_cnt": 0
     },
     {
       "id": "2431369126369287111",
-      "matchStartTime": "10:50",
+      "matchStartTime": "11:50",
       "tournament": "Chengdu ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Martin Damm - Shintaro Mochizuki",
@@ -1826,7 +1914,7 @@
         },
         {
           "book": "superbet",
-          "under": "-14.5 @1.76",
+          "under": "-14.5 @1.77",
           "lineType": "player1",
           "over": "+14.5 @1.92"
         },
@@ -1927,6 +2015,12 @@
       "A_book_cnt": 7,
       "DF": [
         {
+          "book": "22bet",
+          "under": "- 6.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.80"
+        },
+        {
           "book": "superbet",
           "under": "- 8.5 @1.90",
           "lineType": "meczowa",
@@ -1965,6 +2059,12 @@
       ],
       "MDF": [
         {
+          "book": "22bet",
+          "under": " @3.40",
+          "lineType": "meczowa",
+          "over": " @1.53"
+        },
+        {
           "book": "superbet",
           "under": " @2.50",
           "x": "@5.75",
@@ -1979,15 +2079,15 @@
           "over": " @1.77"
         }
       ],
-      "DF_cnt": 6,
-      "DF_book_cnt": 2,
+      "DF_cnt": 7,
+      "DF_book_cnt": 3,
       "B": null,
       "B_cnt": 0,
       "B_book_cnt": 0
     },
     {
       "id": "4627395536848847422",
-      "matchStartTime": "09:40",
+      "matchStartTime": "10:40",
       "tournament": "Chengdu ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Miomir Kecmanovic - Nikoloz Basilashvili",
@@ -2284,7 +2384,7 @@
     },
     {
       "id": "2976539688966793161",
-      "matchStartTime": "09:40",
+      "matchStartTime": "10:40",
       "tournament": "Chengdu ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Moise Kouame - Alexandre Muller",
@@ -2735,7 +2835,7 @@
     },
     {
       "id": "1480333684707725738",
-      "matchStartTime": "09:50",
+      "matchStartTime": "11:20",
       "tournament": "Hangzhou ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Jie Cui - Adolfo Daniel Vallejo",
@@ -2827,9 +2927,14 @@
         },
         {
           "book": "superbet",
-          "under": "- 8.5 @1.83",
+          "under": "- 8.5 @1.85",
           "lineType": "meczowa",
           "over": "+ 8.5 @1.85"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.40"
         },
         {
           "book": "bc open.",
@@ -2852,9 +2957,19 @@
           "over": "+14.0 @1.80"
         },
         {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+14.5 @2.50"
+        },
+        {
           "book": "betfan",
           "lineType": "meczowa",
           "over": "+14.5 @2.00"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+19.5 @5.50"
         },
         {
           "book": "superbet",
@@ -2869,6 +2984,11 @@
           "over": "+ 3.5 @1.87"
         },
         {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.80"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 4.5 @1.80"
@@ -2879,6 +2999,11 @@
           "over": "+ 4.5 @1.80"
         },
         {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 9.5 @8.00"
+        },
+        {
           "book": "sb open.",
           "under": "- 4.5 @2.02",
           "lineType": "player2",
@@ -2886,7 +3011,7 @@
         },
         {
           "book": "superbet",
-          "under": "- 5.5 @1.69",
+          "under": "- 5.5 @1.70",
           "lineType": "player2",
           "over": "+ 5.5 @2.02"
         },
@@ -2899,6 +3024,16 @@
           "book": "betclic",
           "lineType": "player2",
           "over": "+ 7.5 @1.80"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 9.5 @3.00"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+14.5 @10.00"
         }
       ],
       "MA": [
@@ -2931,17 +3066,17 @@
           "over": " @1.52"
         }
       ],
-      "A_cnt": 15,
-      "A_book_cnt": 6,
+      "A_cnt": 22,
+      "A_book_cnt": 7,
       "DF": [
         {
-          "book": "superbet",
-          "under": "- 5.5 @2.05",
+          "book": "sb open.",
+          "under": "- 5.5 @2.07",
           "lineType": "meczowa",
-          "over": "+ 5.5 @1.67"
+          "over": "+ 5.5 @1.66"
         },
         {
-          "book": "sb open.",
+          "book": "superbet",
           "under": "- 5.5 @2.07",
           "lineType": "meczowa",
           "over": "+ 5.5 @1.66"
@@ -2975,7 +3110,7 @@
         {
           "book": "superbet",
           "under": " @3.80",
-          "x": "@5.40",
+          "x": "@5.45",
           "lineType": "meczowa",
           "over": " @1.47"
         },
@@ -3080,6 +3215,12 @@
       },
       "A": [
         {
+          "book": "22bet",
+          "under": "-19.5 @1.91",
+          "lineType": "meczowa",
+          "over": "+19.5 @1.70"
+        },
+        {
           "book": "sb open.",
           "under": "-20.5 @1.85",
           "lineType": "meczowa",
@@ -3124,9 +3265,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 8.5 @1.97",
+          "under": "- 8.5 @1.95",
           "lineType": "player1",
-          "over": "+ 8.5 @1.73"
+          "over": "+ 8.5 @1.74"
         },
         {
           "book": "bc open.",
@@ -3146,7 +3287,7 @@
         },
         {
           "book": "superbet",
-          "under": "-12.5 @1.76",
+          "under": "-12.5 @1.75",
           "lineType": "player2",
           "over": "+12.5 @1.95"
         },
@@ -3191,8 +3332,8 @@
           "over": " @1.33"
         }
       ],
-      "A_cnt": 15,
-      "A_book_cnt": 6,
+      "A_cnt": 16,
+      "A_book_cnt": 7,
       "DF": [
         {
           "book": "sb open.",
@@ -3205,6 +3346,12 @@
           "under": "- 4.5 @2.10",
           "lineType": "meczowa",
           "over": "+ 4.5 @1.65"
+        },
+        {
+          "book": "22bet",
+          "under": "- 5.5 @1.58",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @2.09"
         },
         {
           "book": "sb open.",
@@ -3233,6 +3380,12 @@
       ],
       "MDF": [
         {
+          "book": "22bet",
+          "under": " @4.20",
+          "lineType": "meczowa",
+          "over": " @1.46"
+        },
+        {
           "book": "superbet",
           "under": " @3.15",
           "x": "@4.70",
@@ -3247,8 +3400,8 @@
           "over": " @1.83"
         }
       ],
-      "DF_cnt": 6,
-      "DF_book_cnt": 2,
+      "DF_cnt": 7,
+      "DF_book_cnt": 3,
       "B": null,
       "B_cnt": 0,
       "B_book_cnt": 0
@@ -3433,7 +3586,7 @@
     },
     {
       "id": "-8209542355487086442",
-      "matchStartTime": "09:20",
+      "matchStartTime": "10:10",
       "tournament": "Hangzhou ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Mattia Bellucci - Kamil Majchrzak",
@@ -3542,6 +3695,18 @@
           "over": "+15.5 @1.95"
         },
         {
+          "book": "fo open.",
+          "under": "-15.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+15.5 @1.84"
+        },
+        {
+          "book": "fortuna",
+          "under": "-15.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+15.5 @1.84"
+        },
+        {
           "book": "forbet",
           "under": "-16.5 @2.00",
           "lineType": "meczowa",
@@ -3610,6 +3775,18 @@
           "under": "- 7.5 @1.75",
           "lineType": "player1",
           "over": "+ 7.5 @1.95"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 8.5 @1.73",
+          "lineType": "player1",
+          "over": "+ 8.5 @1.92"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.73",
+          "lineType": "player1",
+          "over": "+ 8.5 @1.92"
         },
         {
           "book": "etoto",
@@ -3682,6 +3859,18 @@
           "over": "+ 6.5 @1.97"
         },
         {
+          "book": "fo open.",
+          "under": "- 6.5 @1.86",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.78"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.86",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.78"
+        },
+        {
           "book": "bc open.",
           "lineType": "player2",
           "over": "+ 8.5 @1.80"
@@ -3752,11 +3941,37 @@
           "x": "@6.70",
           "lineType": "meczowa",
           "over": " @2.70"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.56",
+          "x": "@7.50",
+          "lineType": "meczowa",
+          "over": " @2.90"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.56",
+          "x": "@7.50",
+          "lineType": "meczowa",
+          "over": " @2.90"
         }
       ],
-      "A_cnt": 37,
-      "A_book_cnt": 11,
+      "A_cnt": 43,
+      "A_book_cnt": 13,
       "DF": [
+        {
+          "book": "fo open.",
+          "under": "- 4.5 @1.88",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.76"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.88",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.76"
+        },
         {
           "book": "betters",
           "under": "- 5.5 @1.70",
@@ -3794,6 +4009,18 @@
           "over": "+ 9.5 @1.90"
         },
         {
+          "book": "fo open.",
+          "under": "- 2.5 @1.98",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.68"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.98",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.68"
+        },
+        {
           "book": "sb open.",
           "under": "- 3.5 @1.70",
           "lineType": "player1",
@@ -3810,6 +4037,18 @@
           "under": "- 3.5 @1.70",
           "lineType": "player1",
           "over": "+ 3.5 @2.00"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 1.5 @2.13",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.59"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @2.13",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.59"
         },
         {
           "book": "fuksiarz",
@@ -3857,13 +4096,34 @@
           "x": "@5.20",
           "lineType": "meczowa",
           "over": " @3.85"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.63",
+          "x": "@5.10",
+          "lineType": "meczowa",
+          "over": " @3.30"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.63",
+          "x": "@5.10",
+          "lineType": "meczowa",
+          "over": " @3.30"
         }
       ],
-      "DF_cnt": 12,
-      "DF_book_cnt": 6,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "DF_cnt": 18,
+      "DF_book_cnt": 8,
+      "B": [
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @2.19",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.57"
+        }
+      ],
+      "B_cnt": 1,
+      "B_book_cnt": 1
     },
     {
       "id": "-3757904737791992843",
@@ -4060,7 +4320,7 @@
     },
     {
       "id": "4670307119207108428",
-      "matchStartTime": "10:30",
+      "matchStartTime": "11:20",
       "tournament": "Hangzhou ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Fajing Sun - Roman Safiullin",
@@ -4191,7 +4451,7 @@
           "book": "superbet",
           "under": "- 3.5 @1.95",
           "lineType": "player1",
-          "over": "+ 3.5 @1.75"
+          "over": "+ 3.5 @1.76"
         },
         {
           "book": "bc open.",
@@ -4291,7 +4551,7 @@
         },
         {
           "book": "superbet",
-          "under": "- 3.5 @1.63",
+          "under": "- 3.5 @1.62",
           "lineType": "player2",
           "over": "+ 3.5 @2.12"
         }
@@ -4553,7 +4813,7 @@
     },
     {
       "id": "1760010768805015607",
-      "matchStartTime": "08:40",
+      "matchStartTime": "10:10",
       "tournament": "Hangzhou ATP • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny h\n",
       "eventName": "Bu Yunchaokete - Michael Zheng",
@@ -4971,9 +5231,9 @@
         },
         {
           "book": "superbet",
-          "under": "-13.5 @1.74",
+          "under": "-13.5 @1.76",
           "lineType": "meczowa",
-          "over": "+13.5 @1.95"
+          "over": "+13.5 @1.92"
         },
         {
           "book": "bc open.",
@@ -4993,9 +5253,9 @@
         },
         {
           "book": "superbet",
-          "under": "-10.5 @1.83",
+          "under": "-10.5 @1.85",
           "lineType": "player1",
-          "over": "+10.5 @1.85"
+          "over": "+10.5 @1.83"
         },
         {
           "book": "bc open.",
@@ -5069,9 +5329,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 6.5 @1.90",
+          "under": "- 6.5 @1.92",
           "lineType": "meczowa",
-          "over": "+ 6.5 @1.78"
+          "over": "+ 6.5 @1.77"
         },
         {
           "book": "sb open.",
@@ -5081,7 +5341,7 @@
         },
         {
           "book": "superbet",
-          "under": "- 4.5 @1.73",
+          "under": "- 4.5 @1.74",
           "lineType": "player1",
           "over": "+ 4.5 @1.97"
         },
@@ -5101,10 +5361,10 @@
       "MDF": [
         {
           "book": "superbet",
-          "under": " @1.33",
-          "x": "@6.20",
+          "under": " @1.32",
+          "x": "@6.30",
           "lineType": "meczowa",
-          "over": " @4.65"
+          "over": " @4.70"
         },
         {
           "book": "sb open.",
@@ -6113,9 +6373,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 3.5 @2.07",
+          "under": "- 3.5 @2.05",
           "lineType": "player1",
-          "over": "+ 3.5 @1.66"
+          "over": "+ 3.5 @1.68"
         },
         {
           "book": "betfan",
@@ -6150,7 +6410,7 @@
         },
         {
           "book": "superbet",
-          "under": "- 1.5 @1.75",
+          "under": "- 1.5 @1.74",
           "lineType": "player2",
           "over": "+ 1.5 @1.95"
         },
@@ -6188,7 +6448,7 @@
         {
           "book": "superbet",
           "under": " @1.20",
-          "x": "@6.70",
+          "x": "@6.60",
           "lineType": "meczowa",
           "over": " @7.20"
         },
@@ -6219,7 +6479,7 @@
           "book": "superbet",
           "under": "- 5.5 @1.95",
           "lineType": "meczowa",
-          "over": "+ 5.5 @1.75"
+          "over": "+ 5.5 @1.76"
         },
         {
           "book": "sb open.",
@@ -6229,7 +6489,7 @@
         },
         {
           "book": "superbet",
-          "under": "- 2.5 @1.78",
+          "under": "- 2.5 @1.77",
           "lineType": "player1",
           "over": "+ 2.5 @1.92"
         },
@@ -6256,7 +6516,7 @@
         {
           "book": "superbet",
           "under": " @2.90",
-          "x": "@4.85",
+          "x": "@4.90",
           "lineType": "meczowa",
           "over": " @1.73"
         },
@@ -7127,14 +7387,14 @@
           "over": "+ 3.5 @1.78"
         },
         {
-          "book": "superbet",
-          "under": "- 3.5 @1.77",
-          "lineType": "player2",
-          "over": "+ 3.5 @1.92"
-        },
-        {
           "book": "sb open.",
           "under": "- 3.5 @1.80",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.90"
+        },
+        {
+          "book": "superbet",
+          "under": "- 3.5 @1.78",
           "lineType": "player2",
           "over": "+ 3.5 @1.90"
         }
@@ -7268,9 +7528,9 @@
       "A": [
         {
           "book": "superbet",
-          "under": "- 4.5 @1.82",
+          "under": "- 4.5 @1.83",
           "lineType": "meczowa",
-          "over": "+ 4.5 @1.87"
+          "over": "+ 4.5 @1.85"
         },
         {
           "book": "fuksiarz",
@@ -7296,7 +7556,7 @@
         },
         {
           "book": "superbet",
-          "under": "- 4.5 @1.64",
+          "under": "- 4.5 @1.65",
           "lineType": "player1",
           "over": "+ 4.5 @2.10"
         },
@@ -7398,7 +7658,7 @@
         },
         {
           "book": "superbet",
-          "under": "- 6.5 @1.67",
+          "under": "- 6.5 @1.68",
           "lineType": "meczowa",
           "over": "+ 6.5 @2.05"
         },
@@ -7416,9 +7676,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 3.5 @2.12",
+          "under": "- 3.5 @2.15",
           "lineType": "player1",
-          "over": "+ 3.5 @1.62"
+          "over": "+ 3.5 @1.61"
         },
         {
           "book": "fuksiarz",
