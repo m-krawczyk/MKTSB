@@ -1,5 +1,5 @@
 {
-  "updateTime": "20:38",
+  "updateTime": "20:43",
   "freeDays": [
     "2026-10-04"
   ],
@@ -708,10 +708,22 @@
           "over": "+14.5 @2.01"
         },
         {
+          "book": "sts",
+          "under": "-14.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+14.5 @1.85"
+        },
+        {
           "book": "superbet",
           "under": "- 2.5 @2.92",
           "lineType": "player1",
           "over": "+ 2.5 @1.30"
+        },
+        {
+          "book": "sts",
+          "under": "- 3.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.85"
         },
         {
           "book": "etoto",
@@ -786,6 +798,12 @@
           "under": "-10.5 @1.75",
           "lineType": "player2",
           "over": "+10.5 @1.95"
+        },
+        {
+          "book": "sts",
+          "under": "-10.5 @1.85",
+          "lineType": "player2",
+          "over": "+10.5 @1.85"
         }
       ],
       "MA": [
@@ -818,8 +836,8 @@
           "over": " @1.04"
         }
       ],
-      "A_cnt": 21,
-      "A_book_cnt": 5,
+      "A_cnt": 24,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "superbet",
@@ -4677,6 +4695,12 @@
           "over": "+16.5 @1.85"
         },
         {
+          "book": "sts",
+          "under": "-16.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+16.5 @1.80"
+        },
+        {
           "book": "superbet",
           "under": "-17.5 @1.57",
           "lineType": "meczowa",
@@ -4723,6 +4747,12 @@
           "over": "+ 8.5 @2.47"
         },
         {
+          "book": "sts",
+          "under": "- 8.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 8.5 @2.00"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 8.5 @1.80"
@@ -4737,6 +4767,12 @@
           "under": "- 7.5 @2.45",
           "lineType": "player2",
           "over": "+ 7.5 @1.44"
+        },
+        {
+          "book": "sts",
+          "under": "- 8.5 @1.80",
+          "lineType": "player2",
+          "over": "+ 8.5 @1.90"
         },
         {
           "book": "etoto",
@@ -4803,8 +4839,8 @@
           "over": " @1.51"
         }
       ],
-      "A_cnt": 21,
-      "A_book_cnt": 5,
+      "A_cnt": 24,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "superbet",
