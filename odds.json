@@ -1,5 +1,5 @@
 {
-  "updateTime": "07:03",
+  "updateTime": "07:29",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -123,6 +123,12 @@
           "over": "+ 8.5 @1.95"
         },
         {
+          "book": "sts",
+          "under": "- 8.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.95"
+        },
+        {
           "book": "superbet",
           "under": "- 8.5 @1.74",
           "lineType": "meczowa",
@@ -211,6 +217,12 @@
           "over": "+ 4.5 @2.10"
         },
         {
+          "book": "sts",
+          "under": "- 4.5 @1.65",
+          "lineType": "player1",
+          "over": "+ 4.5 @2.10"
+        },
+        {
           "book": "superbet",
           "under": "- 4.5 @1.62",
           "lineType": "player1",
@@ -289,6 +301,12 @@
         {
           "book": "etoto",
           "under": "- 3.5 @2.02",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.70"
+        },
+        {
+          "book": "sts",
+          "under": "- 3.5 @2.00",
           "lineType": "player2",
           "over": "+ 3.5 @1.70"
         },
@@ -387,8 +405,8 @@
           "over": " @2.27"
         }
       ],
-      "A_cnt": 45,
-      "A_book_cnt": 8,
+      "A_cnt": 48,
+      "A_book_cnt": 9,
       "DF": [
         {
           "book": "sb open.",
@@ -413,6 +431,12 @@
           "under": "- 3.5 @1.80",
           "lineType": "meczowa",
           "over": "+ 3.5 @1.90"
+        },
+        {
+          "book": "sts",
+          "under": "- 3.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.80"
         },
         {
           "book": "superbet",
@@ -517,6 +541,12 @@
           "over": "+ 1.5 @1.55"
         },
         {
+          "book": "sts",
+          "under": "- 1.5 @2.25",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.55"
+        },
+        {
           "book": "bc open.",
           "under": "- 1.5 @2.20",
           "lineType": "player1",
@@ -581,6 +611,12 @@
           "under": "- 1.5 @1.69",
           "lineType": "player2",
           "over": "+ 1.5 @2.00"
+        },
+        {
+          "book": "sts",
+          "under": "- 1.5 @1.85",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.85"
         },
         {
           "book": "superbet",
@@ -653,8 +689,8 @@
           "over": " @2.42"
         }
       ],
-      "DF_cnt": 41,
-      "DF_book_cnt": 8,
+      "DF_cnt": 44,
+      "DF_book_cnt": 9,
       "B": [
         {
           "book": "etoto",
@@ -8379,7 +8415,7 @@
       "id": "1103390463660302239",
       "matchStartTime": "11:00",
       "tournament": "Tokio ATP • Finał",
-      "weather": "🔆Pogoda Tokyo, czas lokalny +7h\n11:00 🌡 24°C / 25°C💧 74 %  💨 13 (max 27) km/h 🌧 4 % 0 mm\n12:00 🌡 23°C / 24°C💧 67 %  💨 14 (max 25) km/h 🌧 3 % 0 mm\n13:00 🌡 23°C / 22°C💧 64 %  💨 17 (max 22) km/h 🌧 1 % 0 mm",
+      "weather": "🔆Pogoda Tokyo, czas lokalny +7h\n11:00 🌡 24°C / 25°C💧 69 %  💨 13 (max 27) km/h 🌧 4 % 0 mm\n12:00 🌡 23°C / 24°C💧 67 %  💨 14 (max 25) km/h 🌧 3 % 0 mm\n13:00 🌡 23°C / 23°C💧 66 %  💨 15 (max 22) km/h 🌧 1 % 0 mm",
       "eventName": "Carlos Alcaraz - Jiri Lehecka",
       "p1": "Carlos Alcaraz",
       "p2": "Jiri Lehecka",
