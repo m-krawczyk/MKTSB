@@ -1,5 +1,5 @@
 {
-  "updateTime": "20:05",
+  "updateTime": "20:13",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -915,6 +915,12 @@
       },
       "A": [
         {
+          "book": "sts",
+          "under": "- 4.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.85"
+        },
+        {
           "book": "sb open.",
           "under": "- 4.5 @1.95",
           "lineType": "meczowa",
@@ -976,6 +982,12 @@
           "over": "+ 2.5 @2.20"
         },
         {
+          "book": "sts",
+          "under": "- 2.5 @1.65",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.10"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 2.5 @1.60"
@@ -999,6 +1011,12 @@
           "book": "bf open.",
           "lineType": "player1",
           "over": "+ 4.0 @2.10"
+        },
+        {
+          "book": "sts",
+          "under": "- 2.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.10"
         },
         {
           "book": "bc open.",
@@ -1075,8 +1093,8 @@
           "over": " @1.97"
         }
       ],
-      "A_cnt": 23,
-      "A_book_cnt": 8,
+      "A_cnt": 26,
+      "A_book_cnt": 9,
       "DF": [
         {
           "book": "betfan",
