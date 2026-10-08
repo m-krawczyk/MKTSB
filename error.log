@@ -10,3 +10,15 @@ STACK:
 w <ScriptBlock>, C:\priv\code\run All tenis list getOdds.ps1: wiersz 33
 ==================================================
 
+==================================================
+DATA: 2026-10-08 05:46:03
+BŁĄD: Wyjątek podczas wywoływania „Read” z argumentami „0”: „Conversion failed when converting the varchar value 'K' to data type int.”
+TYP: System.Management.Automation.MethodInvocationException
+LINIA: 33
+KOD:
+    if (-not $reader.Read()) {
+
+STACK:
+w <ScriptBlock>, C:\priv\code\run All tenis list getOdds.ps1: wiersz 33
+==================================================
+
