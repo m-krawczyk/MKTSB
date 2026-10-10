@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:25",
+  "updateTime": "10:40",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2157,9 +2157,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 4.5 @1.87",
+          "under": "- 4.5 @1.85",
           "lineType": "player1",
-          "over": "+ 4.5 @1.82"
+          "over": "+ 4.5 @1.83"
         },
         {
           "book": "bc open.",
@@ -2235,9 +2235,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 3.5 @1.73",
+          "under": "- 3.5 @1.72",
           "lineType": "meczowa",
-          "over": "+ 3.5 @1.97"
+          "over": "+ 3.5 @2.00"
         },
         {
           "book": "sb open.",
@@ -2247,9 +2247,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 1.5 @1.78",
+          "under": "- 1.5 @1.77",
           "lineType": "player1",
-          "over": "+ 1.5 @1.90"
+          "over": "+ 1.5 @1.92"
         },
         {
           "book": "sb open.",
@@ -2261,7 +2261,7 @@
           "book": "superbet",
           "under": "- 1.5 @2.00",
           "lineType": "player2",
-          "over": "+ 1.5 @1.70"
+          "over": "+ 1.5 @1.71"
         }
       ],
       "MDF": [
@@ -3830,7 +3830,7 @@
     },
     {
       "id": "4085150505106406606",
-      "matchStartTime": "10:40",
+      "matchStartTime": "10:50",
       "tournament": "Szanghaj ATP • 1/32 finału",
       "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n11:00 🌡 22°C / 25°C💧 88 %  💨  9 (max 16) km/h 🌧 47 % 2 mm\n12:00 🌡 21°C / 24°C💧 93 %  💨  9 (max 18) km/h 🌧 42 % 0 mm\n13:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 16) km/h 🌧 30 % 0 mm",
       "eventName": "Learner Tien - Zachary Svajda",
@@ -4102,7 +4102,7 @@
     },
     {
       "id": "-5779769980870106397",
-      "matchStartTime": "11:50",
+      "matchStartTime": "11:45",
       "tournament": "Szanghaj ATP • 1/32 finału",
       "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n12:00 🌡 21°C / 24°C💧 93 %  💨  9 (max 18) km/h 🌧 42 % 0 mm\n13:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 16) km/h 🌧 30 % 0 mm\n14:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 15) km/h 🌧 20 % 0 mm",
       "eventName": "Luciano Darderi - Stefanos Tsitsipas",
@@ -4665,7 +4665,7 @@
     },
     {
       "id": "201157983348349541",
-      "matchStartTime": "11:50",
+      "matchStartTime": "12:00",
       "tournament": "Szanghaj ATP • 1/32 finału",
       "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n12:00 🌡 21°C / 24°C💧 93 %  💨  9 (max 18) km/h 🌧 42 % 0 mm\n13:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 16) km/h 🌧 30 % 0 mm\n14:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 15) km/h 🌧 20 % 0 mm",
       "eventName": "Ignacio Buse - Zizou Bergs",
@@ -4856,7 +4856,7 @@
           "under": " @2.40",
           "x": "@6.00",
           "lineType": "meczowa",
-          "over": " @1.45"
+          "over": " @1.41"
         },
         {
           "book": "superbet",
@@ -5600,7 +5600,7 @@
     },
     {
       "id": "5631232969720464837",
-      "matchStartTime": "11:50",
+      "matchStartTime": "12:00",
       "tournament": "Szanghaj ATP • 1/32 finału",
       "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n12:00 🌡 21°C / 24°C💧 93 %  💨  9 (max 18) km/h 🌧 42 % 0 mm\n13:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 16) km/h 🌧 30 % 0 mm\n14:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 15) km/h 🌧 20 % 0 mm",
       "eventName": "Botic Van De Zandschulp - Alex Michelsen",
@@ -5866,9 +5866,28 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "lvbet",
+          "under": "- 4.5 @1.55",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.20"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @1.98",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.70"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 2.5 @1.80",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.88"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "153705108865218078",
@@ -8052,7 +8071,7 @@
     },
     {
       "id": "7003162076037785000",
-      "matchStartTime": "11:50",
+      "matchStartTime": "12:00",
       "tournament": "Szanghaj ATP • 1/32 finału",
       "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n12:00 🌡 21°C / 24°C💧 93 %  💨  9 (max 18) km/h 🌧 42 % 0 mm\n13:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 16) km/h 🌧 30 % 0 mm\n14:00 🌡 21°C / 24°C💧 92 %  💨  8 (max 15) km/h 🌧 20 % 0 mm",
       "eventName": "Tommy Paul - Adolfo Daniel Vallejo",
@@ -8248,7 +8267,7 @@
         {
           "book": "superbet",
           "under": " @1.25",
-          "x": "@8.30",
+          "x": "@8.40",
           "lineType": "meczowa",
           "over": " @4.85"
         },
@@ -8304,7 +8323,7 @@
         {
           "book": "superbet",
           "under": " @3.80",
-          "x": "@4.25",
+          "x": "@4.20",
           "lineType": "meczowa",
           "over": " @1.59"
         },
