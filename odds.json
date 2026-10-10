@@ -1,5 +1,5 @@
 {
-  "updateTime": "08:01",
+  "updateTime": "08:12",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -1087,6 +1087,12 @@
           "over": "+10.5 @1.95"
         },
         {
+          "book": "forbet",
+          "under": "-10.5 @1.73",
+          "lineType": "meczowa",
+          "over": "+10.5 @1.95"
+        },
+        {
           "book": "betfan",
           "under": "-10.5 @1.87",
           "lineType": "meczowa",
@@ -1187,6 +1193,12 @@
           "over": "+ 5.5 @1.65"
         },
         {
+          "book": "forbet",
+          "under": "- 5.5 @2.10",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.63"
+        },
+        {
           "book": "fortuna",
           "under": "- 5.5 @2.18",
           "lineType": "player1",
@@ -1267,6 +1279,12 @@
           "under": "- 3.5 @2.13",
           "lineType": "player2",
           "over": "+ 3.5 @1.59"
+        },
+        {
+          "book": "forbet",
+          "under": "- 4.5 @1.60",
+          "lineType": "player2",
+          "over": "+ 4.5 @2.15"
         },
         {
           "book": "superbet",
@@ -1359,8 +1377,8 @@
           "over": " @4.10"
         }
       ],
-      "A_cnt": 48,
-      "A_book_cnt": 11,
+      "A_cnt": 51,
+      "A_book_cnt": 12,
       "DF": [
         {
           "book": "superbet",
@@ -1421,6 +1439,12 @@
           "under": "- 8.5 @1.68",
           "lineType": "meczowa",
           "over": "+ 8.5 @2.02"
+        },
+        {
+          "book": "forbet",
+          "under": "- 8.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @2.00"
         },
         {
           "book": "fortuna",
@@ -1502,6 +1526,12 @@
         },
         {
           "book": "bf open.",
+          "under": "- 4.5 @1.60",
+          "lineType": "player1",
+          "over": "+ 4.5 @2.15"
+        },
+        {
+          "book": "forbet",
           "under": "- 4.5 @1.60",
           "lineType": "player1",
           "over": "+ 4.5 @2.15"
@@ -1597,6 +1627,12 @@
           "over": "+ 4.5 @2.30"
         },
         {
+          "book": "forbet",
+          "under": "- 4.5 @1.60",
+          "lineType": "player2",
+          "over": "+ 4.5 @2.15"
+        },
+        {
           "book": "fortuna",
           "under": "- 4.5 @1.58",
           "lineType": "player2",
@@ -1657,8 +1693,8 @@
           "over": " @2.00"
         }
       ],
-      "DF_cnt": 44,
-      "DF_book_cnt": 10,
+      "DF_cnt": 47,
+      "DF_book_cnt": 11,
       "B": [
         {
           "book": "fortuna",
@@ -1679,10 +1715,22 @@
           "over": "+ 6.5 @1.72"
         },
         {
+          "book": "forbet",
+          "under": "- 6.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.70"
+        },
+        {
           "book": "etoto",
           "under": "- 3.5 @1.85",
           "lineType": "player1",
           "over": "+ 3.5 @1.85"
+        },
+        {
+          "book": "forbet",
+          "under": "- 3.5 @1.83",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.83"
         },
         {
           "book": "betfan",
@@ -1709,14 +1757,20 @@
           "over": "+ 3.5 @2.05"
         },
         {
+          "book": "forbet",
+          "under": "- 3.5 @1.67",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.03"
+        },
+        {
           "book": "betclic",
           "under": "- 3.5 @1.60",
           "lineType": "player2",
           "over": "+ 3.5 @1.85"
         }
       ],
-      "B_cnt": 9,
-      "B_book_cnt": 4
+      "B_cnt": 12,
+      "B_book_cnt": 5
     },
     {
       "id": "-8271348769378240046",
@@ -3776,9 +3830,9 @@
     },
     {
       "id": "4085150505106406606",
-      "matchStartTime": "08:20",
+      "matchStartTime": "09:40",
       "tournament": "Szanghaj ATP • 1/32 finału",
-      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n09:00 🌡 24°C / 27°C💧 68 %  💨  5 (max 14) km/h 🌧 27 % 0 mm\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm",
+      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm\n12:00 🌡 21°C / 24°C💧 86 %  💨  8 (max 22) km/h 🌧 42 % 0 mm",
       "eventName": "Learner Tien - Zachary Svajda",
       "p1": "Learner Tien",
       "p2": "Zachary Svajda",
@@ -3951,7 +4005,7 @@
           "book": "superbet",
           "under": "- 6.5 @2.02",
           "lineType": "player2",
-          "over": "+ 6.5 @1.70"
+          "over": "+ 6.5 @1.69"
         }
       ],
       "MA": [
@@ -3988,13 +4042,13 @@
       "A_book_cnt": 6,
       "DF": [
         {
-          "book": "superbet",
+          "book": "sb open.",
           "under": "- 3.5 @2.02",
           "lineType": "meczowa",
-          "over": "+ 3.5 @1.70"
+          "over": "+ 3.5 @1.69"
         },
         {
-          "book": "sb open.",
+          "book": "superbet",
           "under": "- 3.5 @2.02",
           "lineType": "meczowa",
           "over": "+ 3.5 @1.69"
@@ -4007,9 +4061,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 1.5 @2.32",
+          "under": "- 2.5 @1.52",
           "lineType": "player1",
-          "over": "+ 1.5 @1.52"
+          "over": "+ 2.5 @2.35"
         },
         {
           "book": "sb open.",
@@ -4019,9 +4073,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 1.5 @1.92",
+          "under": "- 1.5 @1.95",
           "lineType": "player2",
-          "over": "+ 1.5 @1.76"
+          "over": "+ 1.5 @1.75"
         }
       ],
       "MDF": [
@@ -4048,9 +4102,9 @@
     },
     {
       "id": "-5779769980870106397",
-      "matchStartTime": "09:30",
+      "matchStartTime": "10:35",
       "tournament": "Szanghaj ATP • 1/32 finału",
-      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm\n12:00 🌡 21°C / 24°C💧 86 %  💨  8 (max 22) km/h 🌧 42 % 0 mm",
+      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm\n12:00 🌡 21°C / 24°C💧 86 %  💨  8 (max 22) km/h 🌧 42 % 0 mm\n13:00 🌡 21°C / 24°C💧 86 %  💨  7 (max 16) km/h 🌧 30 % 0 mm",
       "eventName": "Luciano Darderi - Stefanos Tsitsipas",
       "p1": "Luciano Darderi",
       "p2": "Stefanos Tsitsipas",
@@ -4339,9 +4393,9 @@
     },
     {
       "id": "-4550526889410234871",
-      "matchStartTime": "07:10",
+      "matchStartTime": "08:15",
       "tournament": "Szanghaj ATP • 1/32 finału",
-      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n08:00 🌡 25°C / 27°C💧 62 %  💨  4 (max 16) km/h 🌧 16 % 0 mm\n09:00 🌡 24°C / 27°C💧 68 %  💨  5 (max 14) km/h 🌧 27 % 0 mm\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm",
+      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n09:00 🌡 24°C / 27°C💧 68 %  💨  5 (max 14) km/h 🌧 27 % 0 mm\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm",
       "eventName": "Matteo Arnaldi - Taylor Fritz",
       "p1": "Matteo Arnaldi",
       "p2": "Taylor Fritz",
@@ -4593,7 +4647,7 @@
           "under": " @1.46",
           "x": "@4.60",
           "lineType": "meczowa",
-          "over": " @4.40"
+          "over": " @4.45"
         },
         {
           "book": "sb open.",
@@ -4611,7 +4665,7 @@
     },
     {
       "id": "201157983348349541",
-      "matchStartTime": "09:30",
+      "matchStartTime": "09:50",
       "tournament": "Szanghaj ATP • 1/32 finału",
       "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm\n12:00 🌡 21°C / 24°C💧 86 %  💨  8 (max 22) km/h 🌧 42 % 0 mm",
       "eventName": "Ignacio Buse - Zizou Bergs",
@@ -5276,6 +5330,12 @@
           "over": "+ 6.5 @1.76"
         },
         {
+          "book": "forbet",
+          "under": "- 6.5 @1.95",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.73"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+ 8.5 @1.90"
@@ -5413,8 +5473,8 @@
           "over": " @1.91"
         }
       ],
-      "A_cnt": 21,
-      "A_book_cnt": 8,
+      "A_cnt": 22,
+      "A_book_cnt": 9,
       "DF": [
         {
           "book": "sb open.",
@@ -5427,6 +5487,12 @@
           "under": "- 3.5 @1.62",
           "lineType": "meczowa",
           "over": "+ 3.5 @2.15"
+        },
+        {
+          "book": "forbet",
+          "under": "- 3.5 @1.65",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @2.06"
         },
         {
           "book": "fo open.",
@@ -5519,8 +5585,8 @@
           "over": " @2.40"
         }
       ],
-      "DF_cnt": 12,
-      "DF_book_cnt": 4,
+      "DF_cnt": 13,
+      "DF_book_cnt": 5,
       "B": [
         {
           "book": "fortuna",
@@ -5806,9 +5872,9 @@
     },
     {
       "id": "153705108865218078",
-      "matchStartTime": "07:10",
+      "matchStartTime": "08:30",
       "tournament": "Szanghaj ATP • 1/32 finału",
-      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n08:00 🌡 25°C / 27°C💧 62 %  💨  4 (max 16) km/h 🌧 16 % 0 mm\n09:00 🌡 24°C / 27°C💧 68 %  💨  5 (max 14) km/h 🌧 27 % 0 mm\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm",
+      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n09:00 🌡 24°C / 27°C💧 68 %  💨  5 (max 14) km/h 🌧 27 % 0 mm\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm",
       "eventName": "Bu Yunchaokete - Casper Ruud",
       "p1": "Bu Yunchaokete",
       "p2": "Casper Ruud",
@@ -6027,7 +6093,7 @@
           "book": "superbet",
           "under": "- 3.5 @1.63",
           "lineType": "meczowa",
-          "over": "+ 3.5 @2.12"
+          "over": "+ 3.5 @2.10"
         },
         {
           "book": "superbet",
@@ -6879,9 +6945,9 @@
     },
     {
       "id": "5494854850285307371",
-      "matchStartTime": "08:20",
+      "matchStartTime": "09:25",
       "tournament": "Szanghaj ATP • 1/32 finału",
-      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n09:00 🌡 24°C / 27°C💧 68 %  💨  5 (max 14) km/h 🌧 27 % 0 mm\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm",
+      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm\n12:00 🌡 21°C / 24°C💧 86 %  💨  8 (max 22) km/h 🌧 42 % 0 mm",
       "eventName": "Arthur Fils - Pavel Kotov",
       "p1": "Arthur Fils",
       "p2": "Pavel Kotov",
@@ -7170,9 +7236,9 @@
     },
     {
       "id": "5090930686963405095",
-      "matchStartTime": "07:10",
+      "matchStartTime": "08:30",
       "tournament": "Szanghaj ATP • 1/32 finału",
-      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n08:00 🌡 25°C / 27°C💧 62 %  💨  4 (max 16) km/h 🌧 16 % 0 mm\n09:00 🌡 24°C / 27°C💧 68 %  💨  5 (max 14) km/h 🌧 27 % 0 mm\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm",
+      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n09:00 🌡 24°C / 27°C💧 68 %  💨  5 (max 14) km/h 🌧 27 % 0 mm\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm",
       "eventName": "Alejandro Tabilo - Pablo Carreno-Busta",
       "p1": "Alejandro Tabilo",
       "p2": "Pablo Carreno-Busta",
@@ -7361,7 +7427,7 @@
           "under": " @1.05",
           "x": "@10.00",
           "lineType": "meczowa",
-          "over": " @5.00"
+          "over": " @4.60"
         },
         {
           "book": "superbet",
@@ -7986,9 +8052,9 @@
     },
     {
       "id": "7003162076037785000",
-      "matchStartTime": "09:30",
+      "matchStartTime": "10:50",
       "tournament": "Szanghaj ATP • 1/32 finału",
-      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n10:00 🌡 24°C / 26°C💧 72 %  💨  9 (max 21) km/h 🌧 40 % 0 mm\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm\n12:00 🌡 21°C / 24°C💧 86 %  💨  8 (max 22) km/h 🌧 42 % 0 mm",
+      "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n11:00 🌡 22°C / 24°C💧 79 %  💨 10 (max 23) km/h 🌧 47 % 0 mm\n12:00 🌡 21°C / 24°C💧 86 %  💨  8 (max 22) km/h 🌧 42 % 0 mm\n13:00 🌡 21°C / 24°C💧 86 %  💨  7 (max 16) km/h 🌧 30 % 0 mm",
       "eventName": "Tommy Paul - Adolfo Daniel Vallejo",
       "p1": "Tommy Paul",
       "p2": "Adolfo Daniel Vallejo",
