@@ -1,5 +1,5 @@
 {
-  "updateTime": "09:05",
+  "updateTime": "09:17",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -1584,7 +1584,7 @@
     },
     {
       "id": "3291956226124558484",
-      "matchStartTime": "09:10",
+      "matchStartTime": "09:30",
       "tournament": "Szanghaj ATP • 1/16 finału",
       "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n10:00 🌡 25°C / 25°C💧 53 %  💨 11 (max 29) km/h 🌧 3 % 0 mm\n11:00 🌡 24°C / 24°C💧 58 %  💨  8 (max 25) km/h 🌧 0 % 0 mm\n12:00 🌡 23°C / 24°C💧 66 %  💨  6 (max 18) km/h 🌧 0 % 0 mm",
       "eventName": "Francisco Cerundolo - Jakub Mensik",
@@ -2574,9 +2574,28 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "lvbet",
+          "under": "- 4.5 @1.50",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.27"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 0.5 @2.05",
+          "lineType": "player1",
+          "over": "+ 0.5 @1.62"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 3.5 @1.57",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.15"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "-4568393636230218917",
@@ -4098,7 +4117,7 @@
     },
     {
       "id": "-3955591537626421222",
-      "matchStartTime": "10:20",
+      "matchStartTime": "10:40",
       "tournament": "Szanghaj ATP • 1/16 finału",
       "weather": "🔆Pogoda Shanghai, czas lokalny +6h\n11:00 🌡 24°C / 24°C💧 58 %  💨  8 (max 25) km/h 🌧 0 % 0 mm\n12:00 🌡 23°C / 24°C💧 66 %  💨  6 (max 18) km/h 🌧 0 % 0 mm\n13:00 🌡 22°C / 23°C💧 70 %  💨  6 (max 13) km/h 🌧 0 % 0 mm",
       "eventName": "Alexander Bublik - Brandon Nakashima",
@@ -4273,7 +4292,7 @@
         },
         {
           "book": "superbet",
-          "under": "-14.5 @1.90",
+          "under": "-14.5 @1.92",
           "lineType": "player1",
           "over": "+14.5 @1.78"
         },
@@ -4349,7 +4368,7 @@
           "under": " @1.15",
           "x": "@10.00",
           "lineType": "meczowa",
-          "over": " @3.50"
+          "over": " @3.30"
         },
         {
           "book": "betters",
@@ -4450,7 +4469,7 @@
           "under": " @1.27",
           "x": "@5.20",
           "lineType": "meczowa",
-          "over": " @6.70"
+          "over": " @6.60"
         },
         {
           "book": "sb open.",
@@ -4572,9 +4591,9 @@
         },
         {
           "book": "superbet",
-          "under": "-19.5 @1.77",
+          "under": "-19.5 @1.82",
           "lineType": "meczowa",
-          "over": "+19.5 @1.92"
+          "over": "+19.5 @1.87"
         },
         {
           "book": "betfan",
@@ -4626,12 +4645,6 @@
           "over": "+ 9.5 @1.70"
         },
         {
-          "book": "superbet",
-          "under": "- 9.5 @2.00",
-          "lineType": "player1",
-          "over": "+ 9.5 @1.70"
-        },
-        {
           "book": "betfan",
           "lineType": "player1",
           "over": "+ 9.5 @1.60"
@@ -4640,6 +4653,12 @@
           "book": "betfan",
           "lineType": "player1",
           "over": "+10.5 @2.00"
+        },
+        {
+          "book": "superbet",
+          "under": "-10.5 @1.73",
+          "lineType": "player1",
+          "over": "+10.5 @1.97"
         },
         {
           "book": "etoto",
@@ -4670,9 +4689,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 9.5 @1.72",
+          "under": "- 9.5 @1.74",
           "lineType": "player2",
-          "over": "+ 9.5 @1.97"
+          "over": "+ 9.5 @1.95"
         },
         {
           "book": "etoto",
@@ -4730,10 +4749,10 @@
         },
         {
           "book": "superbet",
-          "under": " @1.74",
-          "x": "@8.20",
+          "under": " @1.72",
+          "x": "@8.30",
           "lineType": "meczowa",
-          "over": " @2.32"
+          "over": " @2.35"
         },
         {
           "book": "sb open.",
@@ -4754,9 +4773,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 3.5 @2.00",
+          "under": "- 3.5 @2.02",
           "lineType": "meczowa",
-          "over": "+ 3.5 @1.72"
+          "over": "+ 3.5 @1.69"
         },
         {
           "book": "sb open.",
@@ -4784,9 +4803,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 1.5 @1.65",
+          "under": "- 1.5 @1.67",
           "lineType": "player1",
-          "over": "+ 1.5 @2.07"
+          "over": "+ 1.5 @2.05"
         },
         {
           "book": "sb open.",
@@ -4802,9 +4821,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 2.5 @1.64",
+          "under": "- 2.5 @1.66",
           "lineType": "player2",
-          "over": "+ 2.5 @2.10"
+          "over": "+ 2.5 @2.07"
         }
       ],
       "MDF": [
