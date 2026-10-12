@@ -1,5 +1,5 @@
 {
-  "updateTime": "19:57",
+  "updateTime": "20:15",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -117,6 +117,30 @@
           "over": "+11.5 @1.83"
         },
         {
+          "book": "fortuna",
+          "under": "-11.5 @2.03",
+          "lineType": "meczowa",
+          "over": "+11.5 @1.65"
+        },
+        {
+          "book": "fo open.",
+          "under": "-12.5 @1.78",
+          "lineType": "meczowa",
+          "over": "+12.5 @1.86"
+        },
+        {
+          "book": "fortuna",
+          "under": "-12.5 @1.78",
+          "lineType": "meczowa",
+          "over": "+12.5 @1.86"
+        },
+        {
+          "book": "fortuna",
+          "under": "-13.5 @1.59",
+          "lineType": "meczowa",
+          "over": "+13.5 @2.13"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+14.5 @1.80"
@@ -137,6 +161,24 @@
           "under": "- 4.5 @2.00",
           "lineType": "player1",
           "over": "+ 4.5 @1.71"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 4.5 @2.04",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.64"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @2.04",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.64"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.63",
+          "lineType": "player1",
+          "over": "+ 5.5 @2.06"
         },
         {
           "book": "bc open.",
@@ -161,9 +203,33 @@
           "over": "+ 6.5 @1.82"
         },
         {
+          "book": "fortuna",
+          "under": "- 6.5 @2.14",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.58"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 7.5 @1.74",
+          "lineType": "player2",
+          "over": "+ 7.5 @1.91"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 7.5 @1.74",
+          "lineType": "player2",
+          "over": "+ 7.5 @1.91"
+        },
+        {
           "book": "betclic",
           "lineType": "player2",
           "over": "+ 7.5 @1.60"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.49",
+          "lineType": "player2",
+          "over": "+ 8.5 @2.34"
         },
         {
           "book": "bc open.",
@@ -199,11 +265,31 @@
           "x": "@7.40",
           "lineType": "meczowa",
           "over": " @1.50"
+        },
+        {
+          "book": "fo open.",
+          "under": " @3.60",
+          "x": "@7.40",
+          "lineType": "meczowa",
+          "over": " @1.42"
+        },
+        {
+          "book": "fortuna",
+          "under": " @3.60",
+          "x": "@7.40",
+          "lineType": "meczowa",
+          "over": " @1.42"
         }
       ],
-      "A_cnt": 12,
-      "A_book_cnt": 4,
+      "A_cnt": 23,
+      "A_book_cnt": 6,
       "DF": [
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @2.39",
+          "lineType": "meczowa",
+          "over": "+ 2.5 @1.47"
+        },
         {
           "book": "sb open.",
           "under": "- 3.5 @1.62",
@@ -215,6 +301,18 @@
           "under": "- 3.5 @1.62",
           "lineType": "meczowa",
           "over": "+ 3.5 @2.12"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 3.5 @1.82",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.82"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.82",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.82"
         },
         {
           "book": "bc open.",
@@ -229,6 +327,12 @@
           "over": "+ 3.5 @1.70"
         },
         {
+          "book": "fortuna",
+          "under": "- 4.5 @1.45",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.44"
+        },
+        {
           "book": "sb open.",
           "under": "- 1.5 @1.92",
           "lineType": "player1",
@@ -239,6 +343,24 @@
           "under": "- 1.5 @1.92",
           "lineType": "player1",
           "over": "+ 1.5 @1.76"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 1.5 @2.24",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.53"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @2.24",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.53"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.56",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.18"
         },
         {
           "book": "bc open.",
@@ -263,6 +385,18 @@
           "under": "- 1.5 @1.65",
           "lineType": "player2",
           "over": "+ 1.5 @2.07"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 1.5 @1.69",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.97"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.69",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.97"
         },
         {
           "book": "bc open.",
@@ -291,11 +425,31 @@
           "x": "@3.80",
           "lineType": "meczowa",
           "over": " @2.67"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.74",
+          "x": "@4.90",
+          "lineType": "meczowa",
+          "over": " @2.95"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.74",
+          "x": "@4.90",
+          "lineType": "meczowa",
+          "over": " @2.95"
         }
       ],
-      "DF_cnt": 12,
-      "DF_book_cnt": 4,
+      "DF_cnt": 21,
+      "DF_book_cnt": 6,
       "B": [
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.59",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.16"
+        },
         {
           "book": "betclic",
           "under": "- 4.5 @1.50",
@@ -315,8 +469,8 @@
           "over": "+ 1.5 @1.50"
         }
       ],
-      "B_cnt": 3,
-      "B_book_cnt": 1
+      "B_cnt": 4,
+      "B_book_cnt": 2
     },
     {
       "id": "-2814751414773392217",
@@ -427,6 +581,12 @@
           "under": "-22.5 @1.85",
           "lineType": "meczowa",
           "over": "+22.5 @1.85"
+        },
+        {
+          "book": "forbet",
+          "under": "-23.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+23.5 @1.77"
         },
         {
           "book": "betters",
@@ -571,8 +731,8 @@
           "over": " @1.74"
         }
       ],
-      "A_cnt": 22,
-      "A_book_cnt": 7,
+      "A_cnt": 23,
+      "A_book_cnt": 8,
       "DF": [
         {
           "book": "sb open.",
@@ -597,6 +757,12 @@
           "under": "- 3.5 @1.95",
           "lineType": "meczowa",
           "over": "+ 3.5 @1.50"
+        },
+        {
+          "book": "forbet",
+          "under": "- 4.5 @1.63",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.10"
         },
         {
           "book": "betters",
@@ -712,8 +878,8 @@
           "over": " @1.59"
         }
       ],
-      "DF_cnt": 19,
-      "DF_book_cnt": 7,
+      "DF_cnt": 20,
+      "DF_book_cnt": 8,
       "B": [
         {
           "book": "betclic",
@@ -866,6 +1032,18 @@
           "over": "+14.5 @1.92"
         },
         {
+          "book": "forbet",
+          "under": "-14.5 @1.77",
+          "lineType": "meczowa",
+          "over": "+14.5 @1.90"
+        },
+        {
+          "book": "22bet",
+          "under": "-14.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+14.5 @1.75"
+        },
+        {
           "book": "betfan",
           "lineType": "meczowa",
           "over": "+14.5 @1.70"
@@ -903,6 +1081,16 @@
           "over": "+15.5 @1.80"
         },
         {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+19.5 @3.25"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+24.5 @6.50"
+        },
+        {
           "book": "fortuna",
           "under": "- 3.5 @2.40",
           "lineType": "player1",
@@ -919,6 +1107,11 @@
           "under": "- 4.5 @1.80",
           "lineType": "player1",
           "over": "+ 4.5 @1.84"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.53"
         },
         {
           "book": "betfan",
@@ -947,6 +1140,12 @@
           "book": "betfan",
           "lineType": "player1",
           "over": "+ 5.5 @2.00"
+        },
+        {
+          "book": "22bet",
+          "under": "- 5.5 @1.80",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.80"
         },
         {
           "book": "bc open.",
@@ -1097,8 +1296,8 @@
           "over": " @1.21"
         }
       ],
-      "A_cnt": 38,
-      "A_book_cnt": 10,
+      "A_cnt": 44,
+      "A_book_cnt": 11,
       "DF": [
         {
           "book": "fo open.",
@@ -1111,6 +1310,12 @@
           "under": "- 4.5 @2.04",
           "lineType": "meczowa",
           "over": "+ 4.5 @1.64"
+        },
+        {
+          "book": "forbet",
+          "under": "- 5.5 @1.63",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @2.10"
         },
         {
           "book": "sb open.",
@@ -1330,8 +1535,8 @@
           "over": " @2.75"
         }
       ],
-      "DF_cnt": 31,
-      "DF_book_cnt": 10,
+      "DF_cnt": 32,
+      "DF_book_cnt": 11,
       "B": [
         {
           "book": "22bet",
@@ -2066,16 +2271,16 @@
       },
       "A": [
         {
-          "book": "superbet",
-          "under": "-14.5 @1.85",
-          "lineType": "meczowa",
-          "over": "+14.5 @1.83"
-        },
-        {
           "book": "sb open.",
           "under": "-14.5 @1.90",
           "lineType": "meczowa",
           "over": "+14.5 @1.80"
+        },
+        {
+          "book": "superbet",
+          "under": "-14.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+14.5 @1.78"
         },
         {
           "book": "bc open.",
@@ -2088,16 +2293,16 @@
           "over": "+15.5 @1.80"
         },
         {
-          "book": "superbet",
-          "under": "- 8.5 @1.92",
-          "lineType": "player1",
-          "over": "+ 8.5 @1.78"
-        },
-        {
           "book": "sb open.",
           "under": "- 8.5 @1.97",
           "lineType": "player1",
           "over": "+ 8.5 @1.72"
+        },
+        {
+          "book": "superbet",
+          "under": "- 8.5 @2.00",
+          "lineType": "player1",
+          "over": "+ 8.5 @1.71"
         },
         {
           "book": "bc open.",
@@ -2127,9 +2332,9 @@
         },
         {
           "book": "superbet",
-          "under": "- 5.5 @1.90",
+          "under": "- 5.5 @1.92",
           "lineType": "player2",
-          "over": "+ 5.5 @1.80"
+          "over": "+ 5.5 @1.78"
         }
       ],
       "MA": [
@@ -2149,10 +2354,10 @@
         },
         {
           "book": "superbet",
-          "under": " @1.28",
-          "x": "@8.70",
+          "under": " @1.27",
+          "x": "@8.90",
           "lineType": "meczowa",
-          "over": " @4.10"
+          "over": " @4.20"
         },
         {
           "book": "sb open.",
@@ -2166,12 +2371,6 @@
       "A_book_cnt": 4,
       "DF": [
         {
-          "book": "superbet",
-          "under": "- 4.5 @2.07",
-          "lineType": "meczowa",
-          "over": "+ 4.5 @1.66"
-        },
-        {
           "book": "sb open.",
           "under": "- 5.5 @1.63",
           "lineType": "meczowa",
@@ -2179,13 +2378,19 @@
         },
         {
           "book": "superbet",
-          "under": "- 3.5 @1.74",
-          "lineType": "player1",
-          "over": "+ 3.5 @1.95"
+          "under": "- 5.5 @1.63",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @2.10"
         },
         {
           "book": "sb open.",
           "under": "- 3.5 @1.78",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.90"
+        },
+        {
+          "book": "superbet",
+          "under": "- 3.5 @1.80",
           "lineType": "player1",
           "over": "+ 3.5 @1.90"
         },
@@ -2205,10 +2410,10 @@
       "MDF": [
         {
           "book": "superbet",
-          "under": " @1.30",
-          "x": "@5.65",
+          "under": " @1.28",
+          "x": "@5.90",
           "lineType": "meczowa",
-          "over": " @5.15"
+          "over": " @5.25"
         },
         {
           "book": "sb open.",
@@ -2384,6 +2589,12 @@
           "over": "+21.5 @1.84"
         },
         {
+          "book": "forbet",
+          "under": "-21.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+21.5 @1.77"
+        },
+        {
           "book": "betters",
           "under": "-21.5 @1.92",
           "lineType": "meczowa",
@@ -2482,6 +2693,12 @@
           "over": "+16.5 @1.83"
         },
         {
+          "book": "forbet",
+          "under": "-16.5 @1.95",
+          "lineType": "player1",
+          "over": "+16.5 @1.73"
+        },
+        {
           "book": "fortuna",
           "under": "-17.5 @1.62",
           "lineType": "player1",
@@ -2510,6 +2727,12 @@
           "under": "- 4.5 @1.95",
           "lineType": "player2",
           "over": "+ 4.5 @1.75"
+        },
+        {
+          "book": "forbet",
+          "under": "- 4.5 @1.95",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.73"
         },
         {
           "book": "fo open.",
@@ -2602,8 +2825,8 @@
           "over": " @18.00"
         }
       ],
-      "A_cnt": 37,
-      "A_book_cnt": 11,
+      "A_cnt": 40,
+      "A_book_cnt": 12,
       "DF": [
         {
           "book": "sb open.",
@@ -2634,6 +2857,12 @@
           "under": "- 2.5 @2.25",
           "lineType": "meczowa",
           "over": "+ 2.5 @1.53"
+        },
+        {
+          "book": "forbet",
+          "under": "- 3.5 @1.60",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @2.15"
         },
         {
           "book": "fortuna",
@@ -2682,6 +2911,12 @@
           "under": "- 1.5 @1.67",
           "lineType": "player1",
           "over": "+ 1.5 @2.05"
+        },
+        {
+          "book": "forbet",
+          "under": "- 1.5 @1.77",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.90"
         },
         {
           "book": "betfan",
@@ -2754,6 +2989,12 @@
           "under": "- 1.5 @1.55",
           "lineType": "player2",
           "over": "+ 1.5 @2.25"
+        },
+        {
+          "book": "forbet",
+          "under": "- 1.5 @1.72",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.97"
         },
         {
           "book": "fo open.",
@@ -2835,8 +3076,8 @@
           "over": " @2.25"
         }
       ],
-      "DF_cnt": 32,
-      "DF_book_cnt": 10,
+      "DF_cnt": 35,
+      "DF_book_cnt": 11,
       "B": [
         {
           "book": "betclic",
@@ -3805,6 +4046,11 @@
           "over": "+ 7.5 @1.80"
         },
         {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+14.5 @7.00"
+        },
+        {
           "book": "sb open.",
           "under": "- 0.5 @2.22",
           "lineType": "player1",
@@ -3827,6 +4073,16 @@
           "over": "+ 2.5 @1.80"
         },
         {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.67"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 4.5 @3.50"
+        },
+        {
           "book": "sb open.",
           "under": "- 2.5 @2.22",
           "lineType": "player2",
@@ -3847,6 +4103,16 @@
           "book": "betclic",
           "lineType": "player2",
           "over": "+ 4.5 @1.80"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.62"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 9.5 @6.50"
         }
       ],
       "MA": [
@@ -3886,8 +4152,8 @@
           "over": " @1.25"
         }
       ],
-      "A_cnt": 12,
-      "A_book_cnt": 4,
+      "A_cnt": 17,
+      "A_book_cnt": 5,
       "DF": [
         {
           "book": "sb open.",
@@ -3951,9 +4217,28 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "22bet",
+          "under": "- 6.5 @2.03",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.61"
+        },
+        {
+          "book": "22bet",
+          "under": "- 3.5 @1.61",
+          "lineType": "player1",
+          "over": "+ 3.5 @2.03"
+        },
+        {
+          "book": "22bet",
+          "under": "- 4.5 @1.61",
+          "lineType": "player2",
+          "over": "+ 4.5 @2.03"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "-3826499830951427287",
@@ -4496,9 +4781,9 @@
       "B": [
         {
           "book": "lvbet",
-          "under": "- 7.5 @1.67",
+          "under": "- 7.5 @1.62",
           "lineType": "meczowa",
-          "over": "+ 7.5 @1.95"
+          "over": "+ 7.5 @2.05"
         },
         {
           "book": "lvbet",
@@ -4514,9 +4799,9 @@
         },
         {
           "book": "lvbet",
-          "under": "- 4.5 @1.77",
+          "under": "- 4.5 @1.85",
           "lineType": "player2",
-          "over": "+ 4.5 @1.85"
+          "over": "+ 4.5 @1.77"
         }
       ],
       "B_cnt": 4,
@@ -6064,6 +6349,11 @@
           "over": "+ 6.5 @1.78"
         },
         {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.83"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+ 9.5 @1.80"
@@ -6089,6 +6379,11 @@
           "over": "+11.5 @2.10"
         },
         {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+14.5 @4.33"
+        },
+        {
           "book": "sb open.",
           "under": "- 3.5 @1.69",
           "lineType": "player1",
@@ -6099,6 +6394,11 @@
           "under": "- 3.5 @1.69",
           "lineType": "player1",
           "over": "+ 3.5 @2.02"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 4.5 @2.20"
         },
         {
           "book": "bc open.",
@@ -6138,6 +6438,11 @@
           "over": "+ 3.5 @2.02"
         },
         {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.53"
+        },
+        {
           "book": "betfan",
           "lineType": "player2",
           "over": "+ 4.5 @1.40"
@@ -6161,6 +6466,11 @@
           "book": "bf open.",
           "lineType": "player2",
           "over": "+ 6.0 @2.00"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 9.5 @5.50"
         }
       ],
       "MA": [
@@ -6200,8 +6510,8 @@
           "over": " @2.10"
         }
       ],
-      "A_cnt": 21,
-      "A_book_cnt": 6,
+      "A_cnt": 26,
+      "A_book_cnt": 7,
       "DF": [
         {
           "book": "sb open.",
@@ -6721,6 +7031,16 @@
           "over": "+ 9.0 @2.00"
         },
         {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @2.00"
+        },
+        {
+          "book": "22bet",
+          "lineType": "meczowa",
+          "over": "+14.5 @5.50"
+        },
+        {
           "book": "sb open.",
           "under": "- 0.5 @2.20",
           "lineType": "player1",
@@ -6748,6 +7068,11 @@
           "over": "+ 2.5 @2.30"
         },
         {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.00"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 2.5 @1.80"
@@ -6756,6 +7081,11 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+ 2.5 @1.80"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player1",
+          "over": "+ 4.5 @5.00"
         },
         {
           "book": "sb open.",
@@ -6793,6 +7123,11 @@
           "book": "bf open.",
           "lineType": "player2",
           "over": "+ 7.0 @2.00"
+        },
+        {
+          "book": "22bet",
+          "lineType": "player2",
+          "over": "+ 9.5 @3.75"
         }
       ],
       "MA": [
@@ -6832,8 +7167,8 @@
           "over": " @1.03"
         }
       ],
-      "A_cnt": 21,
-      "A_book_cnt": 6,
+      "A_cnt": 26,
+      "A_book_cnt": 7,
       "DF": [
         {
           "book": "sb open.",
