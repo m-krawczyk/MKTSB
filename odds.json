@@ -1,5 +1,5 @@
 {
-  "updateTime": "07:10",
+  "updateTime": "07:15",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -3388,6 +3388,12 @@
           "over": "+ 7.5 @2.55"
         },
         {
+          "book": "fortuna",
+          "under": "- 1.5 @3.00",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.30"
+        },
+        {
           "book": "sb open.",
           "under": "- 2.5 @1.78",
           "lineType": "player1",
@@ -3412,6 +3418,18 @@
           "over": "+ 2.5 @1.80"
         },
         {
+          "book": "fo open.",
+          "under": "- 2.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.70"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.70"
+        },
+        {
           "book": "fuksiarz",
           "under": "- 2.5 @2.40",
           "lineType": "player1",
@@ -3422,6 +3440,12 @@
           "under": "- 2.5 @2.35",
           "lineType": "player1",
           "over": "+ 2.5 @1.48"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.49",
+          "lineType": "player1",
+          "over": "+ 3.5 @2.34"
         },
         {
           "book": "fuksiarz",
@@ -3490,6 +3514,12 @@
           "over": "+ 1.5 @1.50"
         },
         {
+          "book": "fortuna",
+          "under": "- 1.5 @2.34",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.49"
+        },
+        {
           "book": "fuksiarz",
           "under": "- 1.5 @3.70",
           "lineType": "player2",
@@ -3506,6 +3536,18 @@
           "under": "- 2.5 @1.63",
           "lineType": "player2",
           "over": "+ 2.5 @2.10"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.61",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.09"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.61",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.09"
         },
         {
           "book": "sts",
@@ -3542,6 +3584,12 @@
           "under": "- 2.5 @1.95",
           "lineType": "player2",
           "over": "+ 2.5 @1.55"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.31",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.98"
         },
         {
           "book": "fuksiarz",
@@ -3584,9 +3632,23 @@
           "x": "@4.45",
           "lineType": "meczowa",
           "over": " @1.82"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.75",
+          "x": "@5.10",
+          "lineType": "meczowa",
+          "over": " @2.90"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.75",
+          "x": "@5.10",
+          "lineType": "meczowa",
+          "over": " @2.90"
         }
       ],
-      "DF_cnt": 47,
+      "DF_cnt": 55,
       "DF_book_cnt": 13,
       "B": [
         {
