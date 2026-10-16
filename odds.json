@@ -1,5 +1,5 @@
 {
-  "updateTime": "18:35",
+  "updateTime": "18:40",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -3704,6 +3704,12 @@
           "over": "+ 3.5 @1.40"
         },
         {
+          "book": "betters",
+          "under": "- 4.5 @1.73",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.92"
+        },
+        {
           "book": "sb open.",
           "under": "- 4.5 @1.80",
           "lineType": "meczowa",
@@ -3882,6 +3888,12 @@
           "under": "- 1.5 @3.00",
           "lineType": "player1",
           "over": "+ 1.5 @1.28"
+        },
+        {
+          "book": "betters",
+          "under": "- 2.5 @1.73",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.92"
         },
         {
           "book": "sb open.",
@@ -4070,6 +4082,12 @@
           "over": "+ 1.5 @1.60"
         },
         {
+          "book": "betters",
+          "under": "- 1.5 @2.16",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.58"
+        },
+        {
           "book": "etoto",
           "under": "- 1.5 @2.30",
           "lineType": "player2",
@@ -4205,6 +4223,13 @@
       "MDF": [
         {
           "book": "betters",
+          "under": " @1.69",
+          "x": "@4.40",
+          "lineType": "meczowa",
+          "over": " @2.80"
+        },
+        {
+          "book": "betters",
           "under": " @1.71",
           "x": "@4.90",
           "lineType": "meczowa",
@@ -4278,7 +4303,7 @@
           "over": " @2.90"
         }
       ],
-      "DF_cnt": 85,
+      "DF_cnt": 88,
       "DF_book_cnt": 15,
       "B": [
         {
@@ -7963,6 +7988,12 @@
           "over": "+ 3.5 @1.40"
         },
         {
+          "book": "betters",
+          "under": "- 4.5 @1.73",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.92"
+        },
+        {
           "book": "sb open.",
           "under": "- 4.5 @1.80",
           "lineType": "meczowa",
@@ -8021,6 +8052,12 @@
           "under": "- 1.5 @3.00",
           "lineType": "player1",
           "over": "+ 1.5 @1.28"
+        },
+        {
+          "book": "betters",
+          "under": "- 2.5 @1.73",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.92"
         },
         {
           "book": "lv open.",
@@ -8101,6 +8138,12 @@
           "over": "+ 1.5 @1.70"
         },
         {
+          "book": "betters",
+          "under": "- 1.5 @2.16",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.58"
+        },
+        {
           "book": "lv open.",
           "under": "- 1.5 @2.05",
           "lineType": "player2",
@@ -8132,6 +8175,13 @@
         }
       ],
       "MDF": [
+        {
+          "book": "betters",
+          "under": " @1.69",
+          "x": "@4.40",
+          "lineType": "meczowa",
+          "over": " @2.80"
+        },
         {
           "book": "lv open.",
           "x": "@3.90",
@@ -8165,8 +8215,8 @@
           "over": " @3.10"
         }
       ],
-      "DF_cnt": 30,
-      "DF_book_cnt": 6,
+      "DF_cnt": 33,
+      "DF_book_cnt": 7,
       "B": [
         {
           "book": "lvbet",
