@@ -1,5 +1,5 @@
 {
-  "updateTime": "16:05",
+  "updateTime": "16:10",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2902,6 +2902,16 @@
           "over": "+ 4.5 @1.80"
         },
         {
+          "book": "bc open.",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.80"
+        },
+        {
           "book": "betclic",
           "lineType": "meczowa",
           "over": "+ 4.5 @1.80"
@@ -2989,6 +2999,16 @@
           "under": "- 2.5 @1.78",
           "lineType": "player1",
           "over": "+ 2.5 @1.90"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.80"
         },
         {
           "book": "fuksiarz",
@@ -3083,6 +3103,16 @@
           "under": "- 4.5 @1.44",
           "lineType": "player1",
           "over": "+ 4.5 @2.47"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player2",
+          "over": "+ 0.5 @1.50"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player2",
+          "over": "+ 0.5 @1.50"
         },
         {
           "book": "fortuna",
@@ -3193,6 +3223,20 @@
       ],
       "MA": [
         {
+          "book": "bc open.",
+          "under": " @1.20",
+          "x": "@4.00",
+          "lineType": "meczowa",
+          "over": " @6.00"
+        },
+        {
+          "book": "betclic",
+          "under": " @1.20",
+          "x": "@4.00",
+          "lineType": "meczowa",
+          "over": " @6.00"
+        },
+        {
           "book": "betclic",
           "under": " @1.36",
           "x": "@4.50",
@@ -3249,7 +3293,7 @@
           "over": " @5.70"
         }
       ],
-      "A_cnt": 55,
+      "A_cnt": 61,
       "A_book_cnt": 13,
       "DF": [
         {
@@ -6274,6 +6318,12 @@
           "over": "+ 6.5 @2.12"
         },
         {
+          "book": "betters",
+          "under": "- 6.5 @1.73",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.92"
+        },
+        {
           "book": "lv open.",
           "under": "- 6.5 @1.60",
           "lineType": "meczowa",
@@ -6318,6 +6368,12 @@
           "under": "- 1.5 @2.32",
           "lineType": "player1",
           "over": "+ 1.5 @1.35"
+        },
+        {
+          "book": "betters",
+          "under": "- 2.5 @1.52",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.28"
         },
         {
           "book": "lv open.",
@@ -6426,6 +6482,12 @@
           "over": "+ 4.5 @2.67"
         },
         {
+          "book": "betters",
+          "under": "- 4.5 @1.58",
+          "lineType": "player2",
+          "over": "+ 4.5 @2.16"
+        },
+        {
           "book": "lv open.",
           "under": "- 4.5 @1.47",
           "lineType": "player2",
@@ -6484,6 +6546,13 @@
           "over": " @1.33"
         },
         {
+          "book": "betters",
+          "under": " @4.70",
+          "x": "@6.00",
+          "lineType": "meczowa",
+          "over": " @1.26"
+        },
+        {
           "book": "superbet",
           "under": " @2.75",
           "x": "@4.90",
@@ -6505,8 +6574,8 @@
           "over": " @2.02"
         }
       ],
-      "A_cnt": 39,
-      "A_book_cnt": 7,
+      "A_cnt": 42,
+      "A_book_cnt": 8,
       "DF": [
         {
           "book": "bc open.",
@@ -6537,6 +6606,12 @@
           "under": "- 7.5 @2.20",
           "lineType": "meczowa",
           "over": "+ 7.5 @1.56"
+        },
+        {
+          "book": "betters",
+          "under": "- 8.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.96"
         },
         {
           "book": "fuksiarz",
@@ -6615,6 +6690,12 @@
           "under": "- 1.5 @1.52",
           "lineType": "player1",
           "over": "+ 1.5 @1.98"
+        },
+        {
+          "book": "betters",
+          "under": "- 1.5 @1.69",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.96"
         },
         {
           "book": "sb open.",
@@ -6701,6 +6782,12 @@
           "over": "+ 6.5 @1.83"
         },
         {
+          "book": "betters",
+          "under": "- 6.5 @1.92",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.73"
+        },
+        {
           "book": "bc open.",
           "under": "- 6.5 @1.70",
           "lineType": "player2",
@@ -6780,8 +6867,8 @@
           "over": " @1.00"
         }
       ],
-      "DF_cnt": 39,
-      "DF_book_cnt": 7,
+      "DF_cnt": 42,
+      "DF_book_cnt": 8,
       "B": [
         {
           "book": "lvbet",
@@ -6920,10 +7007,56 @@
         "last6_W_match_dfAvgPerSet": "0.29",
         "last6_L_match_dfAvgPerSet": "0.54"
       },
-      "A": null,
-      "MA": null,
-      "A_cnt": 0,
-      "A_book_cnt": 0,
+      "A": [
+        {
+          "book": "bc open.",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.80"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.80"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player2",
+          "over": "+ 0.5 @1.50"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player2",
+          "over": "+ 0.5 @1.50"
+        }
+      ],
+      "MA": [
+        {
+          "book": "bc open.",
+          "under": " @1.20",
+          "x": "@4.00",
+          "lineType": "meczowa",
+          "over": " @6.00"
+        },
+        {
+          "book": "betclic",
+          "under": " @1.20",
+          "x": "@4.00",
+          "lineType": "meczowa",
+          "over": " @6.00"
+        }
+      ],
+      "A_cnt": 6,
+      "A_book_cnt": 2,
       "DF": null,
       "MDF": null,
       "DF_cnt": 0,
