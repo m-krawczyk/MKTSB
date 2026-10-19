@@ -1,5 +1,5 @@
 {
-  "updateTime": "12:50",
+  "updateTime": "12:55",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -7648,6 +7648,18 @@
           "over": "+10.5 @1.97"
         },
         {
+          "book": "fo open.",
+          "under": "-10.5 @1.88",
+          "lineType": "meczowa",
+          "over": "+10.5 @1.76"
+        },
+        {
+          "book": "fortuna",
+          "under": "-10.5 @1.88",
+          "lineType": "meczowa",
+          "over": "+10.5 @1.76"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+13.5 @1.80"
@@ -7670,6 +7682,18 @@
           "over": "+ 6.5 @1.80"
         },
         {
+          "book": "fo open.",
+          "under": "- 7.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 7.5 @1.96"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 7.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 7.5 @1.96"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 7.5 @1.80"
@@ -7690,6 +7714,18 @@
           "under": "- 3.5 @1.72",
           "lineType": "player2",
           "over": "+ 3.5 @1.97"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 3.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.96"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.96"
         },
         {
           "book": "bc open.",
@@ -7730,10 +7766,24 @@
           "x": "@7.20",
           "lineType": "meczowa",
           "over": " @4.75"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.20",
+          "x": "@8.20",
+          "lineType": "meczowa",
+          "over": " @6.40"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.20",
+          "x": "@8.20",
+          "lineType": "meczowa",
+          "over": " @6.40"
         }
       ],
-      "A_cnt": 12,
-      "A_book_cnt": 4,
+      "A_cnt": 18,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "sb open.",
@@ -7748,6 +7798,18 @@
           "over": "+ 5.5 @1.67"
         },
         {
+          "book": "fo open.",
+          "under": "- 6.5 @1.82",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.82"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.82",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.82"
+        },
+        {
           "book": "sb open.",
           "under": "- 1.5 @1.62",
           "lineType": "player1",
@@ -7760,6 +7822,18 @@
           "over": "+ 1.5 @2.12"
         },
         {
+          "book": "fo open.",
+          "under": "- 1.5 @1.82",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.82"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.82",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.82"
+        },
+        {
           "book": "sb open.",
           "under": "- 4.5 @1.82",
           "lineType": "player2",
@@ -7770,6 +7844,18 @@
           "under": "- 4.5 @1.80",
           "lineType": "player2",
           "over": "+ 4.5 @1.87"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 4.5 @1.96",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.70"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.96",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.70"
         }
       ],
       "MDF": [
@@ -7786,13 +7872,34 @@
           "x": "@7.10",
           "lineType": "meczowa",
           "over": " @1.07"
+        },
+        {
+          "book": "fo open.",
+          "under": " @7.30",
+          "x": "@7.10",
+          "lineType": "meczowa",
+          "over": " @1.20"
+        },
+        {
+          "book": "fortuna",
+          "under": " @7.30",
+          "x": "@7.10",
+          "lineType": "meczowa",
+          "over": " @1.20"
         }
       ],
-      "DF_cnt": 6,
-      "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "DF_cnt": 12,
+      "DF_book_cnt": 4,
+      "B": [
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @2.09",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.63"
+        }
+      ],
+      "B_cnt": 1,
+      "B_book_cnt": 1
     },
     {
       "id": "8511270907022409313",
