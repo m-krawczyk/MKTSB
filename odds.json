@@ -1,5 +1,5 @@
 {
-  "updateTime": "09:40",
+  "updateTime": "09:45",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -5483,6 +5483,18 @@
       "A_book_cnt": 6,
       "DF": [
         {
+          "book": "fo open.",
+          "under": "- 4.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.79"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.79"
+        },
+        {
           "book": "sb open.",
           "under": "- 5.5 @1.65",
           "lineType": "meczowa",
@@ -5495,6 +5507,18 @@
           "over": "+ 5.5 @2.10"
         },
         {
+          "book": "fo open.",
+          "under": "- 1.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.70"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.70"
+        },
+        {
           "book": "superbet",
           "under": "- 1.5 @2.02",
           "lineType": "player1",
@@ -5505,6 +5529,24 @@
           "under": "- 1.5 @2.02",
           "lineType": "player1",
           "over": "+ 1.5 @1.68"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.43",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.50"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.92",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.73"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.92",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.73"
         },
         {
           "book": "sb open.",
@@ -5533,10 +5575,24 @@
           "x": "@4.80",
           "lineType": "meczowa",
           "over": " @1.39"
+        },
+        {
+          "book": "fo open.",
+          "under": " @3.40",
+          "x": "@5.00",
+          "lineType": "meczowa",
+          "over": " @1.62"
+        },
+        {
+          "book": "fortuna",
+          "under": " @3.40",
+          "x": "@5.00",
+          "lineType": "meczowa",
+          "over": " @1.62"
         }
       ],
-      "DF_cnt": 6,
-      "DF_book_cnt": 2,
+      "DF_cnt": 13,
+      "DF_book_cnt": 4,
       "B": [
         {
           "book": "fortuna",
