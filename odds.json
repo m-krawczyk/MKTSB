@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:35",
+  "updateTime": "10:40",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2686,6 +2686,12 @@
       },
       "A": [
         {
+          "book": "betters",
+          "under": "- 5.5 @1.92",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.73"
+        },
+        {
           "book": "sb open.",
           "under": "- 6.5 @1.72",
           "lineType": "meczowa",
@@ -2783,6 +2789,13 @@
           "over": " @5.00"
         },
         {
+          "book": "betters",
+          "under": " @1.26",
+          "x": "@5.80",
+          "lineType": "meczowa",
+          "over": " @4.80"
+        },
+        {
           "book": "superbet",
           "under": " @1.09",
           "x": "@7.10",
@@ -2797,14 +2810,20 @@
           "over": " @6.60"
         }
       ],
-      "A_cnt": 15,
-      "A_book_cnt": 6,
+      "A_cnt": 16,
+      "A_book_cnt": 7,
       "DF": [
         {
           "book": "sb open.",
           "under": "- 3.5 @2.02",
           "lineType": "meczowa",
           "over": "+ 3.5 @1.69"
+        },
+        {
+          "book": "betters",
+          "under": "- 4.5 @1.63",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.06"
         },
         {
           "book": "superbet",
@@ -2839,6 +2858,13 @@
       ],
       "MDF": [
         {
+          "book": "betters",
+          "under": " @1.49",
+          "x": "@4.50",
+          "lineType": "meczowa",
+          "over": " @3.50"
+        },
+        {
           "book": "superbet",
           "under": " @1.58",
           "x": "@4.15",
@@ -2853,8 +2879,8 @@
           "over": " @3.50"
         }
       ],
-      "DF_cnt": 6,
-      "DF_book_cnt": 2,
+      "DF_cnt": 7,
+      "DF_book_cnt": 3,
       "B": null,
       "B_cnt": 0,
       "B_book_cnt": 0
