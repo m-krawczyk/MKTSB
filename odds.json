@@ -1,5 +1,5 @@
 {
-  "updateTime": "15:40",
+  "updateTime": "15:45",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -9375,6 +9375,12 @@
       },
       "A": [
         {
+          "book": "fuksiarz",
+          "under": "- 4.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.00"
+        },
+        {
           "book": "sts",
           "under": "- 4.5 @1.70",
           "lineType": "meczowa",
@@ -9415,6 +9421,12 @@
           "over": "+ 2.5 @1.72"
         },
         {
+          "book": "fuksiarz",
+          "under": "- 2.5 @2.00",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.70"
+        },
+        {
           "book": "sb open.",
           "under": "- 2.5 @2.05",
           "lineType": "player1",
@@ -9429,6 +9441,12 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+ 2.5 @1.60"
+        },
+        {
+          "book": "fuksiarz",
+          "under": "- 1.5 @1.58",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.20"
         },
         {
           "book": "sts",
@@ -9489,9 +9507,15 @@
           "over": " @3.90"
         }
       ],
-      "A_cnt": 15,
-      "A_book_cnt": 5,
+      "A_cnt": 18,
+      "A_book_cnt": 6,
       "DF": [
+        {
+          "book": "fuksiarz",
+          "under": "-10.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+10.5 @1.80"
+        },
         {
           "book": "superbet",
           "under": "-10.5 @1.88",
@@ -9503,6 +9527,12 @@
           "under": "-11.5 @1.75",
           "lineType": "meczowa",
           "over": "+11.5 @1.95"
+        },
+        {
+          "book": "fuksiarz",
+          "under": "- 5.5 @1.90",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.80"
         },
         {
           "book": "superbet",
@@ -9521,6 +9551,12 @@
           "under": "- 4.5 @2.05",
           "lineType": "player2",
           "over": "+ 4.5 @1.68"
+        },
+        {
+          "book": "fuksiarz",
+          "under": "- 4.5 @2.07",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.65"
         },
         {
           "book": "sb open.",
@@ -9545,8 +9581,8 @@
           "over": " @2.30"
         }
       ],
-      "DF_cnt": 6,
-      "DF_book_cnt": 2,
+      "DF_cnt": 9,
+      "DF_book_cnt": 3,
       "B": null,
       "B_cnt": 0,
       "B_book_cnt": 0
