@@ -1,5 +1,5 @@
 {
-  "updateTime": "20:05",
+  "updateTime": "20:10",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -3340,9 +3340,28 @@
       "MDF": null,
       "DF_cnt": 0,
       "DF_book_cnt": 0,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "betclic",
+          "under": "- 3.5 @1.50",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @2.05"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @1.48",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.10"
+        },
+        {
+          "book": "betclic",
+          "under": "- 0.5 @2.25",
+          "lineType": "player2",
+          "over": "+ 0.5 @1.40"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "7528388189166446776",
@@ -5024,9 +5043,9 @@
     },
     {
       "id": "8700959901303158234",
-      "matchStartTime": "19:40",
+      "matchStartTime": "20:20",
       "tournament": "Bruksela ATP • 1/8 finału",
-      "weather": "🔆Pogoda Brussels, czas lokalny +0h\n20:00 🌡 11°C / 6°C💧 79 %  💨 26 (max 49) km/h 🌧 2 % 0 mm 🌀 1.23 kg/m³\n21:00 🌡 10°C / 6°C💧 80 %  💨 23 (max 49) km/h 🌧 0 % 0 mm 🌀 1.23 kg/m³\n22:00 🌡 10°C / 5°C💧 83 %  💨 23 (max 44) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³",
+      "weather": "🔆Pogoda Brussels, czas lokalny +0h\n21:00 🌡 10°C / 6°C💧 80 %  💨 23 (max 49) km/h 🌧 0 % 0 mm 🌀 1.23 kg/m³\n22:00 🌡 10°C / 5°C💧 83 %  💨 23 (max 44) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³\n23:00 🌡 9°C / 5°C💧 85 %  💨 20 (max 43) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³",
       "eventName": "Gauthier Onclin - Jan-Lennard Struff",
       "p1": "Gauthier Onclin",
       "p2": "Jan-Lennard Struff",
@@ -7109,7 +7128,7 @@
     },
     {
       "id": "-1363303133313971653",
-      "matchStartTime": "20:10",
+      "matchStartTime": "20:20",
       "tournament": "Lyon ATP • 1/8 finału",
       "weather": "🔆Pogoda Lyon, czas lokalny +0h\n21:00 🌡 12°C / 10°C💧 65 %  💨  3 (max 13) km/h 🌧 0 % 0 mm 🌀 1.22 kg/m³\n22:00 🌡 11°C / 10°C💧 73 %  💨  3 (max 6) km/h 🌧 0 % 0 mm 🌀 1.22 kg/m³\n23:00 🌡 10°C / 9°C💧 82 %  💨  2 (max 5) km/h 🌧 0 % 0 mm 🌀 1.23 kg/m³",
       "eventName": "Benjamin Bonzi - Tommy Paul",
@@ -11913,10 +11932,10 @@
         },
         {
           "book": "betclic",
-          "under": " @1.75",
+          "under": " @1.80",
           "x": "@6.50",
           "lineType": "meczowa",
-          "over": " @1.83"
+          "over": " @1.75"
         },
         {
           "book": "superbet",
