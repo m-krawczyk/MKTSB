@@ -1,5 +1,5 @@
 {
-  "updateTime": "19:05",
+  "updateTime": "19:10",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -5672,9 +5672,9 @@
     },
     {
       "id": "-1620739002697808093",
-      "matchStartTime": "19:00",
+      "matchStartTime": null,
       "tournament": "Lyon ATP • 1/8 finału",
-      "weather": "🔆Pogoda Lyon, czas lokalny +0h\n19:00 🌡 14°C / 13°C💧 64 %  💨  7 (max 18) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³\n20:00 🌡 13°C / 12°C💧 66 %  💨  5 (max 13) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³\n21:00 🌡 12°C / 11°C💧 66 %  💨  5 (max 10) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³",
+      "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Flavio Cobolli - Stan Wawrinka",
       "p1": "Flavio Cobolli",
       "p2": "Stan Wawrinka",
@@ -5769,6 +5769,12 @@
       },
       "A": [
         {
+          "book": "betclic",
+          "under": "- 7.5 @1.30",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @2.50"
+        },
+        {
           "book": "sb open.",
           "under": "-10.5 @1.95",
           "lineType": "meczowa",
@@ -5799,8 +5805,9 @@
         },
         {
           "book": "betclic",
+          "under": "-15.5 @1.47",
           "lineType": "meczowa",
-          "over": "+14.5 @1.80"
+          "over": "+15.5 @2.00"
         },
         {
           "book": "betters",
@@ -5854,8 +5861,9 @@
         },
         {
           "book": "betclic",
+          "under": "- 7.5 @1.42",
           "lineType": "player1",
-          "over": "+ 7.5 @1.80"
+          "over": "+ 7.5 @2.10"
         },
         {
           "book": "betfan",
@@ -5890,11 +5898,6 @@
           "over": "+ 7.5 @1.80"
         },
         {
-          "book": "betclic",
-          "lineType": "player2",
-          "over": "+ 7.5 @1.80"
-        },
-        {
           "book": "fo open.",
           "under": "- 7.5 @1.84",
           "lineType": "player2",
@@ -5905,6 +5908,12 @@
           "under": "- 7.5 @1.84",
           "lineType": "player2",
           "over": "+ 7.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "under": "- 8.5 @1.42",
+          "lineType": "player2",
+          "over": "+ 8.5 @2.10"
         },
         {
           "book": "betfan",
@@ -5926,14 +5935,21 @@
         {
           "book": "betclic",
           "under": " @1.80",
-          "x": "@8.00",
+          "x": "@2.30",
           "lineType": "meczowa",
-          "over": " @1.80"
+          "over": " @4.90"
         },
         {
           "book": "bc open.",
           "under": " @2.00",
           "x": "@7.00",
+          "lineType": "meczowa",
+          "over": " @1.65"
+        },
+        {
+          "book": "betclic",
+          "under": " @2.15",
+          "x": "@8.00",
           "lineType": "meczowa",
           "over": " @1.65"
         },
@@ -5973,7 +5989,7 @@
           "over": " @1.50"
         }
       ],
-      "A_cnt": 28,
+      "A_cnt": 29,
       "A_book_cnt": 9,
       "DF": [
         {
@@ -6007,6 +6023,18 @@
           "over": "+ 3.5 @1.73"
         },
         {
+          "book": "bc open.",
+          "under": "- 4.5 @1.65",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.75"
+        },
+        {
+          "book": "betclic",
+          "under": "- 4.5 @1.65",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.75"
+        },
+        {
           "book": "superbet",
           "under": "- 1.5 @1.82",
           "lineType": "player1",
@@ -6029,6 +6057,18 @@
           "under": "- 1.5 @1.89",
           "lineType": "player1",
           "over": "+ 1.5 @1.75"
+        },
+        {
+          "book": "bc open.",
+          "under": "- 2.5 @1.47",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.00"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @1.47",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.00"
         },
         {
           "book": "sb open.",
@@ -6059,6 +6099,18 @@
           "under": "- 2.5 @1.43",
           "lineType": "player2",
           "over": "+ 2.5 @2.50"
+        },
+        {
+          "book": "bc open.",
+          "under": "- 2.5 @1.45",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.05"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @1.45",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.05"
         }
       ],
       "MDF": [
@@ -6098,18 +6150,42 @@
           "over": " @2.25"
         }
       ],
-      "DF_cnt": 14,
-      "DF_book_cnt": 5,
+      "DF_cnt": 20,
+      "DF_book_cnt": 7,
       "B": [
+        {
+          "book": "betclic",
+          "under": "- 1.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 1.5 @1.85"
+        },
         {
           "book": "fortuna",
           "under": "- 3.5 @1.67",
           "lineType": "meczowa",
           "over": "+ 3.5 @2.02"
+        },
+        {
+          "book": "betclic",
+          "under": "- 3.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.70"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @1.80",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.75"
+        },
+        {
+          "book": "betclic",
+          "under": "- 1.5 @1.50",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.15"
         }
       ],
-      "B_cnt": 1,
-      "B_book_cnt": 1
+      "B_cnt": 5,
+      "B_book_cnt": 2
     },
     {
       "id": "9214212272456755534",
