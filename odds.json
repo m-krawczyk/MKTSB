@@ -1,5 +1,5 @@
 {
-  "updateTime": "08:25",
+  "updateTime": "08:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -4780,7 +4780,7 @@
     },
     {
       "id": "8906497148927753065",
-      "matchStartTime": "09:30",
+      "matchStartTime": "09:50",
       "tournament": "Ningbo WTA • 1/8 finału",
       "weather": "🔆Pogoda Ningbo, czas lokalny +6h\n10:00 🌡 21°C / 19°C💧 54 %  💨 19 (max 43) km/h 🌧 0 % 0 mm 🌀 1.20 kg/m³\n11:00 🌡 21°C / 19°C💧 56 %  💨 15 (max 42) km/h 🌧 0 % 0 mm 🌀 1.20 kg/m³\n12:00 🌡 21°C / 19°C💧 58 %  💨 14 (max 31) km/h 🌧 0 % 0 mm 🌀 1.20 kg/m³",
       "eventName": "Alexandra Eala - Diana Shnaider",
@@ -5415,6 +5415,24 @@
           "over": "+11.5 @1.87"
         },
         {
+          "book": "fo open.",
+          "under": "-11.5 @1.97",
+          "lineType": "meczowa",
+          "over": "+11.5 @1.69"
+        },
+        {
+          "book": "fortuna",
+          "under": "-11.5 @1.97",
+          "lineType": "meczowa",
+          "over": "+11.5 @1.69"
+        },
+        {
+          "book": "fortuna",
+          "under": "-12.5 @1.73",
+          "lineType": "meczowa",
+          "over": "+12.5 @1.92"
+        },
+        {
           "book": "betfan",
           "lineType": "player1",
           "over": "+ 5.5 @1.60"
@@ -5458,6 +5476,18 @@
           "over": "+ 7.5 @1.95"
         },
         {
+          "book": "fo open.",
+          "under": "- 7.5 @1.82",
+          "lineType": "player1",
+          "over": "+ 7.5 @1.82"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 7.5 @1.82",
+          "lineType": "player1",
+          "over": "+ 7.5 @1.82"
+        },
+        {
           "book": "sb open.",
           "under": "- 3.5 @2.00",
           "lineType": "player2",
@@ -5496,6 +5526,18 @@
           "over": "+ 4.5 @2.00"
         },
         {
+          "book": "fo open.",
+          "under": "- 4.5 @1.90",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.75"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.90",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.75"
+        },
+        {
           "book": "bf open.",
           "lineType": "player2",
           "over": "+ 5.0 @2.00"
@@ -5529,11 +5571,43 @@
           "x": "@6.90",
           "lineType": "meczowa",
           "over": " @4.25"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.32",
+          "x": "@7.60",
+          "lineType": "meczowa",
+          "over": " @4.50"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.32",
+          "x": "@7.60",
+          "lineType": "meczowa",
+          "over": " @4.50"
         }
       ],
-      "A_cnt": 25,
-      "A_book_cnt": 8,
+      "A_cnt": 32,
+      "A_book_cnt": 10,
       "DF": [
+        {
+          "book": "fo open.",
+          "under": "- 8.5 @1.99",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.68"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.99",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.68"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 9.5 @1.71",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.95"
+        },
         {
           "book": "betters",
           "under": "- 9.5 @1.82",
@@ -5559,10 +5633,34 @@
           "over": "+ 3.5 @2.05"
         },
         {
+          "book": "fo open.",
+          "under": "- 3.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.95"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.95"
+        },
+        {
           "book": "superbet",
           "under": "- 3.5 @1.80",
           "lineType": "player1",
           "over": "+ 3.5 @1.90"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 5.5 @1.93",
+          "lineType": "player2",
+          "over": "+ 5.5 @1.72"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.93",
+          "lineType": "player2",
+          "over": "+ 5.5 @1.72"
         },
         {
           "book": "sb open.",
@@ -5598,17 +5696,38 @@
           "x": "@7.70",
           "lineType": "meczowa",
           "over": " @1.11"
+        },
+        {
+          "book": "fo open.",
+          "under": " @5.20",
+          "x": "@6.90",
+          "lineType": "meczowa",
+          "over": " @1.29"
+        },
+        {
+          "book": "fortuna",
+          "under": " @5.20",
+          "x": "@6.90",
+          "lineType": "meczowa",
+          "over": " @1.29"
         }
       ],
-      "DF_cnt": 7,
-      "DF_book_cnt": 3,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "DF_cnt": 14,
+      "DF_book_cnt": 5,
+      "B": [
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.86"
+        }
+      ],
+      "B_cnt": 1,
+      "B_book_cnt": 1
     },
     {
       "id": "4634828415884725697",
-      "matchStartTime": "08:20",
+      "matchStartTime": "08:40",
       "tournament": "Ningbo WTA • 1/8 finału",
       "weather": "🔆Pogoda Ningbo, czas lokalny +6h\n09:00 🌡 22°C / 19°C💧 51 %  💨 20 (max 42) km/h 🌧 0 % 0 mm 🌀 1.20 kg/m³\n10:00 🌡 21°C / 19°C💧 54 %  💨 19 (max 43) km/h 🌧 0 % 0 mm 🌀 1.20 kg/m³\n11:00 🌡 21°C / 19°C💧 56 %  💨 15 (max 42) km/h 🌧 0 % 0 mm 🌀 1.20 kg/m³",
       "eventName": "Katarzyna Kawa - Belinda Bencic",
@@ -7204,7 +7323,7 @@
     },
     {
       "id": "1170745595541425376",
-      "matchStartTime": "08:20",
+      "matchStartTime": "08:30",
       "tournament": "Osaka WTA • 1/8 finału",
       "weather": "🔆Pogoda Osaka, czas lokalny +7h\n09:00 🌡 21°C / 20°C💧 54 %  💨  9 (max 37) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³\n10:00 🌡 20°C / 19°C💧 58 %  💨  7 (max 31) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³\n11:00 🌡 19°C / 18°C💧 60 %  💨  6 (max 28) km/h 🌧 0 % 0 mm 🌀 1.22 kg/m³",
       "eventName": "Magda Linette - Katerina Siniakova",
