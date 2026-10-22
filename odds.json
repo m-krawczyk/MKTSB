@@ -1,5 +1,5 @@
 {
-  "updateTime": "17:25",
+  "updateTime": "17:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -9195,6 +9195,16 @@
           "over": "+ 6.5 @1.92"
         },
         {
+          "book": "bc open.",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.70"
+        },
+        {
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.70"
+        },
+        {
           "book": "sb open.",
           "under": "- 4.5 @1.90",
           "lineType": "player1",
@@ -9207,6 +9217,16 @@
           "over": "+ 4.5 @1.78"
         },
         {
+          "book": "bc open.",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.90"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.90"
+        },
+        {
           "book": "sb open.",
           "under": "- 1.5 @1.80",
           "lineType": "player2",
@@ -9217,10 +9237,34 @@
           "under": "- 1.5 @1.80",
           "lineType": "player2",
           "over": "+ 1.5 @1.90"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.60"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.60"
         }
       ],
       "MA": [
         {
+          "book": "bc open.",
+          "under": " @1.10",
+          "x": "@7.00",
+          "lineType": "meczowa",
+          "over": " @5.50"
+        },
+        {
+          "book": "betclic",
+          "under": " @1.10",
+          "x": "@7.00",
+          "lineType": "meczowa",
+          "over": " @5.50"
+        },
+        {
           "book": "superbet",
           "under": " @1.10",
           "x": "@7.00",
@@ -9235,8 +9279,8 @@
           "over": " @6.30"
         }
       ],
-      "A_cnt": 6,
-      "A_book_cnt": 2,
+      "A_cnt": 12,
+      "A_book_cnt": 4,
       "DF": [
         {
           "book": "sb open.",
