@@ -1,5 +1,5 @@
 {
-  "updateTime": "21:25",
+  "updateTime": "21:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -6738,7 +6738,7 @@
     },
     {
       "id": "-1796767538585122237",
-      "matchStartTime": "21:20",
+      "matchStartTime": "21:40",
       "tournament": "Lyon ATP • Ćwierćfinał",
       "weather": "🔆Pogoda Lyon, czas lokalny +0h\n22:00 🌡 12°C / 10°C💧 63 %  💨  5 (max 11) km/h 🌧 13 % 0 mm 🌀 1.22 kg/m³\n23:00 🌡 12°C / 10°C💧 65 %  💨  6 (max 12) km/h 🌧 13 % 0 mm 🌀 1.22 kg/m³",
       "eventName": "Luca van Assche - Lorenzo Musetti",
@@ -15229,6 +15229,18 @@
           "over": "+ 6.5 @2.15"
         },
         {
+          "book": "fo open.",
+          "under": "- 6.5 @1.91",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.74"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.91",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.74"
+        },
+        {
           "book": "sb open.",
           "under": "- 6.5 @1.97",
           "lineType": "meczowa",
@@ -15251,6 +15263,12 @@
           "under": "- 6.5 @1.96",
           "lineType": "meczowa",
           "over": "+ 6.5 @1.69"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 7.5 @1.59",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @2.12"
         },
         {
           "book": "betters",
@@ -15313,6 +15331,18 @@
           "over": "+ 2.5 @2.15"
         },
         {
+          "book": "fo open.",
+          "under": "- 2.5 @2.10",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.60"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @2.10",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.60"
+        },
+        {
           "book": "sb open.",
           "under": "- 2.5 @2.20",
           "lineType": "player1",
@@ -15349,6 +15379,12 @@
           "over": "+ 3.5 @2.15"
         },
         {
+          "book": "fortuna",
+          "under": "- 3.5 @1.59",
+          "lineType": "player1",
+          "over": "+ 3.5 @2.13"
+        },
+        {
           "book": "superbet",
           "under": "- 3.5 @2.52",
           "lineType": "player1",
@@ -15367,6 +15403,12 @@
           "over": "+ 5.5 @2.50"
         },
         {
+          "book": "fortuna",
+          "under": "- 2.5 @2.36",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.48"
+        },
+        {
           "book": "superbet",
           "under": "- 2.5 @2.75",
           "lineType": "player2",
@@ -15377,6 +15419,18 @@
           "under": "- 2.5 @3.00",
           "lineType": "player2",
           "over": "+ 2.5 @1.28"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 3.5 @1.73",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.92"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.73",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.92"
         },
         {
           "book": "etoto",
@@ -15487,10 +15541,24 @@
           "x": "@5.00",
           "lineType": "meczowa",
           "over": " @1.42"
+        },
+        {
+          "book": "fo open.",
+          "under": " @2.55",
+          "x": "@5.50",
+          "lineType": "meczowa",
+          "over": " @1.85"
+        },
+        {
+          "book": "fortuna",
+          "under": " @2.55",
+          "x": "@5.50",
+          "lineType": "meczowa",
+          "over": " @1.85"
         }
       ],
-      "DF_cnt": 42,
-      "DF_book_cnt": 8,
+      "DF_cnt": 51,
+      "DF_book_cnt": 10,
       "B": [
         {
           "book": "betclic",
