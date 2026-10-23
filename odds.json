@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:05",
+  "updateTime": "10:10",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2146,7 +2146,7 @@
         {
           "book": "betclic",
           "lineType": "player2",
-          "over": "+11.5 @1.74"
+          "over": "+11.5 @1.68"
         },
         {
           "book": "etoto",
@@ -4461,6 +4461,12 @@
           "over": "+17.5 @1.95"
         },
         {
+          "book": "betters",
+          "under": "-17.5 @1.73",
+          "lineType": "meczowa",
+          "over": "+17.5 @1.92"
+        },
+        {
           "book": "superbet",
           "under": "-17.5 @1.77",
           "lineType": "meczowa",
@@ -4588,8 +4594,8 @@
           "over": " @1.50"
         }
       ],
-      "A_cnt": 21,
-      "A_book_cnt": 5,
+      "A_cnt": 22,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "superbet",
@@ -4614,6 +4620,12 @@
           "under": "- 4.5 @1.45",
           "lineType": "meczowa",
           "over": "+ 4.5 @2.42"
+        },
+        {
+          "book": "betters",
+          "under": "- 4.5 @1.73",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.92"
         },
         {
           "book": "superbet",
@@ -4674,8 +4686,8 @@
           "over": " @4.80"
         }
       ],
-      "DF_cnt": 11,
-      "DF_book_cnt": 2,
+      "DF_cnt": 12,
+      "DF_book_cnt": 3,
       "B": [
         {
           "book": "betclic",
@@ -6682,6 +6694,12 @@
           "over": "+ 1.5 @1.90"
         },
         {
+          "book": "sts",
+          "under": "- 1.5 @1.80",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.90"
+        },
+        {
           "book": "etoto",
           "under": "- 1.5 @1.85",
           "lineType": "player2",
@@ -6704,12 +6722,6 @@
           "under": "- 1.5 @1.81",
           "lineType": "player2",
           "over": "+ 1.5 @1.83"
-        },
-        {
-          "book": "sts",
-          "under": "- 1.5 @1.90",
-          "lineType": "player2",
-          "over": "+ 1.5 @1.80"
         },
         {
           "book": "superbet",
