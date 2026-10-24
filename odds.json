@@ -1,5 +1,5 @@
 {
-  "updateTime": "22:35",
+  "updateTime": "22:40",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -145,6 +145,12 @@
           "over": "+17.5 @1.80"
         },
         {
+          "book": "sts",
+          "under": "-17.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+17.5 @1.80"
+        },
+        {
           "book": "sb open.",
           "under": "-17.5 @1.92",
           "lineType": "meczowa",
@@ -194,6 +200,12 @@
         },
         {
           "book": "fuksiarz",
+          "under": "-11.5 @1.85",
+          "lineType": "player1",
+          "over": "+11.5 @1.85"
+        },
+        {
+          "book": "sts",
           "under": "-11.5 @1.85",
           "lineType": "player1",
           "over": "+11.5 @1.85"
@@ -262,6 +274,12 @@
         },
         {
           "book": "fuksiarz",
+          "under": "- 6.5 @1.67",
+          "lineType": "player2",
+          "over": "+ 6.5 @2.05"
+        },
+        {
+          "book": "sts",
           "under": "- 6.5 @1.67",
           "lineType": "player2",
           "over": "+ 6.5 @2.05"
@@ -341,8 +359,8 @@
           "over": " @5.40"
         }
       ],
-      "A_cnt": 33,
-      "A_book_cnt": 5,
+      "A_cnt": 36,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "fuksiarz",
