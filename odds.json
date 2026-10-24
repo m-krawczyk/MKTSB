@@ -1,5 +1,5 @@
 {
-  "updateTime": "11:05",
+  "updateTime": "11:10",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2020,6 +2020,12 @@
           "over": "+16.5 @1.70"
         },
         {
+          "book": "sts",
+          "under": "-17.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+17.5 @1.85"
+        },
+        {
           "book": "forbet",
           "under": "-17.5 @1.83",
           "lineType": "meczowa",
@@ -2108,6 +2114,12 @@
           "over": "+ 9.0 @2.00"
         },
         {
+          "book": "sts",
+          "under": "- 9.5 @1.75",
+          "lineType": "player1",
+          "over": "+ 9.5 @1.95"
+        },
+        {
           "book": "fuksiarz",
           "under": "- 9.5 @1.95",
           "lineType": "player1",
@@ -2152,6 +2164,12 @@
           "under": "- 7.5 @2.12",
           "lineType": "player2",
           "over": "+ 7.5 @1.60"
+        },
+        {
+          "book": "sts",
+          "under": "- 8.5 @1.75",
+          "lineType": "player2",
+          "over": "+ 8.5 @1.95"
         },
         {
           "book": "fuksiarz",
@@ -2214,7 +2232,7 @@
         {
           "book": "betclic",
           "under": " @1.45",
-          "x": "@10.00",
+          "x": "@8.75",
           "lineType": "meczowa",
           "over": " @2.15"
         },
@@ -2240,8 +2258,8 @@
           "over": " @2.52"
         }
       ],
-      "A_cnt": 35,
-      "A_book_cnt": 10,
+      "A_cnt": 38,
+      "A_book_cnt": 11,
       "DF": [
         {
           "book": "superbet",
