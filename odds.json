@@ -1,5 +1,5 @@
 {
-  "updateTime": "11:55",
+  "updateTime": "12:00",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -1352,7 +1352,7 @@
       "id": "5956839026762237234",
       "matchStartTime": "16:00",
       "tournament": "Bruksela ATP • Półfinał",
-      "weather": "🔆Pogoda Brussels, czas lokalny +0h\n16:00 🌡 11°C / 7°C💧 85 %  💨 25 (max 48) km/h 🌧 70 % 0 mm 🌀 1.23 kg/m³\n17:00 🌡 11°C / 7°C💧 87 %  💨 25 (max 47) km/h 🌧 98 % 1 mm 🌀 1.23 kg/m³\n18:00 🌡 11°C / 6°C💧 87 %  💨 27 (max 54) km/h 🌧 100 % 1 mm 🌀 1.23 kg/m³",
+      "weather": "🔆Pogoda Brussels, czas lokalny +0h\n16:00 🌡 11°C / 7°C💧 84 %  💨 23 (max 47) km/h 🌧 70 % 0 mm 🌀 1.23 kg/m³\n17:00 🌡 11°C / 6°C💧 87 %  💨 27 (max 53) km/h 🌧 98 % 0 mm 🌀 1.23 kg/m³\n18:00 🌡 11°C / 6°C💧 86 %  💨 26 (max 52) km/h 🌧 100 % 0 mm 🌀 1.23 kg/m³",
       "eventName": "Francisco Cerundolo - Tallon Griekspoor",
       "p1": "Francisco Cerundolo",
       "p2": "Tallon Griekspoor",
@@ -2061,7 +2061,7 @@
       "id": "3076059670992084612",
       "matchStartTime": "18:30",
       "tournament": "Bruksela ATP • Półfinał",
-      "weather": "🔆Pogoda Brussels, czas lokalny +0h\n19:00 🌡 10°C / 5°C💧 84 %  💨 29 (max 58) km/h 🌧 100 % 1 mm 🌀 1.23 kg/m³\n20:00 🌡 10°C / 5°C💧 87 %  💨 29 (max 58) km/h 🌧 100 % 1 mm 🌀 1.23 kg/m³\n21:00 🌡 10°C / 5°C💧 85 %  💨 32 (max 63) km/h 🌧 100 % 1 mm 🌀 1.23 kg/m³",
+      "weather": "🔆Pogoda Brussels, czas lokalny +0h\n19:00 🌡 11°C / 6°C💧 82 %  💨 28 (max 54) km/h 🌧 100 % 0 mm 🌀 1.23 kg/m³\n20:00 🌡 10°C / 5°C💧 86 %  💨 27 (max 57) km/h 🌧 100 % 1 mm 🌀 1.23 kg/m³\n21:00 🌡 10°C / 5°C💧 85 %  💨 33 (max 64) km/h 🌧 100 % 1 mm 🌀 1.23 kg/m³",
       "eventName": "Arthur Fils - Jan-Lennard Struff",
       "p1": "Arthur Fils",
       "p2": "Jan-Lennard Struff",
@@ -2362,6 +2362,12 @@
           "over": "+ 7.5 @1.60"
         },
         {
+          "book": "fortuna",
+          "under": "- 7.5 @2.16",
+          "lineType": "player2",
+          "over": "+ 7.5 @1.57"
+        },
+        {
           "book": "sts",
           "under": "- 8.5 @1.75",
           "lineType": "player2",
@@ -2386,6 +2392,18 @@
           "over": "+ 8.5 @1.88"
         },
         {
+          "book": "fo open.",
+          "under": "- 8.5 @1.77",
+          "lineType": "player2",
+          "over": "+ 8.5 @1.87"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.77",
+          "lineType": "player2",
+          "over": "+ 8.5 @1.87"
+        },
+        {
           "book": "bc open.",
           "lineType": "player2",
           "over": "+ 8.5 @1.80"
@@ -2399,6 +2417,12 @@
           "book": "betfan",
           "lineType": "player2",
           "over": "+ 8.5 @1.60"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 9.5 @1.52",
+          "lineType": "player2",
+          "over": "+ 9.5 @2.26"
         },
         {
           "book": "superbet",
@@ -2452,9 +2476,23 @@
           "x": "@7.00",
           "lineType": "meczowa",
           "over": " @2.52"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.80",
+          "x": "@7.80",
+          "lineType": "meczowa",
+          "over": " @2.30"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.80",
+          "x": "@7.80",
+          "lineType": "meczowa",
+          "over": " @2.30"
         }
       ],
-      "A_cnt": 46,
+      "A_cnt": 50,
       "A_book_cnt": 13,
       "DF": [
         {
@@ -2500,6 +2538,18 @@
           "over": "+ 3.5 @1.70"
         },
         {
+          "book": "fo open.",
+          "under": "- 3.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.67"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.67"
+        },
+        {
           "book": "betters",
           "under": "- 3.5 @2.02",
           "lineType": "meczowa",
@@ -2516,6 +2566,12 @@
           "under": "- 4.5 @1.55",
           "lineType": "meczowa",
           "over": "+ 4.5 @2.25"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.61",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.09"
         },
         {
           "book": "bc open.",
@@ -2560,6 +2616,18 @@
           "over": "+ 1.5 @2.17"
         },
         {
+          "book": "fo open.",
+          "under": "- 1.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.79"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.79"
+        },
+        {
           "book": "bc open.",
           "under": "- 1.5 @1.70",
           "lineType": "player1",
@@ -2602,10 +2670,28 @@
           "over": "+ 1.5 @1.53"
         },
         {
+          "book": "fortuna",
+          "under": "- 1.5 @2.36",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.48"
+        },
+        {
           "book": "superbet",
           "under": "- 2.5 @1.43",
           "lineType": "player2",
           "over": "+ 2.5 @2.47"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.61",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.09"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.61",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.09"
         },
         {
           "book": "bc open.",
@@ -2641,10 +2727,24 @@
           "x": "@3.75",
           "lineType": "meczowa",
           "over": " @1.69"
+        },
+        {
+          "book": "fo open.",
+          "under": " @2.75",
+          "x": "@5.00",
+          "lineType": "meczowa",
+          "over": " @1.81"
+        },
+        {
+          "book": "fortuna",
+          "under": " @2.75",
+          "x": "@5.00",
+          "lineType": "meczowa",
+          "over": " @1.81"
         }
       ],
-      "DF_cnt": 27,
-      "DF_book_cnt": 10,
+      "DF_cnt": 35,
+      "DF_book_cnt": 12,
       "B": [
         {
           "book": "betclic",
@@ -2696,7 +2796,7 @@
       "id": "3148762965824933748",
       "matchStartTime": "16:00",
       "tournament": "Lyon ATP • Półfinał",
-      "weather": "🔆Pogoda Lyon, czas lokalny +0h\n16:00 🌡 12°C / 10°C💧 66 %  💨  8 (max 20) km/h 🌧 28 % 0 mm 🌀 1.22 kg/m³\n17:00 🌡 12°C / 10°C💧 66 %  💨  8 (max 20) km/h 🌧 40 % 0 mm 🌀 1.22 kg/m³\n18:00 🌡 12°C / 10°C💧 67 %  💨  8 (max 20) km/h 🌧 60 % 0 mm 🌀 1.22 kg/m³",
+      "weather": "🔆Pogoda Lyon, czas lokalny +0h\n16:00 🌡 12°C / 10°C💧 64 %  💨  8 (max 19) km/h 🌧 20 % 0 mm 🌀 1.22 kg/m³\n17:00 🌡 12°C / 10°C💧 62 %  💨  8 (max 21) km/h 🌧 38 % 0 mm 🌀 1.22 kg/m³\n18:00 🌡 12°C / 10°C💧 64 %  💨  8 (max 20) km/h 🌧 45 % 0 mm 🌀 1.22 kg/m³",
       "eventName": "Flavio Cobolli - Lorenzo Musetti",
       "p1": "Flavio Cobolli",
       "p2": "Lorenzo Musetti",
@@ -3512,7 +3612,7 @@
       "id": "8064716465680378847",
       "matchStartTime": "14:00",
       "tournament": "Lyon ATP • Półfinał",
-      "weather": "🔆Pogoda Lyon, czas lokalny +0h\n14:00 🌡 12°C / 10°C💧 67 %  💨  8 (max 20) km/h 🌧 18 % 0 mm 🌀 1.22 kg/m³\n15:00 🌡 12°C / 10°C💧 67 %  💨  8 (max 21) km/h 🌧 20 % 0 mm 🌀 1.22 kg/m³\n16:00 🌡 12°C / 10°C💧 66 %  💨  8 (max 20) km/h 🌧 28 % 0 mm 🌀 1.22 kg/m³",
+      "weather": "🔆Pogoda Lyon, czas lokalny +0h\n14:00 🌡 12°C / 10°C💧 64 %  💨  6 (max 18) km/h 🌧 3 % 0 mm 🌀 1.22 kg/m³\n15:00 🌡 12°C / 10°C💧 65 %  💨  8 (max 19) km/h 🌧 18 % 0 mm 🌀 1.22 kg/m³\n16:00 🌡 12°C / 10°C💧 64 %  💨  8 (max 19) km/h 🌧 20 % 0 mm 🌀 1.22 kg/m³",
       "eventName": "Tommy Paul - Taylor Fritz",
       "p1": "Tommy Paul",
       "p2": "Taylor Fritz",
