@@ -1,5 +1,5 @@
 {
-  "updateTime": "22:10",
+  "updateTime": "22:15",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -1314,9 +1314,28 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "lvbet",
+          "under": "- 3.5 @1.95",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.67"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.67"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 2.5 @1.50",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.27"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "3123716583522158823",
@@ -1571,9 +1590,28 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "lvbet",
+          "under": "- 3.5 @1.77",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.85"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.67"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @2.17",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.55"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "-5435988271753267360",
@@ -2085,9 +2123,28 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "lvbet",
+          "under": "- 3.5 @1.67",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.95"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @1.50",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.27"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 2.5 @1.57",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.15"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "5827314304009670682",
@@ -2599,9 +2656,28 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "lvbet",
+          "under": "- 2.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 2.5 @1.77"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 2.5 @1.42",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.50"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 0.5 @1.67",
+          "lineType": "player2",
+          "over": "+ 0.5 @1.95"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "-2390259078243993543",
@@ -4141,9 +4217,28 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "lvbet",
+          "under": "- 3.5 @1.77",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.85"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 0.5 @2.35",
+          "lineType": "player1",
+          "over": "+ 0.5 @1.47"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 2.5 @1.77",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.85"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "-8157127119428257924",
@@ -15556,13 +15651,13 @@
           "book": "lvbet",
           "under": "- 3.5 @1.80",
           "lineType": "player1",
-          "over": "+ 3.5 @1.88"
+          "over": "+ 3.5 @1.90"
         },
         {
           "book": "lvbet",
-          "under": "- 4.5 @1.57",
+          "under": "- 4.5 @1.60",
           "lineType": "player2",
-          "over": "+ 4.5 @2.15"
+          "over": "+ 4.5 @2.20"
         }
       ],
       "B_cnt": 3,
