@@ -1,5 +1,5 @@
 {
-  "updateTime": "07:25",
+  "updateTime": "07:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -4607,6 +4607,24 @@
       },
       "A": [
         {
+          "book": "fortuna",
+          "under": "- 6.5 @2.09",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.61"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 7.5 @1.76",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.89"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 7.5 @1.76",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.89"
+        },
+        {
           "book": "superbet",
           "under": "- 8.5 @1.72",
           "lineType": "meczowa",
@@ -4631,6 +4649,18 @@
           "over": "+ 4.5 @1.72"
         },
         {
+          "book": "fo open.",
+          "under": "- 4.5 @1.97",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.69"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.97",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.69"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 8.5 @1.90"
@@ -4639,6 +4669,18 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+ 8.5 @1.90"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.80",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.84"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.80",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.84"
         },
         {
           "book": "superbet",
@@ -4691,12 +4733,44 @@
           "x": "@5.80",
           "lineType": "meczowa",
           "over": " @2.90"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.35",
+          "x": "@6.40",
+          "lineType": "meczowa",
+          "over": " @4.60"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.35",
+          "x": "@6.40",
+          "lineType": "meczowa",
+          "over": " @4.60"
         }
       ],
-      "A_cnt": 10,
-      "A_book_cnt": 4,
+      "A_cnt": 17,
+      "A_book_cnt": 6,
       "DF": [
         {
+          "book": "fortuna",
+          "under": "- 7.5 @2.16",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.57"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 8.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.90"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.90"
+        },
+        {
           "book": "sb open.",
           "under": "- 8.5 @1.78",
           "lineType": "meczowa",
@@ -4707,6 +4781,24 @@
           "under": "- 8.5 @1.78",
           "lineType": "meczowa",
           "over": "+ 8.5 @1.90"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 5.5 @2.04",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.64"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @2.04",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.64"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.66",
+          "lineType": "player1",
+          "over": "+ 6.5 @2.01"
         },
         {
           "book": "sb open.",
@@ -4731,6 +4823,18 @@
           "under": "- 1.5 @2.32",
           "lineType": "player2",
           "over": "+ 1.5 @1.53"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.96"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.96"
         }
       ],
       "MDF": [
@@ -4747,13 +4851,34 @@
           "x": "@8.90",
           "lineType": "meczowa",
           "over": " @8.40"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.13",
+          "x": "@7.70",
+          "lineType": "meczowa",
+          "over": " @10.00"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.13",
+          "x": "@7.70",
+          "lineType": "meczowa",
+          "over": " @10.00"
         }
       ],
-      "DF_cnt": 6,
-      "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "DF_cnt": 14,
+      "DF_book_cnt": 4,
+      "B": [
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.83",
+          "lineType": "meczowa",
+          "over": "+ 8.5 @1.83"
+        }
+      ],
+      "B_cnt": 1,
+      "B_book_cnt": 1
     },
     {
       "id": "3201663398432755904",
@@ -8355,7 +8480,7 @@
     },
     {
       "id": "-7679208396571654050",
-      "matchStartTime": "02:30",
+      "matchStartTime": "03:00",
       "tournament": "Tokio WTA • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Ann Li - Ekaterina Alexandrova",
@@ -8612,7 +8737,7 @@
     },
     {
       "id": "7452192128888439044",
-      "matchStartTime": "02:30",
+      "matchStartTime": "09:00",
       "tournament": "Tokio WTA • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Naomi Osaka - Jasmine Paolini",
@@ -9145,7 +9270,7 @@
     },
     {
       "id": "4868595409314082274",
-      "matchStartTime": "05:00",
+      "matchStartTime": "05:20",
       "tournament": "Tokio WTA • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Aliaksandra Sasnovich - Nikola Bartunkova",
@@ -10037,7 +10162,7 @@
     },
     {
       "id": "-7685460037842007683",
-      "matchStartTime": "02:30",
+      "matchStartTime": "04:10",
       "tournament": "Tokio WTA • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Diane Parry - Cristina Bucsa",
@@ -10577,7 +10702,7 @@
     },
     {
       "id": "-2238819367738172131",
-      "matchStartTime": "02:30",
+      "matchStartTime": "06:30",
       "tournament": "Tokio WTA • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Tereza Valentova - Mia Pohankova",
@@ -10853,7 +10978,7 @@
     },
     {
       "id": "6778863650017148953",
-      "matchStartTime": "02:30",
+      "matchStartTime": "07:00",
       "tournament": "Tokio WTA • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Leylah Fernandez - Himeno Sakatsume",
@@ -11367,7 +11492,7 @@
     },
     {
       "id": "-1669947160057957423",
-      "matchStartTime": "02:30",
+      "matchStartTime": "03:40",
       "tournament": "Tokio WTA • 1/16 finału",
       "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Yulia Putintseva - Maria Sakkari",
