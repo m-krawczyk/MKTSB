@@ -1,5 +1,5 @@
 {
-  "updateTime": "07:45",
+  "updateTime": "07:50",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -3146,10 +3146,56 @@
         "last6_W_match_dfAvgPerSet": "0.35",
         "last6_L_match_dfAvgPerSet": "0.73"
       },
-      "A": null,
-      "MA": null,
-      "A_cnt": 0,
-      "A_book_cnt": 0,
+      "A": [
+        {
+          "book": "bc open.",
+          "lineType": "meczowa",
+          "over": "+20.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+20.5 @1.80"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player1",
+          "over": "+10.5 @1.70"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+10.5 @1.70"
+        },
+        {
+          "book": "bc open.",
+          "lineType": "player2",
+          "over": "+ 9.5 @1.70"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player2",
+          "over": "+ 9.5 @1.70"
+        }
+      ],
+      "MA": [
+        {
+          "book": "bc open.",
+          "under": " @1.60",
+          "x": "@8.00",
+          "lineType": "meczowa",
+          "over": " @2.00"
+        },
+        {
+          "book": "betclic",
+          "under": " @1.60",
+          "x": "@8.00",
+          "lineType": "meczowa",
+          "over": " @2.00"
+        }
+      ],
+      "A_cnt": 6,
+      "A_book_cnt": 2,
       "DF": null,
       "MDF": null,
       "DF_cnt": 0,
@@ -5836,7 +5882,7 @@
     },
     {
       "id": "3201663398432755904",
-      "matchStartTime": "07:40",
+      "matchStartTime": "08:00",
       "tournament": "Guangzhou WTA • 1/16 finału",
       "weather": "🔆Pogoda Guangzhou, czas lokalny +7h\n08:00 🌡 31°C / 31°C💧 39 %  💨 11 (max 29) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1016 hPa\n09:00 🌡 31°C / 31°C💧 40 %  💨 10 (max 30) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1016 hPa\n10:00 🌡 30°C / 30°C💧 41 %  💨 12 (max 28) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
       "eventName": "Antonia Ruzic - Claire Liu",
@@ -7246,7 +7292,7 @@
     },
     {
       "id": "-2238819367738172131",
-      "matchStartTime": "07:40",
+      "matchStartTime": "08:00",
       "tournament": "Tokio WTA • 1/16 finału",
       "weather": "🔆Pogoda Tokyo, czas lokalny +8h\n08:00 🌡 21°C / 22°C💧 73 %  💨  3 (max 13) km/h 🌧 0 % 0 mm 🌀 1.18 kg/m³ 1000 hPa\n09:00 🌡 20°C / 22°C💧 77 %  💨  3 (max 8) km/h 🌧 0 % 0 mm 🌀 1.18 kg/m³ 1000 hPa\n10:00 🌡 19°C / 21°C💧 81 %  💨  3 (max 10) km/h 🌧 0 % 0 mm 🌀 1.18 kg/m³ 1001 hPa",
       "eventName": "Tereza Valentova - Mia Pohankova",
@@ -9675,7 +9721,7 @@
           "book": "superbet",
           "under": "- 3.5 @1.92",
           "lineType": "meczowa",
-          "over": "+ 3.5 @1.77"
+          "over": "+ 3.5 @1.76"
         },
         {
           "book": "sb open.",
