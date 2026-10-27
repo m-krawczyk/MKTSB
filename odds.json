@@ -1,5 +1,5 @@
 {
-  "updateTime": "07:00",
+  "updateTime": "07:05",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2244,9 +2244,9 @@
         },
         {
           "book": "superbet",
-          "under": "-19.5 @1.82",
+          "under": "-19.5 @1.85",
           "lineType": "meczowa",
-          "over": "+19.5 @1.87"
+          "over": "+19.5 @1.83"
         },
         {
           "book": "bc open.",
@@ -2281,16 +2281,16 @@
           "over": "+16.5 @1.80"
         },
         {
-          "book": "superbet",
-          "under": "- 7.5 @1.75",
-          "lineType": "player2",
-          "over": "+ 7.5 @1.95"
-        },
-        {
           "book": "sb open.",
           "under": "- 7.5 @1.78",
           "lineType": "player2",
           "over": "+ 7.5 @1.90"
+        },
+        {
+          "book": "superbet",
+          "under": "- 7.5 @1.80",
+          "lineType": "player2",
+          "over": "+ 7.5 @1.88"
         },
         {
           "book": "bc open.",
@@ -2320,10 +2320,10 @@
         },
         {
           "book": "superbet",
-          "under": " @1.11",
-          "x": "@9.80",
+          "under": " @1.13",
+          "x": "@9.60",
           "lineType": "meczowa",
-          "over": " @5.00"
+          "over": " @4.80"
         },
         {
           "book": "sb open.",
@@ -11532,46 +11532,46 @@
       "tags1": "DF",
       "tags2": null,
       "stats1": {
-        "sb_a1": "5#6#3#2##7",
-        "sb_a2": "8#7#11#7##13",
-        "sb_am": "13#13#14#9##20",
-        "sb_df1": "3#2#4#4##6",
-        "sb_df2": "2#2#3#3##4",
-        "sb_dfm": "5#4#6#6##10",
+        "sb_a1": "6#5#6#3#2#",
+        "sb_a2": "6#8#7#11#7#",
+        "sb_am": "12#13#13#14#9#",
+        "sb_df1": "2#3#2#4#4#",
+        "sb_df2": "3#2#2#3#3#",
+        "sb_dfm": "5#5#4#6#6#",
         "sb_b1": "#####",
         "sb_b2": "#####",
         "sb_bm": "#####",
-        "lv_b1": "#####5",
-        "lv_b2": "#####4",
-        "lv_bm": "#####8",
+        "lv_b1": "#####",
+        "lv_b2": "#####",
+        "lv_bm": "#####",
         "bc_b1": "#####",
         "bc_b2": "#####",
         "bc_bm": "#####",
         "dynamic": {
-          "a": "\n                                                  71% 1. serwis\nost. 6 surf:           1.65/set      65% 1. serwis\nostatnie 12:           1.5/set      67% 1. serwis",
-          "df": "\n                                                  71% 1. serwis\nlast 6 surf:           1.4/set      65% 1. serwis\nlast 12:                 1.26/set      67% 1. serwis\n                               Win              Lost\nlast 6 set              0.5/set      0.75/set\nlast 6 match       0.53/set      0.74/set",
-          "b": "\n                                                  71% 1. serwis\nost. 6 surf:           1/set      65% 1. serwis\nlast 12:           1.12/set      67% 1. serwis"
+          "a": "\n                                                  73% 1. serwis\nost. 6 surf:           1.79/set      67% 1. serwis\nostatnie 12:           1.59/set      67% 1. serwis",
+          "df": "\n                                                  73% 1. serwis\nlast 6 surf:           1.37/set      67% 1. serwis\nlast 12:                 1.18/set      67% 1. serwis\n                               Win              Lost\nlast 6 set              0.42/set      0.75/set\nlast 6 match       0.56/set      0.74/set",
+          "b": "\n                                                  73% 1. serwis\nost. 6 surf:           1.05/set      67% 1. serwis\nlast 12:           1.24/set      67% 1. serwis"
         },
-        "ace": "7 #5 #5^3#1 #2 #9^5",
-        "ace2": "13 #7 #12^3#5 #4 #9^5",
-        "df": "5 #2 #1^3#3 #3 #8^5",
-        "df2": "3 #4 #2^3#3 #4 #7^5",
-        "b": "0 #2 #2^3#2 #4 #5^5",
-        "b2": "1 #0 #3^3#4 #1 #9^5",
-        "groundType": "H#H#H#?#?#H",
-        "aceAvgPerSet": "1.90",
-        "dfAvgPerSet": "1.37",
-        "secSrvToDf": "7.40",
-        "srvGameToDf": "3.41",
-        "bAvgPerSet": "1.19",
-        "last_aceAvgPerSet": "1.81",
-        "last_dfAvgPerSet": "1.38",
-        "last_secSrvToDf": "7.24",
-        "last_srvGameToDf": "4.01",
-        "last_bAvgPerSet": "0.94",
-        "last6_W_set_dfAvgPerSet": "0.50",
+        "ace": "4 #7 #5 #5^3#1 #2 ",
+        "ace2": "7 #13 #7 #12^3#5 #4 ",
+        "df": "2 #5 #2 #1^3#3 #3 ",
+        "df2": "2 #3 #4 #2^3#3 #4 ",
+        "b": "4 #0 #2 #2^3#2 #4 ",
+        "b2": "0 #1 #0 #3^3#4 #1 ",
+        "groundType": "HI#H#H#H#?#?",
+        "aceAvgPerSet": "1.91",
+        "dfAvgPerSet": "1.36",
+        "secSrvToDf": "7.42",
+        "srvGameToDf": "3.42",
+        "bAvgPerSet": "1.20",
+        "last_aceAvgPerSet": "1.85",
+        "last_dfAvgPerSet": "1.23",
+        "last_secSrvToDf": "7.37",
+        "last_srvGameToDf": "4.21",
+        "last_bAvgPerSet": "1.08",
+        "last6_W_set_dfAvgPerSet": "0.42",
         "last6_L_set_dfAvgPerSet": "0.75",
-        "last6_W_match_dfAvgPerSet": "0.53",
+        "last6_W_match_dfAvgPerSet": "0.56",
         "last6_L_match_dfAvgPerSet": "0.74"
       },
       "stats2": {
