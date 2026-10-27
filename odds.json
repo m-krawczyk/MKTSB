@@ -1,5 +1,5 @@
 {
-  "updateTime": "15:25",
+  "updateTime": "15:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -789,9 +789,9 @@
     },
     {
       "id": "-5435988271753267360",
-      "matchStartTime": "16:00",
+      "matchStartTime": "16:10",
       "tournament": "Bazylea ATP • 1/16 finału",
-      "weather": "🔆Pogoda Basel, czas lokalny +0h\n16:00 🌡 19°C / 18°C💧 53 %  💨  2 (max 10) km/h 🌧 0 % 0 mm 🌀 1.17 kg/m³ 989 hPa\n17:00 🌡 18°C / 17°C💧 60 %  💨  5 (max 9) km/h 🌧 0 % 0 mm 🌀 1.18 kg/m³ 989 hPa\n18:00 🌡 16°C / 16°C💧 69 %  💨  3 (max 9) km/h 🌧 0 % 0 mm 🌀 1.19 kg/m³ 990 hPa",
+      "weather": "🔆Pogoda Basel, czas lokalny +0h\n17:00 🌡 18°C / 17°C💧 60 %  💨  5 (max 9) km/h 🌧 0 % 0 mm 🌀 1.18 kg/m³ 989 hPa\n18:00 🌡 16°C / 16°C💧 69 %  💨  3 (max 9) km/h 🌧 0 % 0 mm 🌀 1.19 kg/m³ 990 hPa\n19:00 🌡 14°C / 14°C💧 79 %  💨  3 (max 7) km/h 🌧 0 % 0 mm 🌀 1.19 kg/m³ 990 hPa",
       "eventName": "Alex Michelsen - Botic Van De Zandschulp",
       "p1": "Alex Michelsen",
       "p2": "Botic Van De Zandschulp",
@@ -13793,7 +13793,7 @@
     },
     {
       "id": "6943202650652049829",
-      "matchStartTime": "15:20",
+      "matchStartTime": "15:30",
       "tournament": "Wiedeń ATP • 1/16 finału",
       "weather": "🔆Pogoda Vienna, czas lokalny +0h\n16:00 🌡 12°C / 9°C💧 49 %  💨  6 (max 13) km/h 🌧 0 % 0 mm 🌀 1.22 kg/m³ 1002 hPa\n17:00 🌡 11°C / 9°C💧 56 %  💨  4 (max 13) km/h 🌧 0 % 0 mm 🌀 1.22 kg/m³ 1002 hPa\n18:00 🌡 10°C / 8°C💧 63 %  💨  4 (max 8) km/h 🌧 0 % 0 mm 🌀 1.23 kg/m³ 1002 hPa",
       "eventName": "Karen Khachanov - Carlos Alcaraz",
@@ -14157,9 +14157,9 @@
     },
     {
       "id": "-2450761439256539342",
-      "matchStartTime": "15:30",
+      "matchStartTime": null,
       "tournament": "Wiedeń ATP • 1/16 finału",
-      "weather": "🔆Pogoda Vienna, czas lokalny +0h\n16:00 🌡 12°C / 9°C💧 49 %  💨  6 (max 13) km/h 🌧 0 % 0 mm 🌀 1.22 kg/m³ 1002 hPa\n17:00 🌡 11°C / 9°C💧 56 %  💨  4 (max 13) km/h 🌧 0 % 0 mm 🌀 1.22 kg/m³ 1002 hPa\n18:00 🌡 10°C / 8°C💧 63 %  💨  4 (max 8) km/h 🌧 0 % 0 mm 🌀 1.23 kg/m³ 1002 hPa",
+      "weather": "🔆Pogoda , czas lokalny +h\n",
       "eventName": "Adrian Mannarino - Ignacio Buse",
       "p1": "Adrian Mannarino",
       "p2": "Ignacio Buse",
@@ -14254,6 +14254,12 @@
       },
       "A": [
         {
+          "book": "betclic",
+          "under": "- 4.5 @1.40",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.15"
+        },
+        {
           "book": "superbet",
           "under": "- 9.5 @1.72",
           "lineType": "meczowa",
@@ -14266,12 +14272,13 @@
           "over": "+ 9.5 @1.95"
         },
         {
-          "book": "bc open.",
+          "book": "betclic",
+          "under": "-10.5 @1.40",
           "lineType": "meczowa",
-          "over": "+14.5 @1.80"
+          "over": "+10.5 @2.15"
         },
         {
-          "book": "betclic",
+          "book": "bc open.",
           "lineType": "meczowa",
           "over": "+14.5 @1.80"
         },
@@ -14303,12 +14310,13 @@
           "over": "+ 3.5 @1.88"
         },
         {
-          "book": "bc open.",
+          "book": "betclic",
+          "under": "- 6.5 @1.45",
           "lineType": "player1",
-          "over": "+ 6.5 @1.70"
+          "over": "+ 6.5 @2.05"
         },
         {
-          "book": "betclic",
+          "book": "bc open.",
           "lineType": "player1",
           "over": "+ 6.5 @1.70"
         },
@@ -14328,6 +14336,12 @@
           "over": "+ 7.5 @2.15"
         },
         {
+          "book": "betclic",
+          "under": "- 4.5 @1.27",
+          "lineType": "player2",
+          "over": "+ 4.5 @2.55"
+        },
+        {
           "book": "sb open.",
           "under": "- 5.5 @1.82",
           "lineType": "player2",
@@ -14341,11 +14355,6 @@
         },
         {
           "book": "bc open.",
-          "lineType": "player2",
-          "over": "+ 8.5 @1.70"
-        },
-        {
-          "book": "betclic",
           "lineType": "player2",
           "over": "+ 8.5 @1.70"
         },
@@ -14367,14 +14376,21 @@
       ],
       "MA": [
         {
-          "book": "bc open.",
-          "under": " @3.25",
-          "x": "@6.00",
+          "book": "betclic",
+          "under": " @1.52",
+          "x": "@3.35",
           "lineType": "meczowa",
-          "over": " @1.30"
+          "over": " @4.15"
         },
         {
           "book": "betclic",
+          "under": " @1.27",
+          "x": "@7.25",
+          "lineType": "meczowa",
+          "over": " @3.60"
+        },
+        {
+          "book": "bc open.",
           "under": " @3.25",
           "x": "@6.00",
           "lineType": "meczowa",
@@ -14395,7 +14411,7 @@
           "over": " @1.36"
         }
       ],
-      "A_cnt": 21,
+      "A_cnt": 22,
       "A_book_cnt": 6,
       "DF": [
         {
@@ -14489,9 +14505,34 @@
       ],
       "DF_cnt": 12,
       "DF_book_cnt": 4,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "betclic",
+          "under": "- 1.5 @2.25",
+          "lineType": "meczowa",
+          "over": "+ 1.5 @1.47"
+        },
+        {
+          "book": "betclic",
+          "under": "- 4.5 @1.95",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.65"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @2.15",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.52"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @1.52",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.10"
+        }
+      ],
+      "B_cnt": 4,
+      "B_book_cnt": 1
     },
     {
       "id": "-343566903498594502",
