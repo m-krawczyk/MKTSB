@@ -1,5 +1,5 @@
 {
-  "updateTime": "07:10",
+  "updateTime": "07:15",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2249,6 +2249,12 @@
           "over": "+19.5 @1.83"
         },
         {
+          "book": "etoto",
+          "under": "-19.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+19.5 @1.80"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+29.5 @1.70"
@@ -2263,6 +2269,12 @@
           "under": "-11.5 @1.83",
           "lineType": "player1",
           "over": "+11.5 @1.85"
+        },
+        {
+          "book": "etoto",
+          "under": "-11.5 @1.90",
+          "lineType": "player1",
+          "over": "+11.5 @1.80"
         },
         {
           "book": "superbet",
@@ -2291,6 +2303,12 @@
           "under": "- 7.5 @1.80",
           "lineType": "player2",
           "over": "+ 7.5 @1.88"
+        },
+        {
+          "book": "etoto",
+          "under": "- 7.5 @1.85",
+          "lineType": "player2",
+          "over": "+ 7.5 @1.85"
         },
         {
           "book": "bc open.",
@@ -2333,8 +2351,8 @@
           "over": " @4.35"
         }
       ],
-      "A_cnt": 12,
-      "A_book_cnt": 4,
+      "A_cnt": 15,
+      "A_book_cnt": 5,
       "DF": [
         {
           "book": "sb open.",
