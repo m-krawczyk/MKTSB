@@ -1,5 +1,5 @@
 {
-  "updateTime": "09:05",
+  "updateTime": "09:10",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -117,6 +117,18 @@
           "over": "+23.5 @1.82"
         },
         {
+          "book": "fo open.",
+          "under": "-24.5 @1.83",
+          "lineType": "meczowa",
+          "over": "+24.5 @1.81"
+        },
+        {
+          "book": "fortuna",
+          "under": "-24.5 @1.83",
+          "lineType": "meczowa",
+          "over": "+24.5 @1.81"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+24.5 @1.80"
@@ -149,6 +161,18 @@
           "over": "+11.5 @1.80"
         },
         {
+          "book": "fo open.",
+          "under": "-12.5 @1.75",
+          "lineType": "player1",
+          "over": "+12.5 @1.90"
+        },
+        {
+          "book": "fortuna",
+          "under": "-12.5 @1.75",
+          "lineType": "player1",
+          "over": "+12.5 @1.90"
+        },
+        {
           "book": "sb open.",
           "under": "-11.5 @1.87",
           "lineType": "player2",
@@ -159,6 +183,18 @@
           "under": "-12.5 @1.76",
           "lineType": "player2",
           "over": "+12.5 @1.92"
+        },
+        {
+          "book": "fo open.",
+          "under": "-12.5 @1.78",
+          "lineType": "player2",
+          "over": "+12.5 @1.86"
+        },
+        {
+          "book": "fortuna",
+          "under": "-12.5 @1.78",
+          "lineType": "player2",
+          "over": "+12.5 @1.86"
         },
         {
           "book": "bc open.",
@@ -201,8 +237,8 @@
           "over": " @1.77"
         }
       ],
-      "A_cnt": 12,
-      "A_book_cnt": 4,
+      "A_cnt": 18,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "sb open.",
@@ -261,6 +297,12 @@
       "DF_book_cnt": 2,
       "B": [
         {
+          "book": "fortuna",
+          "under": "- 3.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.86"
+        },
+        {
           "book": "lvbet",
           "under": "- 3.5 @1.77",
           "lineType": "meczowa",
@@ -279,8 +321,8 @@
           "over": "+ 1.5 @1.55"
         }
       ],
-      "B_cnt": 3,
-      "B_book_cnt": 1
+      "B_cnt": 4,
+      "B_book_cnt": 2
     },
     {
       "id": "5736768700901699502",
@@ -2460,7 +2502,7 @@
           "under": " @1.60",
           "x": "@8.00",
           "lineType": "meczowa",
-          "over": " @1.93"
+          "over": " @1.86"
         },
         {
           "book": "superbet",
@@ -2538,9 +2580,9 @@
       "B": [
         {
           "book": "betclic",
-          "under": "- 3.5 @1.52",
+          "under": "- 3.5 @1.48",
           "lineType": "meczowa",
-          "over": "+ 3.5 @2.00"
+          "over": "+ 3.5 @2.05"
         },
         {
           "book": "lvbet",
@@ -2552,19 +2594,19 @@
           "book": "betclic",
           "under": "- 1.5 @1.45",
           "lineType": "player1",
-          "over": "+ 1.5 @2.15"
-        },
-        {
-          "book": "betclic",
-          "under": "- 2.5 @1.32",
-          "lineType": "player2",
-          "over": "+ 2.5 @2.50"
+          "over": "+ 1.5 @2.10"
         },
         {
           "book": "lvbet",
           "under": "- 2.5 @1.42",
           "lineType": "player2",
           "over": "+ 2.5 @2.50"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @1.33",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.45"
         }
       ],
       "B_cnt": 5,
@@ -6509,9 +6551,9 @@
     },
     {
       "id": "-9206347687928764788",
-      "matchStartTime": "09:00",
+      "matchStartTime": "09:20",
       "tournament": "Tokio WTA • 1/8 finału",
-      "weather": "🔆Pogoda Tokyo, czas lokalny +8h\n09:00 🌡 13°C / 11°C💧 52 %  💨 10 (max 32) km/h 🌧 0 % 0 mm 🌀 1.23 kg/m³ 1015 hPa\n10:00 🌡 13°C / 10°C💧 53 %  💨  9 (max 24) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³ 1017 hPa\n11:00 🌡 12°C / 9°C💧 54 %  💨  9 (max 26) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³ 1018 hPa",
+      "weather": "🔆Pogoda Tokyo, czas lokalny +8h\n10:00 🌡 13°C / 10°C💧 53 %  💨  9 (max 24) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³ 1017 hPa\n11:00 🌡 12°C / 9°C💧 54 %  💨  9 (max 26) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³ 1018 hPa\n12:00 🌡 12°C / 9°C💧 55 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³ 1019 hPa",
       "eventName": "Alexandra Eala - Talia Gibson",
       "p1": "Alexandra Eala",
       "p2": "Talia Gibson",
