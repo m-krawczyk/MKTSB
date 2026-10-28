@@ -1,5 +1,5 @@
 {
-  "updateTime": "12:25",
+  "updateTime": "12:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -8,7 +8,7 @@
   "odds": [
     {
       "id": "3123716583522158823",
-      "matchStartTime": "12:20",
+      "matchStartTime": "12:30",
       "tournament": "Bazylea ATP • 1/16 finału",
       "weather": "🔆Pogoda Basel, czas lokalny +0h\n13:00 🌡 14°C / 12°C💧 69 %  💨  6 (max 14) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 998 hPa\n14:00 🌡 14°C / 12°C💧 65 %  💨  8 (max 17) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 998 hPa\n15:00 🌡 14°C / 12°C💧 61 %  💨  7 (max 17) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 998 hPa",
       "eventName": "Yannick Hanfmann - Jan-Lennard Struff",
@@ -965,7 +965,7 @@
     },
     {
       "id": "6153795597521389427",
-      "matchStartTime": "13:30",
+      "matchStartTime": "13:40",
       "tournament": "Bazylea ATP • 1/16 finału",
       "weather": "🔆Pogoda Basel, czas lokalny +0h\n14:00 🌡 14°C / 12°C💧 65 %  💨  8 (max 17) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 998 hPa\n15:00 🌡 14°C / 12°C💧 61 %  💨  7 (max 17) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 998 hPa\n16:00 🌡 14°C / 12°C💧 63 %  💨  8 (max 18) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 998 hPa",
       "eventName": "Remy Bertola - Denis Shapovalov",
@@ -2433,16 +2433,16 @@
           "over": "+ 2.5 @2.10"
         },
         {
+          "book": "betclic",
+          "under": "- 1.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.70"
+        },
+        {
           "book": "lvbet",
           "under": "- 1.5 @1.95",
           "lineType": "player1",
           "over": "+ 1.5 @1.67"
-        },
-        {
-          "book": "betclic",
-          "under": "- 1.5 @1.85",
-          "lineType": "player1",
-          "over": "+ 1.5 @1.60"
         },
         {
           "book": "lvbet",
@@ -2452,9 +2452,9 @@
         },
         {
           "book": "betclic",
-          "under": "- 0.5 @1.55",
+          "under": "- 0.5 @1.70",
           "lineType": "player2",
-          "over": "+ 0.5 @1.95"
+          "over": "+ 0.5 @1.70"
         }
       ],
       "B_cnt": 6,
@@ -2655,7 +2655,7 @@
         {
           "book": "betclic",
           "lineType": "player1",
-          "over": "+10.5 @1.80"
+          "over": "+10.5 @2.00"
         },
         {
           "book": "bc open.",
@@ -3163,6 +3163,12 @@
       "DF_book_cnt": 2,
       "B": [
         {
+          "book": "betclic",
+          "under": "- 3.5 @1.55",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.95"
+        },
+        {
           "book": "lvbet",
           "under": "- 3.5 @2.05",
           "lineType": "meczowa",
@@ -3176,9 +3182,9 @@
         },
         {
           "book": "betclic",
-          "under": "- 4.5 @1.42",
-          "lineType": "meczowa",
-          "over": "+ 4.5 @2.20"
+          "under": "- 0.5 @2.10",
+          "lineType": "player1",
+          "over": "+ 0.5 @1.45"
         },
         {
           "book": "lvbet",
@@ -3194,21 +3200,15 @@
         },
         {
           "book": "betclic",
-          "under": "- 1.5 @1.42",
-          "lineType": "player1",
-          "over": "+ 1.5 @2.20"
+          "under": "- 2.5 @1.55",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.95"
         },
         {
           "book": "lvbet",
           "under": "- 2.5 @2.35",
           "lineType": "player2",
           "over": "+ 2.5 @1.47"
-        },
-        {
-          "book": "betclic",
-          "under": "- 2.5 @2.35",
-          "lineType": "player2",
-          "over": "+ 2.5 @1.36"
         }
       ],
       "B_cnt": 8,
@@ -8856,10 +8856,10 @@
         },
         {
           "book": "betclic",
-          "under": " @2.20",
-          "x": "@10.00",
+          "under": " @1.93",
+          "x": "@12.00",
           "lineType": "meczowa",
-          "over": " @1.40"
+          "over": " @1.50"
         },
         {
           "book": "superbet",
@@ -9161,10 +9161,10 @@
         },
         {
           "book": "betclic",
-          "under": " @1.55",
-          "x": "@10.00",
+          "under": " @1.50",
+          "x": "@11.00",
           "lineType": "meczowa",
-          "over": " @1.85"
+          "over": " @2.00"
         },
         {
           "book": "superbet",
