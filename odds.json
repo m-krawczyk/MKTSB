@@ -1,5 +1,5 @@
 {
-  "updateTime": "19:20",
+  "updateTime": "19:25",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2965,10 +2965,22 @@
       "DF_book_cnt": 2,
       "B": [
         {
+          "book": "lvbet",
+          "under": "- 2.5 @1.67",
+          "lineType": "meczowa",
+          "over": "+ 2.5 @1.95"
+        },
+        {
           "book": "betclic",
           "under": "- 2.5 @1.60",
           "lineType": "meczowa",
           "over": "+ 2.5 @1.85"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @1.50",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.27"
         },
         {
           "book": "betclic",
@@ -2977,14 +2989,20 @@
           "over": "+ 1.5 @2.15"
         },
         {
+          "book": "lvbet",
+          "under": "- 1.5 @1.47",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.35"
+        },
+        {
           "book": "betclic",
           "under": "- 1.5 @1.40",
           "lineType": "player2",
           "over": "+ 1.5 @2.30"
         }
       ],
-      "B_cnt": 3,
-      "B_book_cnt": 1
+      "B_cnt": 6,
+      "B_book_cnt": 2
     },
     {
       "id": "5555446367567443854",
@@ -12072,10 +12090,22 @@
       "DF_book_cnt": 0,
       "B": [
         {
+          "book": "lvbet",
+          "under": "- 4.5 @1.77",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.85"
+        },
+        {
           "book": "betclic",
           "under": "- 4.5 @1.65",
           "lineType": "meczowa",
           "over": "+ 4.5 @1.80"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @1.47",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.35"
         },
         {
           "book": "betclic",
@@ -12084,14 +12114,20 @@
           "over": "+ 1.5 @2.25"
         },
         {
+          "book": "lvbet",
+          "under": "- 3.5 @1.62",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.05"
+        },
+        {
           "book": "betclic",
           "under": "- 3.5 @1.55",
           "lineType": "player2",
           "over": "+ 3.5 @1.95"
         }
       ],
-      "B_cnt": 3,
-      "B_book_cnt": 1
+      "B_cnt": 6,
+      "B_book_cnt": 2
     }
   ]
 }
