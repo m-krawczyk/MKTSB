@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:25",
+  "updateTime": "10:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -417,6 +417,18 @@
       },
       "A": [
         {
+          "book": "fo open.",
+          "under": "-16.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+16.5 @1.79"
+        },
+        {
+          "book": "fortuna",
+          "under": "-16.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+16.5 @1.79"
+        },
+        {
           "book": "sb open.",
           "under": "-17.5 @1.76",
           "lineType": "meczowa",
@@ -463,6 +475,18 @@
           "over": "+ 7.5 @1.87"
         },
         {
+          "book": "fo open.",
+          "under": "- 8.5 @1.69",
+          "lineType": "player1",
+          "over": "+ 8.5 @1.97"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.69",
+          "lineType": "player1",
+          "over": "+ 8.5 @1.97"
+        },
+        {
           "book": "etoto",
           "under": "-10.5 @1.85",
           "lineType": "player1",
@@ -477,6 +501,18 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+13.5 @1.80"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 8.5 @1.82",
+          "lineType": "player2",
+          "over": "+ 8.5 @1.82"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 8.5 @1.82",
+          "lineType": "player2",
+          "over": "+ 8.5 @1.82"
         },
         {
           "book": "sb open.",
@@ -542,11 +578,43 @@
           "x": "@7.00",
           "lineType": "meczowa",
           "over": " @1.42"
+        },
+        {
+          "book": "fo open.",
+          "under": " @2.30",
+          "x": "@7.70",
+          "lineType": "meczowa",
+          "over": " @1.81"
+        },
+        {
+          "book": "fortuna",
+          "under": " @2.30",
+          "x": "@7.70",
+          "lineType": "meczowa",
+          "over": " @1.81"
         }
       ],
-      "A_cnt": 16,
-      "A_book_cnt": 6,
+      "A_cnt": 22,
+      "A_book_cnt": 8,
       "DF": [
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @2.27",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.52"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 5.5 @1.82",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.82"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.82",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.82"
+        },
         {
           "book": "sb open.",
           "under": "- 5.5 @1.97",
@@ -576,6 +644,30 @@
           "under": "- 1.5 @1.61",
           "lineType": "player1",
           "over": "+ 1.5 @2.15"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 1.5 @1.73",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.92"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.73",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.92"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 3.5 @2.01",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.66"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @2.01",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.66"
         },
         {
           "book": "sb open.",
@@ -611,11 +703,31 @@
           "x": "@6.90",
           "lineType": "meczowa",
           "over": " @1.07"
+        },
+        {
+          "book": "fo open.",
+          "under": " @9.60",
+          "x": "@6.00",
+          "lineType": "meczowa",
+          "over": " @1.19"
+        },
+        {
+          "book": "fortuna",
+          "under": " @9.60",
+          "x": "@6.00",
+          "lineType": "meczowa",
+          "over": " @1.19"
         }
       ],
-      "DF_cnt": 7,
-      "DF_book_cnt": 3,
+      "DF_cnt": 14,
+      "DF_book_cnt": 5,
       "B": [
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.86",
+          "lineType": "meczowa",
+          "over": "+ 2.5 @1.80"
+        },
         {
           "book": "lvbet",
           "under": "- 2.5 @1.80",
@@ -653,8 +765,8 @@
           "over": "+ 0.5 @1.55"
         }
       ],
-      "B_cnt": 6,
-      "B_book_cnt": 2
+      "B_cnt": 7,
+      "B_book_cnt": 3
     },
     {
       "id": "-3870963903922979857",
@@ -1178,18 +1290,18 @@
       ],
       "MA": [
         {
-          "book": "betclic",
-          "under": " @2.00",
-          "x": "@4.00",
-          "lineType": "meczowa",
-          "over": " @1.82"
-        },
-        {
           "book": "bc open.",
           "under": " @2.20",
           "x": "@4.00",
           "lineType": "meczowa",
           "over": " @1.80"
+        },
+        {
+          "book": "betclic",
+          "under": " @2.00",
+          "x": "@4.00",
+          "lineType": "meczowa",
+          "over": " @1.76"
         },
         {
           "book": "betters",
@@ -3449,7 +3561,7 @@
     },
     {
       "id": "3920824613170776464",
-      "matchStartTime": "10:20",
+      "matchStartTime": "10:40",
       "tournament": "Guangzhou WTA • 1/8 finału",
       "weather": "🔆Pogoda Guangzhou, czas lokalny +7h\n11:00 🌡 28°C / 31°C💧 55 %  💨  4 (max 14) km/h 🌧 1 % 0 mm 🌀 1.16 kg/m³ 1015 hPa\n12:00 🌡 28°C / 31°C💧 58 %  💨  3 (max 9) km/h 🌧 1 % 0 mm 🌀 1.16 kg/m³ 1016 hPa\n13:00 🌡 28°C / 31°C💧 59 %  💨  4 (max 7) km/h 🌧 0 % 0 mm 🌀 1.17 kg/m³ 1016 hPa",
       "eventName": "Anna Bondar - Kaitlin Quevedo",
@@ -6180,9 +6292,9 @@
     },
     {
       "id": "8906497148927753065",
-      "matchStartTime": "02:30",
+      "matchStartTime": "09:00",
       "tournament": "Tokio WTA • Ćwierćfinał",
-      "weather": "🔆Pogoda Tokyo, czas lokalny +8h\n03:00 🌡 14°C / 12°C💧 56 %  💨  3 (max 21) km/h 🌧 0 % 0 mm 🌀 1.24 kg/m³ 1024 hPa\n04:00 🌡 16°C / 14°C💧 54 %  💨  2 (max 22) km/h 🌧 0 % 0 mm 🌀 1.23 kg/m³ 1023 hPa\n05:00 🌡 17°C / 16°C💧 54 %  💨  2 (max 22) km/h 🌧 1 % 0 mm 🌀 1.22 kg/m³ 1021 hPa",
+      "weather": "🔆Pogoda Tokyo, czas lokalny +8h\n09:00 🌡 16°C / 16°C💧 76 %  💨  2 (max 17) km/h 🌧 17 % 1 mm 🌀 1.22 kg/m³ 1020 hPa\n10:00 🌡 15°C / 15°C💧 78 %  💨  3 (max 11) km/h 🌧 20 % 1 mm 🌀 1.23 kg/m³ 1020 hPa\n11:00 🌡 15°C / 14°C💧 75 %  💨  3 (max 16) km/h 🌧 17 % 0 mm 🌀 1.23 kg/m³ 1020 hPa",
       "eventName": "Alexandra Eala - Diana Shnaider",
       "p1": "Alexandra Eala",
       "p2": "Diana Shnaider",
