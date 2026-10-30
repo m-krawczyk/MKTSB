@@ -1,5 +1,5 @@
 {
-  "updateTime": "08:25",
+  "updateTime": "08:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -1610,7 +1610,7 @@
     },
     {
       "id": "-7380223866598104873",
-      "matchStartTime": "09:30",
+      "matchStartTime": "09:50",
       "tournament": "Guangzhou WTA • Ćwierćfinał",
       "weather": "🔆Pogoda Guangzhou, czas lokalny +7h\n10:00 🌡 31°C / 32°C💧 47 %  💨 10 (max 24) km/h 🌧 0 % 0 mm 🌀 1.15 kg/m³ 1015 hPa\n11:00 🌡 30°C / 32°C💧 52 %  💨  8 (max 24) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1015 hPa\n12:00 🌡 29°C / 32°C💧 58 %  💨  5 (max 17) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1015 hPa",
       "eventName": "Xinran Sun - Claire Liu",
@@ -2594,7 +2594,7 @@
     },
     {
       "id": "8760053857494043059",
-      "matchStartTime": "08:20",
+      "matchStartTime": "08:40",
       "tournament": "Guangzhou WTA • Ćwierćfinał",
       "weather": "🔆Pogoda Guangzhou, czas lokalny +7h\n09:00 🌡 32°C / 34°C💧 42 %  💨  7 (max 19) km/h 🌧 0 % 0 mm 🌀 1.15 kg/m³ 1015 hPa\n10:00 🌡 31°C / 32°C💧 47 %  💨 10 (max 24) km/h 🌧 0 % 0 mm 🌀 1.15 kg/m³ 1015 hPa\n11:00 🌡 30°C / 32°C💧 52 %  💨  8 (max 24) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1015 hPa",
       "eventName": "Kaitlin Quevedo - Jil Teichmann",
@@ -4582,10 +4582,28 @@
       },
       "A": [
         {
+          "book": "fo open.",
+          "under": "- 2.5 @1.99",
+          "lineType": "meczowa",
+          "over": "+ 2.5 @1.68"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.99",
+          "lineType": "meczowa",
+          "over": "+ 2.5 @1.68"
+        },
+        {
           "book": "superbet",
           "under": "- 2.5 @2.35",
           "lineType": "meczowa",
           "over": "+ 2.5 @1.48"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.52",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @2.27"
         },
         {
           "book": "betfan",
@@ -4646,6 +4664,18 @@
           "over": "+ 0.5 @1.27"
         },
         {
+          "book": "fo open.",
+          "under": "- 1.5 @1.58",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.15"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.58",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.15"
+        },
+        {
           "book": "sb open.",
           "under": "- 1.5 @1.66",
           "lineType": "player1",
@@ -4702,6 +4732,18 @@
           "under": "- 0.5 @3.75",
           "lineType": "player2",
           "over": "+ 0.5 @1.17"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 1.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.03"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.03"
         },
         {
           "book": "sb open.",
@@ -4798,10 +4840,24 @@
           "x": "@3.65",
           "lineType": "meczowa",
           "over": " @1.95"
+        },
+        {
+          "book": "fo open.",
+          "under": " @2.45",
+          "x": "@3.60",
+          "lineType": "meczowa",
+          "over": " @2.35"
+        },
+        {
+          "book": "fortuna",
+          "under": " @2.45",
+          "x": "@3.60",
+          "lineType": "meczowa",
+          "over": " @2.35"
         }
       ],
-      "A_cnt": 30,
-      "A_book_cnt": 8,
+      "A_cnt": 37,
+      "A_book_cnt": 10,
       "DF": [
         {
           "book": "superbet",
@@ -4834,10 +4890,28 @@
           "over": "+ 4.5 @1.71"
         },
         {
+          "book": "fortuna",
+          "under": "- 4.5 @2.19",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.56"
+        },
+        {
           "book": "superbet",
           "under": "- 5.5 @1.54",
           "lineType": "meczowa",
           "over": "+ 5.5 @2.25"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 5.5 @1.71",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.95"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.71",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.95"
         },
         {
           "book": "superbet",
@@ -4942,8 +5016,8 @@
           "over": " @2.02"
         }
       ],
-      "DF_cnt": 18,
-      "DF_book_cnt": 4,
+      "DF_cnt": 21,
+      "DF_book_cnt": 6,
       "B": [
         {
           "book": "betclic",
