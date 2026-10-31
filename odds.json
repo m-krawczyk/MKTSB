@@ -1,5 +1,5 @@
 {
-  "updateTime": "09:25",
+  "updateTime": "09:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -445,6 +445,12 @@
           "over": "+ 5.5 @2.30"
         },
         {
+          "book": "fortuna",
+          "under": "- 5.5 @1.55",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @2.20"
+        },
+        {
           "under": "- 5.5 @1.68",
           "lineType": "meczowa",
           "over": "+ 5.5 @2.05"
@@ -475,12 +481,6 @@
         },
         {
           "book": "fo open.",
-          "under": "- 5.5 @2.00",
-          "lineType": "meczowa",
-          "over": "+ 5.5 @1.67"
-        },
-        {
-          "book": "fortuna",
           "under": "- 5.5 @2.00",
           "lineType": "meczowa",
           "over": "+ 5.5 @1.67"
@@ -545,13 +545,13 @@
           "over": "+ 4.5 @2.92"
         },
         {
-          "book": "fo open.",
-          "under": "- 4.5 @1.60",
+          "book": "fortuna",
+          "under": "- 4.5 @1.40",
           "lineType": "player1",
-          "over": "+ 4.5 @2.10"
+          "over": "+ 4.5 @2.59"
         },
         {
-          "book": "fortuna",
+          "book": "fo open.",
           "under": "- 4.5 @1.60",
           "lineType": "player1",
           "over": "+ 4.5 @2.10"
@@ -598,6 +598,12 @@
           "over": "+ 1.5 @2.20"
         },
         {
+          "book": "fortuna",
+          "under": "- 1.5 @1.61",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.10"
+        },
+        {
           "book": "fuksiarz",
           "under": "- 1.5 @1.65",
           "lineType": "player2",
@@ -629,12 +635,6 @@
         },
         {
           "book": "fo open.",
-          "under": "- 1.5 @1.90",
-          "lineType": "player2",
-          "over": "+ 1.5 @1.75"
-        },
-        {
-          "book": "fortuna",
           "under": "- 1.5 @1.90",
           "lineType": "player2",
           "over": "+ 1.5 @1.75"
@@ -1484,7 +1484,7 @@
     },
     {
       "id": "-2250403851676400362",
-      "matchStartTime": "10:40",
+      "matchStartTime": "10:50",
       "tournament": "Guangzhou WTA • Półfinał",
       "weather": "🔆Pogoda Guangzhou, czas lokalny +7h\n11:00 🌡 28°C / 29°C💧 56 %  💨 15 (max 33) km/h 🌧 6 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n12:00 🌡 27°C / 28°C💧 62 %  💨 14 (max 36) km/h 🌧 3 % 0 mm 🌀 1.17 kg/m³ 1014 hPa\n13:00 🌡 26°C / 28°C💧 68 %  💨 13 (max 32) km/h 🌧 0 % 0 mm 🌀 1.17 kg/m³ 1015 hPa",
       "eventName": "Kaitlin Quevedo - Lilli Tagger",
@@ -2172,7 +2172,7 @@
     },
     {
       "id": "-442175037273386054",
-      "matchStartTime": "09:30",
+      "matchStartTime": "09:40",
       "tournament": "Guangzhou WTA • Półfinał",
       "weather": "🔆Pogoda Guangzhou, czas lokalny +7h\n10:00 🌡 30°C / 31°C💧 50 %  💨 11 (max 27) km/h 🌧 10 % 0 mm 🌀 1.16 kg/m³ 1013 hPa\n11:00 🌡 28°C / 29°C💧 56 %  💨 15 (max 33) km/h 🌧 6 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n12:00 🌡 27°C / 28°C💧 62 %  💨 14 (max 36) km/h 🌧 3 % 0 mm 🌀 1.17 kg/m³ 1014 hPa",
       "eventName": "Xinran Sun - Harriet Dart",
