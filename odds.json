@@ -1,5 +1,5 @@
 {
-  "updateTime": "06:10",
+  "updateTime": "06:15",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -1613,6 +1613,11 @@
           "over": "+11.5 @1.80"
         },
         {
+          "under": "-11.5 @1.95",
+          "lineType": "meczowa",
+          "over": "+11.5 @1.75"
+        },
+        {
           "book": "etoto",
           "under": "-11.5 @1.95",
           "lineType": "meczowa",
@@ -1683,6 +1688,11 @@
           "over": "+ 4.5 @1.80"
         },
         {
+          "under": "- 4.5 @2.02",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.70"
+        },
+        {
           "book": "etoto",
           "under": "- 4.5 @2.02",
           "lineType": "player1",
@@ -1723,6 +1733,11 @@
           "under": "- 5.5 @1.93",
           "lineType": "player2",
           "over": "+ 5.5 @1.72"
+        },
+        {
+          "under": "- 6.5 @2.05",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.68"
         },
         {
           "book": "etoto",
@@ -1822,7 +1837,7 @@
           "over": " @1.41"
         }
       ],
-      "A_cnt": 34,
+      "A_cnt": 37,
       "A_book_cnt": 9,
       "DF": [
         {
@@ -1854,6 +1869,11 @@
           "under": "- 5.5 @1.70",
           "lineType": "meczowa",
           "over": "+ 5.5 @1.96"
+        },
+        {
+          "under": "- 5.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.95"
         },
         {
           "book": "etoto",
@@ -1902,6 +1922,11 @@
           "under": "- 1.5 @3.30",
           "lineType": "player1",
           "over": "+ 1.5 @1.23"
+        },
+        {
+          "under": "- 2.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.75"
         },
         {
           "book": "etoto",
@@ -1980,6 +2005,11 @@
           "under": "- 2.5 @1.56",
           "lineType": "player2",
           "over": "+ 2.5 @2.18"
+        },
+        {
+          "under": "- 2.5 @1.85",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.85"
         },
         {
           "book": "etoto",
@@ -2061,7 +2091,7 @@
           "over": " @2.90"
         }
       ],
-      "DF_cnt": 33,
+      "DF_cnt": 36,
       "DF_book_cnt": 9,
       "B": [
         {
