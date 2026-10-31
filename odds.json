@@ -1,5 +1,5 @@
 {
-  "updateTime": "12:25",
+  "updateTime": "12:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -5761,10 +5761,10 @@
         },
         {
           "book": "betclic",
-          "under": " @2.00",
+          "under": " @1.93",
           "x": "@4.00",
           "lineType": "meczowa",
-          "over": " @2.00"
+          "over": " @1.93"
         },
         {
           "book": "superbet",
@@ -6040,7 +6040,7 @@
           "under": " @3.50",
           "x": "@6.00",
           "lineType": "meczowa",
-          "over": " @1.20"
+          "over": " @1.16"
         },
         {
           "book": "superbet",
@@ -7200,6 +7200,18 @@
           "over": "+ 5.5 @2.07"
         },
         {
+          "book": "bc open.",
+          "under": "- 5.5 @1.52",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.83"
+        },
+        {
+          "book": "betclic",
+          "under": "- 5.5 @1.52",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.83"
+        },
+        {
           "book": "superbet",
           "under": "- 6.5 @1.34",
           "lineType": "meczowa",
@@ -7222,6 +7234,18 @@
           "under": "- 2.5 @2.07",
           "lineType": "player1",
           "over": "+ 2.5 @1.64"
+        },
+        {
+          "book": "bc open.",
+          "under": "- 2.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.55"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.55"
         },
         {
           "book": "superbet",
@@ -7248,6 +7272,18 @@
           "over": "+ 2.5 @2.25"
         },
         {
+          "book": "bc open.",
+          "under": "- 2.5 @1.46",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.00"
+        },
+        {
+          "book": "betclic",
+          "under": "- 2.5 @1.46",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.00"
+        },
+        {
           "book": "superbet",
           "under": "- 3.5 @1.19",
           "lineType": "player2",
@@ -7270,8 +7306,8 @@
           "over": " @2.80"
         }
       ],
-      "DF_cnt": 12,
-      "DF_book_cnt": 2,
+      "DF_cnt": 18,
+      "DF_book_cnt": 4,
       "B": [
         {
           "book": "betclic",
