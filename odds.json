@@ -1,5 +1,5 @@
 {
-  "updateTime": "07:50",
+  "updateTime": "07:55",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -2110,12 +2110,12 @@
           "over": "+ 2.5 @2.00"
         },
         {
-          "under": "- 2.5 @1.83",
+          "book": "forbet",
+          "under": "- 2.5 @1.77",
           "lineType": "player1",
-          "over": "+ 2.5 @1.83"
+          "over": "+ 2.5 @1.90"
         },
         {
-          "book": "forbet",
           "under": "- 2.5 @1.83",
           "lineType": "player1",
           "over": "+ 2.5 @1.83"
@@ -2131,6 +2131,17 @@
           "under": "- 3.5 @1.18",
           "lineType": "player1",
           "over": "+ 3.5 @3.65"
+        },
+        {
+          "under": "- 3.5 @2.07",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.65"
+        },
+        {
+          "book": "forbet",
+          "under": "- 3.5 @2.07",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.65"
         },
         {
           "under": "- 3.5 @2.30",
@@ -2258,7 +2269,7 @@
           "over": " @1.23"
         }
       ],
-      "DF_cnt": 48,
+      "DF_cnt": 50,
       "DF_book_cnt": 10,
       "B": [
         {
@@ -2274,10 +2285,22 @@
           "over": "+ 7.5 @2.00"
         },
         {
+          "book": "forbet",
+          "under": "- 7.5 @1.83",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.83"
+        },
+        {
           "book": "betclic",
           "under": "- 7.5 @1.60",
           "lineType": "meczowa",
           "over": "+ 7.5 @1.80"
+        },
+        {
+          "book": "forbet",
+          "under": "- 4.5 @1.93",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.75"
         },
         {
           "book": "etoto",
@@ -2302,10 +2325,16 @@
           "under": "- 2.5 @1.80",
           "lineType": "player2",
           "over": "+ 2.5 @1.60"
+        },
+        {
+          "book": "forbet",
+          "under": "- 3.5 @2.15",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.60"
         }
       ],
-      "B_cnt": 7,
-      "B_book_cnt": 3
+      "B_cnt": 10,
+      "B_book_cnt": 4
     },
     {
       "id": "-2994001711557732639",
