@@ -1,5 +1,5 @@
 {
-  "updateTime": "09:05",
+  "updateTime": "09:10",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -665,6 +665,18 @@
           "over": "+ 4.5 @1.60"
         },
         {
+          "book": "fo open.",
+          "under": "- 5.5 @1.71",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.95"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.71",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.95"
+        },
+        {
           "book": "fu open.",
           "under": "- 1.5 @2.00",
           "lineType": "player1",
@@ -689,6 +701,18 @@
           "over": "+ 1.5 @1.68"
         },
         {
+          "book": "fo open.",
+          "under": "- 1.5 @2.00",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.67"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @2.00",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.67"
+        },
+        {
           "book": "betfan",
           "under": "- 1.5 @2.05",
           "lineType": "player1",
@@ -709,6 +733,12 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+ 1.5 @1.60"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.44",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.47"
         },
         {
           "book": "fu open.",
@@ -752,9 +782,27 @@
           "over": "+ 2.5 @1.60"
         },
         {
+          "book": "fo open.",
+          "under": "- 2.5 @2.13",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.59"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @2.13",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.59"
+        },
+        {
           "book": "betclic",
           "lineType": "player2",
           "over": "+ 2.5 @1.55"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.60",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.11"
         }
       ],
       "MA": [
@@ -785,10 +833,24 @@
           "x": "@4.50",
           "lineType": "meczowa",
           "over": " @1.59"
+        },
+        {
+          "book": "fo open.",
+          "under": " @3.40",
+          "x": "@5.20",
+          "lineType": "meczowa",
+          "over": " @1.59"
+        },
+        {
+          "book": "fortuna",
+          "under": " @3.40",
+          "x": "@5.20",
+          "lineType": "meczowa",
+          "over": " @1.59"
         }
       ],
-      "A_cnt": 24,
-      "A_book_cnt": 8,
+      "A_cnt": 32,
+      "A_book_cnt": 10,
       "DF": [
         {
           "book": "sb open.",
@@ -813,6 +875,42 @@
           "under": "- 9.5 @1.95",
           "lineType": "meczowa",
           "over": "+ 9.5 @1.75"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 9.5 @1.97",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.69"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 9.5 @1.97",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.69"
+        },
+        {
+          "book": "fortuna",
+          "under": "-10.5 @1.68",
+          "lineType": "meczowa",
+          "over": "+10.5 @1.99"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 4.5 @2.01",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.66"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @2.01",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.66"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.63",
+          "lineType": "player1",
+          "over": "+ 5.5 @2.06"
         },
         {
           "book": "sb open.",
@@ -861,6 +959,18 @@
           "under": "- 3.5 @2.02",
           "lineType": "player2",
           "over": "+ 3.5 @1.68"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 4.5 @1.90",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.75"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.90",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.75"
         }
       ],
       "MDF": [
@@ -877,13 +987,34 @@
           "x": "@1.24",
           "lineType": "meczowa",
           "over": " @1.41"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.90",
+          "x": "@6.40",
+          "lineType": "meczowa",
+          "over": " @2.30"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.90",
+          "x": "@6.40",
+          "lineType": "meczowa",
+          "over": " @2.30"
         }
       ],
-      "DF_cnt": 12,
-      "DF_book_cnt": 4,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "DF_cnt": 20,
+      "DF_book_cnt": 6,
+      "B": [
+        {
+          "book": "fortuna",
+          "under": "- 7.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.81"
+        }
+      ],
+      "B_cnt": 1,
+      "B_book_cnt": 1
     },
     {
       "id": "5300807400346769326",
@@ -4359,9 +4490,9 @@
     },
     {
       "id": "-2594878709078265627",
-      "matchStartTime": "03:00",
+      "matchStartTime": "11:30",
       "tournament": "Hong Kong WTA • 1/16 finału",
-      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n03:00 🌡 29°C / 32°C💧 63 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n04:00 🌡 30°C / 33°C💧 57 %  💨  9 (max 28) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n05:00 🌡 30°C / 34°C💧 56 %  💨  9 (max 30) km/h 🌧 34 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
+      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n12:00 🌡 26°C / 30°C💧 79 %  💨  7 (max 20) km/h 🌧 2 % 0 mm 🌀 1.17 kg/m³ 1015 hPa\n13:00 🌡 26°C / 30°C💧 82 %  💨  6 (max 18) km/h 🌧 0 % 0 mm 🌀 1.17 kg/m³ 1015 hPa\n14:00 🌡 26°C / 30°C💧 83 %  💨  7 (max 17) km/h 🌧 0 % 0 mm 🌀 1.17 kg/m³ 1016 hPa",
       "eventName": "Alycia Parks - Alexandra Eala",
       "p1": "Alycia Parks",
       "p2": "Alexandra Eala",
@@ -4616,9 +4747,9 @@
     },
     {
       "id": "-1036531788959919712",
-      "matchStartTime": "03:00",
+      "matchStartTime": "07:00",
       "tournament": "Hong Kong WTA • 1/16 finału",
-      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n03:00 🌡 29°C / 32°C💧 63 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n04:00 🌡 30°C / 33°C💧 57 %  💨  9 (max 28) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n05:00 🌡 30°C / 34°C💧 56 %  💨  9 (max 30) km/h 🌧 34 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
+      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n07:00 🌡 30°C / 34°C💧 56 %  💨 11 (max 33) km/h 🌧 98 % 0 mm 🌀 1.15 kg/m³ 1014 hPa\n08:00 🌡 30°C / 32°C💧 59 %  💨 12 (max 34) km/h 🌧 82 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n09:00 🌡 28°C / 31°C💧 64 %  💨 12 (max 34) km/h 🌧 47 % 0 mm 🌀 1.16 kg/m³ 1014 hPa",
       "eventName": "Talia Gibson - Oleksandra Oliynykova",
       "p1": "Talia Gibson",
       "p2": "Oleksandra Oliynykova",
@@ -8675,23 +8806,18 @@
           "over": "+10.5 @1.80"
         },
         {
-          "book": "betclic",
-          "lineType": "meczowa",
-          "over": "+10.5 @1.80"
-        },
-        {
           "book": "betters",
           "under": "-10.5 @1.96",
           "lineType": "meczowa",
           "over": "+10.5 @1.69"
         },
         {
-          "book": "bc open.",
-          "lineType": "player1",
-          "over": "+ 4.5 @1.80"
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+11.5 @1.80"
         },
         {
-          "book": "betclic",
+          "book": "bc open.",
           "lineType": "player1",
           "over": "+ 4.5 @1.80"
         },
@@ -8706,6 +8832,11 @@
           "under": "- 4.5 @1.97",
           "lineType": "player1",
           "over": "+ 4.5 @1.74"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.65"
         },
         {
           "book": "sb open.",
@@ -8727,7 +8858,7 @@
         {
           "book": "betclic",
           "lineType": "player2",
-          "over": "+ 5.5 @1.68"
+          "over": "+ 6.5 @1.80"
         }
       ],
       "MA": [
@@ -8743,7 +8874,7 @@
           "under": " @2.10",
           "x": "@6.00",
           "lineType": "meczowa",
-          "over": " @1.60"
+          "over": " @1.55"
         },
         {
           "book": "betters",
@@ -10667,7 +10798,7 @@
         {
           "book": "betclic",
           "lineType": "player2",
-          "over": "+ 5.5 @1.68"
+          "over": "+ 5.5 @1.60"
         },
         {
           "book": "superbet",
@@ -12009,7 +12140,7 @@
         {
           "book": "betclic",
           "lineType": "player2",
-          "over": "+ 7.5 @1.60"
+          "over": "+ 7.5 @1.55"
         },
         {
           "book": "superbet",
