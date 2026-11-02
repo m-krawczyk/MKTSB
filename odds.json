@@ -1,5 +1,5 @@
 {
-  "updateTime": "12:25",
+  "updateTime": "12:27",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -10404,7 +10404,7 @@
     },
     {
       "id": "-1044223225148318016",
-      "matchStartTime": "13:30",
+      "matchStartTime": "13:50",
       "tournament": "Paryż Masters ATP • 1/32 finału",
       "weather": "🔆Pogoda Paris, czas lokalny +0h\n14:00 🌡 12°C / 9°C💧 71 %  💨 12 (max 24) km/h 🌧 25 % 0 mm 🌀 1.25 kg/m³ 1026 hPa\n15:00 🌡 11°C / 9°C💧 79 %  💨 11 (max 26) km/h 🌧 20 % 0 mm 🌀 1.25 kg/m³ 1025 hPa\n16:00 🌡 11°C / 9°C💧 85 %  💨 11 (max 22) km/h 🌧 8 % 0 mm 🌀 1.25 kg/m³ 1025 hPa",
       "eventName": "Daniel Merida Aguilar - Sebastian Baez",
@@ -14081,6 +14081,18 @@
           "over": "+12.5 @1.73"
         },
         {
+          "book": "fo open.",
+          "under": "-12.5 @1.96",
+          "lineType": "meczowa",
+          "over": "+12.5 @1.70"
+        },
+        {
+          "book": "fortuna",
+          "under": "-12.5 @1.96",
+          "lineType": "meczowa",
+          "over": "+12.5 @1.70"
+        },
+        {
           "book": "sb open.",
           "under": "-15.5 @1.74",
           "lineType": "meczowa",
@@ -14101,6 +14113,18 @@
           "book": "betclic",
           "lineType": "meczowa",
           "over": "+15.5 @1.80"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 6.5 @1.75",
+          "lineType": "player1",
+          "over": "+ 6.5 @1.90"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.75",
+          "lineType": "player1",
+          "over": "+ 6.5 @1.90"
         },
         {
           "book": "sb open.",
@@ -14123,6 +14147,18 @@
           "book": "betclic",
           "lineType": "player1",
           "over": "+ 8.5 @1.80"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 6.5 @1.84",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.80"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.84",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.80"
         },
         {
           "book": "bc open.",
@@ -14182,10 +14218,24 @@
           "x": "@6.60",
           "lineType": "meczowa",
           "over": " @1.74"
+        },
+        {
+          "book": "fo open.",
+          "under": " @2.25",
+          "x": "@7.00",
+          "lineType": "meczowa",
+          "over": " @1.90"
+        },
+        {
+          "book": "fortuna",
+          "under": " @2.25",
+          "x": "@7.00",
+          "lineType": "meczowa",
+          "over": " @1.90"
         }
       ],
-      "A_cnt": 13,
-      "A_book_cnt": 5,
+      "A_cnt": 19,
+      "A_book_cnt": 7,
       "DF": [
         {
           "book": "sb open.",
@@ -14206,6 +14256,24 @@
           "over": "+ 3.5 @1.63"
         },
         {
+          "book": "fo open.",
+          "under": "- 4.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.67"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.67"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.64",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @2.05"
+        },
+        {
           "book": "sb open.",
           "under": "- 2.5 @1.54",
           "lineType": "player1",
@@ -14216,6 +14284,18 @@
           "under": "- 2.5 @1.54",
           "lineType": "player1",
           "over": "+ 2.5 @2.30"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.67",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.99"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.67",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.99"
         },
         {
           "book": "sb open.",
@@ -14228,6 +14308,18 @@
           "under": "- 1.5 @2.00",
           "lineType": "player2",
           "over": "+ 1.5 @1.72"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.82",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.82"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.82",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.82"
         }
       ],
       "MDF": [
@@ -14251,11 +14343,31 @@
           "x": "@3.85",
           "lineType": "meczowa",
           "over": " @2.55"
+        },
+        {
+          "book": "fo open.",
+          "under": " @2.50",
+          "x": "@5.20",
+          "lineType": "meczowa",
+          "over": " @1.89"
+        },
+        {
+          "book": "fortuna",
+          "under": " @2.50",
+          "x": "@5.20",
+          "lineType": "meczowa",
+          "over": " @1.89"
         }
       ],
-      "DF_cnt": 7,
-      "DF_book_cnt": 3,
+      "DF_cnt": 14,
+      "DF_book_cnt": 5,
       "B": [
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @2.16",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.59"
+        },
         {
           "book": "lvbet",
           "under": "- 3.5 @2.20",
@@ -14275,8 +14387,8 @@
           "over": "+ 1.5 @1.88"
         }
       ],
-      "B_cnt": 3,
-      "B_book_cnt": 1
+      "B_cnt": 4,
+      "B_book_cnt": 2
     },
     {
       "id": "7820275363814504544",
