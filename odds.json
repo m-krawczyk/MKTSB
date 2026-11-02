@@ -1,5 +1,5 @@
 {
-  "updateTime": "09:25",
+  "updateTime": "09:30",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -1127,6 +1127,18 @@
           "over": "+ 6.5 @2.02"
         },
         {
+          "book": "fo open.",
+          "under": "- 7.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.96"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 7.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.96"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+10.5 @1.70"
@@ -1149,6 +1161,18 @@
           "over": "+ 2.5 @1.68"
         },
         {
+          "book": "fo open.",
+          "under": "- 3.5 @1.77",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.87"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.77",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.87"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 4.5 @1.60"
@@ -1169,6 +1193,18 @@
           "under": "- 3.5 @1.61",
           "lineType": "player2",
           "over": "+ 3.5 @2.15"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 3.5 @1.91",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.74"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.91",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.74"
         },
         {
           "book": "bc open.",
@@ -1209,10 +1245,24 @@
           "x": "@4.90",
           "lineType": "meczowa",
           "over": " @1.92"
+        },
+        {
+          "book": "fo open.",
+          "under": " @2.35",
+          "x": "@5.60",
+          "lineType": "meczowa",
+          "over": " @1.95"
+        },
+        {
+          "book": "fortuna",
+          "under": " @2.35",
+          "x": "@5.60",
+          "lineType": "meczowa",
+          "over": " @1.95"
         }
       ],
-      "A_cnt": 12,
-      "A_book_cnt": 4,
+      "A_cnt": 18,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "superbet",
@@ -1269,9 +1319,16 @@
       ],
       "DF_cnt": 6,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.86",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @1.80"
+        }
+      ],
+      "B_cnt": 1,
+      "B_book_cnt": 1
     },
     {
       "id": "-1244924502889953992",
@@ -2817,9 +2874,9 @@
     },
     {
       "id": "3432566906524416402",
-      "matchStartTime": "03:00",
+      "matchStartTime": "09:20",
       "tournament": "Hong Kong WTA • 1/16 finału",
-      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n03:00 🌡 29°C / 32°C💧 63 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n04:00 🌡 30°C / 33°C💧 57 %  💨  9 (max 28) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n05:00 🌡 30°C / 34°C💧 56 %  💨  9 (max 30) km/h 🌧 34 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
+      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n10:00 🌡 27°C / 30°C💧 69 %  💨  9 (max 32) km/h 🌧 18 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n11:00 🌡 26°C / 30°C💧 74 %  💨  8 (max 25) km/h 🌧 7 % 0 mm 🌀 1.17 kg/m³ 1014 hPa\n12:00 🌡 26°C / 30°C💧 79 %  💨  7 (max 20) km/h 🌧 2 % 0 mm 🌀 1.17 kg/m³ 1015 hPa",
       "eventName": "Alexandra Shubladze - Liudmila Samsonova",
       "p1": "Alexandra Shubladze",
       "p2": "Liudmila Samsonova",
@@ -3074,9 +3131,9 @@
     },
     {
       "id": "-5101368530493908579",
-      "matchStartTime": "03:00",
+      "matchStartTime": "09:20",
       "tournament": "Hong Kong WTA • 1/16 finału",
-      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n03:00 🌡 29°C / 32°C💧 63 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n04:00 🌡 30°C / 33°C💧 57 %  💨  9 (max 28) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n05:00 🌡 30°C / 34°C💧 56 %  💨  9 (max 30) km/h 🌧 34 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
+      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n10:00 🌡 27°C / 30°C💧 69 %  💨  9 (max 32) km/h 🌧 18 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n11:00 🌡 26°C / 30°C💧 74 %  💨  8 (max 25) km/h 🌧 7 % 0 mm 🌀 1.17 kg/m³ 1014 hPa\n12:00 🌡 26°C / 30°C💧 79 %  💨  7 (max 20) km/h 🌧 2 % 0 mm 🌀 1.17 kg/m³ 1015 hPa",
       "eventName": "Himeno Sakatsume - Tereza Valentova",
       "p1": "Himeno Sakatsume",
       "p2": "Tereza Valentova",
@@ -3976,9 +4033,9 @@
     },
     {
       "id": "3521402264022931400",
-      "matchStartTime": "03:00",
+      "matchStartTime": "07:00",
       "tournament": "Hong Kong WTA • 1/16 finału",
-      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n03:00 🌡 29°C / 32°C💧 63 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n04:00 🌡 30°C / 33°C💧 57 %  💨  9 (max 28) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n05:00 🌡 30°C / 34°C💧 56 %  💨  9 (max 30) km/h 🌧 34 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
+      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n07:00 🌡 30°C / 34°C💧 56 %  💨 11 (max 33) km/h 🌧 98 % 0 mm 🌀 1.15 kg/m³ 1014 hPa\n08:00 🌡 30°C / 32°C💧 59 %  💨 12 (max 34) km/h 🌧 82 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n09:00 🌡 28°C / 31°C💧 64 %  💨 12 (max 34) km/h 🌧 47 % 0 mm 🌀 1.16 kg/m³ 1014 hPa",
       "eventName": "Dayana Yastremska - Zeynep Sonmez",
       "p1": "Dayana Yastremska",
       "p2": "Zeynep Sonmez",
@@ -4233,9 +4290,9 @@
     },
     {
       "id": "7297407703174239913",
-      "matchStartTime": "03:00",
+      "matchStartTime": "12:40",
       "tournament": "Hong Kong WTA • 1/16 finału",
-      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n03:00 🌡 29°C / 32°C💧 63 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n04:00 🌡 30°C / 33°C💧 57 %  💨  9 (max 28) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n05:00 🌡 30°C / 34°C💧 56 %  💨  9 (max 30) km/h 🌧 34 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
+      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n13:00 🌡 26°C / 30°C💧 82 %  💨  6 (max 18) km/h 🌧 0 % 0 mm 🌀 1.17 kg/m³ 1015 hPa\n14:00 🌡 26°C / 30°C💧 83 %  💨  7 (max 17) km/h 🌧 0 % 0 mm 🌀 1.17 kg/m³ 1016 hPa\n15:00 🌡 25°C / 30°C💧 85 %  💨  7 (max 17) km/h 🌧 0 % 0 mm 🌀 1.17 kg/m³ 1016 hPa",
       "eventName": "Elena Pridankina - Paula Badosa",
       "p1": "Elena Pridankina",
       "p2": "Paula Badosa",
@@ -5900,9 +5957,9 @@
     },
     {
       "id": "1262582666028590556",
-      "matchStartTime": "03:00",
+      "matchStartTime": "08:10",
       "tournament": "Hong Kong WTA • 1/16 finału",
-      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n03:00 🌡 29°C / 32°C💧 63 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n04:00 🌡 30°C / 33°C💧 57 %  💨  9 (max 28) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n05:00 🌡 30°C / 34°C💧 56 %  💨  9 (max 30) km/h 🌧 34 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
+      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n09:00 🌡 28°C / 31°C💧 64 %  💨 12 (max 34) km/h 🌧 47 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n10:00 🌡 27°C / 30°C💧 69 %  💨  9 (max 32) km/h 🌧 18 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n11:00 🌡 26°C / 30°C💧 74 %  💨  8 (max 25) km/h 🌧 7 % 0 mm 🌀 1.17 kg/m³ 1014 hPa",
       "eventName": "Maddison Inglis - Maya Joint",
       "p1": "Maddison Inglis",
       "p2": "Maya Joint",
@@ -6671,9 +6728,9 @@
     },
     {
       "id": "-5873817308449904431",
-      "matchStartTime": "03:00",
+      "matchStartTime": "08:10",
       "tournament": "Hong Kong WTA • 1/16 finału",
-      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n03:00 🌡 29°C / 32°C💧 63 %  💨  8 (max 26) km/h 🌧 0 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n04:00 🌡 30°C / 33°C💧 57 %  💨  9 (max 28) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1017 hPa\n05:00 🌡 30°C / 34°C💧 56 %  💨  9 (max 30) km/h 🌧 34 % 0 mm 🌀 1.16 kg/m³ 1016 hPa",
+      "weather": "🔆Pogoda Hong Kong, czas lokalny +7h\n09:00 🌡 28°C / 31°C💧 64 %  💨 12 (max 34) km/h 🌧 47 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n10:00 🌡 27°C / 30°C💧 69 %  💨  9 (max 32) km/h 🌧 18 % 0 mm 🌀 1.16 kg/m³ 1014 hPa\n11:00 🌡 26°C / 30°C💧 74 %  💨  8 (max 25) km/h 🌧 7 % 0 mm 🌀 1.17 kg/m³ 1014 hPa",
       "eventName": "Sorana Cirstea - Maria Timofeeva",
       "p1": "Sorana Cirstea",
       "p2": "Maria Timofeeva",
@@ -10764,11 +10821,6 @@
           "over": "+ 9.5 @1.80"
         },
         {
-          "book": "betclic",
-          "lineType": "meczowa",
-          "over": "+ 9.5 @1.80"
-        },
-        {
           "book": "superbet",
           "under": "- 2.5 @1.59",
           "lineType": "player1",
@@ -10794,11 +10846,6 @@
           "book": "bc open.",
           "lineType": "player2",
           "over": "+ 5.5 @1.80"
-        },
-        {
-          "book": "betclic",
-          "lineType": "player2",
-          "over": "+ 5.5 @1.60"
         },
         {
           "book": "superbet",
@@ -10843,7 +10890,7 @@
           "over": " @1.02"
         }
       ],
-      "A_cnt": 12,
+      "A_cnt": 10,
       "A_book_cnt": 4,
       "DF": [
         {
@@ -12931,15 +12978,15 @@
           "over": "+ 8.5 @1.80"
         },
         {
-          "book": "betclic",
-          "lineType": "player1",
-          "over": "+ 8.5 @1.80"
-        },
-        {
           "book": "sb open.",
           "under": "- 8.5 @1.95",
           "lineType": "player1",
           "over": "+ 8.5 @1.75"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+ 8.5 @1.74"
         },
         {
           "book": "superbet",
