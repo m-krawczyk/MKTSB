@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:45",
+  "updateTime": "10:50",
   "freeDays": [
     "2026-10-04",
     "2026-10-05"
@@ -12652,11 +12652,6 @@
           "over": "+16.5 @1.80"
         },
         {
-          "book": "betclic",
-          "lineType": "meczowa",
-          "over": "+16.5 @1.80"
-        },
-        {
           "book": "sb open.",
           "under": "-17.5 @1.78",
           "lineType": "meczowa",
@@ -12667,6 +12662,11 @@
           "under": "-17.5 @1.78",
           "lineType": "meczowa",
           "over": "+17.5 @1.90"
+        },
+        {
+          "book": "betclic",
+          "lineType": "meczowa",
+          "over": "+25.5 @1.80"
         },
         {
           "book": "sb open.",
@@ -12688,7 +12688,7 @@
         {
           "book": "betclic",
           "lineType": "player1",
-          "over": "+ 8.5 @1.80"
+          "over": "+12.5 @1.80"
         },
         {
           "book": "bc open.",
@@ -12699,13 +12699,18 @@
           "book": "superbet",
           "under": "- 8.5 @1.92",
           "lineType": "player2",
-          "over": "+ 8.5 @1.76"
+          "over": "+ 8.5 @1.77"
         },
         {
           "book": "sb open.",
           "under": "- 8.5 @1.95",
           "lineType": "player2",
           "over": "+ 8.5 @1.74"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player2",
+          "over": "+12.5 @1.70"
         }
       ],
       "MA": [
@@ -12721,11 +12726,11 @@
           "under": " @1.75",
           "x": "@10.00",
           "lineType": "meczowa",
-          "over": " @1.69"
+          "over": " @1.64"
         },
         {
           "book": "superbet",
-          "under": " @2.07",
+          "under": " @2.05",
           "x": "@6.80",
           "lineType": "meczowa",
           "over": " @1.80"
@@ -12738,7 +12743,7 @@
           "over": " @1.75"
         }
       ],
-      "A_cnt": 11,
+      "A_cnt": 12,
       "A_book_cnt": 4,
       "DF": [
         {
@@ -14016,7 +14021,7 @@
         },
         {
           "book": "superbet",
-          "under": "-15.5 @1.75",
+          "under": "-15.5 @1.74",
           "lineType": "meczowa",
           "over": "+15.5 @1.95"
         },
