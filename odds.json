@@ -1,5 +1,5 @@
 {
-  "updateTime": "09:30",
+  "updateTime": "09:35",
   "freeDays": [
     "2026-10-04",
     "2026-11-03"
@@ -3255,13 +3255,13 @@
           "over": "+ 2.5 @2.27"
         },
         {
-          "book": "fo open.",
-          "under": "- 2.5 @1.87",
+          "book": "fortuna",
+          "under": "- 2.5 @1.77",
           "lineType": "player1",
-          "over": "+ 2.5 @1.77"
+          "over": "+ 2.5 @1.87"
         },
         {
-          "book": "fortuna",
+          "book": "fo open.",
           "under": "- 2.5 @1.87",
           "lineType": "player1",
           "over": "+ 2.5 @1.77"
@@ -6442,6 +6442,18 @@
       },
       "A": [
         {
+          "book": "fb open.",
+          "under": "-18.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+18.5 @1.70"
+        },
+        {
+          "book": "forbet",
+          "under": "-18.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+18.5 @1.70"
+        },
+        {
           "book": "betters",
           "under": "-18.5 @1.96",
           "lineType": "meczowa",
@@ -6587,8 +6599,8 @@
           "over": " @1.37"
         }
       ],
-      "A_cnt": 19,
-      "A_book_cnt": 7,
+      "A_cnt": 21,
+      "A_book_cnt": 9,
       "DF": [
         {
           "book": "sb open.",
@@ -6601,6 +6613,18 @@
           "under": "- 3.5 @1.71",
           "lineType": "meczowa",
           "over": "+ 3.5 @2.00"
+        },
+        {
+          "book": "fb open.",
+          "under": "- 4.5 @1.60",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.15"
+        },
+        {
+          "book": "forbet",
+          "under": "- 4.5 @1.60",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.15"
         },
         {
           "book": "betters",
@@ -6656,8 +6680,8 @@
           "over": " @2.32"
         }
       ],
-      "DF_cnt": 7,
-      "DF_book_cnt": 3,
+      "DF_cnt": 9,
+      "DF_book_cnt": 5,
       "B": [
         {
           "book": "lvbet",
