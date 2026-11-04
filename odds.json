@@ -1,5 +1,5 @@
 {
-  "updateTime": "14:05",
+  "updateTime": "14:10",
   "freeDays": [
     "2026-10-04",
     "2026-11-03"
@@ -1701,12 +1701,6 @@
           "over": "+ 4.5 @2.10"
         },
         {
-          "book": "sts",
-          "under": "- 4.5 @1.65",
-          "lineType": "player1",
-          "over": "+ 4.5 @2.10"
-        },
-        {
           "book": "fu open.",
           "under": "- 4.5 @1.65",
           "lineType": "player1",
@@ -1741,6 +1735,12 @@
           "under": "- 4.5 @1.68",
           "lineType": "player1",
           "over": "+ 4.5 @2.05"
+        },
+        {
+          "book": "sts",
+          "under": "- 4.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 4.5 @2.00"
         },
         {
           "book": "bc open.",
@@ -1783,12 +1783,6 @@
           "over": "+ 1.5 @1.95"
         },
         {
-          "book": "sts",
-          "under": "- 1.5 @1.75",
-          "lineType": "player2",
-          "over": "+ 1.5 @1.95"
-        },
-        {
           "book": "sb open.",
           "under": "- 1.5 @1.77",
           "lineType": "player2",
@@ -1811,6 +1805,12 @@
           "under": "- 1.5 @1.77",
           "lineType": "player2",
           "over": "+ 1.5 @1.90"
+        },
+        {
+          "book": "sts",
+          "under": "- 1.5 @2.00",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.70"
         },
         {
           "book": "bc open.",
@@ -5626,7 +5626,7 @@
     },
     {
       "id": "-8856562723267826998",
-      "matchStartTime": "15:10",
+      "matchStartTime": "15:05",
       "tournament": "Paryż Masters ATP • 1/16 finału",
       "weather": "🔆Pogoda Paris, czas lokalny +0h\n16:00 🌡 10°C / 6°C💧 60 %  💨 13 (max 29) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa\n17:00 🌡 10°C / 6°C💧 60 %  💨 13 (max 28) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa\n18:00 🌡 9°C / 6°C💧 65 %  💨 11 (max 26) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa",
       "eventName": "Alex Molcan - Taylor Fritz",
@@ -6723,6 +6723,18 @@
           "over": "+17.5 @1.90"
         },
         {
+          "book": "fo open.",
+          "under": "-17.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+17.5 @1.75"
+        },
+        {
+          "book": "fortuna",
+          "under": "-17.5 @1.90",
+          "lineType": "meczowa",
+          "over": "+17.5 @1.75"
+        },
+        {
           "book": "fb open.",
           "under": "-17.5 @2.04",
           "lineType": "meczowa",
@@ -6797,10 +6809,40 @@
           "over": "+10.5 @1.74"
         },
         {
+          "book": "fo open.",
+          "under": "-10.5 @1.99",
+          "lineType": "player1",
+          "over": "+10.5 @1.68"
+        },
+        {
+          "book": "fortuna",
+          "under": "-10.5 @1.99",
+          "lineType": "player1",
+          "over": "+10.5 @1.68"
+        },
+        {
+          "book": "fortuna",
+          "under": "-11.5 @1.69",
+          "lineType": "player1",
+          "over": "+11.5 @1.97"
+        },
+        {
           "book": "sb open.",
           "under": "- 6.5 @1.73",
           "lineType": "player2",
           "over": "+ 6.5 @1.97"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 6.5 @1.96",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.70"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 6.5 @1.96",
+          "lineType": "player2",
+          "over": "+ 6.5 @1.70"
         },
         {
           "book": "superbet",
@@ -6866,10 +6908,24 @@
           "x": "@8.40",
           "lineType": "meczowa",
           "over": " @4.00"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.18",
+          "x": "@9.00",
+          "lineType": "meczowa",
+          "over": " @6.50"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.18",
+          "x": "@9.00",
+          "lineType": "meczowa",
+          "over": " @6.50"
         }
       ],
-      "A_cnt": 21,
-      "A_book_cnt": 9,
+      "A_cnt": 28,
+      "A_book_cnt": 11,
       "DF": [
         {
           "book": "sb open.",
@@ -6882,6 +6938,18 @@
           "under": "- 3.5 @1.92",
           "lineType": "meczowa",
           "over": "+ 3.5 @1.76"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 3.5 @2.09",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.61"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @2.09",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.61"
         },
         {
           "book": "betters",
@@ -6900,6 +6968,24 @@
           "under": "- 4.5 @1.63",
           "lineType": "meczowa",
           "over": "+ 4.5 @2.10"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.66",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.01"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 1.5 @1.67",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.00"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.67",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.00"
         },
         {
           "book": "sb open.",
@@ -6924,6 +7010,18 @@
           "under": "- 2.5 @1.53",
           "lineType": "player2",
           "over": "+ 2.5 @2.32"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.82",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.82"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.82",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.82"
         }
       ],
       "MDF": [
@@ -6947,11 +7045,31 @@
           "x": "@3.85",
           "lineType": "meczowa",
           "over": " @1.72"
+        },
+        {
+          "book": "fo open.",
+          "under": " @4.60",
+          "x": "@5.20",
+          "lineType": "meczowa",
+          "over": " @1.42"
+        },
+        {
+          "book": "fortuna",
+          "under": " @4.60",
+          "x": "@5.20",
+          "lineType": "meczowa",
+          "over": " @1.42"
         }
       ],
-      "DF_cnt": 9,
-      "DF_book_cnt": 5,
+      "DF_cnt": 16,
+      "DF_book_cnt": 7,
       "B": [
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.89",
+          "lineType": "meczowa",
+          "over": "+ 2.5 @1.77"
+        },
         {
           "book": "lvbet",
           "under": "- 2.5 @1.85",
@@ -6989,14 +7107,14 @@
           "over": "+ 1.5 @1.95"
         }
       ],
-      "B_cnt": 6,
-      "B_book_cnt": 2
+      "B_cnt": 7,
+      "B_book_cnt": 3
     },
     {
       "id": "-195338982638354960",
-      "matchStartTime": "14:00",
+      "matchStartTime": "14:20",
       "tournament": "Paryż Masters ATP • 1/16 finału",
-      "weather": "🔆Pogoda Paris, czas lokalny +0h\n14:00 🌡 10°C / 6°C💧 61 %  💨 14 (max 28) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa\n15:00 🌡 10°C / 6°C💧 60 %  💨 15 (max 29) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa\n16:00 🌡 10°C / 6°C💧 60 %  💨 13 (max 29) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa",
+      "weather": "🔆Pogoda Paris, czas lokalny +0h\n15:00 🌡 10°C / 6°C💧 60 %  💨 15 (max 29) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa\n16:00 🌡 10°C / 6°C💧 60 %  💨 13 (max 29) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa\n17:00 🌡 10°C / 6°C💧 60 %  💨 13 (max 28) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa",
       "eventName": "Ignacio Buse - Daniil Medvedev",
       "p1": "Ignacio Buse",
       "p2": "Daniil Medvedev",
@@ -7098,9 +7216,9 @@
         },
         {
           "book": "fortuna",
-          "under": "- 9.5 @1.78",
+          "under": "- 9.5 @1.86",
           "lineType": "meczowa",
-          "over": "+ 9.5 @1.86"
+          "over": "+ 9.5 @1.78"
         },
         {
           "book": "sb open.",
@@ -8411,7 +8529,7 @@
     },
     {
       "id": "4389785839104548239",
-      "matchStartTime": "16:20",
+      "matchStartTime": "16:15",
       "tournament": "Paryż Masters ATP • 1/16 finału",
       "weather": "🔆Pogoda Paris, czas lokalny +0h\n17:00 🌡 10°C / 6°C💧 60 %  💨 13 (max 28) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa\n18:00 🌡 9°C / 6°C💧 65 %  💨 11 (max 26) km/h 🌧 0 % 0 mm 🌀 1.25 kg/m³ 1019 hPa\n19:00 🌡 9°C / 6°C💧 68 %  💨 12 (max 24) km/h 🌧 0 % 0 mm 🌀 1.26 kg/m³ 1019 hPa",
       "eventName": "Thiago Agustin Tirante - Jan-Lennard Struff",
