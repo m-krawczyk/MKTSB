@@ -1,5 +1,5 @@
 {
-  "updateTime": "12:40",
+  "updateTime": "12:45",
   "freeDays": [
     "2026-10-04",
     "2026-11-03"
@@ -6669,6 +6669,18 @@
           "over": "+ 4.5 @1.95"
         },
         {
+          "book": "fo open.",
+          "under": "- 4.5 @1.77",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.87"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 4.5 @1.77",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.87"
+        },
+        {
           "book": "sb open.",
           "under": "- 1.5 @1.58",
           "lineType": "player1",
@@ -6681,10 +6693,34 @@
           "over": "+ 1.5 @2.17"
         },
         {
+          "book": "fo open.",
+          "under": "- 1.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.95"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.95"
+        },
+        {
           "book": "sb open.",
           "under": "- 2.5 @2.02",
           "lineType": "player2",
           "over": "+ 2.5 @1.70"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @2.01",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.66"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @2.01",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.66"
         },
         {
           "book": "superbet",
@@ -6714,10 +6750,24 @@
           "x": "@4.55",
           "lineType": "meczowa",
           "over": " @1.34"
+        },
+        {
+          "book": "fo open.",
+          "under": " @4.50",
+          "x": "@5.10",
+          "lineType": "meczowa",
+          "over": " @1.44"
+        },
+        {
+          "book": "fortuna",
+          "under": " @4.50",
+          "x": "@5.10",
+          "lineType": "meczowa",
+          "over": " @1.44"
         }
       ],
-      "DF_cnt": 9,
-      "DF_book_cnt": 5,
+      "DF_cnt": 15,
+      "DF_book_cnt": 7,
       "B": [
         {
           "book": "lvbet",
