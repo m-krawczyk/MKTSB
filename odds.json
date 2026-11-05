@@ -1,5 +1,5 @@
 {
-  "updateTime": "19:20",
+  "updateTime": "19:25",
   "freeDays": [
     "2026-10-04",
     "2026-11-03"
@@ -2993,6 +2993,12 @@
       "A_book_cnt": 7,
       "DF": [
         {
+          "book": "fuksiarz",
+          "under": "- 4.5 @2.60",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @1.42"
+        },
+        {
           "book": "superbet",
           "under": "- 4.5 @2.60",
           "lineType": "meczowa",
@@ -3005,6 +3011,18 @@
           "over": "+ 5.5 @1.76"
         },
         {
+          "book": "fu open.",
+          "under": "- 5.5 @1.95",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.75"
+        },
+        {
+          "book": "fuksiarz",
+          "under": "- 5.5 @1.95",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.75"
+        },
+        {
           "book": "superbet",
           "under": "- 5.5 @1.95",
           "lineType": "meczowa",
@@ -3015,6 +3033,12 @@
           "under": "- 5.5 @2.04",
           "lineType": "meczowa",
           "over": "+ 5.5 @1.65"
+        },
+        {
+          "book": "fuksiarz",
+          "under": "- 6.5 @1.55",
+          "lineType": "meczowa",
+          "over": "+ 6.5 @2.25"
         },
         {
           "book": "superbet",
@@ -3035,6 +3059,18 @@
           "over": "+ 3.5 @2.02"
         },
         {
+          "book": "fu open.",
+          "under": "- 3.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 3.5 @2.00"
+        },
+        {
+          "book": "fuksiarz",
+          "under": "- 3.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 3.5 @2.00"
+        },
+        {
           "book": "superbet",
           "under": "- 3.5 @1.71",
           "lineType": "player1",
@@ -3051,6 +3087,18 @@
           "under": "- 1.5 @2.60",
           "lineType": "player2",
           "over": "+ 1.5 @1.38"
+        },
+        {
+          "book": "fu open.",
+          "under": "- 2.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.07"
+        },
+        {
+          "book": "fuksiarz",
+          "under": "- 2.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.07"
         },
         {
           "book": "sb open.",
@@ -3094,8 +3142,8 @@
           "over": " @3.00"
         }
       ],
-      "DF_cnt": 13,
-      "DF_book_cnt": 3,
+      "DF_cnt": 21,
+      "DF_book_cnt": 5,
       "B": [
         {
           "book": "lvbet",
@@ -10760,15 +10808,9 @@
           "under": "- 1.5 @2.35",
           "lineType": "player2",
           "over": "+ 1.5 @1.36"
-        },
-        {
-          "book": "lvbet",
-          "under": "- 2.5 @1.47",
-          "lineType": "player2",
-          "over": "+ 2.5 @2.45"
         }
       ],
-      "B_cnt": 11,
+      "B_cnt": 10,
       "B_book_cnt": 4
     },
     {
@@ -12568,9 +12610,9 @@
         },
         {
           "book": "lvbet",
-          "under": "- 1.5 @1.62",
-          "lineType": "player1",
-          "over": "+ 1.5 @2.05"
+          "under": "- 3.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.80"
         },
         {
           "book": "betclic",
@@ -12580,18 +12622,24 @@
         },
         {
           "book": "lvbet",
-          "under": "- 1.5 @1.80",
-          "lineType": "player2",
-          "over": "+ 1.5 @1.80"
+          "under": "- 1.5 @2.15",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.57"
         },
         {
           "book": "betclic",
           "under": "- 1.5 @1.70",
           "lineType": "player2",
           "over": "+ 1.5 @1.70"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @2.15",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.57"
         }
       ],
-      "B_cnt": 6,
+      "B_cnt": 7,
       "B_book_cnt": 2
     }
   ]
