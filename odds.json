@@ -1,5 +1,5 @@
 {
-  "updateTime": "20:05",
+  "updateTime": "20:10",
   "freeDays": [
     "2026-10-04",
     "2026-11-03"
@@ -5806,6 +5806,12 @@
           "over": "+ 3.5 @1.85"
         },
         {
+          "book": "betters",
+          "under": "- 3.5 @1.99",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.68"
+        },
+        {
           "book": "betfan",
           "lineType": "meczowa",
           "over": "+ 3.5 @1.60"
@@ -5959,8 +5965,8 @@
           "over": " @7.60"
         }
       ],
-      "A_cnt": 26,
-      "A_book_cnt": 6,
+      "A_cnt": 27,
+      "A_book_cnt": 7,
       "DF": [
         {
           "book": "betfan",
@@ -5973,6 +5979,12 @@
           "under": "- 5.5 @1.95",
           "lineType": "meczowa",
           "over": "+ 5.5 @1.72"
+        },
+        {
+          "book": "betters",
+          "under": "- 5.5 @1.99",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.68"
         },
         {
           "book": "superbet",
@@ -6049,6 +6061,13 @@
       ],
       "MDF": [
         {
+          "book": "betters",
+          "under": " @3.95",
+          "x": "@5.60",
+          "lineType": "meczowa",
+          "over": " @1.35"
+        },
+        {
           "book": "superbet",
           "under": " @3.80",
           "x": "@5.40",
@@ -6063,8 +6082,8 @@
           "over": " @1.33"
         }
       ],
-      "DF_cnt": 14,
-      "DF_book_cnt": 4,
+      "DF_cnt": 15,
+      "DF_book_cnt": 5,
       "B": [
         {
           "book": "lvbet",
