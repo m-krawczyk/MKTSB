@@ -1,5 +1,5 @@
 {
-  "updateTime": "19:35",
+  "updateTime": "19:40",
   "freeDays": [
     "2026-11-11",
     "2026-11-11"
@@ -5422,6 +5422,18 @@
           "over": "+ 4.5 @1.45"
         },
         {
+          "book": "st open.",
+          "under": "- 5.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.85"
+        },
+        {
+          "book": "sts",
+          "under": "- 5.5 @1.85",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.85"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+ 5.5 @1.80"
@@ -5472,6 +5484,18 @@
           "over": "+ 4.5 @1.95"
         },
         {
+          "book": "st open.",
+          "under": "- 4.5 @1.75",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.95"
+        },
+        {
+          "book": "sts",
+          "under": "- 4.5 @1.75",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.95"
+        },
+        {
           "book": "superbet",
           "under": "- 4.5 @1.74",
           "lineType": "player1",
@@ -5494,6 +5518,18 @@
           "under": "- 0.5 @2.57",
           "lineType": "player2",
           "over": "+ 0.5 @1.40"
+        },
+        {
+          "book": "st open.",
+          "under": "- 1.5 @1.45",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.50"
+        },
+        {
+          "book": "sts",
+          "under": "- 1.5 @1.45",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.50"
         },
         {
           "book": "superbet",
@@ -5548,8 +5584,8 @@
           "over": " @6.60"
         }
       ],
-      "A_cnt": 18,
-      "A_book_cnt": 4,
+      "A_cnt": 24,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "superbet",
@@ -5763,6 +5799,18 @@
           "over": "+ 5.5 @2.05"
         },
         {
+          "book": "st open.",
+          "under": "- 5.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.95"
+        },
+        {
+          "book": "sts",
+          "under": "- 5.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @1.95"
+        },
+        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+ 5.5 @1.80"
@@ -5789,6 +5837,18 @@
           "under": "- 0.5 @1.80",
           "lineType": "player1",
           "over": "+ 0.5 @1.88"
+        },
+        {
+          "book": "st open.",
+          "under": "- 0.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 0.5 @1.85"
+        },
+        {
+          "book": "sts",
+          "under": "- 0.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 0.5 @1.85"
         },
         {
           "book": "bc open.",
@@ -5823,6 +5883,18 @@
           "under": "- 4.5 @1.73",
           "lineType": "player2",
           "over": "+ 4.5 @1.97"
+        },
+        {
+          "book": "st open.",
+          "under": "- 4.5 @1.85",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.85"
+        },
+        {
+          "book": "sts",
+          "under": "- 4.5 @1.85",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.85"
         },
         {
           "book": "bc open.",
@@ -5871,8 +5943,8 @@
           "over": " @1.02"
         }
       ],
-      "A_cnt": 17,
-      "A_book_cnt": 4,
+      "A_cnt": 23,
+      "A_book_cnt": 6,
       "DF": [
         {
           "book": "bc open.",
@@ -8587,12 +8659,6 @@
           "over": "+16.5 @2.15"
         },
         {
-          "book": "betters",
-          "under": "-16.5 @1.82",
-          "lineType": "meczowa",
-          "over": "+16.5 @1.82"
-        },
-        {
           "book": "bc open.",
           "lineType": "meczowa",
           "over": "+16.5 @1.80"
@@ -8607,6 +8673,12 @@
           "under": "-17.5 @1.80",
           "lineType": "meczowa",
           "over": "+17.5 @1.90"
+        },
+        {
+          "book": "betters",
+          "under": "-17.5 @2.06",
+          "lineType": "meczowa",
+          "over": "+17.5 @1.63"
         },
         {
           "book": "fortuna",
