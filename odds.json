@@ -1,5 +1,5 @@
 {
-  "updateTime": "09:05",
+  "updateTime": "09:10",
   "freeDays": [
     "2026-11-11",
     "2026-11-11"
@@ -5654,6 +5654,18 @@
           "over": "+ 9.5 @1.90"
         },
         {
+          "book": "st open.",
+          "under": "- 9.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.90"
+        },
+        {
+          "book": "sts",
+          "under": "- 9.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @1.90"
+        },
+        {
           "book": "sb open.",
           "under": "- 9.5 @1.80",
           "lineType": "meczowa",
@@ -5722,6 +5734,18 @@
           "under": "- 4.5 @2.55",
           "lineType": "player1",
           "over": "+ 4.5 @1.41"
+        },
+        {
+          "book": "st open.",
+          "under": "- 5.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.75"
+        },
+        {
+          "book": "sts",
+          "under": "- 5.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 5.5 @1.75"
         },
         {
           "book": "sb open.",
@@ -5801,6 +5825,18 @@
         },
         {
           "book": "fuksiarz",
+          "under": "- 3.5 @1.75",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.95"
+        },
+        {
+          "book": "st open.",
+          "under": "- 3.5 @1.75",
+          "lineType": "player2",
+          "over": "+ 3.5 @1.95"
+        },
+        {
+          "book": "sts",
           "under": "- 3.5 @1.75",
           "lineType": "player2",
           "over": "+ 3.5 @1.95"
@@ -5903,8 +5939,8 @@
           "over": " @3.50"
         }
       ],
-      "A_cnt": 43,
-      "A_book_cnt": 11,
+      "A_cnt": 49,
+      "A_book_cnt": 13,
       "DF": [
         {
           "book": "betters",
