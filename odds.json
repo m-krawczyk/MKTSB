@@ -1,5 +1,5 @@
 {
-  "updateTime": "11:05",
+  "updateTime": "11:10",
   "freeDays": [
     "2026-11-11",
     "2026-11-11"
@@ -2675,15 +2675,15 @@
           "over": "+ 8.5 @1.80"
         },
         {
-          "book": "betclic",
-          "lineType": "player1",
-          "over": "+ 8.5 @1.80"
-        },
-        {
           "book": "betfan",
           "under": "- 8.5 @1.87",
           "lineType": "player1",
           "over": "+ 8.5 @1.80"
+        },
+        {
+          "book": "betclic",
+          "lineType": "player1",
+          "over": "+ 8.5 @1.75"
         },
         {
           "book": "fortuna",
@@ -6710,18 +6710,18 @@
           "over": " @3.40"
         },
         {
+          "book": "betters",
+          "under": " @1.49",
+          "x": "@6.00",
+          "lineType": "meczowa",
+          "over": " @2.96"
+        },
+        {
           "book": "lv open.",
           "under": " @1.62",
           "x": "@5.30",
           "lineType": "meczowa",
           "over": " @2.70"
-        },
-        {
-          "book": "betters",
-          "under": " @1.78",
-          "x": "@5.80",
-          "lineType": "meczowa",
-          "over": " @2.26"
         },
         {
           "book": "superbet",
@@ -6741,12 +6741,6 @@
       "A_cnt": 63,
       "A_book_cnt": 17,
       "DF": [
-        {
-          "book": "betters",
-          "under": "- 8.5 @1.92",
-          "lineType": "meczowa",
-          "over": "+ 8.5 @1.73"
-        },
         {
           "book": "et open.",
           "under": "- 8.5 @2.02",
@@ -6776,6 +6770,12 @@
           "under": "- 8.5 @2.15",
           "lineType": "meczowa",
           "over": "+ 8.5 @1.60"
+        },
+        {
+          "book": "betters",
+          "under": "- 9.5 @1.66",
+          "lineType": "meczowa",
+          "over": "+ 9.5 @2.02"
         },
         {
           "book": "fu open.",
@@ -7088,9 +7088,9 @@
         {
           "book": "betters",
           "under": " @1.54",
-          "x": "@6.20",
+          "x": "@6.40",
           "lineType": "meczowa",
-          "over": " @2.74"
+          "over": " @2.70"
         },
         {
           "book": "lv open.",
