@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:40",
+  "updateTime": "10:45",
   "freeDays": [
     "2026-11-11",
     "2026-11-11"
@@ -3207,6 +3207,18 @@
           "over": "+ 5.5 @2.57"
         },
         {
+          "book": "fo open.",
+          "under": "- 5.5 @1.62",
+          "lineType": "player1",
+          "over": "+ 5.5 @2.07"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 5.5 @1.62",
+          "lineType": "player1",
+          "over": "+ 5.5 @2.07"
+        },
+        {
           "book": "betters",
           "under": "- 5.5 @1.96",
           "lineType": "player1",
@@ -3259,6 +3271,18 @@
           "under": "- 2.5 @1.58",
           "lineType": "player2",
           "over": "+ 2.5 @2.17"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 2.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.96"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 2.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 2.5 @1.96"
         },
         {
           "book": "bc open.",
@@ -3350,9 +3374,23 @@
           "x": "@5.60",
           "lineType": "meczowa",
           "over": " @4.25"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.30",
+          "x": "@6.70",
+          "lineType": "meczowa",
+          "over": " @5.10"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.30",
+          "x": "@6.70",
+          "lineType": "meczowa",
+          "over": " @5.10"
         }
       ],
-      "DF_cnt": 52,
+      "DF_cnt": 56,
       "DF_book_cnt": 15,
       "B": [
         {
