@@ -1,5 +1,5 @@
 {
-  "updateTime": "19:00",
+  "updateTime": "19:05",
   "freeDays": [
     "2026-11-10",
     "2026-11-11"
@@ -352,12 +352,6 @@
           "over": "+ 2.5 @1.60"
         },
         {
-          "book": "lvbet",
-          "under": "- 1.5 @1.80",
-          "lineType": "player1",
-          "over": "+ 1.5 @1.80"
-        },
-        {
           "book": "betclic",
           "under": "- 1.5 @1.70",
           "lineType": "player1",
@@ -365,9 +359,15 @@
         },
         {
           "book": "lvbet",
-          "under": "- 1.5 @1.55",
+          "under": "- 1.5 @1.95",
+          "lineType": "player1",
+          "over": "+ 1.5 @1.67"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @1.47",
           "lineType": "player2",
-          "over": "+ 1.5 @2.17"
+          "over": "+ 1.5 @2.35"
         },
         {
           "book": "betclic",
@@ -5115,6 +5115,12 @@
         },
         {
           "book": "lvbet",
+          "under": "- 7.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.72"
+        },
+        {
+          "book": "lvbet",
           "under": "- 8.5 @1.80",
           "lineType": "meczowa",
           "over": "+ 8.5 @1.88"
@@ -5142,6 +5148,12 @@
           "under": "- 4.5 @1.60",
           "lineType": "player1",
           "over": "+ 4.5 @1.85"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 4.5 @2.25",
+          "lineType": "player1",
+          "over": "+ 4.5 @1.57"
         },
         {
           "book": "lvbet",
@@ -5175,12 +5187,12 @@
         },
         {
           "book": "lvbet",
-          "under": "- 3.5 @1.82",
+          "under": "- 3.5 @1.85",
           "lineType": "player2",
-          "over": "+ 3.5 @1.82"
+          "over": "+ 3.5 @1.85"
         }
       ],
-      "B_cnt": 16,
+      "B_cnt": 18,
       "B_book_cnt": 6
     },
     {
@@ -5349,7 +5361,7 @@
         },
         {
           "book": "superbet",
-          "under": "- 4.5 @1.34",
+          "under": "- 4.5 @1.33",
           "lineType": "player2",
           "over": "+ 4.5 @2.77"
         }
