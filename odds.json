@@ -1,5 +1,5 @@
 {
-  "updateTime": "07:55",
+  "updateTime": "08:00",
   "freeDays": [
     "2026-11-10",
     "2026-11-11"
@@ -914,7 +914,7 @@
       "id": "1002400676630823932",
       "matchStartTime": "14:00",
       "tournament": "Sztokholm ATP • Półfinał",
-      "weather1": "🔆Pogoda Stockholm, czas lokalny +0h\n14:00 🌡 3°C / -3°C💧 85 %  💨 28 (max 52) km/h 🌧 73 % 0 mm 🌀 1.24 kg/m³ 981 hPa\n15:00 🌡 3°C / -4°C💧 83 %  💨 28 (max 53) km/h 🌧 70 % 0 mm 🌀 1.24 kg/m³ 983 hPa\n16:00 🌡 2°C / -4°C💧 81 %  💨 26 (max 52) km/h 🌧 61 % 0 mm 🌀 1.24 kg/m³ 984 hPa",
+      "weather1": "🔆Pogoda Stockholm, czas lokalny +0h\n14:00 🌡 3°C / -3°C💧 87 %  💨 26 (max 48) km/h 🌧 73 % 0 mm 🌀 1.24 kg/m³ 982 hPa\n15:00 🌡 3°C / -3°C💧 85 %  💨 26 (max 50) km/h 🌧 70 % 0 mm 🌀 1.24 kg/m³ 984 hPa\n16:00 🌡 2°C / -4°C💧 81 %  💨 25 (max 47) km/h 🌧 61 % 0 mm 🌀 1.24 kg/m³ 985 hPa",
       "eventName": "Alejandro Tabilo - Thiago Agustin Tirante",
       "p1": "Alejandro Tabilo",
       "p2": "Thiago Agustin Tirante",
@@ -1323,7 +1323,7 @@
       "id": "2190035820859634382",
       "matchStartTime": "22:10",
       "tournament": "WTA Finals Indian Wells • Grupa Group B, Dzień 3",
-      "weather1": "🔆Pogoda Indian Wells, czas lokalny -9h\n23:00 🌡 25°C / 22°C💧 35 %  💨 21 (max 35) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1002 hPa",
+      "weather1": "🔆Pogoda Indian Wells, czas lokalny -9h\n23:00 🌡 26°C / 24°C💧 33 %  💨  7 (max 13) km/h 🌧 3 % 0 mm 🌀 1.16 kg/m³ 1002 hPa",
       "eventName": "Aryna Sabalenka - Elina Svitolina",
       "p1": "Aryna Sabalenka",
       "p2": "Elina Svitolina",
@@ -1448,6 +1448,18 @@
           "over": "+ 7.5 @1.88"
         },
         {
+          "book": "betfan",
+          "under": "- 7.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.87"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 7.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.87"
+        },
+        {
           "book": "sb open.",
           "under": "- 7.5 @1.83",
           "lineType": "meczowa",
@@ -1518,6 +1530,18 @@
           "over": "+ 4.5 @2.05"
         },
         {
+          "book": "betfan",
+          "under": "- 4.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 4.5 @2.00"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 4.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 4.5 @2.00"
+        },
+        {
           "book": "bc open.",
           "lineType": "player1",
           "over": "+ 4.5 @1.80"
@@ -1562,6 +1586,18 @@
           "under": "- 3.5 @1.65",
           "lineType": "player2",
           "over": "+ 3.5 @2.07"
+        },
+        {
+          "book": "betfan",
+          "under": "- 3.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.05"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 3.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.05"
         },
         {
           "book": "lv open.",
@@ -1622,8 +1658,8 @@
           "over": " @2.12"
         }
       ],
-      "A_cnt": 30,
-      "A_book_cnt": 8,
+      "A_cnt": 36,
+      "A_book_cnt": 10,
       "DF": [
         {
           "book": "superbet",
@@ -1672,6 +1708,18 @@
           "under": "- 7.5 @1.61",
           "lineType": "meczowa",
           "over": "+ 7.5 @2.10"
+        },
+        {
+          "book": "betfan",
+          "under": "- 7.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.70"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 7.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.70"
         },
         {
           "book": "lv open.",
@@ -1726,6 +1774,18 @@
           "under": "- 3.5 @1.71",
           "lineType": "player1",
           "over": "+ 3.5 @1.97"
+        },
+        {
+          "book": "betfan",
+          "under": "- 3.5 @2.00",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.70"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 3.5 @2.00",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.70"
         },
         {
           "book": "lv open.",
@@ -1800,6 +1860,18 @@
           "over": "+ 4.5 @2.70"
         },
         {
+          "book": "betfan",
+          "under": "- 4.5 @1.60",
+          "lineType": "player2",
+          "over": "+ 4.5 @2.15"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 4.5 @1.60",
+          "lineType": "player2",
+          "over": "+ 4.5 @2.15"
+        },
+        {
           "book": "lvbet",
           "under": "- 4.5 @1.52",
           "lineType": "player2",
@@ -1822,8 +1894,8 @@
           "over": " @1.82"
         }
       ],
-      "DF_cnt": 30,
-      "DF_book_cnt": 8,
+      "DF_cnt": 36,
+      "DF_book_cnt": 10,
       "B": [
         {
           "book": "sts",
@@ -1887,7 +1959,7 @@
       "id": "4325830067524751877",
       "matchStartTime": "21:00",
       "tournament": "WTA Finals Indian Wells • Grupa Group B, Dzień 3",
-      "weather1": "🔆Pogoda Indian Wells, czas lokalny -9h\n21:00 🌡 27°C / 25°C💧 28 %  💨 10 (max 12) km/h 🌧 1 % 0 mm 🌀 1.16 kg/m³ 1003 hPa\n22:00 🌡 27°C / 25°C💧 30 %  💨 13 (max 15) km/h 🌧 1 % 0 mm 🌀 1.16 kg/m³ 1003 hPa\n23:00 🌡 25°C / 22°C💧 35 %  💨 21 (max 35) km/h 🌧 2 % 0 mm 🌀 1.16 kg/m³ 1002 hPa",
+      "weather1": "🔆Pogoda Indian Wells, czas lokalny -9h\n21:00 🌡 27°C / 25°C💧 31 %  💨  7 (max 10) km/h 🌧 1 % 0 mm 🌀 1.16 kg/m³ 1003 hPa\n22:00 🌡 26°C / 25°C💧 30 %  💨  3 (max 9) km/h 🌧 1 % 0 mm 🌀 1.16 kg/m³ 1003 hPa\n23:00 🌡 26°C / 24°C💧 33 %  💨  7 (max 13) km/h 🌧 3 % 0 mm 🌀 1.16 kg/m³ 1002 hPa",
       "eventName": "Mirra Andreeva - Karolina Muchova",
       "p1": "Mirra Andreeva",
       "p2": "Karolina Muchova",
@@ -2024,6 +2096,18 @@
           "over": "+ 5.5 @2.17"
         },
         {
+          "book": "betfan",
+          "under": "- 5.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @2.00"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 5.5 @1.70",
+          "lineType": "meczowa",
+          "over": "+ 5.5 @2.00"
+        },
+        {
           "book": "lvbet",
           "under": "- 5.5 @1.65",
           "lineType": "meczowa",
@@ -2074,6 +2158,18 @@
           "under": "- 2.5 @1.67",
           "lineType": "player1",
           "over": "+ 2.5 @1.75"
+        },
+        {
+          "book": "betfan",
+          "under": "- 2.5 @2.15",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.60"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 2.5 @2.15",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.60"
         },
         {
           "book": "lvbet",
@@ -2134,6 +2230,18 @@
           "over": "+ 2.5 @2.22"
         },
         {
+          "book": "betfan",
+          "under": "- 2.5 @1.60",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.15"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 2.5 @1.60",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.15"
+        },
+        {
           "book": "lvbet",
           "under": "- 2.5 @1.55",
           "lineType": "player2",
@@ -2186,8 +2294,8 @@
           "over": " @2.55"
         }
       ],
-      "A_cnt": 30,
-      "A_book_cnt": 8,
+      "A_cnt": 36,
+      "A_book_cnt": 10,
       "DF": [
         {
           "book": "st open.",
@@ -2236,6 +2344,18 @@
           "under": "- 7.5 @1.44",
           "lineType": "meczowa",
           "over": "+ 7.5 @2.45"
+        },
+        {
+          "book": "betfan",
+          "under": "- 7.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.93"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 7.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 7.5 @1.93"
         },
         {
           "book": "lvbet",
@@ -2290,6 +2410,18 @@
           "under": "- 3.5 @1.50",
           "lineType": "player1",
           "over": "+ 3.5 @1.95"
+        },
+        {
+          "book": "betfan",
+          "under": "- 3.5 @2.00",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.70"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 3.5 @2.00",
+          "lineType": "player1",
+          "over": "+ 3.5 @1.70"
         },
         {
           "book": "lv open.",
@@ -2358,6 +2490,18 @@
           "over": "+ 3.5 @2.37"
         },
         {
+          "book": "betfan",
+          "under": "- 3.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.00"
+        },
+        {
+          "book": "bf open.",
+          "under": "- 3.5 @1.70",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.00"
+        },
+        {
           "book": "lvbet",
           "under": "- 3.5 @1.62",
           "lineType": "player2",
@@ -2386,8 +2530,8 @@
           "over": " @2.15"
         }
       ],
-      "DF_cnt": 30,
-      "DF_book_cnt": 8,
+      "DF_cnt": 36,
+      "DF_book_cnt": 10,
       "B": [
         {
           "book": "lvbet",
