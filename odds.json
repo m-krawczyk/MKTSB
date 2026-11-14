@@ -1,5 +1,5 @@
 {
-  "updateTime": "08:30",
+  "updateTime": "08:35",
   "freeDays": [
     "2026-11-10",
     "2026-11-11"
@@ -1780,9 +1780,9 @@
         },
         {
           "book": "fortuna",
-          "under": "-11.5 @1.70",
+          "under": "-11.5 @1.60",
           "lineType": "player1",
-          "over": "+11.5 @1.96"
+          "over": "+11.5 @2.11"
         },
         {
           "book": "superbet",
@@ -1879,10 +1879,28 @@
           "over": "+ 9.5 @1.70"
         },
         {
+          "book": "fortuna",
+          "under": "- 9.5 @2.01",
+          "lineType": "player2",
+          "over": "+ 9.5 @1.66"
+        },
+        {
           "book": "superbet",
           "under": "-10.5 @1.36",
           "lineType": "player2",
           "over": "+10.5 @2.67"
+        },
+        {
+          "book": "fo open.",
+          "under": "-10.5 @1.72",
+          "lineType": "player2",
+          "over": "+10.5 @1.93"
+        },
+        {
+          "book": "fortuna",
+          "under": "-10.5 @1.72",
+          "lineType": "player2",
+          "over": "+10.5 @1.93"
         }
       ],
       "MA": [
@@ -1899,9 +1917,23 @@
           "x": "@8.50",
           "lineType": "meczowa",
           "over": " @2.05"
+        },
+        {
+          "book": "fo open.",
+          "under": " @1.72",
+          "x": "@8.80",
+          "lineType": "meczowa",
+          "over": " @2.40"
+        },
+        {
+          "book": "fortuna",
+          "under": " @1.72",
+          "x": "@8.80",
+          "lineType": "meczowa",
+          "over": " @2.40"
         }
       ],
-      "A_cnt": 53,
+      "A_cnt": 56,
       "A_book_cnt": 12,
       "DF": [
         {
@@ -1983,6 +2015,18 @@
           "over": "+ 3.5 @1.90"
         },
         {
+          "book": "fo open.",
+          "under": "- 3.5 @1.76",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.88"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 3.5 @1.76",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.88"
+        },
+        {
           "book": "bc open.",
           "under": "- 3.5 @1.65",
           "lineType": "meczowa",
@@ -2053,6 +2097,18 @@
           "under": "- 1.5 @1.52",
           "lineType": "player1",
           "over": "+ 1.5 @2.35"
+        },
+        {
+          "book": "fo open.",
+          "under": "- 1.5 @1.56",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.18"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @1.56",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.18"
         },
         {
           "book": "bc open.",
@@ -2127,6 +2183,18 @@
           "over": "+ 1.5 @1.77"
         },
         {
+          "book": "fo open.",
+          "under": "- 1.5 @2.15",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.58"
+        },
+        {
+          "book": "fortuna",
+          "under": "- 1.5 @2.15",
+          "lineType": "player2",
+          "over": "+ 1.5 @1.58"
+        },
+        {
           "book": "fuksiarz",
           "under": "- 2.5 @1.30",
           "lineType": "player2",
@@ -2151,6 +2219,12 @@
           "over": "+ 2.5 @2.35"
         },
         {
+          "book": "fortuna",
+          "under": "- 2.5 @1.53",
+          "lineType": "player2",
+          "over": "+ 2.5 @2.25"
+        },
+        {
           "book": "bc open.",
           "under": "- 2.5 @1.40",
           "lineType": "player2",
@@ -2163,9 +2237,24 @@
           "over": "+ 2.5 @2.15"
         }
       ],
-      "MDF": null,
-      "DF_cnt": 43,
-      "DF_book_cnt": 10,
+      "MDF": [
+        {
+          "book": "fo open.",
+          "under": " @3.40",
+          "x": "@4.40",
+          "lineType": "meczowa",
+          "over": " @1.70"
+        },
+        {
+          "book": "fortuna",
+          "under": " @3.40",
+          "x": "@4.40",
+          "lineType": "meczowa",
+          "over": " @1.70"
+        }
+      ],
+      "DF_cnt": 50,
+      "DF_book_cnt": 12,
       "B": [
         {
           "book": "fortuna",
