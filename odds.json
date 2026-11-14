@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:15",
+  "updateTime": "10:20",
   "freeDays": [
     "2026-11-10",
     "2026-11-11"
@@ -1847,12 +1847,6 @@
           "over": "+18.5 @1.76"
         },
         {
-          "book": "betfan",
-          "under": "-18.5 @2.00",
-          "lineType": "meczowa",
-          "over": "+18.5 @1.70"
-        },
-        {
           "book": "bf open.",
           "under": "-18.5 @2.00",
           "lineType": "meczowa",
@@ -1869,6 +1863,12 @@
           "under": "-19.5 @1.70",
           "lineType": "meczowa",
           "over": "+19.5 @2.00"
+        },
+        {
+          "book": "betfan",
+          "under": "-19.5 @1.83",
+          "lineType": "meczowa",
+          "over": "+19.5 @1.83"
         },
         {
           "book": "superbet",
@@ -2101,12 +2101,6 @@
           "over": "+ 8.5 @1.92"
         },
         {
-          "book": "betfan",
-          "under": "- 8.5 @1.90",
-          "lineType": "player2",
-          "over": "+ 8.5 @1.77"
-        },
-        {
           "book": "bf open.",
           "under": "- 8.5 @1.90",
           "lineType": "player2",
@@ -2141,6 +2135,12 @@
           "under": "- 9.5 @1.80",
           "lineType": "player2",
           "over": "+ 9.5 @1.90"
+        },
+        {
+          "book": "betfan",
+          "under": "- 9.5 @1.83",
+          "lineType": "player2",
+          "over": "+ 9.5 @1.83"
         },
         {
           "book": "st open.",
@@ -4963,6 +4963,12 @@
           "over": "+ 4.5 @2.00"
         },
         {
+          "book": "betfan",
+          "under": "- 3.5 @1.65",
+          "lineType": "player2",
+          "over": "+ 3.5 @2.05"
+        },
+        {
           "book": "etoto",
           "under": "- 3.5 @1.75",
           "lineType": "player2",
@@ -4987,7 +4993,7 @@
           "over": "+ 3.5 @1.70"
         }
       ],
-      "B_cnt": 13,
+      "B_cnt": 14,
       "B_book_cnt": 5
     }
   ]
