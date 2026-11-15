@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:10",
+  "updateTime": "10:15",
   "freeDays": [
     "2026-11-10",
     "2026-11-11"
@@ -2682,6 +2682,12 @@
           "over": "+ 2.5 @1.40"
         },
         {
+          "book": "forbet",
+          "under": "- 3.5 @1.40",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @2.65"
+        },
+        {
           "book": "fortuna",
           "under": "- 3.5 @1.51",
           "lineType": "meczowa",
@@ -2808,6 +2814,18 @@
           "over": "+ 1.5 @2.02"
         },
         {
+          "book": "fb open.",
+          "under": "- 1.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.00"
+        },
+        {
+          "book": "forbet",
+          "under": "- 1.5 @1.70",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.00"
+        },
+        {
           "book": "betclic",
           "under": "- 1.5 @1.50",
           "lineType": "player1",
@@ -2902,6 +2920,18 @@
           "under": "- 0.5 @4.20",
           "lineType": "player2",
           "over": "+ 0.5 @1.13"
+        },
+        {
+          "book": "fb open.",
+          "under": "- 1.5 @1.53",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.29"
+        },
+        {
+          "book": "forbet",
+          "under": "- 1.5 @1.53",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.29"
         },
         {
           "book": "fo open.",
@@ -3063,7 +3093,7 @@
           "over": " @2.38"
         }
       ],
-      "DF_cnt": 66,
+      "DF_cnt": 71,
       "DF_book_cnt": 19,
       "B": [
         {
@@ -3089,6 +3119,12 @@
           "under": "- 3.5 @1.68",
           "lineType": "meczowa",
           "over": "+ 3.5 @2.05"
+        },
+        {
+          "book": "forbet",
+          "under": "- 3.5 @1.75",
+          "lineType": "meczowa",
+          "over": "+ 3.5 @1.93"
         },
         {
           "book": "sts",
@@ -3121,6 +3157,12 @@
           "over": "+ 2.5 @2.30"
         },
         {
+          "book": "forbet",
+          "under": "- 2.5 @1.55",
+          "lineType": "player1",
+          "over": "+ 2.5 @2.25"
+        },
+        {
           "book": "sts",
           "under": "- 2.5 @1.60",
           "lineType": "player1",
@@ -3151,14 +3193,20 @@
           "over": "+ 1.5 @2.40"
         },
         {
+          "book": "forbet",
+          "under": "- 1.5 @1.55",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.25"
+        },
+        {
           "book": "sts",
           "under": "- 1.5 @1.60",
           "lineType": "player2",
           "over": "+ 1.5 @2.20"
         }
       ],
-      "B_cnt": 15,
-      "B_book_cnt": 6
+      "B_cnt": 18,
+      "B_book_cnt": 7
     },
     {
       "id": "-6088817311692806859",
