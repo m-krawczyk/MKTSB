@@ -1,5 +1,5 @@
 {
-  "updateTime": "14:35",
+  "updateTime": "14:40",
   "freeDays": [
     "2026-11-10",
     "2026-11-15"
@@ -219,6 +219,12 @@
           "over": "+13.5 @1.95"
         },
         {
+          "book": "sts",
+          "under": "-13.5 @1.80",
+          "lineType": "meczowa",
+          "over": "+13.5 @1.90"
+        },
+        {
           "book": "betters",
           "under": "-13.5 @1.87",
           "lineType": "meczowa",
@@ -237,12 +243,6 @@
         },
         {
           "book": "st open.",
-          "under": "-15.5 @1.80",
-          "lineType": "meczowa",
-          "over": "+15.5 @1.90"
-        },
-        {
-          "book": "sts",
           "under": "-15.5 @1.80",
           "lineType": "meczowa",
           "over": "+15.5 @1.90"
@@ -330,6 +330,12 @@
           "over": "+ 9.5 @1.85"
         },
         {
+          "book": "sts",
+          "under": "- 9.5 @1.85",
+          "lineType": "player1",
+          "over": "+ 9.5 @1.85"
+        },
+        {
           "book": "betters",
           "under": "- 9.5 @1.87",
           "lineType": "player1",
@@ -378,12 +384,6 @@
         },
         {
           "book": "st open.",
-          "under": "-10.5 @1.90",
-          "lineType": "player1",
-          "over": "+10.5 @1.80"
-        },
-        {
-          "book": "sts",
           "under": "-10.5 @1.90",
           "lineType": "player1",
           "over": "+10.5 @1.80"
@@ -473,13 +473,13 @@
           "over": "+ 3.5 @1.98"
         },
         {
-          "book": "st open.",
-          "under": "- 3.5 @2.10",
+          "book": "sts",
+          "under": "- 3.5 @1.80",
           "lineType": "player2",
-          "over": "+ 3.5 @1.65"
+          "over": "+ 3.5 @1.90"
         },
         {
-          "book": "sts",
+          "book": "st open.",
           "under": "- 3.5 @2.10",
           "lineType": "player2",
           "over": "+ 3.5 @1.65"
