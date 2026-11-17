@@ -1,5 +1,5 @@
 {
-  "updateTime": "02:00",
+  "updateTime": "02:30",
   "freeDays": [
     "2026-11-16",
     "2026-11-17",
@@ -324,9 +324,28 @@
       ],
       "DF_cnt": 12,
       "DF_book_cnt": 2,
-      "B": null,
-      "B_cnt": 0,
-      "B_book_cnt": 0
+      "B": [
+        {
+          "book": "lvbet",
+          "under": "- 4.5 @1.50",
+          "lineType": "meczowa",
+          "over": "+ 4.5 @2.27"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 2.5 @2.17",
+          "lineType": "player1",
+          "over": "+ 2.5 @1.55"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 1.5 @1.57",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.15"
+        }
+      ],
+      "B_cnt": 3,
+      "B_book_cnt": 1
     },
     {
       "id": "-7572449369558766015",
@@ -1920,9 +1939,9 @@
       "B": [
         {
           "book": "lvbet",
-          "under": "- 2.5 @1.42",
+          "under": "- 1.5 @2.05",
           "lineType": "meczowa",
-          "over": "+ 2.5 @2.50"
+          "over": "+ 1.5 @1.62"
         },
         {
           "book": "sts",
@@ -1943,16 +1962,16 @@
           "over": "+ 2.5 @1.85"
         },
         {
+          "book": "lvbet",
+          "under": "- 1.5 @1.38",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.65"
+        },
+        {
           "book": "sts",
           "under": "- 1.5 @1.57",
           "lineType": "player1",
           "over": "+ 1.5 @2.20"
-        },
-        {
-          "book": "lvbet",
-          "under": "- 1.5 @1.55",
-          "lineType": "player1",
-          "over": "+ 1.5 @2.17"
         },
         {
           "book": "betclic",
