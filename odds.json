@@ -1,5 +1,5 @@
 {
-  "updateTime": "05:00",
+  "updateTime": "05:30",
   "freeDays": [
     "2026-11-16",
     "2026-11-17",
@@ -1564,9 +1564,9 @@
         },
         {
           "book": "betters",
-          "under": "-11.5 @1.68",
+          "under": "-11.5 @1.58",
           "lineType": "player1",
-          "over": "+11.5 @1.99"
+          "over": "+11.5 @2.16"
         },
         {
           "book": "superbet",
@@ -1628,9 +1628,9 @@
         },
         {
           "book": "betters",
-          "under": "-12.5 @1.68",
+          "under": "-12.5 @1.58",
           "lineType": "player2",
-          "over": "+12.5 @1.99"
+          "over": "+12.5 @2.16"
         },
         {
           "book": "lv open.",
@@ -1939,9 +1939,9 @@
       "B": [
         {
           "book": "lvbet",
-          "under": "- 1.5 @2.15",
+          "under": "- 1.5 @2.05",
           "lineType": "meczowa",
-          "over": "+ 1.5 @1.57"
+          "over": "+ 1.5 @1.62"
         },
         {
           "book": "sts",
@@ -1954,6 +1954,12 @@
           "under": "- 2.5 @1.55",
           "lineType": "meczowa",
           "over": "+ 2.5 @2.30"
+        },
+        {
+          "book": "lvbet",
+          "under": "- 0.5 @2.65",
+          "lineType": "player1",
+          "over": "+ 0.5 @1.38"
         },
         {
           "book": "lvbet",
@@ -1998,7 +2004,7 @@
           "over": "+ 0.5 @1.60"
         }
       ],
-      "B_cnt": 10,
+      "B_cnt": 11,
       "B_book_cnt": 4
     }
   ]
