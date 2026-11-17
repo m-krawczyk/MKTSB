@@ -1,5 +1,5 @@
 {
-  "updateTime": "14:00",
+  "updateTime": "14:05",
   "freeDays": [
     "2026-11-16",
     "2026-11-17",
@@ -12,7 +12,7 @@
       "id": "6281165563216564755",
       "matchStartTime": "13:00",
       "tournament": "ATP Finals - Turin (ITA) - gr.B",
-      "weather": "🔆Pogoda Turin, czas lokalny +0h\n13:00 🌡 8°C / 7°C💧 88 %  💨  4 (max 10) km/h 🌧 15 % 1 mm 🌀 1.21 kg/m³ 978 hPa\n14:00 🌡 9°C / 8°C💧 84 %  💨  2 (max 7) km/h 🌧 10 % 0 mm 🌀 1.20 kg/m³ 977 hPa\n15:00 🌡 10°C / 8°C💧 80 %  💨  2 (max 9) km/h 🌧 15 % 0 mm 🌀 1.20 kg/m³ 976 hPa",
+      "weather": "🔆Pogoda Turin, czas lokalny +0h\n13:00 🌡 8°C / 7°C💧 90 %  💨  3 (max 13) km/h 🌧 28 % 1 mm 🌀 1.21 kg/m³ 979 hPa\n14:00 🌡 9°C / 7°C💧 87 %  💨  5 (max 11) km/h 🌧 25 % 0 mm 🌀 1.20 kg/m³ 978 hPa\n15:00 🌡 9°C / 8°C💧 83 %  💨  3 (max 13) km/h 🌧 15 % 0 mm 🌀 1.20 kg/m³ 976 hPa",
       "eventName": "Carlos Alcaraz - Daniil Medvedev",
       "p1": "Carlos Alcaraz",
       "p2": "Daniil Medvedev",
@@ -491,7 +491,7 @@
       "id": "-7572449369558766015",
       "matchStartTime": "19:30",
       "tournament": "ATP Finals - Turin (ITA) - gr.B",
-      "weather": "🔆Pogoda Turin, czas lokalny +0h\n20:00 🌡 8°C / 7°C💧 91 %  💨  4 (max 9) km/h 🌧 15 % 0 mm 🌀 1.20 kg/m³ 975 hPa\n21:00 🌡 8°C / 6°C💧 90 %  💨  5 (max 10) km/h 🌧 5 % 0 mm 🌀 1.20 kg/m³ 975 hPa\n22:00 🌡 7°C / 6°C💧 91 %  💨  5 (max 10) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 973 hPa",
+      "weather": "🔆Pogoda Turin, czas lokalny +0h\n20:00 🌡 8°C / 6°C💧 91 %  💨  5 (max 10) km/h 🌧 5 % 0 mm 🌀 1.21 kg/m³ 975 hPa\n21:00 🌡 7°C / 5°C💧 92 %  💨  5 (max 11) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 975 hPa\n22:00 🌡 7°C / 5°C💧 92 %  💨  4 (max 10) km/h 🌧 0 % 0 mm 🌀 1.21 kg/m³ 974 hPa",
       "eventName": "Flavio Cobolli - Frances Tiafoe",
       "p1": "Flavio Cobolli",
       "p2": "Frances Tiafoe",
@@ -2295,19 +2295,7 @@
           "over": "+18.5 @1.75"
         },
         {
-          "book": "fuksiarz",
-          "under": "-18.5 @2.15",
-          "lineType": "meczowa",
-          "over": "+18.5 @1.60"
-        },
-        {
           "book": "fu open.",
-          "under": "-19.5 @1.95",
-          "lineType": "meczowa",
-          "over": "+19.5 @1.75"
-        },
-        {
-          "book": "fuksiarz",
           "under": "-19.5 @1.95",
           "lineType": "meczowa",
           "over": "+19.5 @1.75"
@@ -2320,6 +2308,12 @@
         },
         {
           "book": "bf open.",
+          "under": "-19.5 @2.00",
+          "lineType": "meczowa",
+          "over": "+19.5 @1.70"
+        },
+        {
+          "book": "fuksiarz",
           "under": "-19.5 @2.00",
           "lineType": "meczowa",
           "over": "+19.5 @1.70"
@@ -2338,9 +2332,9 @@
         },
         {
           "book": "fuksiarz",
-          "under": "-20.5 @1.75",
+          "under": "-20.5 @1.80",
           "lineType": "meczowa",
-          "over": "+20.5 @1.95"
+          "over": "+20.5 @1.90"
         },
         {
           "book": "superbet",
@@ -2615,12 +2609,6 @@
           "over": "+11.5 @2.45"
         },
         {
-          "book": "fuksiarz",
-          "under": "- 8.5 @2.40",
-          "lineType": "player2",
-          "over": "+ 8.5 @1.48"
-        },
-        {
           "book": "st open.",
           "under": "- 9.5 @1.75",
           "lineType": "player2",
@@ -2628,12 +2616,6 @@
         },
         {
           "book": "fu open.",
-          "under": "- 9.5 @1.95",
-          "lineType": "player2",
-          "over": "+ 9.5 @1.75"
-        },
-        {
-          "book": "fuksiarz",
           "under": "- 9.5 @1.95",
           "lineType": "player2",
           "over": "+ 9.5 @1.75"
@@ -2663,6 +2645,12 @@
           "over": "+ 9.5 @1.65"
         },
         {
+          "book": "fuksiarz",
+          "under": "- 9.5 @2.10",
+          "lineType": "player2",
+          "over": "+ 9.5 @1.63"
+        },
+        {
           "book": "fortuna",
           "under": "- 9.5 @2.26",
           "lineType": "player2",
@@ -2670,9 +2658,9 @@
         },
         {
           "book": "fuksiarz",
-          "under": "-10.5 @1.65",
+          "under": "-10.5 @1.75",
           "lineType": "player2",
-          "over": "+10.5 @2.05"
+          "over": "+10.5 @1.95"
         },
         {
           "book": "superbet",
@@ -2840,7 +2828,7 @@
           "over": " @1.68"
         }
       ],
-      "A_cnt": 83,
+      "A_cnt": 81,
       "A_book_cnt": 21,
       "DF": [
         {
