@@ -1,5 +1,5 @@
 {
-  "updateTime": "10:55",
+  "updateTime": "11:00",
   "freeDays": [
     "2026-11-16",
     "2026-11-17",
@@ -3204,6 +3204,18 @@
           "over": "+ 1.5 @2.45"
         },
         {
+          "book": "to open.",
+          "under": "- 1.5 @1.45",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.40"
+        },
+        {
+          "book": "totalbet",
+          "under": "- 1.5 @1.45",
+          "lineType": "player2",
+          "over": "+ 1.5 @2.40"
+        },
+        {
           "book": "et open.",
           "under": "- 1.5 @1.55",
           "lineType": "player2",
@@ -3300,7 +3312,7 @@
           "over": "+ 2.5 @4.70"
         }
       ],
-      "DF_cnt": 76,
+      "DF_cnt": 78,
       "DF_book_cnt": 21,
       "B": [
         {
@@ -3340,6 +3352,12 @@
           "over": "+ 2.5 @2.21"
         },
         {
+          "book": "totalbet",
+          "under": "- 2.5 @1.55",
+          "lineType": "meczowa",
+          "over": "+ 2.5 @2.15"
+        },
+        {
           "book": "lvbet",
           "under": "- 0.5 @2.65",
           "lineType": "player1",
@@ -3370,6 +3388,12 @@
           "over": "+ 1.5 @2.04"
         },
         {
+          "book": "totalbet",
+          "under": "- 1.5 @1.65",
+          "lineType": "player1",
+          "over": "+ 1.5 @2.00"
+        },
+        {
           "book": "betclic",
           "under": "- 0.5 @1.75",
           "lineType": "player2",
@@ -3392,10 +3416,16 @@
           "under": "- 0.5 @2.20",
           "lineType": "player2",
           "over": "+ 0.5 @1.60"
+        },
+        {
+          "book": "totalbet",
+          "under": "- 0.5 @2.05",
+          "lineType": "player2",
+          "over": "+ 0.5 @1.60"
         }
       ],
-      "B_cnt": 15,
-      "B_book_cnt": 6
+      "B_cnt": 18,
+      "B_book_cnt": 7
     }
   ]
 }
