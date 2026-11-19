@@ -1,5 +1,5 @@
 {
-  "updateTime": "23:05",
+  "updateTime": "23:10",
   "freeDays": [
     "2026-11-16",
     "2026-11-17",
@@ -114,9 +114,9 @@
         },
         {
           "book": "sts",
-          "under": "-16.5 @1.95",
+          "under": "-16.5 @2.00",
           "lineType": "meczowa",
-          "over": "+16.5 @1.75"
+          "over": "+16.5 @1.70"
         },
         {
           "book": "fo open.",
@@ -225,12 +225,6 @@
           "over": "+10.5 @1.85"
         },
         {
-          "book": "sts",
-          "under": "-11.5 @1.90",
-          "lineType": "player1",
-          "over": "+11.5 @1.80"
-        },
-        {
           "book": "lv open.",
           "under": "-11.5 @1.80",
           "lineType": "player1",
@@ -244,6 +238,12 @@
         },
         {
           "book": "bc open.",
+          "lineType": "player1",
+          "over": "+12.5 @1.80"
+        },
+        {
+          "book": "sts",
+          "under": "-12.5 @1.90",
           "lineType": "player1",
           "over": "+12.5 @1.80"
         },
@@ -1050,13 +1050,13 @@
           "over": "+10.5 @2.20"
         },
         {
-          "book": "st open.",
-          "under": "-10.5 @1.85",
+          "book": "sts",
+          "under": "-10.5 @1.70",
           "lineType": "meczowa",
-          "over": "+10.5 @1.85"
+          "over": "+10.5 @2.00"
         },
         {
-          "book": "sts",
+          "book": "st open.",
           "under": "-10.5 @1.85",
           "lineType": "meczowa",
           "over": "+10.5 @1.85"
@@ -1256,6 +1256,12 @@
           "over": "+ 4.5 @2.17"
         },
         {
+          "book": "sts",
+          "under": "- 4.5 @1.75",
+          "lineType": "player2",
+          "over": "+ 4.5 @1.95"
+        },
+        {
           "book": "bc open.",
           "lineType": "player2",
           "over": "+ 4.5 @1.80"
@@ -1267,12 +1273,6 @@
         },
         {
           "book": "st open.",
-          "under": "- 4.5 @1.90",
-          "lineType": "player2",
-          "over": "+ 4.5 @1.80"
-        },
-        {
-          "book": "sts",
           "under": "- 4.5 @1.90",
           "lineType": "player2",
           "over": "+ 4.5 @1.80"
